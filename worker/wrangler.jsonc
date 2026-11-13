@@ -1,6 +1,6 @@
 {
   "$schema": "../node_modules/wrangler/config-schema.json",
-  "name": "latvian-words",
+  "name": "train-words",
   "main": "src/index.ts",
   "compatibility_date": "2026-11-01",
   "assets": {
@@ -12,7 +12,7 @@
     {
       "binding": "DB",
       "database_name": "latvian-words",
-      "database_id": "00000000-0000-0000-0000-000000000000",
+      "database_id": "1ab84fdd-800c-4e87-aadb-642a0123836b",
       "migrations_dir": "migrations",
     },
   ],
