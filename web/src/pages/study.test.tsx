@@ -353,25 +353,4 @@ describe('Session', () => {
       expect(screen.getByText('Session complete')).toBeInTheDocument(),
     );
   });
-
-  it('tells the user when a card type is not available yet', async () => {
-    mockApi({
-      ...current,
-      'GET /api/decks/lv-uk/sessions/current': () => ({
-        body: session({
-          card: card({
-            stage: 2,
-            mode: 'choice',
-            lemma: undefined,
-            options: [],
-          }),
-        }),
-      }),
-    });
-
-    renderApp('/session');
-
-    expect(await screen.findByText(/not available yet/)).toBeInTheDocument();
-    expect(screen.getByRole('button', { name: 'Exit' })).toBeInTheDocument();
-  });
 });

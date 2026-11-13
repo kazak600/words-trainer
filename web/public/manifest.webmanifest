@@ -3,8 +3,8 @@
   "short_name": "Latvian",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#9e1b32",
-  "theme_color": "#9e1b32",
+  "background_color": "#16181d",
+  "theme_color": "#16181d",
   "icons": [
     {
       "src": "/icons/icon-192.png",

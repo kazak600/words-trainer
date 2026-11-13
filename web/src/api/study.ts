@@ -32,9 +32,21 @@ export type SessionView = {
   card: Card;
 };
 
+export type DiffItem = {
+  kind: 'match' | 'diacritic' | 'wrong' | 'missing' | 'extra';
+  expected?: string;
+  typed?: string;
+};
+
+export type AnswerInput =
+  | { result: 'again' | 'good' | 'easy' }
+  | { choiceWordId: number }
+  | { typed: string };
+
 export type AnswerView = {
   correct: boolean;
   expected: string;
+  diff?: DiffItem[];
   learned: boolean;
   finished: boolean;
   next: Card | null;
@@ -53,12 +65,12 @@ export const startSession = (topicId: number) =>
     method: 'POST',
     body: { topicId },
   });
-export const answerFlipCard = (
+export const answerCard = (
   sessionId: string,
   cardIndex: number,
-  result: 'again' | 'good' | 'easy',
+  input: AnswerInput,
 ) =>
   api<AnswerView>(`/api/sessions/${sessionId}/answer`, {
     method: 'POST',
-    body: { cardIndex, result },
+    body: { cardIndex, ...input },
   });

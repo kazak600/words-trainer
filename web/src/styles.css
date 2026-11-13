@@ -285,3 +285,93 @@ button.link {
 .answers button.primary {
   margin-top: 0;
 }
+
+.prompt {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  text-align: center;
+  min-height: 140px;
+}
+
+.options {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.options button {
+  min-height: 64px;
+  font-size: 1.15rem;
+}
+
+button[data-state='right'] {
+  background: #1f7a3d;
+  border-color: #1f7a3d;
+  color: #fff;
+}
+
+button[data-state='wrong'] {
+  background: #b00020;
+  border-color: #b00020;
+  color: #fff;
+}
+
+.write {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1;
+}
+
+.hint {
+  font-size: 0.85rem;
+  margin: 0;
+}
+
+.feedback {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: flex-start;
+  padding: 14px 16px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+}
+
+.feedback.ok {
+  border-color: #1f7a3d;
+}
+
+.feedback.bad {
+  border-color: var(--error);
+}
+
+.diff-word {
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+
+.diff-word mark {
+  border-radius: 4px;
+  padding: 0 2px;
+  background: #ffd54f;
+  color: #16181d;
+}
+
+.diff-word mark[data-kind='extra'] {
+  background: #ffcdd2;
+  text-decoration: line-through;
+}
+
+.diff-word mark[data-kind='missing'] {
+  background: #bbdefb;
+}
+
+.diff-hint {
+  font-size: 0.85rem;
+}

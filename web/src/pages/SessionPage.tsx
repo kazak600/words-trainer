@@ -1,14 +1,18 @@
 import { useEffect, useState } from 'react';
 import { Navigate, useNavigate } from 'react-router-dom';
 import {
-  answerFlipCard,
+  answerCard,
   fetchCurrentSession,
   startSession,
+  type AnswerInput,
   type AnswerView,
   type Card,
   type SessionView,
 } from '../api/study';
 import { grammarLine } from '../grammar';
+import { ChoiceCard } from '../session/ChoiceCard';
+import { Feedback } from '../session/Feedback';
+import { WriteCard } from '../session/WriteCard';
 
 type Phase =
   | { kind: 'loading' }
@@ -26,6 +30,8 @@ type Phase =
       summary: NonNullable<AnswerView['summary']>;
     };
 
+type Checked = { reply: AnswerView; picked?: number; typed?: string };
+
 function toPhase(session: SessionView): Phase {
   return {
     kind: 'card',
@@ -40,6 +46,7 @@ export function SessionPage() {
   const navigate = useNavigate();
   const [phase, setPhase] = useState<Phase>({ kind: 'loading' });
   const [flipped, setFlipped] = useState(false);
+  const [checked, setChecked] = useState<Checked | null>(null);
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
@@ -59,6 +66,7 @@ export function SessionPage() {
       try {
         setPhase(toPhase(await startSession(topicId)));
         setFlipped(false);
+        setChecked(null);
       } catch {
         setError('Nothing more to study in this topic right now.');
       }
@@ -93,31 +101,52 @@ export function SessionPage() {
 
   const { card, index, total, session } = phase;
 
-  async function answer(result: 'again' | 'good' | 'easy') {
+  function advance(reply: AnswerView) {
+    setFlipped(false);
+    setChecked(null);
+    if (reply.finished && reply.summary) {
+      setPhase({
+        kind: 'done',
+        topicId: session.topicId,
+        summary: reply.summary,
+      });
+    } else if (reply.next) {
+      setPhase({
+        kind: 'card',
+        session,
+        card: reply.next,
+        index: reply.next.index,
+        total: Math.max(total, reply.next.index + 1),
+      });
+    }
+  }
+
+  async function submit(input: AnswerInput): Promise<AnswerView | null> {
     setBusy(true);
     setError(null);
     try {
-      const reply = await answerFlipCard(session.id, index, result);
-      setFlipped(false);
-      if (reply.finished && reply.summary) {
-        setPhase({
-          kind: 'done',
-          topicId: session.topicId,
-          summary: reply.summary,
-        });
-      } else if (reply.next) {
-        setPhase({
-          kind: 'card',
-          session,
-          card: reply.next,
-          index: reply.next.index,
-          total: Math.max(total, reply.next.index + 1),
-        });
-      }
+      return await answerCard(session.id, index, input);
     } catch {
       setError('Could not save the answer. Try again.');
+      return null;
+    } finally {
+      setBusy(false);
     }
-    setBusy(false);
+  }
+
+  async function rate(result: 'again' | 'good' | 'easy') {
+    const reply = await submit({ result });
+    if (reply) advance(reply);
+  }
+
+  async function choose(wordId: number) {
+    const reply = await submit({ choiceWordId: wordId });
+    if (reply) setChecked({ reply, picked: wordId });
+  }
+
+  async function write(typed: string) {
+    const reply = await submit({ typed });
+    if (reply) setChecked({ reply, typed });
   }
 
   const grammar = flipped ? grammarLine(card.pos, card.grammar) : null;
@@ -131,11 +160,7 @@ export function SessionPage() {
         <progress value={index} max={total} aria-label="Session progress" />
       </header>
 
-      {card.mode !== 'flip' ? (
-        <div className="card center">
-          <p>This card type is not available yet.</p>
-        </div>
-      ) : (
+      {card.mode === 'flip' && (
         <>
           <button
             type="button"
@@ -152,17 +177,12 @@ export function SessionPage() {
             )}
             {!flipped && <span className="muted">Tap to flip</span>}
           </button>
-          {error && (
-            <p role="alert" className="error">
-              {error}
-            </p>
-          )}
           {flipped && (
             <div className="answers">
               <button
                 type="button"
                 disabled={busy}
-                onClick={() => answer('again')}
+                onClick={() => rate('again')}
               >
                 Again
               </button>
@@ -170,20 +190,59 @@ export function SessionPage() {
                 type="button"
                 className="primary"
                 disabled={busy}
-                onClick={() => answer('good')}
+                onClick={() => rate('good')}
               >
                 Good
               </button>
               <button
                 type="button"
                 disabled={busy}
-                onClick={() => answer('easy')}
+                onClick={() => rate('easy')}
               >
                 Easy
               </button>
             </div>
           )}
         </>
+      )}
+
+      {card.mode === 'choice' && (
+        <ChoiceCard
+          card={card}
+          picked={checked?.picked ?? null}
+          rightId={
+            checked
+              ? checked.reply.correct
+                ? checked.picked!
+                : card.wordId
+              : null
+          }
+          busy={busy}
+          onPick={choose}
+        />
+      )}
+
+      {card.mode === 'write' && (
+        <WriteCard
+          key={card.index}
+          card={card}
+          locked={checked !== null}
+          busy={busy}
+          onSubmit={write}
+        />
+      )}
+
+      {error && (
+        <p role="alert" className="error">
+          {error}
+        </p>
+      )}
+      {checked && (
+        <Feedback
+          reply={checked.reply}
+          typed={checked.typed}
+          onContinue={() => advance(checked.reply)}
+        />
       )}
     </section>
   );
