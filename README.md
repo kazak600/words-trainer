@@ -29,6 +29,15 @@ Run from the repo root.
 
 Open `http://localhost:5173` during development.
 
+Auth: create a user (or reset the password) on the local or remote D1. The password is asked for on the terminal, or set `PASSWORD=...`:
+
+```
+cd worker
+npx wrangler d1 execute latvian-words --local --command "$(npm run -s create-user -- <username>)"
+```
+
+Use `--remote` for the deployed database. `/api/health`, `/api/login` and `/api/logout` are public; every other `/api/*` route needs the session cookie. After 5 failed logins for a username (or 20 from one IP) within 15 minutes, login returns 429.
+
 Dataset pipeline (Python 3, standard library only, run from the repo root):
 
 | Command | What it does |

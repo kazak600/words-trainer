@@ -7,7 +7,8 @@
     "deploy": "wrangler deploy",
     "test": "vitest run",
     "typecheck": "tsc --noEmit",
-    "db:migrate:local": "wrangler d1 migrations apply DB --local"
+    "db:migrate:local": "wrangler d1 migrations apply DB --local",
+    "create-user": "node --experimental-strip-types --no-warnings scripts/create-user.ts"
   },
   "dependencies": {
     "hono": "^4.13.18"
