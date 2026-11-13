@@ -82,11 +82,10 @@ describe('auth guard', () => {
 describe('unreachable server', () => {
   it('offers a retry instead of the login page when the network fails, then recovers', async () => {
     let up = false;
-    vi.stubGlobal('fetch', async () => {
+    vi.stubGlobal('fetch', async (input: RequestInfo | URL) => {
       if (!up) throw new TypeError('network down');
-      return new Response(JSON.stringify({ username: 'anton' }), {
-        status: 200,
-      });
+      const body = String(input) === '/api/me' ? { username: 'anton' } : [];
+      return new Response(JSON.stringify(body), { status: 200 });
     });
     renderApp('/');
     const user = userEvent.setup();

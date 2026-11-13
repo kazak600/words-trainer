@@ -3,6 +3,7 @@ import { AuthProvider, useAuth } from './auth/AuthContext';
 import { RequireAuth } from './auth/RequireAuth';
 import { Layout } from './Layout';
 import { HomePage } from './pages/HomePage';
+import { SessionPage } from './pages/SessionPage';
 import { LoginPage } from './pages/LoginPage';
 
 function Gate() {
@@ -28,6 +29,7 @@ function Gate() {
         <Route path="/login" element={<LoginPage />} />
         <Route element={<RequireAuth />}>
           <Route path="/" element={<HomePage />} />
+          <Route path="/session" element={<SessionPage />} />
         </Route>
         <Route path="*" element={<Navigate to="/" replace />} />
       </Route>

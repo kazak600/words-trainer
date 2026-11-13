@@ -1,13 +1,17 @@
 import { Hono } from 'hono';
 import { getDecks, getTopics, getTopicWords } from '../services/words';
-import type { Env } from '../types';
+import type { AuthEnv } from '../middleware/auth';
 
-export const wordRoutes = new Hono<{ Bindings: Env }>();
+export const wordRoutes = new Hono<AuthEnv>();
 
 wordRoutes.get('/decks', async (c) => c.json(await getDecks(c.env.DB)));
 
 wordRoutes.get('/decks/:deck/topics', async (c) => {
-  const topics = await getTopics(c.env.DB, c.req.param('deck'));
+  const topics = await getTopics(
+    c.env.DB,
+    c.req.param('deck'),
+    c.get('user').id,
+  );
   return topics ? c.json(topics) : c.json({ error: 'deck not found' }, 404);
 });
 

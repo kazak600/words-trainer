@@ -136,3 +136,152 @@ button:disabled {
   color: var(--error);
   margin: 8px 0 0;
 }
+
+.badge {
+  background: var(--accent);
+  color: var(--accent-text);
+  border-radius: 999px;
+  padding: 6px 12px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.continue {
+  display: block;
+  margin: 0 0 16px;
+  padding: 14px 16px;
+  border-radius: 12px;
+  border: 1px solid var(--accent);
+  color: var(--accent);
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+}
+
+.topics {
+  list-style: none;
+  margin: 0 0 16px;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+button.topic {
+  width: 100%;
+  min-height: 72px;
+  padding: 12px 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  text-align: left;
+}
+
+.topic-title {
+  font-weight: 600;
+}
+
+.chips {
+  display: flex;
+  gap: 6px;
+}
+
+.chip {
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0 8px;
+  font-size: 0.75rem;
+}
+
+button.link {
+  border: none;
+  background: none;
+  color: var(--muted);
+  text-decoration: underline;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  text-align: center;
+}
+
+.session {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  min-height: calc(100dvh - 96px);
+}
+
+.session progress {
+  flex: 1;
+  height: 12px;
+  accent-color: var(--accent);
+}
+
+.flip-card {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 24px;
+  color: var(--text);
+}
+
+.flip-card:disabled {
+  opacity: 1;
+}
+
+.lemma {
+  font-size: 2.2rem;
+  font-weight: 700;
+}
+
+.back {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  animation: flip-in 0.3s ease;
+}
+
+.translation {
+  font-size: 1.6rem;
+}
+
+@keyframes flip-in {
+  from {
+    transform: rotateX(90deg);
+    opacity: 0;
+  }
+  to {
+    transform: rotateX(0);
+    opacity: 1;
+  }
+}
+
+.answers {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  position: sticky;
+  bottom: 0;
+  padding-bottom: 8px;
+}
+
+.answers button {
+  min-height: 64px;
+  font-size: 1.1rem;
+}
+
+.answers button.primary {
+  margin-top: 0;
+}

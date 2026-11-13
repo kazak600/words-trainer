@@ -2,13 +2,19 @@ import { findDeckBySlug, listDecks } from '../repositories/decks';
 import { findTopic, listTopicLevelCounts } from '../repositories/topics';
 import { listWordRowsByTopic } from '../repositories/words';
 
-export type DeckDto = { slug: string; sourceLang: string; targetLang: string; title: string };
+export type DeckDto = {
+  slug: string;
+  sourceLang: string;
+  targetLang: string;
+  title: string;
+};
 export type TopicDto = {
   id: number;
   slug: string;
   title: string;
   titleUk: string;
   wordCounts: Record<string, number>;
+  counts: { new: number; learning: number; learned: number };
 };
 export type WordDto = {
   id: number;
@@ -31,18 +37,37 @@ export async function getDecks(db: D1Database): Promise<DeckDto[]> {
   }));
 }
 
-export async function getTopics(db: D1Database, deckSlug: string): Promise<TopicDto[] | null> {
+export async function getTopics(
+  db: D1Database,
+  deckSlug: string,
+  userId: number,
+): Promise<TopicDto[] | null> {
   const deck = await findDeckBySlug(db, deckSlug);
   if (!deck) return null;
 
   const topics = new Map<number, TopicDto>();
-  for (const row of await listTopicLevelCounts(db, deck.source_lang, deck.target_lang)) {
+  for (const row of await listTopicLevelCounts(db, {
+    userId,
+    deckId: deck.id,
+    sourceLang: deck.source_lang,
+    targetLang: deck.target_lang,
+  })) {
     let topic = topics.get(row.id);
     if (!topic) {
-      topic = { id: row.id, slug: row.slug, title: row.title, titleUk: row.title_uk, wordCounts: {} };
+      topic = {
+        id: row.id,
+        slug: row.slug,
+        title: row.title,
+        titleUk: row.title_uk,
+        wordCounts: {},
+        counts: { new: 0, learning: 0, learned: 0 },
+      };
       topics.set(row.id, topic);
     }
     topic.wordCounts[row.level] = row.word_count;
+    topic.counts.learned += row.learned_count;
+    topic.counts.learning += row.learning_count;
+    topic.counts.new += row.word_count - row.learned_count - row.learning_count;
   }
   return [...topics.values()];
 }
@@ -73,7 +98,11 @@ export async function getTopicWords(
       words.set(row.id, word);
     }
     if (row.sentence_id !== null) {
-      word.sentences.push({ textWithGap: row.text_with_gap!, answer: row.answer!, hint: row.hint! });
+      word.sentences.push({
+        textWithGap: row.text_with_gap!,
+        answer: row.answer!,
+        hint: row.hint!,
+      });
     }
   }
   return [...words.values()];
