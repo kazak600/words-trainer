@@ -19,3 +19,10 @@ export function findDeckBySlug(db: D1Database, slug: string): Promise<DeckRow | 
     .bind(slug)
     .first<DeckRow>();
 }
+
+export function findDeckById(db: D1Database, id: number): Promise<DeckRow | null> {
+  return db
+    .prepare('SELECT id, slug, source_lang, target_lang, title FROM decks WHERE id = ?')
+    .bind(id)
+    .first<DeckRow>();
+}

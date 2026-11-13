@@ -33,3 +33,29 @@ export async function listWordRowsByTopic(
     .all<WordSentenceRow>();
   return results;
 }
+
+export type WordCoreRow = {
+  id: number;
+  lang: string;
+  lemma: string;
+  pos: string;
+  grammar_json: string | null;
+  translation: string;
+};
+
+export async function listWordsByIds(
+  db: D1Database,
+  ids: number[],
+  targetLang: string,
+): Promise<WordCoreRow[]> {
+  const marks = ids.map(() => '?').join(', ');
+  const { results } = await db
+    .prepare(
+      `SELECT w.id, w.lang, w.lemma, w.pos, w.grammar_json, tr.text AS translation
+       FROM words w JOIN translations tr ON tr.word_id = w.id AND tr.target_lang = ?
+       WHERE w.id IN (${marks})`,
+    )
+    .bind(targetLang, ...ids)
+    .all<WordCoreRow>();
+  return results;
+}
