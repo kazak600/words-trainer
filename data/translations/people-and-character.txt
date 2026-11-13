@@ -1,0 +1,50 @@
+izskats | noun | зовнішність | Viņai ir jauks ___. | izskats | У неї приємна зовнішність.
+raksturs | noun | характер | Viņam ir labs ___. | raksturs | У нього добрий характер.
+acis | noun | очі | Viņai ir zilas ___. | acis | У неї сині очі.
+augums | noun | зріст; статура | Viņam ir liels ___. | augums | У нього велика статура.
+garastāvoklis | noun | настрій | Šodien man ir labs ___. | garastāvoklis | Сьогодні в мене гарний настрій.
+prieks | noun | радість | Bērni skrien ar ___. | prieku | Діти біжать з радістю.
+bēdas | noun | горе; смуток | Viņa ir pilna ___. | bēdu | Вона сповнена горя.
+bailes | noun | страх | Viņam ir ___ no suņiem. | bailes | Він боїться собак.
+dusmas | noun | гнів | Viņš ir pilns ___. | dusmu | Він сповнений гніву.
+noskaņojums | noun | настрій | Mūzika rada labu ___. | noskaņojumu | Музика створює гарний настрій.
+īpašība | noun | риса; властивість | Čaklums ir laba ___. | īpašība | Старанність — хороша риса.
+pieredze | noun | досвід | Viņam ir liela darba ___. | pieredze | У нього великий досвід роботи.
+muļķis | noun | дурень | Neesi tāds ___! | muļķis | Не будь таким дурнем!
+sapnis | noun | сон; мрія | Es redzēju dīvainu ___. | sapni | Мені наснився дивний сон.
+resns | adj | товстий | Kaķis ir ļoti ___. | resns | Кіт дуже товстий.
+tievs | adj | худий | Viņš ir garš un ___. | tievs | Він високий і худий.
+glīts | adj | гарний; охайний | Šī meitene ir ļoti ___. | glīta | Ця дівчина дуже гарна.
+smuks | adj | гарний; вродливий | Viņš ir ļoti ___ puisis. | smuks | Він дуже вродливий хлопець.
+gudrs | adj | розумний | Mana māsa ir ļoti ___. | gudra | Моя сестра дуже розумна.
+rupjš | adj | грубий | Viņš ir ļoti ___ cilvēks. | rupjš | Він дуже грубий чоловік.
+bēdīgs | adj | сумний | Šī filma ir ļoti ___. | bēdīga | Цей фільм дуже сумний.
+drosmīgs | adj | сміливий | Ugunsdzēsēji ir ___ cilvēki. | drosmīgi | Пожежники — сміливі люди.
+bailīgs | adj | боязкий | Mans suns ir ļoti ___. | bailīgs | Мій пес дуже боязкий.
+slinks | adj | лінивий | Es esmu šodien ļoti ___. | slinks | Я сьогодні дуже лінивий.
+čakls | adj | старанний | Mans dēls ir ļoti ___ skolēns. | čakls | Мій син дуже старанний учень.
+strādīgs | adj | працьовитий | Viņa ir ļoti ___ sieviete. | strādīga | Вона дуже працьовита жінка.
+godīgs | adj | чесний | Viņš vienmēr ir ___. | godīgs | Він завжди чесний.
+dusmīgs | adj | сердитий | Tētis šodien ir ļoti ___. | dusmīgs | Тато сьогодні дуже сердитий.
+priecīgs | adj | радісний | Bērni ir ļoti ___. | priecīgi | Діти дуже радісні.
+uztraucies | adj | схвильований | Viņa ir ļoti ___ par eksāmenu. | uztraukusies | Вона дуже схвильована через іспит.
+ziņkārīgs | adj | допитливий; цікавий | Bērni ir ļoti ___. | ziņkārīgi | Діти дуже допитливі.
+pacietīgs | adj | терплячий | Skolotājs ir ļoti ___. | pacietīgs | Вчитель дуже терплячий.
+nepacietīgs | adj | нетерплячий | Es esmu ļoti ___. | nepacietīgs | Я дуже нетерплячий.
+sabiedrisks | adj | товариський | Viņa ir ļoti ___ cilvēks. | sabiedrisks | Вона дуже товариська людина.
+kautrīgs | adj | сором'язливий | Mazais zēns ir ļoti ___. | kautrīgs | Маленький хлопчик дуже сором'язливий.
+līdzīgs | adj | схожий | Tu esi ļoti ___ savam tēvam. | līdzīgs | Ти дуже схожий на свого батька.
+atšķirīgs | adj | різний; відмінний | Mūsu raksturi ir ļoti ___. | atšķirīgi | Наші характери дуже різні.
+izskatīgs | adj | показний; вродливий | Viņš ir ļoti ___ vīrietis. | izskatīgs | Він дуже показний чоловік.
+blonds | adj | білявий | Viņam ir ___ mati. | blondi | У нього світле волосся.
+tumšmatains | adj | темноволосий | Mans brālis ir ___. | tumšmatains | Мій брат темноволосий.
+izskatīties | verb | виглядати | Viņš ___ ļoti noguris. | izskatās | Він виглядає дуже втомленим.
+līdzināties | verb | бути схожим | Viņa ___ savai mātei. | līdzinās | Вона схожа на свою матір.
+smaidīt | verb | усміхатися | Viņa vienmēr ___. | smaida | Вона завжди усміхається.
+raudāt | verb | плакати | Mazulis ___. | raud | Малюк плаче.
+smieties | verb | сміятися | Bērni skaļi ___. | smejas | Діти голосно сміються.
+priecāties | verb | радіти | Es ļoti ___ par jūsu ciemošanos. | priecājos | Я дуже радий вашому візиту.
+bēdāties | verb | сумувати; журитися | Nav vērts ___. | bēdāties | Не варто журитися.
+dusmoties | verb | сердитися | Tētis uz mani ___. | dusmojas | Тато сердиться на мене.
+uztraukties | verb | хвилюватися | Es ___ par eksāmenu. | uztraucos | Я хвилююся через іспит.
+nomierināties | verb | заспокоїтися | Lūdzu, ___. | nomierinieties | Будь ласка, заспокойтеся.

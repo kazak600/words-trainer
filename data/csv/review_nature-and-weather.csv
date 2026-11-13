@@ -1,0 +1,27 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+pļava,noun,A2,meadow,луг,Govs ganās ___.,pļavā,Корова пасеться на лузі.,approved
+smiltis,noun,A2,sand,пісок,Pludmalē ir ___.,smiltis,На пляжі пісок.,approved
+akmens,noun,A2,"stone, rock",камінь,Upē ir liels ___.,akmens,У річці великий камінь.,approved
+sala,noun,A2,island,острів,Viņi dzīvo uz ___.,salas,Вони живуть на острові.,approved
+ogas,noun,A2,berry,ягоди,Mežā mēs lasām ___.,ogas,У лісі ми збираємо ягоди.,approved
+sēnes,noun,A2,fungus,гриби,Rudenī mēs lasām ___.,sēnes,Восени ми збираємо гриби.,approved
+mēness,noun,A2,moon,місяць,Naktī debesīs spīd ___.,mēness,Уночі на небі світить місяць.,approved
+zvaigzne,noun,A2,star,зірка,Debesīs ir daudz ___.,zvaigžņu,На небі багато зірок.,approved
+negaiss,noun,A2,thunderstorm,гроза,Vakarā būs ___.,negaiss,Ввечері буде гроза.,approved
+zibens,noun,A2,lightning,блискавка,Es redzēju ___.,zibeni,Я бачив блискавку.,approved
+salna,noun,A2,"light frost, especially in spring or winter, with temperatures below 0°C at night",приморозок,Naktī bija ___.,salna,Уночі був приморозок.,approved
+sezona,noun,A2,season,сезон,Vasara ir tūrisma ___.,sezona,Літо — туристичний сезон.,approved
+prognoze,noun,A2,prognosis,прогноз,Laika ___ sola lietu.,prognoze,Прогноз погоди обіцяє дощ.,approved
+gaiss,noun,A2,air,повітря,Mežā ir svaigs ___.,gaiss,У лісі свіже повітря.,approved
+zeme,noun,A2,"ground, land, mainland",земля,Uz ___ guļ lapas.,zemes,На землі лежить листя.,approved
+uguns,noun,A2,fire,вогонь,Mēs iekurām ___.,uguni,Ми розпалили вогонь.,approved
+kust,verb,A2,to thaw,танути,Pavasarī sniegs ___.,kūst,Навесні сніг тане.,approved
+ziedēt,verb,A2,to bloom,цвісти,Pavasarī koki ___.,zied,Навесні дерева цвітуть.,approved
+augt,verb,A2,to grow,рости,Dārzā ___ ziedi.,aug,У саду ростуть квіти.,approved
+sēņot,verb,A2,,ходити по гриби,Rudenī mēs mīlam ___.,sēņot,Восени ми любимо ходити по гриби.,approved
+vērot,verb,A2,"to observe, to watch",спостерігати,Mēs ___ putnus.,vērojam,Ми спостерігаємо за птахами.,approved
+aizsargāt,verb,A2,,захищати,Mēs gribam ___ dabu.,aizsargāt,Ми хочемо захищати природу.,approved
+piesārņot,verb,A2,,забруднювати,Nedrīkst ___ upes.,piesārņot,Не можна забруднювати річки.,approved
+šķirot,verb,A2,,сортувати,Mēs ___ atkritumus.,šķirojam,Ми сортуємо сміття.,approved
+mitrs,adj,A2,"humid, wet",вологий,Ziemā gaiss ir ___.,mitrs,Узимку повітря вологе.,approved
+dabisks,adj,A2,natural,природний; натуральний,Šī sula ir ___.,dabiska,Цей сік натуральний.,approved

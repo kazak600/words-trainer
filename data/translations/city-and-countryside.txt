@@ -1,0 +1,55 @@
+ciems | noun | село | Mana vecmāmiņa dzīvo ___. | ciemā | Моя бабуся живе в селі.
+lauki | noun | сільська місцевість; поля | Vasarā mēs braucam uz ___. | laukiem | Влітку ми їдемо на село.
+laukums | noun | площа | Pilsētas centrā ir liels ___. | laukums | У центрі міста є велика площа.
+iela | noun | вулиця | Es dzīvoju Brīvības ___. | ielā | Я живу на вулиці Брівібас.
+ceļš | noun | дорога; шлях | Šis ___ ved uz pilsētu. | ceļš | Ця дорога веде до міста.
+tilts | noun | міст | Pār upi ir vecs ___. | tilts | Через річку є старий міст.
+parks | noun | парк | Mēs pastaigājamies ___. | parkā | Ми гуляємо в парку.
+centrs | noun | центр | Mēs dzīvojam pilsētas ___. | centrā | Ми живемо в центрі міста.
+rajons | noun | район | Šis ___ ir ļoti kluss. | rajons | Цей район дуже тихий.
+apkaime | noun | околиця; квартал | Mūsu ___ ir ļoti draudzīga. | apkaime | Наш квартал дуже дружній.
+veikals | noun | магазин | Netālu ir liels ___. | veikals | Неподалік є великий магазин.
+kafejnīca | noun | кафе | Mēs tiekamies ___. | kafejnīcā | Ми зустрічаємося в кафе.
+restorāns | noun | ресторан | Šodien mēs ēdam ___. | restorānā | Сьогодні ми їмо в ресторані.
+bibliotēka | noun | бібліотека | Es lasu grāmatas ___. | bibliotēkā | Я читаю книжки в бібліотеці.
+skola | noun | школа | Mans dēls iet uz ___. | skolu | Мій син ходить до школи.
+slimnīca | noun | лікарня | Ārsts strādā ___. | slimnīcā | Лікар працює в лікарні.
+aptieka | noun | аптека | Zāles var nopirkt ___. | aptiekā | Ліки можна купити в аптеці.
+banka | noun | банк | Es eju uz ___. | banku | Я йду до банку.
+pasts | noun | пошта | Vēstuli var nosūtīt ___. | pastā | Листа можна відправити на пошті.
+policija | noun | поліція | Zvaniet ___! | policijai | Телефонуйте в поліцію!
+baznīca | noun | церква | Svētdien mēs ejam uz ___. | baznīcu | У неділю ми йдемо до церкви.
+muzejs | noun | музей | Mēs apskatām izstādi ___. | muzejā | Ми оглядаємо виставку в музеї.
+kino | noun | кінотеатр; кіно | Šovakar mēs ejam uz ___. | kino | Сьогодні ввечері ми йдемо в кіно.
+teātris | noun | театр | Viņa strādā ___. | teātrī | Вона працює в театрі.
+stadions | noun | стадіон | Futbola spēle notiek ___. | stadionā | Футбольний матч відбувається на стадіоні.
+dārzs | noun | сад; город | Mums ir liels ___. | dārzs | У нас великий сад.
+mežs | noun | ліс | Rudenī mēs ejam uz ___. | mežu | Восени ми ходимо до лісу.
+lauks | noun | поле | Uz ___ aug kvieši. | lauka | На полі росте пшениця.
+upe | noun | річка | Daugava ir liela ___. | upe | Даугава — велика річка.
+ezers | noun | озеро | Vasarā mēs peldam ___. | ezerā | Влітку ми плаваємо в озері.
+pagalms | noun | двір | Bērni spēlējas ___. | pagalmā | Діти граються у дворі.
+zemnieks | noun | фермер; селянин | ___ strādā laukā. | Zemnieks | Фермер працює в полі.
+saimniecība | noun | господарство | Viņiem ir liela ___. | saimniecība | У них велике господарство.
+govs | noun | корова | ___ dod pienu. | Govs | Корова дає молоко.
+zirgs | noun | кінь | Šis ___ ir ļoti ātrs. | zirgs | Цей кінь дуже швидкий.
+cūka | noun | свиня | Saimniecībā ir viena ___. | cūka | У господарстві є одна свиня.
+vista | noun | курка | ___ dēj olas. | Vista | Курка несе яйця.
+traktors | noun | трактор | Zemnieks brauc ar ___. | traktoru | Фермер їде на тракторі.
+tirgus | noun | ринок | Dārzeņus es pērku ___. | tirgū | Овочі я купую на ринку.
+stūris | noun | ріг; куток | Veikals ir uz ielas ___. | stūra | Магазин на розі вулиці.
+krustojums | noun | перехрестя | Pagriezieties pa labi pie ___. | krustojuma | Поверніть праворуч на перехресті.
+luksofors | noun | світлофор | Pie ___ jāapstājas. | luksofora | Біля світлофора треба зупинитися.
+atrasties | verb | знаходитися | Muzejs ___ pilsētas centrā. | atrodas | Музей знаходиться в центрі міста.
+atpūsties | verb | відпочивати | Vasarā mēs gribam ___ laukos. | atpūsties | Влітку ми хочемо відпочивати на селі.
+pastaigāties | verb | гуляти | Vakaros mēs mīlam ___ parkā. | pastaigāties | Увечері ми любимо гуляти в парку.
+liels | adj | великий | Mūsu pilsēta nav ļoti ___. | liela | Наше місто не дуже велике.
+mazs | adj | маленький | Mēs dzīvojam ___ ciemā. | mazā | Ми живемо в маленькому селі.
+vecs | adj | старий | Šī baznīca ir ļoti ___. | veca | Ця церква дуже стара.
+jauns | adj | новий; молодий | Netālu ir ___ stadions. | jauns | Неподалік новий стадіон.
+kluss | adj | тихий | Laukos ir ļoti ___. | kluss | У селі дуже тихо.
+skaļš | adj | гучний | Šī iela ir ļoti ___. | skaļa | Ця вулиця дуже гучна.
+tīrs | adj | чистий | Šis parks ir ļoti ___. | tīrs | Цей парк дуже чистий.
+skaists | adj | гарний | Mūsu pilsēta ir ļoti ___. | skaista | Наше місто дуже гарне.
+tuvs | adj | близький | Mana skola ir ļoti ___. | tuva | Моя школа дуже близько.
+tāls | adj | далекий | Viņš dzīvo ___ ciemā. | tālā | Він живе в далекому селі.

@@ -1,0 +1,45 @@
+skolotājs | noun | вчитель | Mans ___ ir ļoti gudrs. | skolotājs | Мій вчитель дуже розумний.
+universitāte | noun | університет | Mana māsa mācās ___. | universitātē | Моя сестра вчиться в університеті.
+klase | noun | клас | Mūsu ___ ir liela. | klase | Наш клас великий.
+stunda | noun | урок; година | Latviešu valodas ___ sākas deviņos. | stunda | Урок латиської мови починається о дев'ятій.
+nodarbība | noun | заняття | Rīt man ir latviešu valodas ___. | nodarbība | Завтра в мене заняття з латиської мови.
+lekcija | noun | лекція | Šodien ir interesanta ___. | lekcija | Сьогодні цікава лекція.
+burtnīca | noun | зошит | Es rakstu ___. | burtnīcā | Я пишу в зошиті.
+pildspalva | noun | ручка | Vai jums ir ___? | pildspalva | Чи є у вас ручка?
+zīmulis | noun | олівець | Bērns zīmē ar ___. | zīmuli | Дитина малює олівцем.
+papīrs | noun | папір | Man vajag lapu ___. | papīra | Мені потрібен аркуш паперу.
+tāfele | noun | дошка | Skolotājs raksta uz ___. | tāfeles | Вчитель пише на дошці.
+mājasdarbs | noun | домашнє завдання | Es daru ___. | mājasdarbu | Я роблю домашнє завдання.
+eksāmens | noun | іспит | Rīt man ir ___. | eksāmens | Завтра в мене іспит.
+atzīme | noun | оцінка | Es dabūju labu ___. | atzīmi | Я отримав гарну оцінку.
+jautājums | noun | питання | Man ir ___. | jautājums | У мене є питання.
+atbilde | noun | відповідь | Tā ir pareiza ___. | atbilde | Це правильна відповідь.
+uzdevums | noun | завдання | Šis ___ ir grūts. | uzdevums | Це завдання складне.
+teikums | noun | речення | Uzrakstiet vienu ___. | teikumu | Напишіть одне речення.
+vārdnīca | noun | словник | Es meklēju vārdu ___. | vārdnīcā | Я шукаю слово в словнику.
+kurss | noun | курс | Es apmeklēju latviešu valodas ___. | kursu | Я відвідую курс латиської мови.
+darbinieks | noun | працівник | Šis ___ strādā bankā. | darbinieks | Цей працівник працює в банку.
+birojs | noun | офіс | Mans ___ ir centrā. | birojs | Мій офіс у центрі.
+uzņēmums | noun | підприємство; компанія | Viņš strādā lielā ___. | uzņēmumā | Він працює у великій компанії.
+kolēģis | noun | колега | Mans ___ ir ļoti laipns. | kolēģis | Мій колега дуже привітний.
+priekšnieks | noun | начальник | Mans ___ ir stingrs. | priekšnieks | Мій начальник суворий.
+alga | noun | зарплата | Mana ___ ir maza. | alga | Моя зарплата маленька.
+pārtraukums | noun | перерва | Tagad ir ___. | pārtraukums | Зараз перерва.
+sapulce | noun | збори; нарада | Šodien mums ir ___. | sapulce | Сьогодні в нас нарада.
+mācīt | verb | вчити (когось) | Viņa ___ bērnus. | māca | Вона навчає дітей.
+atbildēt | verb | відповідати | Lūdzu, ___ uz jautājumu. | atbildiet | Будь ласка, дайте відповідь на питання.
+skaidrot | verb | пояснювати | Skolotājs ___ jauno tēmu. | skaidro | Вчитель пояснює нову тему.
+skaitīt | verb | рахувати | Bērns māk ___ līdz desmit. | skaitīt | Дитина вміє рахувати до десяти.
+labot | verb | виправляти | Skolotājs ___ kļūdas. | labo | Вчитель виправляє помилки.
+kavēt | verb | пропускати; запізнюватися | Viņš bieži ___ stundas. | kavē | Він часто пропускає уроки.
+apmeklēt | verb | відвідувати | Es katru dienu ___ universitāti. | apmeklēju | Я щодня відвідую університет.
+pelnīt | verb | заробляти | Viņš ___ labi. | pelna | Він добре заробляє.
+vadīt | verb | керувати | Viņa ___ lielu uzņēmumu. | vada | Вона керує великою компанією.
+grūts | adj | складний | Latviešu valoda man ir ___. | grūta | Латиська мова для мене складна.
+viegls | adj | легкий | Šis eksāmens bija ___. | viegls | Цей іспит був легким.
+svarīgs | adj | важливий | Tas ir ļoti ___ jautājums. | svarīgs | Це дуже важливе питання.
+noderīgs | adj | корисний | Vārdnīca ir ļoti ___. | noderīga | Словник дуже корисний.
+pareizs | adj | правильний | Jūsu atbilde ir ___. | pareiza | Ваша відповідь правильна.
+nepareizs | adj | неправильний | Šis vārds ir ___. | nepareizs | Це слово неправильне.
+nopietns | adj | серйозний | Tā ir ___ problēma. | nopietna | Це серйозна проблема.
+aizņemts | adj | зайнятий | Es esmu šodien ļoti ___. | aizņemts | Я сьогодні дуже зайнятий.

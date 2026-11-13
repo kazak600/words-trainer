@@ -1,0 +1,62 @@
+transports | noun | транспорт | Sabiedriskais ___ ir lēts. | transports | Громадський транспорт дешевий.
+autobuss | noun | автобус | Es braucu uz darbu ar ___. | autobusu | Я їжджу на роботу автобусом.
+trolejbuss | noun | тролейбус | Šis ___ iet uz centru. | trolejbuss | Цей тролейбус їде до центру.
+tramvajs | noun | трамвай | Mēs gaidām ___. | tramvaju | Ми чекаємо трамвай.
+vilciens | noun | поїзд | ___ atiet pulksten desmitos. | Vilciens | Поїзд відправляється о десятій.
+lidmašīna | noun | літак | ___ nolaižas lidostā. | Lidmašīna | Літак приземляється в аеропорту.
+taksometrs | noun | таксі | Es izsaucu ___. | taksometru | Я викликав таксі.
+taksis | noun | таксі | Mēs braucam ar ___. | taksi | Ми їдемо на таксі.
+automašīna | noun | автомобіль | Mums ir jauna ___. | automašīna | У нас новий автомобіль.
+auto | noun | авто; машина | Mans ___ ir sarkans. | auto | Моя машина червона.
+velosipēds | noun | велосипед | Es braucu ar ___. | velosipēdu | Я їжджу на велосипеді.
+motocikls | noun | мотоцикл | Viņam ir liels ___. | motocikls | У нього великий мотоцикл.
+kuģis | noun | корабель | ___ iebrauc ostā. | Kuģis | Корабель заходить до порту.
+laiva | noun | човен | Mēs peldam ar ___. | laivu | Ми пливемо на човні.
+metro | noun | метро | Rīgā nav ___. | metro | У Ризі немає метро.
+pietura | noun | зупинка | Nākamā ___ ir centrs. | pietura | Наступна зупинка — центр.
+stacija | noun | станція; вокзал | Kur ir dzelzceļa ___? | stacija | Де залізнична станція?
+lidosta | noun | аеропорт | Mēs braucam uz ___. | lidostu | Ми їдемо до аеропорту.
+osta | noun | порт | Kuģi stāv ___. | ostā | Кораблі стоять у порту.
+biļete | noun | квиток | Es gribu nopirkt ___. | biļeti | Я хочу купити квиток.
+maršruts | noun | маршрут | Kāds ir jūsu ___? | maršruts | Який ваш маршрут?
+stāvvieta | noun | стоянка; парковка | Auto stāv ___. | stāvvietā | Автомобіль стоїть на стоянці.
+degviela | noun | паливо | ___ kļūst dārgāka. | Degviela | Паливо дорожчає.
+šoferis | noun | водій | ___ brauc ļoti uzmanīgi. | Šoferis | Водій їде дуже обережно.
+pasažieris | noun | пасажир | Autobusā ir daudz ___. | pasažieru | В автобусі багато пасажирів.
+vadītājs | noun | водій; керівник | Autobusa ___ ir laipns. | vadītājs | Водій автобуса привітний.
+kontrolieris | noun | контролер | ___ pārbauda biļetes. | Kontrolieris | Контролер перевіряє квитки.
+grafiks | noun | розклад; графік | Autobusu ___ ir pieturā. | grafiks | Розклад автобусів на зупинці.
+reiss | noun | рейс | Šis ___ iet katru dienu. | reiss | Цей рейс курсує щодня.
+perons | noun | перон | Vilciens stāv pie otrā ___. | perona | Поїзд стоїть біля другого перону.
+vagons | noun | вагон | Mans ___ ir trešais. | vagons | Мій вагон третій.
+virziens | noun | напрямок | Kurā ___ jāiet? | virzienā | У якому напрямку треба йти?
+pa kreisi | phrase | ліворуч | Pie luksofora pagriezieties ___. | pa kreisi | На світлофорі поверніть ліворуч.
+pa labi | phrase | праворуч | Aptieka ir ___. | pa labi | Аптека праворуч.
+braukt | verb | їхати | Mēs ___ uz Rīgu. | braucam | Ми їдемо до Риги.
+staigāt | verb | ходити | Bērns jau māk ___. | staigāt | Дитина вже вміє ходити.
+skriet | verb | бігти | Es katru rītu ___ parkā. | skrienu | Я щоранку бігаю в парку.
+lidot | verb | літати | Putni ___ augstu. | lido | Птахи літають високо.
+pārsēsties | verb | пересісти | Es gribu ___ uz citu autobusu. | pārsēsties | Я хочу пересісти на інший автобус.
+nokļūt | verb | дістатися | Kā ___ līdz stacijai? | nokļūt | Як дістатися до станції?
+aizbraukt | verb | поїхати | Es gribu ___ uz Liepāju. | aizbraukt | Я хочу поїхати до Лієпаї.
+atbraukt | verb | приїхати | Vilciens ___ pulksten septiņos. | atbrauc | Поїзд приїжджає о сьомій.
+iekāpt | verb | сісти (у транспорт) | Lūdzu, ___ autobusā. | iekāpiet | Будь ласка, сідайте в автобус.
+izkāpt | verb | вийти (з транспорту) | Es ___ nākamajā pieturā. | izkāpju | Я виходжу на наступній зупинці.
+nokavēt | verb | запізнитися | Es negribu ___ vilcienu. | nokavēt | Я не хочу запізнитися на поїзд.
+gaidīt | verb | чекати | Mēs ___ autobusu. | gaidām | Ми чекаємо автобус.
+pagriezties | verb | повернути | Pie krustojuma ___ pa labi. | pagriezieties | На перехресті поверніть праворуч.
+apstāties | verb | зупинитися | Autobuss ___ pieturā. | apstājas | Автобус зупиняється на зупинці.
+stāvēt | verb | стояти | Mašīna ___ pie mājas. | stāv | Машина стоїть біля будинку.
+jautāt | verb | питати | Es gribu ___, kur ir stacija. | jautāt | Я хочу запитати, де станція.
+parādīt | verb | показати | Lūdzu, ___ man ceļu. | parādiet | Будь ласка, покажіть мені дорогу.
+atrast | verb | знайти | Es nevaru ___ pieturu. | atrast | Я не можу знайти зупинку.
+tālu | adv | далеко | Skola nav ___. | tālu | Школа недалеко.
+tuvu | adv | близько | Pietura ir ļoti ___. | tuvu | Зупинка дуже близько.
+taisni | adv | прямо | Ejiet ___. | taisni | Ідіть прямо.
+tālāk | adv | далі | Ejiet ___ pa ielu. | tālāk | Ідіть далі вулицею.
+atpakaļ | adv | назад | Es gribu braukt ___. | atpakaļ | Я хочу їхати назад.
+nākamais | adj | наступний | ___ autobuss iet pēc desmit minūtēm. | Nākamais | Наступний автобус їде за десять хвилин.
+pēdējais | adj | останній | Tas bija ___ vilciens. | pēdējais | Це був останній поїзд.
+pirmais | adj | перший | Tas ir mans ___ brauciens. | pirmais | Це моя перша поїздка.
+kreisais | adj | лівий | Tā ir ___ puse. | kreisā | Це ліва сторона.
+labais | adj | правий | Mana ___ roka ir slima. | labā | Моя права рука хвора.

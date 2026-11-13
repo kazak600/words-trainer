@@ -1,0 +1,134 @@
+tas | pron | те; це; воно | ___ ir mans suns. | Tas | Це мій пес.
+kas | pron | хто; що | ___ tas ir? | Kas | Хто це?
+kurš | pron | який; котрий | ___ autobuss iet uz centru? | Kurš | Який автобус їде до центру?
+kāds | pron | який; якийсь | ___ ir tavs mīļākais ēdiens? | Kāds | Яка твоя улюблена страва?
+mans | pron | мій | Tas ir ___ brālis. | mans | Це мій брат.
+tavs | pron | твій | Vai tas ir ___ telefons? | tavs | Це твій телефон?
+mūsu | pron | наш | Tā ir ___ māja. | mūsu | Це наш будинок.
+jūsu | pron | ваш | Kur ir ___ pase? | jūsu | Де ваш паспорт?
+savs | pron | свій | Katrs cilvēks mīl ___ valsti. | savu | Кожна людина любить свою країну.
+šis | pron | цей | ___ galds ir liels. | Šis | Цей стіл великий.
+tāds | pron | такий | Es gribu ___ pašu kleitu. | tādu | Я хочу таку саму сукню.
+viss | pron | все | Es zinu ___. | visu | Я знаю все.
+katrs | pron | кожний | ___ cilvēks ir svarīgs. | Katrs | Кожна людина важлива.
+nekas | pron | ніщо; нічого | ___ nav noticis. | Nekas | Нічого не сталося.
+neviens | pron | ніхто | ___ nezina. | Neviens | Ніхто не знає.
+cits | pron | інший | Man vajag ___ krāsu. | citu | Мені потрібен інший колір.
+pats | pron | сам | Viņš visu dara ___. | pats | Він усе робить сам.
+kaut kas | pron | щось | Man ir ___ jums. | kaut kas | У мене є щось для вас.
+kaut kur | pron | десь | Es esmu viņu ___ redzējis. | kaut kur | Я десь його бачив.
+ar | prep | з; за допомогою | Es dzeru tēju ___ citronu. | ar | Я п'ю чай з лимоном.
+par | prep | про; за | Mēs runājam ___ laiku. | par | Ми говоримо про погоду.
+uz | prep | на; до | Es eju ___ veikalu. | uz | Я йду до магазину.
+no | prep | з; від | Es esmu ___ Latvijas. | no | Я з Латвії.
+pie | prep | біля; у (когось) | Es esmu ___ draugiem. | pie | Я в друзів.
+pēc | prep | після | ___ darba es eju mājās. | Pēc | Після роботи я йду додому.
+līdz | prep | до | Es strādāju ___ pieciem. | līdz | Я працюю до п'ятої.
+bez | prep | без | Es dzeru kafiju ___ cukura. | bez | Я п'ю каву без цукру.
+pret | prep | проти | Viņš ir ___ šo ideju. | pret | Він проти цієї ідеї.
+starp | prep | між | Veikals ir ___ bankas un aptiekas. | starp | Магазин між банком і аптекою.
+zem | prep | під | Kaķis ir ___ galda. | zem | Кіт під столом.
+virs | prep | над | ___ galda karājas lampa. | Virs | Над столом висить лампа.
+aiz | prep | за (позаду) | Skola ir ___ stacijas. | aiz | Школа за станцією.
+pirms | prep | перед; до | ___ ēšanas mazgājiet rokas. | Pirms | Перед їжею мийте руки.
+kopš | prep | з (певного часу) | Es dzīvoju Rīgā ___ 2020. gada. | kopš | Я живу в Ризі з 2020 року.
+blakus | prep | поруч | Mans draugs dzīvo ___. | blakus | Мій друг живе поруч.
+pa | prep | по | Mēs ejam ___ ielu. | pa | Ми йдемо по вулиці.
+un | conj | і; та | Es ēdu maizi ___ sieru. | un | Я їм хліб і сир.
+bet | conj | але | Es gribu, ___ man nav laika. | bet | Я хочу, але в мене немає часу.
+vai | conj | чи; або | Tēja ___ kafija? | vai | Чай чи кава?
+ka | conj | що (сполучник) | Es zinu, ___ tu esi šeit. | ka | Я знаю, що ти тут.
+ja | conj | якщо | ___ līs lietus, mēs paliksim mājās. | Ja | Якщо піде дощ, ми залишимося вдома.
+lai | conj | щоб | Es mācos, ___ nokārtotu eksāmenu. | lai | Я вчуся, щоб скласти іспит.
+jo | conj | тому що | Es palieku mājās, ___ man ir slikti. | jo | Я залишаюся вдома, бо мені погано.
+kad | conj | коли | ___ tu atnāksi? | Kad | Коли ти прийдеш?
+kā | conj | як | ___ jums klājas? | Kā | Як у вас справи?
+tā | adv | так | Dariet ___. | tā | Робіть так.
+tad | adv | тоді; потім | Vispirms mēs ēdam, ___ ejam pastaigāties. | tad | Спочатку ми їмо, потім ідемо гуляти.
+vēl | adv | ще | Vai jums ir ___ jautājumi? | vēl | Чи є у вас ще питання?
+jau | adv | вже | Es ___ esmu paēdis. | jau | Я вже поїв.
+tik | adv | так; такий | Tas nav ___ grūti. | tik | Це не так складно.
+tur | adv | там | Mans draugs ir ___. | tur | Мій друг там.
+te | adv | тут | Es esmu ___. | te | Я тут.
+šeit | adv | тут | Stacija ir ___. | šeit | Станція тут.
+ļoti | adv | дуже | Es esmu ___ priecīgs. | ļoti | Я дуже радий.
+tikai | adv | тільки | Man ir ___ viens brālis. | tikai | У мене лише один брат.
+atkal | adv | знову | Viņš ___ kavē. | atkal | Він знову запізнюється.
+iekšā | adv | всередині | Mēs ejam ___. | iekšā | Ми заходимо всередину.
+ārā | adv | надворі | Bērni spēlējas ___. | ārā | Діти граються надворі.
+augšā | adv | нагорі | Mans dzīvoklis ir ___. | augšā | Моя квартира нагорі.
+lejā | adv | внизу | Kafejnīca ir ___. | lejā | Кафе внизу.
+kur | adv | де | ___ jūs dzīvojat? | Kur | Де ви живете?
+kāpēc | adv | чому | ___ tu nenāc? | Kāpēc | Чому ти не приходиш?
+cik | adv | скільки | ___ jums gadu? | Cik | Скільки вам років?
+labi | adv | добре | Es jūtos ___. | labi | Я почуваюся добре.
+slikti | adv | погано | Man ir ___. | slikti | Мені погано.
+ātri | adv | швидко | Viņš skrien ļoti ___. | ātri | Він бігає дуже швидко.
+lēni | adv | повільно | Lūdzu, runājiet ___. | lēni | Будь ласка, говоріть повільно.
+ne | part | не; ні | Tā ir ___ kafija, bet tēja. | ne | Це не кава, а чай.
+nu | part | ну | ___, tad iesim! | Nu | Ну, тоді ходімо!
+arī | part | також | Es ___ gribu kafiju. | arī | Я теж хочу каву.
+vai | part | чи (питальна частка) | ___ jūs runājat latviski? | Vai | Чи розмовляєте ви латиською?
+kāda | pron | яка; якась | ___ jauka diena! | Kāda | Який чудовий день!
+neko | pron | нічого | Es ___ nesaprotu. | neko | Я нічого не розумію.
+nevienu | pron | нікого | Es šeit ___ nepazīstu. | nevienu | Я тут нікого не знаю.
+dažs | pron | деякий | ___ cilvēki nemīl kafiju. | Daži | Деякі люди не люблять каву.
+abi | pron | обидва | Mēs ___ esam studenti. | abi | Ми обидва студенти.
+pati | pron | сама | Viņa visu dara ___. | pati | Вона все робить сама.
+sevis | pron | себе | Viņš domā tikai par ___. | sevi | Він думає лише про себе.
+tāpat | pron | так само; все одно | Es ___ došos uz Rīgu. | tāpat | Я все одно поїду до Риги.
+dēļ | prep | через | Es kavēju lietus ___. | dēļ | Я запізнився через дощ.
+caur | prep | крізь | Mēs ejam ___ parku. | caur | Ми йдемо через парк.
+apkārt | prep | навколо | ___ mājai ir dārzs. | Apkārt | Навколо будинку є сад.
+priekš | prep | для | Šī dāvana ir ___ tevis. | priekš | Цей подарунок для тебе.
+ārpus | prep | поза; за межами | Mēs dzīvojam ___ pilsētas. | ārpus | Ми живемо за містом.
+garām | prep | повз | Autobuss brauc ___ mūsu mājai. | garām | Автобус проїжджає повз наш будинок.
+pāri | prep | через; над | Tilts ir ___ upei. | pāri | Міст через річку.
+cauri | prep | крізь | Gaisma spīd ___ logam. | cauri | Світло світить крізь вікно.
+tomēr | conj | проте | Ir auksts, ___ mēs ejam pastaigāties. | tomēr | Холодно, проте ми йдемо гуляти.
+tātad | conj | отже | Tu esi slims, ___ paliec mājās. | tātad | Ти хворий, отже залишайся вдома.
+tāpēc | conj | тому | Es esmu noguris, ___ eju gulēt. | tāpēc | Я втомлений, тому йду спати.
+kamēr | conj | поки | ___ es gatavoju, tu vari skatīties televizoru. | Kamēr | Поки я готую, ти можеш дивитися телевізор.
+nevis | conj | а не | Es dzeru tēju, ___ kafiju. | nevis | Я п'ю чай, а не каву.
+taču | conj | але | Viņš ir mazs, ___ ļoti gudrs. | taču | Він маленький, але дуже розумний.
+gan | conj | і... і | Man garšo ___ tēja, gan kafija. | gan | Мені смакує і чай, і кава.
+nekā | conj | ніж | Šodien ir siltāks ___ vakar. | nekā | Сьогодні тепліше, ніж учора.
+prom | adv | геть; далеко | Viņš aizbrauca ___. | prom | Він поїхав геть.
+ilgi | adv | довго | Es ___ gaidīju autobusu. | ilgi | Я довго чекав автобус.
+vienkārši | adv | просто | Tas ir ___. | vienkārši | Це просто.
+joprojām | adv | досі | Viņš ___ strādā. | joprojām | Він досі працює.
+tikko | adv | щойно | Es ___ atnācu. | tikko | Я щойно прийшов.
+līdzi | adv | з собою | Neaizmirstiet paņemt ___ pasi. | līdzi | Не забудьте взяти з собою паспорт.
+žēl | adv | шкода | Man ir ___, ka tu aizbrauc. | žēl | Мені шкода, що ти їдеш.
+diezgan | adv | досить | Šodien ir ___ auksts. | diezgan | Сьогодні досить холодно.
+pārāk | adv | занадто | Šī kafija ir ___ karsta. | pārāk | Ця кава занадто гаряча.
+nedaudz | adv | трохи | Es runāju latviski ___. | nedaudz | Я трохи розмовляю латиською.
+vēlreiz | adv | ще раз | Lūdzu, pasakiet ___. | vēlreiz | Будь ласка, скажіть ще раз.
+vienalga | adv | все одно | Man ir ___. | vienalga | Мені все одно.
+vispār | adv | взагалі | Es ___ neēdu gaļu. | vispār | Я взагалі не їм м'яса.
+nemaz | adv | зовсім не | Es to ___ nezināju. | nemaz | Я цього зовсім не знав.
+pavisam | adv | зовсім | Tas ir ___ cits jautājums. | pavisam | Це зовсім інше питання.
+pilnīgi | adv | повністю | Es ___ piekrītu. | pilnīgi | Я повністю згоден.
+kādreiz | adv | колись | ___ es dzīvoju laukos. | Kādreiz | Колись я жив на селі.
+šobrīd | adv | зараз | ___ es esmu aizņemts. | Šobrīd | Зараз я зайнятий.
+klāt | adv | поруч; на місці | Viņš jau ir ___. | klāt | Він уже тут.
+nost | adv | геть | Ejiet ___ no loga! | nost | Відійдіть від вікна!
+vismaz | adv | принаймні | Ēdiet ___ nedaudz. | vismaz | Їжте принаймні трохи.
+gandrīz | adv | майже | Es ___ nokavēju vilcienu. | gandrīz | Я майже запізнився на поїзд.
+vairs | adv | вже (не) | Es ___ nevaru. | vairs | Я вже не можу.
+tieši | adv | саме | Tas ir ___ tas, ko vajag. | tieši | Це саме те, що потрібно.
+kādēļ | adv | чому | ___ jūs nenācāt? | Kādēļ | Чому ви не прийшли?
+pēkšņi | adv | раптом | ___ sāka līt. | Pēkšņi | Раптом почався дощ.
+galvenokārt | adv | переважно | Es ēdu ___ dārzeņus. | galvenokārt | Я їм переважно овочі.
+īpaši | adv | особливо | Man ___ patīk šokolāde. | īpaši | Мені особливо подобається шоколад.
+diemžēl | adv | на жаль | ___ es nevaru atnākt. | Diemžēl | На жаль, я не можу прийти.
+varbūt | part | можливо | ___ rīt līs lietus. | Varbūt | Можливо, завтра піде дощ.
+protams | part | звичайно | ___, es palīdzēšu. | Protams | Звичайно, я допоможу.
+tiešām | part | справді | Vai tas ___ ir tiesa? | tiešām | Чи це справді правда?
+tieši | part | саме | ___ šodien man ir dzimšanas diena. | Tieši | Саме сьогодні в мене день народження.
+vien | part | лише | Es ___ gribēju pajautāt. | vien | Я лише хотів запитати.
+laikam | part | певно | Viņš ___ ir slims. | laikam | Він, певно, хворий.
+pat | part | навіть | ___ bērns to var. | Pat | Навіть дитина це може.
+taču | part | адже | Tu ___ zini! | taču | Ти ж знаєш!
+tomēr | part | все ж | Es ___ gribu iet. | tomēr | Я все ж хочу піти.
+patiešām | part | справді | Tā ___ ir laba ideja. | patiešām | Це справді гарна ідея.

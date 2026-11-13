@@ -1,0 +1,62 @@
+laikapstākļi | noun | погода | Kādi šodien ir ___? | laikapstākļi | Яка сьогодні погода?
+saule | noun | сонце | ___ spīd spoži. | Saule | Сонце світить яскраво.
+lietus | noun | дощ | Ārā līst ___. | lietus | Надворі йде дощ.
+sniegs | noun | сніг | Ziemā ir daudz ___. | sniega | Взимку багато снігу.
+vējš | noun | вітер | Šodien ir stiprs ___. | vējš | Сьогодні сильний вітер.
+mākonis | noun | хмара | Debesīs ir viens ___. | mākonis | На небі одна хмара.
+debesis | noun | небо | ___ ir zilas. | Debesis | Небо блакитне.
+grāds | noun | градус | Ārā ir divdesmit ___. | grādi | Надворі двадцять градусів.
+rudens | noun | осінь | ___ lapas kļūst dzeltenas. | Rudenī | Восени листя стає жовтим.
+ziema | noun | зима | ___ ir auksts. | Ziemā | Взимку холодно.
+pavasaris | noun | весна | ___ kokiem plaukst lapas. | Pavasarī | Навесні на деревах з'являється листя.
+vasara | noun | літо | ___ ir silts. | Vasarā | Влітку тепло.
+gadalaiks | noun | пора року | Rudens ir mans mīļākais ___. | gadalaiks | Осінь — моя улюблена пора року.
+migla | noun | туман | Rītā ir bieza ___. | migla | Вранці густий туман.
+pērkons | noun | грім | Es dzirdu ___. | pērkonu | Я чую грім.
+ledus | noun | лід | Ezerā ir ___. | ledus | На озері лід.
+daba | noun | природа | Es mīlu ___. | dabu | Я люблю природу.
+koks | noun | дерево | Pagalmā aug liels ___. | koks | У дворі росте велике дерево.
+zieds | noun | квітка | Šis ___ ir ļoti skaists. | zieds | Ця квітка дуже гарна.
+kalns | noun | гора | Mēs uzkāpām augstā ___. | kalnā | Ми піднялися на високу гору.
+zāle | noun | трава | Bērni sēž ___. | zālē | Діти сидять на траві.
+putns | noun | птах | ___ dzied kokā. | Putns | Птах співає на дереві.
+karsts | adj | гарячий; спекотний | Vasarā ir ļoti ___. | karsts | Влітку дуже спекотно.
+vēss | adj | прохолодний | Rudenī ir ___. | vēss | Восени прохолодно.
+saulains | adj | сонячний | Šodien ir ___ diena. | saulaina | Сьогодні сонячний день.
+mākoņains | adj | хмарний | Šodien ir ___ laiks. | mākoņains | Сьогодні хмарна погода.
+lietains | adj | дощовий | Rudens ir ___. | lietains | Осінь дощова.
+vējains | adj | вітряний | Šodien ir ļoti ___. | vējains | Сьогодні дуже вітряно.
+slapjš | adj | мокрий | Mana jaka ir ___. | slapja | Моя куртка мокра.
+sauss | adj | сухий | Šodien gaiss ir ļoti ___. | sauss | Сьогодні повітря дуже сухе.
+slikts | adj | поганий | Šodien ir ___ laiks. | slikts | Сьогодні погана погода.
+līt | verb | іти (про дощ) | Ārā sāka ___. | līt | Надворі почався дощ.
+snigt | verb | іти (про сніг) | Ziemā bieži ___. | snieg | Взимку часто йде сніг.
+pūst | verb | дути | Šodien stipri ___ vējš. | pūš | Сьогодні сильно дує вітер.
+spīdēt | verb | світити | Mēness ___ naktī. | spīd | Місяць світить уночі.
+sasalt | verb | замерзнути | Ezers ___ decembrī. | sasalst | Озеро замерзає в грудні.
+pļava | noun | луг | Govs ganās ___. | pļavā | Корова пасеться на лузі.
+smiltis | noun | пісок | Pludmalē ir ___. | smiltis | На пляжі пісок.
+akmens | noun | камінь | Upē ir liels ___. | akmens | У річці великий камінь.
+sala | noun | острів | Viņi dzīvo uz ___. | salas | Вони живуть на острові.
+ogas | noun | ягоди | Mežā mēs lasām ___. | ogas | У лісі ми збираємо ягоди.
+sēnes | noun | гриби | Rudenī mēs lasām ___. | sēnes | Восени ми збираємо гриби.
+mēness | noun | місяць | Naktī debesīs spīd ___. | mēness | Уночі на небі світить місяць.
+zvaigzne | noun | зірка | Debesīs ir daudz ___. | zvaigžņu | На небі багато зірок.
+negaiss | noun | гроза | Vakarā būs ___. | negaiss | Ввечері буде гроза.
+zibens | noun | блискавка | Es redzēju ___. | zibeni | Я бачив блискавку.
+salna | noun | приморозок | Naktī bija ___. | salna | Уночі був приморозок.
+sezona | noun | сезон | Vasara ir tūrisma ___. | sezona | Літо — туристичний сезон.
+prognoze | noun | прогноз | Laika ___ sola lietu. | prognoze | Прогноз погоди обіцяє дощ.
+gaiss | noun | повітря | Mežā ir svaigs ___. | gaiss | У лісі свіже повітря.
+zeme | noun | земля | Uz ___ guļ lapas. | zemes | На землі лежить листя.
+uguns | noun | вогонь | Mēs iekurām ___. | uguni | Ми розпалили вогонь.
+kust | verb | танути | Pavasarī sniegs ___. | kūst | Навесні сніг тане.
+ziedēt | verb | цвісти | Pavasarī koki ___. | zied | Навесні дерева цвітуть.
+augt | verb | рости | Dārzā ___ ziedi. | aug | У саду ростуть квіти.
+sēņot | verb | ходити по гриби | Rudenī mēs mīlam ___. | sēņot | Восени ми любимо ходити по гриби.
+vērot | verb | спостерігати | Mēs ___ putnus. | vērojam | Ми спостерігаємо за птахами.
+aizsargāt | verb | захищати | Mēs gribam ___ dabu. | aizsargāt | Ми хочемо захищати природу.
+piesārņot | verb | забруднювати | Nedrīkst ___ upes. | piesārņot | Не можна забруднювати річки.
+šķirot | verb | сортувати | Mēs ___ atkritumus. | šķirojam | Ми сортуємо сміття.
+mitrs | adj | вологий | Ziemā gaiss ir ___. | mitrs | Узимку повітря вологе.
+dabisks | adj | природний; натуральний | Šī sula ir ___. | dabiska | Цей сік натуральний.

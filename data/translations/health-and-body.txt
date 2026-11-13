@@ -1,0 +1,66 @@
+ķermenis | noun | тіло | Mans ___ ir noguris. | ķermenis | Моє тіло втомлене.
+galva | noun | голова | Man sāp ___, es gribu gulēt. | galva | У мене болить голова, я хочу спати.
+mati | noun | волосся | Viņai ir gari ___. | mati | У неї довге волосся.
+seja | noun | обличчя | Es mazgāju ___. | seju | Я вмиваю обличчя.
+acs | noun | око | Man kaut kas iekrita ___. | acī | Мені щось потрапило в око.
+deguns | noun | ніс | Man ir aizlikts ___. | deguns | У мене закладений ніс.
+mute | noun | рот | Atveriet ___, lūdzu. | muti | Відкрийте рот, будь ласка.
+zobs | noun | зуб | Man jāiet pie zobārsta, jo man sāp ___. | zobs | Мені треба до стоматолога, бо болить зуб.
+auss | noun | вухо | Es nedzirdu, man sāp ___. | auss | Я не чую, у мене болить вухо.
+kakls | noun | шия; горло | Man sāp ___. | kakls | У мене болить горло.
+plecs | noun | плече | Viņam sāp labais ___. | plecs | У нього болить праве плече.
+roka | noun | рука | Es salauzu ___. | roku | Я зламав руку.
+pirksts | noun | палець | Es sagriezu ___. | pirkstu | Я порізав палець.
+mugura | noun | спина | Pēc smaga darba man sāp ___. | mugura | Після важкої роботи в мене болить спина.
+krūtis | noun | груди | Man sāp ___. | krūtis | У мене болять груди.
+vēders | noun | живіт | Es ēdu par daudz, man sāp ___. | vēders | Я з'їв забагато, у мене болить живіт.
+kāja | noun | нога | Man sāp ___ no skriešanas. | kāja | У мене болить нога від бігу.
+pēda | noun | ступня | Man sāp kreisā ___. | pēda | У мене болить ліва ступня.
+sirds | noun | серце | Viņam ir vāja ___. | sirds | У нього слабке серце.
+ārsts | noun | лікар | Man jāiet pie ___. | ārsta | Мені треба до лікаря.
+zāles | noun | ліки | Es dzeru ___ pret galvassāpēm. | zāles | Я п'ю ліки від головного болю.
+tablete | noun | таблетка | Es iedzēru ___. | tableti | Я випив таблетку.
+temperatūra | noun | температура | Man ir augsta ___. | temperatūra | У мене висока температура.
+sāpes | noun | біль | Man ir stipras ___. | sāpes | У мене сильний біль.
+saaukstēšanās | noun | застуда | Man ir ___. | saaukstēšanās | У мене застуда.
+klepus | noun | кашель | Man ir stiprs ___. | klepus | У мене сильний кашель.
+iesnas | noun | нежить | Man ir ___. | iesnas | У мене нежить.
+gripa | noun | грип | Viņš slimo ar ___. | gripu | Він хворіє на грип.
+drudzis | noun | гарячка | Bērnam ir ___. | drudzis | У дитини гарячка.
+recepte | noun | рецепт | Ārsts uzrakstīja ___. | recepti | Лікар виписав рецепт.
+vizīte | noun | візит | Rīt man ir ___ pie ārsta. | vizīte | Завтра в мене візит до лікаря.
+veselība | noun | здоров'я | ___ ir svarīgāka par naudu. | Veselība | Здоров'я важливіше за гроші.
+slimība | noun | хвороба | Šī ___ ir bīstama. | slimība | Ця хвороба небезпечна.
+slimnieks | noun | хворий; пацієнт | ___ guļ slimnīcā. | Slimnieks | Хворий лежить у лікарні.
+medmāsa | noun | медсестра | ___ palīdz slimniekiem. | Medmāsa | Медсестра допомагає хворим.
+zobārsts | noun | стоматолог | Man jāiet pie ___. | zobārsta | Мені треба до стоматолога.
+vitamīni | noun | вітаміни | Augļos ir daudz ___. | vitamīnu | У фруктах багато вітамінів.
+vingrinājums | noun | вправа | Šis ___ ir ļoti viegls. | vingrinājums | Ця вправа дуже легка.
+miegs | noun | сон | Man vajag ___. | miegu | Мені потрібен сон.
+trauma | noun | травма | Viņš dabūja ___. | traumu | Він отримав травму.
+brūce | noun | рана | Uz rokas ir ___. | brūce | На руці рана.
+esi vesels | phrase | будь здоровий | Kad kāds šķauda, mēs sakām: ___! | Esi vesels | Коли хтось чхає, ми кажемо: «Будь здоровий!»
+sāpēt | verb | боліти | Kur jums ___? | sāp | Де у вас болить?
+slimot | verb | хворіти | Es šonedēļ ___. | slimoju | Цього тижня я хворію.
+ārstēt | verb | лікувати | Ārsts ___ slimniekus. | ārstē | Лікар лікує хворих.
+izārstēt | verb | вилікувати | Šo slimību var ___. | izārstēt | Цю хворобу можна вилікувати.
+justies | verb | почуватися | Kā jūs ___? | jūtaties | Як ви почуваєтеся?
+saaukstēties | verb | застудитися | Es nevēlos ___. | saaukstēties | Я не хочу застудитися.
+klepot | verb | кашляти | Viņš visu nakti ___. | klepoja | Він кашляв цілу ніч.
+šķaudīt | verb | чхати | Viņa ___ un klepo. | šķauda | Вона чхає і кашляє.
+vingrot | verb | робити вправи | Es katru rītu ___. | vingroju | Я щоранку роблю вправи.
+atveseļoties | verb | одужати | Es ceru ātri ___. | atveseļoties | Я сподіваюся швидко одужати.
+pieteikties | verb | записатися | Es gribu ___ pie ārsta. | pieteikties | Я хочу записатися до лікаря.
+uzmanīties | verb | берегтися; бути обережним | Lūdzu, ___ uz ielas! | uzmanieties | Будь ласка, будьте обережні на вулиці!
+mērīt | verb | вимірювати | Medmāsa ___ temperatūru. | mēra | Медсестра вимірює температуру.
+izrakstīt | verb | виписати | Ārsts var ___ zāles. | izrakstīt | Лікар може виписати ліки.
+vesels | adj | здоровий | Es esmu pilnīgi ___. | vesels | Я цілком здоровий.
+slims | adj | хворий | Mans dēls ir ___. | slims | Мій син хворий.
+vājš | adj | слабкий | Pēc slimības viņš ir ļoti ___. | vājš | Після хвороби він дуже слабкий.
+stiprs | adj | сильний | Viņš ir ļoti ___. | stiprs | Він дуже сильний.
+noguris | adj | втомлений | Pēc darba es esmu ļoti ___. | noguris | Після роботи я дуже втомлений.
+sāpīgs | adj | болісний | Šī injekcija ir ļoti ___. | sāpīga | Ця ін'єкція дуже болісна.
+veselīgs | adj | корисний для здоров'я | Dārzeņi ir ___. | veselīgi | Овочі корисні для здоров'я.
+nevesels | adj | нездоровий | Es šodien jūtos ___. | nevesels | Я сьогодні почуваюся нездоровим.
+ceļgals | noun | коліно | Man sāp labais ___. | ceļgals | У мене болить праве коліно.
+poliklīnika | noun | поліклініка | Es eju uz ___. | poliklīniku | Я йду до поліклініки.

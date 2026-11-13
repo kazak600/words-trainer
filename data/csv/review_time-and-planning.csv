@@ -1,0 +1,29 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+plānotājs,noun,A2,,планер; щоденник,Es pierakstu visu savā ___.,plānotājā,Я записую все у своєму планері.,approved
+plāns,noun,A2,"plan, map, blueprint, layout",план,Mums ir labs ___.,plāns,У нас є хороший план.,approved
+sekunde,noun,A2,second,секунда,Minūtē ir sešdesmit ___.,sekundes,У хвилині шістдесят секунд.,approved
+tikšanās,noun,A2,,зустріч,Rīt man ir svarīga ___.,tikšanās,Завтра в мене важлива зустріч.,approved
+rinda,noun,A2,"row, line, queue",черга; ряд,Veikalā ir gara ___.,rinda,У магазині довга черга.,approved
+termiņš,noun,A2,,термін,Šis ___ beidzas rīt.,termiņš,Цей термін закінчується завтра.,approved
+kalendārs,noun,A2,calendar,календар,Uz sienas karājas ___.,kalendārs,На стіні висить календар.,approved
+pasākums,noun,A2,measure,захід,Šovakar ir interesants ___.,pasākums,Сьогодні ввечері цікавий захід.,approved
+izstāde,noun,A2,exhibition,виставка,Mēs apmeklējām mākslas ___.,izstādi,Ми відвідали виставку мистецтва.,approved
+kavēšanās,noun,A2,,запізнення,Atvainojiet par ___.,kavēšanos,Вибачте за запізнення.,approved
+atgādinājums,noun,A2,,нагадування,Es saņēmu ___ par tikšanos.,atgādinājumu,Я отримав нагадування про зустріч.,approved
+steiga,noun,A2,,поспіх,Man ir liela ___.,steiga,Я дуже поспішаю.,approved
+darba diena,phrase,A2,,робочий день,Pirmdiena ir ___.,darba diena,Понеділок — робочий день.,approved
+plānot,verb,A2,to plan,планувати,Mēs ___ ceļojumu uz Itāliju.,plānojam,Ми плануємо подорож до Італії.,approved
+norunāt,verb,A2,,домовитися,Mēs ___ tikties pulksten piecos.,norunājām,Ми домовилися зустрітися о п'ятій.,approved
+atcelt,verb,A2,,скасувати,Viņi ___ tikšanos.,atcēla,Вони скасували зустріч.,approved
+pārcelt,verb,A2,,перенести,Es gribu ___ tikšanos uz rītu.,pārcelt,Я хочу перенести зустріч на завтра.,approved
+paspēt,verb,A2,,встигнути,Es nevaru ___ uz autobusu.,paspēt,Я не можу встигнути на автобус.,approved
+steigties,verb,A2,"to rush, to be in a hurry",поспішати,Mēs ļoti ___ uz staciju.,steidzamies,Ми дуже поспішаємо на станцію.,approved
+atcerēties,verb,A2,to remember,пам'ятати; згадувати,Es labi ___ šo dienu.,atceros,Я добре пам'ятаю цей день.,approved
+atgādināt,verb,A2,,нагадати,"Lūdzu, ___ man rīt.",atgādiniet,"Будь ласка, нагадайте мені завтра.",approved
+sākties,verb,A2,,починатися,Filma ___ pulksten septiņos.,sākas,Фільм починається о сьомій.,approved
+beigties,verb,A2,,закінчуватися,Koncerts ___ vienpadsmitos.,beidzas,Концерт закінчується об одинадцятій.,approved
+ilgt,verb,A2,,тривати,Filma ___ divas stundas.,ilgst,Фільм триває дві години.,approved
+apstiprināt,verb,A2,second-person plural present indicative of apstiprināt,підтвердити,"Lūdzu, ___ rezervāciju.",apstipriniet,"Будь ласка, підтвердіть бронювання.",approved
+parīt,adv,A2,the day after tomorrow,післязавтра,___ mēs braucam uz Rīgu.,Parīt,Післязавтра ми їдемо до Риги.,approved
+drīz,adv,A2,soon,незабаром,Vilciens ___ atnāks.,drīz,Поїзд незабаром прийде.,approved
+nesen,adv,A2,,нещодавно,Es ___ pārcēlos uz Rīgu.,nesen,Я нещодавно переїхав до Риги.,approved

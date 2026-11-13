@@ -1,0 +1,51 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+izskats,noun,A2,"appearance, look",зовнішність,Viņai ir jauks ___.,izskats,У неї приємна зовнішність.,approved
+raksturs,noun,A2,"character, temperament, personality, nature",характер,Viņam ir labs ___.,raksturs,У нього добрий характер.,approved
+acis,noun,A2,eye,очі,Viņai ir zilas ___.,acis,У неї сині очі.,approved
+augums,noun,A2,,зріст; статура,Viņam ir liels ___.,augums,У нього велика статура.,approved
+garastāvoklis,noun,A2,mood,настрій,Šodien man ir labs ___.,garastāvoklis,Сьогодні в мене гарний настрій.,approved
+prieks,noun,A2,"joy, delight",радість,Bērni skrien ar ___.,prieku,Діти біжать з радістю.,approved
+bēdas,noun,A2,"sadness, sorrow, grief",горе; смуток,Viņa ir pilna ___.,bēdu,Вона сповнена горя.,approved
+bailes,noun,A2,fear,страх,Viņam ir ___ no suņiem.,bailes,Він боїться собак.,approved
+dusmas,noun,A2,"anger, fury, ire, wrath",гнів,Viņš ir pilns ___.,dusmu,Він сповнений гніву.,approved
+noskaņojums,noun,A2,,настрій,Mūzika rada labu ___.,noskaņojumu,Музика створює гарний настрій.,approved
+īpašība,noun,A2,"essential, typical feature, trait, characteristic, property",риса; властивість,Čaklums ir laba ___.,īpašība,Старанність — хороша риса.,approved
+pieredze,noun,A2,experience,досвід,Viņam ir liela darba ___.,pieredze,У нього великий досвід роботи.,approved
+muļķis,noun,A2,"fool, stupid man",дурень,Neesi tāds ___!,muļķis,Не будь таким дурнем!,approved
+sapnis,noun,A2,dream,сон; мрія,Es redzēju dīvainu ___.,sapni,Мені наснився дивний сон.,approved
+resns,adj,A2,thick,товстий,Kaķis ir ļoti ___.,resns,Кіт дуже товстий.,approved
+tievs,adj,A2,thin,худий,Viņš ir garš un ___.,tievs,Він високий і худий.,approved
+glīts,adj,A2,"pretty, handsome, neat, good-looking",гарний; охайний,Šī meitene ir ļoti ___.,glīta,Ця дівчина дуже гарна.,approved
+smuks,adj,A2,"pretty, beautiful, handsome",гарний; вродливий,Viņš ir ļoti ___ puisis.,smuks,Він дуже вродливий хлопець.,approved
+gudrs,adj,A2,"intelligent, wise",розумний,Mana māsa ir ļoti ___.,gudra,Моя сестра дуже розумна.,approved
+rupjš,adj,A2,"coarse, rough",грубий,Viņš ir ļoti ___ cilvēks.,rupjš,Він дуже грубий чоловік.,approved
+bēdīgs,adj,A2,sad,сумний,Šī filma ir ļoti ___.,bēdīga,Цей фільм дуже сумний.,approved
+drosmīgs,adj,A2,"brave, courageous",сміливий,Ugunsdzēsēji ir ___ cilvēki.,drosmīgi,Пожежники — сміливі люди.,approved
+bailīgs,adj,A2,"fearful, timid, afraid",боязкий,Mans suns ir ļoti ___.,bailīgs,Мій пес дуже боязкий.,approved
+slinks,adj,A2,lazy,лінивий,Es esmu šodien ļoti ___.,slinks,Я сьогодні дуже лінивий.,approved
+čakls,adj,A2,"industrious, hard-working, diligent",старанний,Mans dēls ir ļoti ___ skolēns.,čakls,Мій син дуже старанний учень.,approved
+strādīgs,adj,A2,"hard-working, industrious, diligent",працьовитий,Viņa ir ļoti ___ sieviete.,strādīga,Вона дуже працьовита жінка.,approved
+godīgs,adj,A2,,чесний,Viņš vienmēr ir ___.,godīgs,Він завжди чесний.,approved
+dusmīgs,adj,A2,"angry, furious, irate, wrathful",сердитий,Tētis šodien ir ļoti ___.,dusmīgs,Тато сьогодні дуже сердитий.,approved
+priecīgs,adj,A2,"happy, glad, joyful, delighted",радісний,Bērni ir ļoti ___.,priecīgi,Діти дуже радісні.,approved
+uztraucies,adj,A2,,схвильований,Viņa ir ļoti ___ par eksāmenu.,uztraukusies,Вона дуже схвильована через іспит.,approved
+ziņkārīgs,adj,A2,"curious, inquisitive",допитливий; цікавий,Bērni ir ļoti ___.,ziņkārīgi,Діти дуже допитливі.,approved
+pacietīgs,adj,A2,patient,терплячий,Skolotājs ir ļoti ___.,pacietīgs,Вчитель дуже терплячий.,approved
+nepacietīgs,adj,A2,,нетерплячий,Es esmu ļoti ___.,nepacietīgs,Я дуже нетерплячий.,approved
+sabiedrisks,adj,A2,,товариський,Viņa ir ļoti ___ cilvēks.,sabiedrisks,Вона дуже товариська людина.,approved
+kautrīgs,adj,A2,,сором'язливий,Mazais zēns ir ļoti ___.,kautrīgs,Маленький хлопчик дуже сором'язливий.,approved
+līdzīgs,adj,A2,"similar, alike",схожий,Tu esi ļoti ___ savam tēvam.,līdzīgs,Ти дуже схожий на свого батька.,approved
+atšķirīgs,adj,A2,"different, diverse, distinct",різний; відмінний,Mūsu raksturi ir ļoti ___.,atšķirīgi,Наші характери дуже різні.,approved
+izskatīgs,adj,A2,,показний; вродливий,Viņš ir ļoti ___ vīrietis.,izskatīgs,Він дуже показний чоловік.,approved
+blonds,adj,A2,,білявий,Viņam ir ___ mati.,blondi,У нього світле волосся.,approved
+tumšmatains,adj,A2,dark-haired,темноволосий,Mans brālis ir ___.,tumšmatains,Мій брат темноволосий.,approved
+izskatīties,verb,A2,to look,виглядати,Viņš ___ ļoti noguris.,izskatās,Він виглядає дуже втомленим.,approved
+līdzināties,verb,A2,,бути схожим,Viņa ___ savai mātei.,līdzinās,Вона схожа на свою матір.,approved
+smaidīt,verb,A2,to smile,усміхатися,Viņa vienmēr ___.,smaida,Вона завжди усміхається.,approved
+raudāt,verb,A2,"to weep, to cry",плакати,Mazulis ___.,raud,Малюк плаче.,approved
+smieties,verb,A2,to laugh,сміятися,Bērni skaļi ___.,smejas,Діти голосно сміються.,approved
+priecāties,verb,A2,,радіти,Es ļoti ___ par jūsu ciemošanos.,priecājos,Я дуже радий вашому візиту.,approved
+bēdāties,verb,A2,,сумувати; журитися,Nav vērts ___.,bēdāties,Не варто журитися.,approved
+dusmoties,verb,A2,,сердитися,Tētis uz mani ___.,dusmojas,Тато сердиться на мене.,approved
+uztraukties,verb,A2,,хвилюватися,Es ___ par eksāmenu.,uztraucos,Я хвилююся через іспит.,approved
+nomierināties,verb,A2,,заспокоїтися,"Lūdzu, ___.",nomierinieties,"Будь ласка, заспокойтеся.",approved

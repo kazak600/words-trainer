@@ -1,0 +1,30 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+vecvecāki,noun,A2,grandparents,дідусь і бабуся,Mani ___ dzīvo ciemā.,vecvecāki,Мої дідусь і бабуся живуть у селі.,approved
+brālēns,noun,A2,cousin,двоюрідний брат,Mans ___ dzīvo Igaunijā.,brālēns,Мій двоюрідний брат живе в Естонії.,approved
+māsīca,noun,A2,A female first-cousin.,двоюрідна сестра,Mana ___ ir manā vecumā.,māsīca,Моя двоюрідна сестра мого віку.,approved
+tante,noun,A2,aunt,тітка,Mana ___ dzīvo Rīgā.,tante,Моя тітка живе в Ризі.,approved
+onkulis,noun,A2,uncle,дядько,Mans ___ ir šoferis.,onkulis,Мій дядько — водій.,approved
+mazbērns,noun,A2,grandchild,онук,Vecmāmiņai ir pieci ___.,mazbērni,У бабусі п'ятеро онуків.,approved
+paziņa,noun,A2,,знайомий,Viņš ir mans ___ no darba.,paziņa,Він мій знайомий з роботи.,approved
+attiecības,noun,A2,,стосунки,Mums ir labas ___.,attiecības,У нас добрі стосунки.,approved
+kāzas,noun,A2,wedding,весілля,Šovasar mums būs ___.,kāzas,Цього літа у нас буде весілля.,approved
+svētki,noun,A2,"holiday, feast",свято,Ziemassvētki ir mani mīļākie ___.,svētki,Різдво — моє улюблене свято.,approved
+dāvana,noun,A2,"present, gift",подарунок,Šī ir ___ tev.,dāvana,Це подарунок тобі.,approved
+viesis,noun,A2,"visitor, guest",гість,Mēs gaidām ___.,viesus,Ми чекаємо гостей.,approved
+ielūgums,noun,A2,,запрошення,Es saņēmu ___ uz kāzām.,ielūgumu,Я отримав запрошення на весілля.,approved
+draudzība,noun,A2,friendship,дружба,___ ir ļoti svarīga.,Draudzība,Дружба дуже важлива.,approved
+mīlestība,noun,A2,love,любов,Viņi apprecējās aiz ___.,mīlestības,Вони одружилися з любові.,approved
+dzimšanas diena,phrase,A2,birthday,день народження,Šodien ir mana ___.,dzimšanas diena,Сьогодні мій день народження.,approved
+satikties,verb,A2,,зустрічатися,Mēs gribam rīt ___.,satikties,Ми хочемо завтра зустрітися.,approved
+draudzēties,verb,A2,,дружити,Mēs ___ jau daudzus gadus.,draudzējamies,Ми дружимо вже багато років.,approved
+precēties,verb,A2,,одружуватися,Viņi grib ___ vasarā.,precēties,Вони хочуть одружитися влітку.,approved
+šķirties,verb,A2,,розлучатися,Viņi nolēma ___.,šķirties,Вони вирішили розлучитися.,approved
+apciemot,verb,A2,,відвідати,Rīt mēs ___ vecmāmiņu.,apciemosim,Завтра ми відвідаємо бабусю.,approved
+dāvināt,verb,A2,,дарувати,Es gribu viņai ___ ziedus.,dāvināt,Я хочу подарувати їй квіти.,approved
+sveikt,verb,A2,"to greet, to welcome",вітати,Es gribu jūs ___ dzimšanas dienā.,sveikt,Я хочу привітати вас з днем народження.,approved
+audzināt,verb,A2,second-person plural present indicative of audzināt,виховувати,Viņi ___ divus bērnus.,audzina,Вони виховують двох дітей.,approved
+pazīt,verb,A2,to be acquainted,знати (когось),Es viņu labi ___.,pazīstu,Я його добре знаю.,approved
+strīdēties,verb,A2,,сперечатися,Mēs bieži ___ par sīkumiem.,strīdamies,Ми часто сперечаємося через дрібниці.,approved
+palīdzēt,verb,A2,"to help, to help out, to aid, to assist",допомагати,Es gribu tev ___.,palīdzēt,Я хочу тобі допомогти.,approved
+vientuļš,adj,A2,,самотній,Viņa jūtas ļoti ___.,vientuļa,Вона почувається дуже самотньою.,approved
+draudzīgs,adj,A2,friendly,дружній,Mūsu kaimiņi ir ļoti ___.,draudzīgi,Наші сусіди дуже дружні.,approved

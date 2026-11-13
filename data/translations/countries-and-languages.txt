@@ -1,0 +1,96 @@
+Latvija | propn | Латвія | Rīga ir ___ galvaspilsēta. | Latvijas | Рига — столиця Латвії.
+Igaunija | propn | Естонія | Tallina ir ___ galvaspilsēta. | Igaunijas | Таллінн — столиця Естонії.
+Lietuva | propn | Литва | Viļņa ir ___ galvaspilsēta. | Lietuvas | Вільнюс — столиця Литви.
+Krievija | propn | Росія | ___ ir liela valsts. | Krievija | Росія — велика країна.
+Ukraina | propn | Україна | Es esmu no ___. | Ukrainas | Я з України.
+Vācija | propn | Німеччина | Berlīne atrodas ___. | Vācijā | Берлін розташований у Німеччині.
+Anglija | propn | Англія | Londona ir ___ galvaspilsēta. | Anglijas | Лондон — столиця Англії.
+Amerika | propn | Америка | Viņš dzīvo ___. | Amerikā | Він живе в Америці.
+Eiropa | propn | Європа | Latvija atrodas ___. | Eiropā | Латвія розташована в Європі.
+valsts | noun | країна; держава | Latvija ir maza ___. | valsts | Латвія — мала країна.
+pilsēta | noun | місто | Rīga ir liela ___. | pilsēta | Рига — велике місто.
+valoda | noun | мова | Kāda ___ jums patīk? | valoda | Яка мова вам подобається?
+pasaule | noun | світ | Es gribu redzēt visu ___. | pasauli | Я хочу побачити весь світ.
+tautība | noun | національність | Kāda ir jūsu ___? | tautība | Яка ваша національність?
+latvietis | noun | латиш | Viņš ir no Latvijas, viņš ir ___. | latvietis | Він з Латвії, він латиш.
+latviete | noun | латвійка | Viņa ir no Latvijas, viņa ir ___. | latviete | Вона з Латвії, вона латвійка.
+ukrainis | noun | українець | Viņš ir no Ukrainas, viņš ir ___. | ukrainis | Він з України, він українець.
+ukrainiete | noun | українка | Viņa ir no Ukrainas, viņa ir ___. | ukrainiete | Вона з України, вона українка.
+krievs | noun | росіянин | Viņš ir no Krievijas, viņš ir ___. | krievs | Він з Росії, він росіянин.
+krieviete | noun | росіянка | Viņa ir no Krievijas, viņa ir ___. | krieviete | Вона з Росії, вона росіянка.
+vācietis | noun | німець | Viņš ir no Vācijas, viņš ir ___. | vācietis | Він з Німеччини, він німець.
+vāciete | noun | німкеня | Viņa ir no Vācijas, viņa ir ___. | vāciete | Вона з Німеччини, вона німкеня.
+anglis | noun | англієць | Viņš ir no Anglijas, viņš ir ___. | anglis | Він з Англії, він англієць.
+angliete | noun | англійка | Viņa ir no Anglijas, viņa ir ___. | angliete | Вона з Англії, вона англійка.
+amerikānis | noun | американець | Viņš ir no Amerikas, viņš ir ___. | amerikānis | Він з Америки, він американець.
+amerikāniete | noun | американка | Viņa ir no Amerikas, viņa ir ___. | amerikāniete | Вона з Америки, вона американка.
+ārzemnieks | noun | іноземець | Viņš nav no Latvijas, viņš ir ___. | ārzemnieks | Він не з Латвії, він іноземець.
+ārzemniece | noun | іноземка | Viņa nav no Latvijas, viņa ir ___. | ārzemniece | Вона не з Латвії, вона іноземка.
+karogs | noun | прапор | Latvijas ___ ir sarkanbaltsarkans. | karogs | Прапор Латвії червоно-біло-червоний.
+galvaspilsēta | noun | столиця | Madride ir Spānijas ___. | galvaspilsēta | Мадрид — столиця Іспанії.
+iedzīvotājs | noun | мешканець | Rīgā dzīvo daudz ___. | iedzīvotāju | У Ризі живе багато мешканців.
+latviešu valoda | phrase | латиська мова | Es mācos ___. | latviešu valodu | Я вчу латиську мову.
+angļu valoda | phrase | англійська мова | Viņa runā ___. | angļu valodā | Вона розмовляє англійською мовою.
+krievu valoda | phrase | російська мова | Viņš mācās ___ skolā. | krievu valodu | Він вивчає російську мову в школі.
+ukraiņu valoda | phrase | українська мова | Mana dzimtā valoda ir ___. | ukraiņu valoda | Моя рідна мова — українська.
+vācu valoda | phrase | німецька мова | Es zinu arī ___. | vācu valodu | Я знаю також німецьку мову.
+zināt | verb | знати | Es labi ___ šo pilsētu. | zinu | Я добре знаю це місто.
+latviski | adv | латиською | Latvijā runā ___. | latviski | У Латвії розмовляють латиською.
+angliski | adv | англійською | Londonā runā ___. | angliski | У Лондоні розмовляють англійською.
+krieviski | adv | російською | Maskavā runā ___. | krieviski | У Москві розмовляють російською.
+ukrainiski | adv | українською | Kijivā runā ___. | ukrainiski | У Києві розмовляють українською.
+vāciski | adv | німецькою | Berlīnē runā ___. | vāciski | У Берліні розмовляють німецькою.
+Francija | propn | Франція | Parīze ir ___ galvaspilsēta. | Francijas | Париж — столиця Франції.
+Itālija | propn | Італія | Roma atrodas ___. | Itālijā | Рим розташований в Італії.
+Spānija | propn | Іспанія | Es gribu braukt uz ___. | Spāniju | Я хочу поїхати до Іспанії.
+Zviedrija | propn | Швеція | Stokholma ir ___ galvaspilsēta. | Zviedrijas | Стокгольм — столиця Швеції.
+Somija | propn | Фінляндія | Helsinki atrodas ___. | Somijā | Гельсінкі розташований у Фінляндії.
+Norvēģija | propn | Норвегія | Oslo ir ___ galvaspilsēta. | Norvēģijas | Осло — столиця Норвегії.
+Dānija | propn | Данія | Kopenhāgena atrodas ___. | Dānijā | Копенгаген розташований у Данії.
+Polija | propn | Польща | Varšava ir ___ galvaspilsēta. | Polijas | Варшава — столиця Польщі.
+Čehija | propn | Чехія | Prāga atrodas ___. | Čehijā | Прага розташована в Чехії.
+Grieķija | propn | Греція | Atēnas ir ___ galvaspilsēta. | Grieķijas | Афіни — столиця Греції.
+Turcija | propn | Туреччина | Vasarā mēs braucām uz ___. | Turciju | Влітку ми їздили до Туреччини.
+Ķīna | propn | Китай | ___ ir ļoti liela valsts. | Ķīna | Китай — дуже велика країна.
+Japāna | propn | Японія | Tokija ir ___ galvaspilsēta. | Japānas | Токіо — столиця Японії.
+Kanāda | propn | Канада | Mans onkulis dzīvo ___. | Kanādā | Мій дядько живе в Канаді.
+Āzija | propn | Азія | Ķīna un Japāna atrodas ___. | Āzijā | Китай і Японія розташовані в Азії.
+Āfrika | propn | Африка | Lauvas dzīvo ___. | Āfrikā | Леви живуть в Африці.
+Austrālija | propn | Австралія | Ķengurs dzīvo ___. | Austrālijā | Кенгуру живе в Австралії.
+kontinents | noun | континент | Eiropa ir ___. | kontinents | Європа — континент.
+francūzis | noun | француз | Viņš ir no Francijas, viņš ir ___. | francūzis | Він з Франції, він француз.
+itālis | noun | італієць | Viņš ir no Itālijas, viņš ir ___. | itālis | Він з Італії, він італієць.
+spānis | noun | іспанець | Viņš ir no Spānijas, viņš ir ___. | spānis | Він з Іспанії, він іспанець.
+zviedrs | noun | швед | Viņš ir no Zviedrijas, viņš ir ___. | zviedrs | Він зі Швеції, він швед.
+soms | noun | фін | Viņš ir no Somijas, viņš ir ___. | soms | Він з Фінляндії, він фін.
+polis | noun | поляк | Viņš ir no Polijas, viņš ir ___. | polis | Він з Польщі, він поляк.
+poliete | noun | полька | Viņa ir no Polijas, viņa ir ___. | poliete | Вона з Польщі, вона полька.
+ķīnietis | noun | китаєць | Viņš ir no Ķīnas, viņš ir ___. | ķīnietis | Він з Китаю, він китаєць.
+japānis | noun | японець | Viņš ir no Japānas, viņš ir ___. | japānis | Він з Японії, він японець.
+turks | noun | турок | Viņš ir no Turcijas, viņš ir ___. | turks | Він з Туреччини, він турок.
+lietuvietis | noun | литовець | Viņš ir no Lietuvas, viņš ir ___. | lietuvietis | Він з Литви, він литовець.
+lietuviete | noun | литовка | Viņa ir no Lietuvas, viņa ir ___. | lietuviete | Вона з Литви, вона литовка.
+igaunis | noun | естонець | Viņš ir no Igaunijas, viņš ir ___. | igaunis | Він з Естонії, він естонець.
+igauniete | noun | естонка | Viņa ir no Igaunijas, viņa ir ___. | igauniete | Вона з Естонії, вона естонка.
+imigrants | noun | імігрант | Šis ___ dzīvo Latvijā jau trīs gadus. | imigrants | Цей імігрант живе в Латвії вже три роки.
+emigrants | noun | емігрант | Mans onkulis ir ___ Kanādā. | emigrants | Мій дядько — емігрант у Канаді.
+ārzemju viesis | noun | іноземний гість | Pie mums ir ___. | ārzemju viesis | У нас іноземний гість.
+franču valoda | phrase | французька мова | Mana māsa mācās ___. | franču valodu | Моя сестра вчить французьку мову.
+spāņu valoda | phrase | іспанська мова | Viņš runā ___. | spāņu valodā | Він розмовляє іспанською мовою.
+itāļu valoda | phrase | італійська мова | Es gribu iemācīties ___. | itāļu valodu | Я хочу вивчити італійську мову.
+poļu valoda | phrase | польська мова | Viņa zina arī ___. | poļu valodu | Вона знає також польську мову.
+ķīniešu valoda | phrase | китайська мова | ___ ir ļoti sarežģīta. | Ķīniešu valoda | Китайська мова дуже складна.
+dzimtā valoda | phrase | рідна мова | Kāda ir jūsu ___? | dzimtā valoda | Яка ваша рідна мова?
+tulkot | verb | перекладати | Viņš var ___ no latviešu valodas. | tulkot | Він може перекладати з латиської мови.
+dzimt | verb | народжуватися | Es ___ Ukrainā. | dzimu | Я народився в Україні.
+izcelties | verb | походити; вирізнятися | Mana ģimene ___ no Latvijas. | izceļas | Моя родина походить з Латвії.
+emigrēt | verb | емігрувати | Daudzi cilvēki grib ___ uz ārzemēm. | emigrēt | Багато людей хочуть емігрувати за кордон.
+franciski | adv | французькою | Parīzē runā ___. | franciski | У Парижі розмовляють французькою.
+spāniski | adv | іспанською | Madridē runā ___. | spāniski | У Мадриді розмовляють іспанською.
+itāliski | adv | італійською | Romā runā ___. | itāliski | У Римі розмовляють італійською.
+poliski | adv | польською | Varšavā runā ___. | poliski | У Варшаві розмовляють польською.
+ārzemju | adj | іноземний; закордонний | Viņam ir daudz ___ draugu. | ārzemju | У нього багато іноземних друзів.
+vietējais | adj | місцевий | Viņš ir ___ iedzīvotājs. | vietējais | Він місцевий мешканець.
+starptautisks | adj | міжнародний | Tas ir ___ konkurss. | starptautisks | Це міжнародний конкурс.
+daudzvalodu | adj | багатомовний | Rīga ir ___ pilsēta. | daudzvalodu | Рига — багатомовне місто.
+dzimtais | adj | рідний | Rīga ir mana ___ pilsēta. | dzimtā | Рига — моє рідне місто.

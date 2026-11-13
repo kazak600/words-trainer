@@ -1,0 +1,51 @@
+ceļojums | noun | подорож | Mans ___ bija ļoti interesants. | ceļojums | Моя подорож була дуже цікавою.
+ceļotājs | noun | мандрівник | ___ nes lielu somu. | Ceļotājs | Мандрівник несе велику сумку.
+bagāža | noun | багаж | Mana ___ ir smaga. | bagāža | Мій багаж важкий.
+koferis | noun | валіза | Es iepakoju ___. | koferi | Я пакую валізу.
+soma | noun | сумка | Mana ___ ir zila. | soma | Моя сумка синя.
+viesnīca | noun | готель | Mēs dzīvojam ___. | viesnīcā | Ми живемо в готелі.
+numurs | noun | номер (у готелі) | Mūsu ___ ir uz trešā stāva. | numurs | Наш номер на третьому поверсі.
+rezervācija | noun | бронювання | Man ir ___ uz Ozola vārda. | rezervācija | У мене є бронювання на прізвище Озол.
+jūra | noun | море | Mēs peldam ___. | jūrā | Ми плаваємо в морі.
+suvenīrs | noun | сувенір | Es nopirku ___ draugam. | suvenīru | Я купив сувенір другові.
+fotoaparāts | noun | фотоапарат | Es ņemu līdzi ___. | fotoaparātu | Я беру з собою фотоапарат.
+atvaļinājums | noun | відпустка | Vasarā man ir ___. | atvaļinājums | Влітку в мене відпустка.
+brīvdienas | noun | вихідні; канікули | Mums ir trīs ___. | brīvdienas | У нас три вихідні.
+ceļvedis | noun | путівник | Es nopirku ___ par Rīgu. | ceļvedi | Я купив путівник по Ризі.
+ārzemes | noun | закордон | Vasarā mēs braucam uz ___. | ārzemēm | Влітку ми їдемо за кордон.
+valūta | noun | валюта | Kāda ir šīs valsts ___? | valūta | Яка валюта цієї країни?
+laimīgu ceļu | phrase | щасливої дороги | Visiem ___! | laimīgu ceļu | Усім щасливої дороги!
+nopirkt | verb | купити | Es gribu ___ dāvanu. | nopirkt | Я хочу купити подарунок.
+rezervēt | verb | забронювати | Es gribu ___ numuru. | rezervēt | Я хочу забронювати номер.
+uzkāpt | verb | піднятися | Mēs gribam ___ kalnā. | uzkāpt | Ми хочемо піднятися на гору.
+atgriezties | verb | повертатися | Mēs ___ mājās svētdien. | atgriežamies | Ми повертаємося додому в неділю.
+apskatīt | verb | оглянути | Es gribu ___ pilsētu. | apskatīt | Я хочу оглянути місто.
+pārnakšņot | verb | переночувати | Mēs ___ viesnīcā. | pārnakšņojam | Ми ночуємо в готелі.
+pārbaudīt | verb | перевірити | Lūdzu, ___ manu pasi. | pārbaudiet | Будь ласка, перевірте мій паспорт.
+aizmirst | verb | забути | Es nedrīkstu ___ pasi. | aizmirst | Я не повинен забути паспорт.
+paņemt | verb | взяти | Vai jūs varat ___ manu somu? | paņemt | Чи можете ви взяти мою сумку?
+iepakot | verb | запакувати | Es vēl neesmu ___ koferi. | iepakojis | Я ще не запакував валізу.
+tūrists | noun | турист | Rīgā ir daudz ___. | tūristu | У Ризі багато туристів.
+tūrisms | noun | туризм | ___ ir svarīga nozare. | Tūrisms | Туризм — важлива галузь.
+brauciens | noun | поїздка | Tas bija jauks ___. | brauciens | Це була чудова поїздка.
+izbraukums | noun | поїздка за місто | Svētdien mums ir ___ uz laukiem. | izbraukums | У неділю в нас поїздка на село.
+mugursoma | noun | рюкзак | Mana ___ ir ļoti smaga. | mugursoma | Мій рюкзак дуже важкий.
+vīza | noun | віза | Man vajag ___. | vīzu | Мені потрібна віза.
+hostelis | noun | хостел | Mēs apmetāmies lētā ___. | hostelī | Ми зупинилися в дешевому хостелі.
+kempings | noun | кемпінг | Vasarā mēs dzīvojam ___. | kempingā | Влітку ми живемо в кемпінгу.
+telts | noun | намет | Mēs uzslējām ___. | telti | Ми поставили намет.
+robeža | noun | кордон | Mēs šķērsojām ___. | robežu | Ми перетнули кордон.
+muita | noun | митниця | Pie ___ jāparāda pase. | muitas | На митниці треба показати паспорт.
+kalni | noun | гори | Mēs gribam braukt uz ___. | kalniem | Ми хочемо поїхати в гори.
+galamērķis | noun | пункт призначення | Mūsu ___ ir Rīga. | galamērķis | Наш пункт призначення — Рига.
+pieturvieta | noun | зупинка (місце) | Kur ir tuvākā ___? | pieturvieta | Де найближча зупинка?
+apskates vieta | phrase | пам'ятка; визначне місце | Šī ir slavena ___. | apskates vieta | Це відома пам'ятка.
+izpakot | verb | розпакувати | Es gribu ___ koferi. | izpakot | Я хочу розпакувати валізу.
+izbraukt | verb | виїхати | Mēs gribam ___ agri no rīta. | izbraukt | Ми хочемо виїхати рано вранці.
+nolaisties | verb | приземлитися | Lidmašīna ___ pulksten desmitos. | nolaižas | Літак приземляється о десятій.
+izrakstīties | verb | виписатися | Mēs ___ no viesnīcas pulksten divpadsmitos. | izrakstāmies | Ми виселяємося з готелю о дванадцятій.
+izmitināties | verb | оселитися | Mēs ___ mazā viesnīcā. | izmitinājāmies | Ми оселилися в маленькому готелі.
+apmaldīties | verb | заблукати | Es negribu ___. | apmaldīties | Я не хочу заблукати.
+iespaidīgs | adj | вражаючий | Šī pils ir ļoti ___. | iespaidīga | Цей замок дуже вражаючий.
+pārpildīts | adj | переповнений | Autobuss ir ___. | pārpildīts | Автобус переповнений.
+tiešs | adj | прямий | Mums ir ___ reiss uz Parīzi. | tiešs | У нас прямий рейс до Парижа.

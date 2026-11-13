@@ -1,0 +1,56 @@
+ģimene | noun | сім'я; родина | Mana ___ dzīvo Rīgā. | ģimene | Моя родина живе в Ризі.
+māte | noun | мати | Mana ___ strādā skolā. | māte | Моя мати працює в школі.
+tēvs | noun | батько | Mans ___ ir ārsts. | tēvs | Мій батько — лікар.
+mamma | noun | мама | Es mīlu savu ___. | mammu | Я люблю свою маму.
+tētis | noun | тато | ___ brauc uz darbu ar autobusu. | Tētis | Тато їздить на роботу автобусом.
+vecmāmiņa | noun | бабуся | Mana ___ cep pīrāgus. | vecmāmiņa | Моя бабуся пече пиріжки.
+vectēvs | noun | дідусь | Mans ___ dzīvo laukos. | vectēvs | Мій дідусь живе на селі.
+bērns | noun | дитина | Viņiem ir viens ___. | bērns | У них одна дитина.
+dēls | noun | син | Mans ___ iet skolā. | dēls | Мій син ходить до школи.
+meita | noun | дочка | Mana ___ ir septiņus gadus veca. | meita | Моїй доньці сім років.
+brālis | noun | брат | Mans ___ ir vecāks par mani. | brālis | Мій брат старший за мене.
+māsa | noun | сестра | Mana ___ dzīvo Latvijā. | māsa | Моя сестра живе в Латвії.
+vīrs | noun | чоловік (у шлюбі) | Mans ___ strādā bankā. | vīrs | Мій чоловік працює в банку.
+sieva | noun | дружина | Viņa ___ ir skolotāja. | sieva | Його дружина — вчителька.
+draugs | noun | друг | Mans labākais ___ dzīvo Rīgā. | draugs | Мій найкращий друг живе в Ризі.
+draudzene | noun | подруга | Mana ___ studē universitātē. | draudzene | Моя подруга вчиться в університеті.
+vīrietis | noun | чоловік | Šis ___ ir mans kaimiņš. | vīrietis | Цей чоловік — мій сусід.
+sieviete | noun | жінка | Tā ___ ir ārste. | sieviete | Та жінка — лікарка.
+puika | noun | хлопчик | Mazs ___ spēlējas pagalmā. | puika | Маленький хлопчик грається у дворі.
+ciemiņš | noun | гість | Pie mums ir ___. | ciemiņš | У нас гість.
+radinieks | noun | родич | Viņš ir mans tāls ___. | radinieks | Він мій далекий родич.
+mazulis | noun | малюк; немовля | ___ guļ savā gultiņā. | Mazulis | Малюк спить у своєму ліжечку.
+vecāki | noun | батьки | Mani ___ dzīvo laukos. | vecāki | Мої батьки живуть на селі.
+mīlēt | verb | любити | Es ___ savu ģimeni. | mīlu | Я люблю свою родину.
+ciemoties | verb | гостювати | Mēs bieži ___ pie vecmāmiņas. | ciemojamies | Ми часто гостюємо в бабусі.
+mīļš | adj | дорогий; милий | Šī ir mana ___ māsa. | mīļā | Це моя дорога сестра.
+precējies | adj | одружений | Viņš ir ___ jau desmit gadus. | precējies | Він одружений уже десять років.
+vecvecāki | noun | дідусь і бабуся | Mani ___ dzīvo ciemā. | vecvecāki | Мої дідусь і бабуся живуть у селі.
+brālēns | noun | двоюрідний брат | Mans ___ dzīvo Igaunijā. | brālēns | Мій двоюрідний брат живе в Естонії.
+māsīca | noun | двоюрідна сестра | Mana ___ ir manā vecumā. | māsīca | Моя двоюрідна сестра мого віку.
+tante | noun | тітка | Mana ___ dzīvo Rīgā. | tante | Моя тітка живе в Ризі.
+onkulis | noun | дядько | Mans ___ ir šoferis. | onkulis | Мій дядько — водій.
+mazbērns | noun | онук | Vecmāmiņai ir pieci ___. | mazbērni | У бабусі п'ятеро онуків.
+paziņa | noun | знайомий | Viņš ir mans ___ no darba. | paziņa | Він мій знайомий з роботи.
+attiecības | noun | стосунки | Mums ir labas ___. | attiecības | У нас добрі стосунки.
+kāzas | noun | весілля | Šovasar mums būs ___. | kāzas | Цього літа у нас буде весілля.
+svētki | noun | свято | Ziemassvētki ir mani mīļākie ___. | svētki | Різдво — моє улюблене свято.
+dāvana | noun | подарунок | Šī ir ___ tev. | dāvana | Це подарунок тобі.
+viesis | noun | гість | Mēs gaidām ___. | viesus | Ми чекаємо гостей.
+ielūgums | noun | запрошення | Es saņēmu ___ uz kāzām. | ielūgumu | Я отримав запрошення на весілля.
+draudzība | noun | дружба | ___ ir ļoti svarīga. | Draudzība | Дружба дуже важлива.
+mīlestība | noun | любов | Viņi apprecējās aiz ___. | mīlestības | Вони одружилися з любові.
+dzimšanas diena | phrase | день народження | Šodien ir mana ___. | dzimšanas diena | Сьогодні мій день народження.
+satikties | verb | зустрічатися | Mēs gribam rīt ___. | satikties | Ми хочемо завтра зустрітися.
+draudzēties | verb | дружити | Mēs ___ jau daudzus gadus. | draudzējamies | Ми дружимо вже багато років.
+precēties | verb | одружуватися | Viņi grib ___ vasarā. | precēties | Вони хочуть одружитися влітку.
+šķirties | verb | розлучатися | Viņi nolēma ___. | šķirties | Вони вирішили розлучитися.
+apciemot | verb | відвідати | Rīt mēs ___ vecmāmiņu. | apciemosim | Завтра ми відвідаємо бабусю.
+dāvināt | verb | дарувати | Es gribu viņai ___ ziedus. | dāvināt | Я хочу подарувати їй квіти.
+sveikt | verb | вітати | Es gribu jūs ___ dzimšanas dienā. | sveikt | Я хочу привітати вас з днем народження.
+audzināt | verb | виховувати | Viņi ___ divus bērnus. | audzina | Вони виховують двох дітей.
+pazīt | verb | знати (когось) | Es viņu labi ___. | pazīstu | Я його добре знаю.
+strīdēties | verb | сперечатися | Mēs bieži ___ par sīkumiem. | strīdamies | Ми часто сперечаємося через дрібниці.
+palīdzēt | verb | допомагати | Es gribu tev ___. | palīdzēt | Я хочу тобі допомогти.
+vientuļš | adj | самотній | Viņa jūtas ļoti ___. | vientuļa | Вона почувається дуже самотньою.
+draudzīgs | adj | дружній | Mūsu kaimiņi ir ļoti ___. | draudzīgi | Наші сусіди дуже дружні.

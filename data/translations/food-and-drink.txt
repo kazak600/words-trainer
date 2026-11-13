@@ -1,0 +1,82 @@
+ēdiens | noun | їжа; страва | Šis ___ ir ļoti garšīgs. | ēdiens | Ця страва дуже смачна.
+dzēriens | noun | напій | Kādu ___ jūs vēlaties? | dzērienu | Який напій ви бажаєте?
+maize | noun | хліб | Es nopirku svaigu ___. | maizi | Я купив свіжий хліб.
+sviests | noun | масло | Es ieziežu maizi ar ___. | sviestu | Я намазую хліб маслом.
+siers | noun | сир | Man garšo ___. | siers | Мені смакує сир.
+desa | noun | ковбаса | Es pērku ___ un maizi. | desu | Я купую ковбасу і хліб.
+gaļa | noun | м'ясо | Es neēdu ___. | gaļu | Я не їм м'яса.
+zivs | noun | риба | Šodien mēs ēdam ___. | zivi | Сьогодні ми їмо рибу.
+ola | noun | яйце | Brokastīs es ēdu vārītu ___. | olu | На сніданок я їм варене яйце.
+piens | noun | молоко | Bērni dzer ___. | pienu | Діти п'ють молоко.
+jogurts | noun | йогурт | Es ēdu ___ ar ogām. | jogurtu | Я їм йогурт з ягодами.
+biezpiens | noun | сир (кисломолочний) | Es ēdu ___ ar skābo krējumu. | biezpienu | Я їм сир зі сметаною.
+putra | noun | каша | Brokastīs es ēdu ___. | putru | На сніданок я їм кашу.
+zupa | noun | суп | Mamma vāra ___. | zupu | Мама варить суп.
+salāti | noun | салат | Es gatavoju ___. | salātus | Я готую салат.
+kartupelis | noun | картопля | Mēs vārām ___. | kartupeļus | Ми варимо картоплю.
+burkāns | noun | морква | Zaķis ēd ___. | burkānu | Заєць їсть моркву.
+tomāts | noun | помідор | Salātos ir svaigs ___. | tomāts | У салаті свіжий помідор.
+gurķis | noun | огірок | Es pievienoju salātiem ___. | gurķi | Я додаю до салату огірок.
+sīpols | noun | цибуля | Es sagriezu ___. | sīpolu | Я нарізав цибулю.
+ķiploks | noun | часник | Zupai pievieno ___. | ķiploku | До супу додають часник.
+kāposti | noun | капуста | Mēs gatavojam zupu ar ___. | kāpostiem | Ми готуємо суп з капустою.
+ābols | noun | яблуко | Es ēdu sulīgu ___. | ābolu | Я їм соковите яблуко.
+banāns | noun | банан | Bērns ēd ___. | banānu | Дитина їсть банан.
+apelsīns | noun | апельсин | Es dzeru ___ sulu. | apelsīnu | Я п'ю апельсиновий сік.
+citrons | noun | лимон | Tējā es pievienoju ___. | citronu | У чай я додаю лимон.
+bumbieris | noun | груша | Šis ___ ir ļoti salds. | bumbieris | Ця груша дуже солодка.
+zemene | noun | полуниця | Vasarā mēs ēdam ___. | zemenes | Влітку ми їмо полуницю.
+ķirsis | noun | вишня; черешня | Dārzā aug ___. | ķirši | У саду ростуть вишні.
+sula | noun | сік | Bērni dzer ābolu ___. | sulu | Діти п'ють яблучний сік.
+ūdens | noun | вода | Lūdzu, glāzi ___. | ūdens | Будь ласка, склянку води.
+tēja | noun | чай | Es dzeru zaļo ___. | tēju | Я п'ю зелений чай.
+kafija | noun | кава | No rīta es dzeru ___. | kafiju | Зранку я п'ю каву.
+limonāde | noun | лимонад | Bērni grib ___. | limonādi | Діти хочуть лимонаду.
+alus | noun | пиво | Viņš dzer ___. | alu | Він п'є пиво.
+vīns | noun | вино | Es gribu glāzi ___. | vīna | Я хочу склянку вина.
+cukurs | noun | цукор | Kafijā es nelieku ___. | cukuru | У каву я не кладу цукор.
+sāls | noun | сіль | Zupai trūkst ___. | sāls | У супі бракує солі.
+pipari | noun | перець | Pievienojiet nedaudz ___. | piparu | Додайте трохи перцю.
+eļļa | noun | олія | Es cepu ar ___. | eļļu | Я смажу на олії.
+medus | noun | мед | Tēja ar ___ ir garšīga. | medu | Чай з медом смачний.
+kūka | noun | торт; пиріг | Mamma cepa garšīgu ___. | kūku | Мама спекла смачний торт.
+cepums | noun | печиво | Es ēdu ___ ar tēju. | cepumu | Я їм печиво з чаєм.
+saldējums | noun | морозиво | Vasarā mēs ēdam ___. | saldējumu | Влітку ми їмо морозиво.
+šokolāde | noun | шоколад | Bērniem patīk ___. | šokolāde | Дітям подобається шоколад.
+rīsi | noun | рис | Pie gaļas mēs ēdam ___. | rīsus | До м'яса ми їмо рис.
+makaroni | noun | макарони | Šodien mēs ēdam ___. | makaronus | Сьогодні ми їмо макарони.
+pica | noun | піца | Mēs pasūtījām ___. | picu | Ми замовили піцу.
+sviestmaize | noun | бутерброд | Es ēdu ___ ar sieru. | sviestmaizi | Я їм бутерброд з сиром.
+šķīvis | noun | тарілка | Uz ___ ir zupa. | šķīvja | На тарілці суп.
+glāze | noun | склянка | Es gribu ___ ūdens. | glāzi | Я хочу склянку води.
+krūze | noun | кухоль | Man patīk liela ___ tējas. | krūze | Мені подобається великий кухоль чаю.
+karote | noun | ложка | Zupu ēd ar ___. | karoti | Суп їдять ложкою.
+dakšiņa | noun | виделка | Gaļu ēd ar ___. | dakšiņu | М'ясо їдять виделкою.
+nazis | noun | ніж | Sagrieziet maizi ar ___. | nazi | Наріжте хліб ножем.
+ēdienkarte | noun | меню | Lūdzu, ___. | ēdienkarti | Будь ласка, меню.
+rēķins | noun | рахунок | Lūdzu, ___. | rēķinu | Будь ласка, рахунок.
+ēdnīca | noun | їдальня | Pusdienās mēs ejam uz ___. | ēdnīcu | На обід ми йдемо до їдальні.
+oficiants | noun | офіціант | ___ atnes ēdienkarti. | Oficiants | Офіціант приносить меню.
+dzeramnauda | noun | чайові | Mēs atstājām ___. | dzeramnaudu | Ми залишили чайові.
+vegetārietis | noun | вегетаріанець | Viņš neēd gaļu, viņš ir ___. | vegetārietis | Він не їсть м'яса, він вегетаріанець.
+labu apetīti | phrase | смачного | Visiem ___! | labu apetīti | Усім смачного!
+cept | verb | пекти; смажити | Mamma ___ pīrāgus. | cep | Мама пече пиріжки.
+vārīt | verb | варити | Es ___ kartupeļus. | vāru | Я варю картоплю.
+griezt | verb | різати | Es ___ maizi ar nazi. | griežu | Я ріжу хліб ножем.
+ieliet | verb | налити | Lūdzu, ___ man tēju. | ielejiet | Будь ласка, налийте мені чаю.
+nogaršot | verb | скуштувати | Es gribu ___ šo zupu. | nogaršot | Я хочу скуштувати цей суп.
+garšot | verb | смакувати | Šī zupa ļoti ___. | garšo | Цей суп дуже смачний.
+pasūtīt | verb | замовити | Es gribu ___ kafiju. | pasūtīt | Я хочу замовити каву.
+ieteikt | verb | порадити | Ko jūs mums ___? | iesakāt | Що ви нам порадите?
+vēlēties | verb | бажати | Ko jūs ___ dzert? | vēlaties | Що ви бажаєте пити?
+pietikt | verb | вистачати | Man ___ ar vienu gabalu. | pietiek | Мені вистачає одного шматка.
+garšīgs | adj | смачний | Šī zupa ir ļoti ___. | garšīga | Цей суп дуже смачний.
+salds | adj | солодкий | Cukurs ir ___. | salds | Цукор солодкий.
+sāļš | adj | солоний | Jūras ūdens ir ___. | sāļš | Морська вода солона.
+skābs | adj | кислий | Citrons ir ļoti ___. | skābs | Лимон дуже кислий.
+rūgts | adj | гіркий | Šī kafija ir ļoti ___. | rūgta | Ця кава дуже гірка.
+ass | adj | гострий | Šis ēdiens ir pārāk ___. | ass | Ця страва занадто гостра.
+vārīts | adj | варений | Es ēdu ___ kartupeļus. | vārītus | Я їм варену картоплю.
+cepts | adj | смажений; запечений | Man garšo ___ zivs. | cepta | Мені смакує смажена риба.
+izsalcis | adj | голодний | Es neesmu ēdis visu dienu, es esmu ļoti ___. | izsalcis | Я не їв цілий день, я дуже голодний.
+izslāpis | adj | спраглий | Ir karsts, es esmu ļoti ___. | izslāpis | Спекотно, я дуже хочу пити.

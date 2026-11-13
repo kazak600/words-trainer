@@ -1,0 +1,39 @@
+profesija | noun | професія | Kāda ir jūsu ___? | profesija | Яка ваша професія?
+skolotāja | noun | вчителька | Mana mamma ir ___. | skolotāja | Моя мама — вчителька.
+farmaceits | noun | фармацевт | ___ aptiekā pārdod zāles. | Farmaceits | Фармацевт в аптеці продає ліки.
+advokāts | noun | адвокат | Viņš ir labs ___. | advokāts | Він хороший адвокат.
+tiesnesis | noun | суддя | ___ pieņem lēmumu. | Tiesnesis | Суддя ухвалює рішення.
+policists | noun | поліцейський | ___ pārbauda dokumentus. | Policists | Поліцейський перевіряє документи.
+ugunsdzēsējs | noun | пожежник | ___ dzēš uguni. | Ugunsdzēsējs | Пожежник гасить вогонь.
+kareivis | noun | солдат | ___ dien armijā. | Kareivis | Солдат служить в армії.
+kasieris | noun | касир | ___ veikalā pieņem naudu. | Kasieris | Касир у магазині приймає гроші.
+frizieris | noun | перукар | ___ griež matus. | Frizieris | Перукар стриже волосся.
+pilots | noun | пілот | ___ vada lidmašīnu. | Pilots | Пілот керує літаком.
+stjuarte | noun | бортпровідниця | ___ lidmašīnā nes ēdienu. | Stjuarte | Бортпровідниця в літаку несе їжу.
+pavārs | noun | кухар | ___ gatavo ēdienu restorānā. | Pavārs | Кухар готує їжу в ресторані.
+bārmenis | noun | бармен | ___ pagatavo dzērienu. | Bārmenis | Бармен готує напій.
+celtnieks | noun | будівельник | ___ būvē māju. | Celtnieks | Будівельник будує будинок.
+elektriķis | noun | електрик | ___ salaboja lampu. | Elektriķis | Електрик полагодив лампу.
+santehniķis | noun | сантехнік | ___ salaboja krānu. | Santehniķis | Сантехнік полагодив кран.
+mehāniķis | noun | механік | ___ labo automašīnu. | Mehāniķis | Механік ремонтує автомобіль.
+inženieris | noun | інженер | Mans tēvs ir ___. | inženieris | Мій батько — інженер.
+programmētājs | noun | програміст | ___ raksta programmas. | Programmētājs | Програміст пише програми.
+grāmatvedis | noun | бухгалтер | ___ strādā ar skaitļiem. | Grāmatvedis | Бухгалтер працює з числами.
+sekretāre | noun | секретарка | ___ atbild uz zvaniem. | Sekretāre | Секретарка відповідає на дзвінки.
+direktors | noun | директор | Mūsu ___ ir ļoti stingrs. | direktors | Наш директор дуже суворий.
+menedžeris | noun | менеджер | ___ vada komandu. | Menedžeris | Менеджер керує командою.
+žurnālists | noun | журналіст | ___ raksta rakstus. | Žurnālists | Журналіст пише статті.
+aktieris | noun | актор | ___ spēlē teātrī. | Aktieris | Актор грає в театрі.
+mākslinieks | noun | художник | ___ glezno gleznas. | Mākslinieks | Художник малює картини.
+mūziķis | noun | музикант | ___ spēlē ģitāru. | Mūziķis | Музикант грає на гітарі.
+rakstnieks | noun | письменник | ___ raksta grāmatas. | Rakstnieks | Письменник пише книжки.
+zinātnieks | noun | науковець | ___ pēta dabu. | Zinātnieks | Науковець досліджує природу.
+lauksaimnieks | noun | землероб | ___ audzē kviešus. | Lauksaimnieks | Землероб вирощує пшеницю.
+zvejnieks | noun | рибалка | ___ zvejo jūrā. | Zvejnieks | Рибалка ловить рибу в морі.
+bibliotekārs | noun | бібліотекар | ___ strādā bibliotēkā. | Bibliotekārs | Бібліотекар працює в бібліотеці.
+tulks | noun | перекладач | ___ tulko no angļu valodas. | Tulks | Перекладач перекладає з англійської мови.
+arhitekts | noun | архітектор | ___ zīmē mājas. | Arhitekts | Архітектор проєктує будинки.
+dizainers | noun | дизайнер | ___ izdomā jaunu apģērbu. | Dizainers | Дизайнер вигадує новий одяг.
+darba devējs | phrase | роботодавець | ___ maksā algu. | Darba devējs | Роботодавець платить зарплату.
+nodarboties | verb | займатися | Ar ko jūs ___? | nodarbojaties | Чим ви займаєтеся?
+būvēt | verb | будувати | Viņi ___ jaunu māju. | būvē | Вони будують новий будинок.

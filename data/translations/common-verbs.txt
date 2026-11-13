@@ -1,0 +1,75 @@
+varēt | verb | могти | Es ___ jums palīdzēt. | varu | Я можу вам допомогти.
+darīt | verb | робити | Ko tu šodien ___? | dari | Що ти сьогодні робиш?
+domāt | verb | думати | Es ___, ka tas ir labi. | domāju | Я думаю, що це добре.
+teikt | verb | казати | Ko viņš ___? | saka | Що він каже?
+redzēt | verb | бачити | Es ___ jūru. | redzu | Я бачу море.
+likt | verb | класти | Es ___ grāmatu uz galda. | lieku | Я кладу книжку на стіл.
+turēt | verb | тримати | Viņa ___ rokā somu. | tur | Вона тримає в руці сумку.
+dzirdēt | verb | чути | Es nevaru jūs ___. | dzirdēt | Я вас не чую.
+aiziet | verb | піти | Es gribu ___ mājās. | aiziet | Я хочу піти додому.
+notikt | verb | статися | Kas ___? | notika | Що сталося?
+kļūt | verb | ставати | Viņš grib ___ ārsts. | kļūt | Він хоче стати лікарем.
+palikt | verb | залишатися | Es ___ mājās. | palieku | Я залишаюся вдома.
+atnākt | verb | прийти | Vai tu vari rīt ___? | atnākt | Чи можеш ти завтра прийти?
+atnest | verb | принести | Lūdzu, ___ man ūdeni. | atnesiet | Будь ласка, принесіть мені воду.
+vest | verb | вести; везти | Tētis ___ bērnus uz skolu. | ved | Тато веде дітей до школи.
+nest | verb | нести | Viņa ___ smagu somu. | nes | Вона несе важку сумку.
+pateikt | verb | сказати | Vai varat man ___, cik pulkstenis? | pateikt | Чи можете ви сказати, котра година?
+paskatīties | verb | подивитися | Es gribu ___ jūsu fotogrāfijas. | paskatīties | Я хочу подивитися ваші фотографії.
+pagaidīt | verb | зачекати | Lūdzu, ___ mazliet. | pagaidiet | Будь ласка, зачекайте трохи.
+saukt | verb | кликати | Viņi mūs ___ ciemos. | sauc | Вони кличуть нас у гості.
+dabūt | verb | отримати | Es gribu ___ jaunu darbu. | dabūt | Я хочу отримати нову роботу.
+ļaut | verb | дозволяти | Vecāki ___ bērniem spēlēties. | ļauj | Батьки дозволяють дітям гратися.
+izdarīt | verb | зробити | Es jau esmu visu ___. | izdarījis | Я вже все зробив.
+uzzināt | verb | дізнатися | Es gribu ___ ko jaunu. | uzzināt | Я хочу дізнатися щось нове.
+doties | verb | вирушати | Mēs ___ uz kalniem. | dodamies | Ми вирушаємо в гори.
+tikt | verb | потрапити; дістатися | Vai jūs varat ___ līdz stacijai? | tikt | Чи можете ви дістатися до станції?
+mēģināt | verb | намагатися | Es ___ runāt latviski. | mēģinu | Я намагаюся говорити латиською.
+izmantot | verb | використовувати | Es ___ vārdnīcu. | izmantoju | Я користуюся словником.
+drīkstēt | verb | мати право; можна | Vai es ___ ieiet? | drīkstu | Чи можна мені зайти?
+sacīt | verb | сказати | Viņš ___ patiesību. | sacīja | Він сказав правду.
+nozīmēt | verb | означати | Ko šis vārds ___? | nozīmē | Що означає це слово?
+ticēt | verb | вірити | Es tev ___. | ticu | Я тобі вірю.
+censties | verb | старатися | Es ļoti ___. | cenšos | Я дуже стараюся.
+izdoties | verb | вдаватися | Man ___ nokārtot eksāmenu. | izdevās | Мені вдалося скласти іспит.
+cerēt | verb | сподіватися | Es ___, ka tu atnāksi. | ceru | Я сподіваюся, що ти прийдеш.
+ierasties | verb | прибути | Vilciens ___ laikā. | ierodas | Поїзд прибуває вчасно.
+atstāt | verb | залишити | Es ___ somu mājās. | atstāju | Я залишив сумку вдома.
+turpināt | verb | продовжувати | Mēs ___ mācīties. | turpinām | Ми продовжуємо вчитися.
+likties | verb | здаватися | Man ___, ka tas ir labi. | liekas | Мені здається, що це добре.
+pieņemt | verb | прийняти | Es ___ jūsu piedāvājumu. | pieņemu | Я приймаю вашу пропозицію.
+pārliecināt | verb | переконати | Es gribu viņu ___. | pārliecināt | Я хочу його переконати.
+apsolīt | verb | пообіцяти | Es ___ atnākt. | apsolu | Я обіцяю прийти.
+pastāstīt | verb | розповісти | Vai varat man ___ par Rīgu? | pastāstīt | Чи можете ви розповісти мені про Ригу?
+stāstīt | verb | розповідати | Vecmāmiņa mums ___ pasakas. | stāsta | Бабуся розповідає нам казки.
+uzskatīt | verb | вважати | Es ___ to par labu ideju. | uzskatu | Я вважаю це гарною ідеєю.
+sekot | verb | йти слідом | Lūdzu, ___ man. | sekojiet | Будь ласка, йдіть за мною.
+piederēt | verb | належати | Šī grāmata ___ man. | pieder | Ця книжка належить мені.
+baidīties | verb | боятися | Es ___ no suņiem. | baidos | Я боюся собак.
+iedomāties | verb | уявити | Es nevaru ___, ka tas ir tiesa. | iedomāties | Я не можу уявити, що це правда.
+aprunāties | verb | поговорити | Es gribu ar jums ___. | aprunāties | Я хочу з вами поговорити.
+parunāt | verb | поговорити | Vai varam ___? | parunāt | Чи можемо ми поговорити?
+pamest | verb | покинути | Viņš gribēja ___ darbu. | pamest | Він хотів покинути роботу.
+pazust | verb | зникнути | Mana atslēga ir ___. | pazudusi | Мій ключ зник.
+darboties | verb | працювати; діяти | Lifts ___. | darbojas | Ліфт працює.
+kustēties | verb | рухатися | Lūdzu, ___ lēnām. | kustieties | Будь ласка, рухайтеся повільно.
+izbeigt | verb | закінчити | Es gribu ___ šo darbu. | izbeigt | Я хочу закінчити цю роботу.
+aizvest | verb | відвезти | Tētis mūs ___ uz staciju. | aizved | Тато відвозить нас на станцію.
+paklausīties | verb | послухати | Es gribu ___ šo dziesmu. | paklausīties | Я хочу послухати цю пісню.
+padomāt | verb | подумати | Es gribu mazliet ___. | padomāt | Я хочу трохи подумати.
+izstāstīt | verb | розповісти (докладно) | Es varu jums visu ___. | izstāstīt | Я можу вам усе розповісти.
+spēt | verb | бути здатним | Viņš ___ strādāt visu dienu. | spēj | Він здатний працювати цілий день.
+piedot | verb | пробачити | Lūdzu, ___ man. | piedodiet | Будь ласка, пробачте мені.
+mirt | verb | вмирати | Ziedi ___ bez ūdens. | mirst | Квіти вмирають без води.
+nomirt | verb | померти | Mans vectēvs ___ pērn. | nomira | Мій дідусь помер торік.
+šķist | verb | здаватися | Man ___, ka tas ir pareizi. | šķiet | Мені здається, що це правильно.
+atvainot | verb | вибачити | Lūdzu, ___ mani. | atvainojiet | Будь ласка, вибачте мене.
+pazaudēt | verb | загубити | Es ___ savu maku. | pazaudēju | Я загубив свій гаманець.
+sagaidīt | verb | зустріти | Mēs ___ viesus pie durvīm. | sagaidām | Ми зустрічаємо гостей біля дверей.
+atbalstīt | verb | підтримувати | Es ___ jūsu ideju. | atbalstu | Я підтримую вашу ідею.
+pārliecināties | verb | переконатися | Es gribu ___, ka viss ir kārtībā. | pārliecināties | Я хочу переконатися, що все гаразд.
+nolemt | verb | вирішити | Mēs ___ braukt uz jūru. | nolēmām | Ми вирішили поїхати до моря.
+ierosināt | verb | запропонувати | Es ___ iet uz kino. | ierosinu | Я пропоную піти в кіно.
+izlemt | verb | вирішити | Vai jūs jau esat ___? | izlēmuši | Чи ви вже вирішили?
+izskaidrot | verb | пояснити | Lūdzu, ___ man šo vārdu. | izskaidrojiet | Будь ласка, поясніть мені це слово.
+apsvērt | verb | обміркувати | Es gribu to ___. | apsvērt | Я хочу це обміркувати.

@@ -1,0 +1,75 @@
+dzīvnieks | noun | тварина | Lauva ir bīstams ___. | dzīvnieks | Лев — небезпечна тварина.
+suns | noun | пес; собака | Mans ___ ir ļoti draudzīgs. | suns | Мій пес дуже дружній.
+kaķis | noun | кіт | Mans ___ guļ uz dīvāna. | kaķis | Мій кіт спить на дивані.
+aita | noun | вівця | ___ dod vilnu. | Aita | Вівця дає вовну.
+kaza | noun | коза | ___ dod pienu. | Kaza | Коза дає молоко.
+pīle | noun | качка | ___ peld dīķī. | Pīle | Качка плаває в ставку.
+zoss | noun | гуска | ___ ir liels putns. | Zoss | Гуска — великий птах.
+trusis | noun | кролик | ___ dzīvo būrī. | Trusis | Кролик живе в клітці.
+pele | noun | миша | ___ ir ļoti maza. | Pele | Миша дуже маленька.
+kucēns | noun | цуценя | ___ spēlējas pagalmā. | Kucēns | Цуценя грається у дворі.
+kaķēns | noun | кошеня | Mazais ___ dzer pienu. | kaķēns | Маленьке кошеня п'є молоко.
+teļš | noun | теля | Govij ir mazs ___. | teļš | У корови є маленьке теля.
+mājdzīvnieks | noun | домашня тварина | Kaķis ir mans mīļākais ___. | mājdzīvnieks | Кіт — моя улюблена домашня тварина.
+aste | noun | хвіст | Sunim ir gara ___. | aste | У пса довгий хвіст.
+spalva | noun | перо | Putnam ir skaistas ___. | spalvas | У птаха гарне пір'я.
+kažoks | noun | шуба; хутро | Lapsai ir silts ___. | kažoks | У лисиці тепле хутро.
+ķepa | noun | лапа | Kaķim ir mīkstas ___. | ķepas | У кота м'які лапи.
+būris | noun | клітка | Putns sēž ___. | būrī | Птах сидить у клітці.
+barot | verb | годувати | Es ___ suni divreiz dienā. | barāju | Я годую пса двічі на день.
+lēkt | verb | стрибати | Zaķis māk ātri ___. | lēkt | Заєць уміє швидко стрибати.
+riet | verb | гавкати | Suns skaļi ___. | rej | Пес голосно гавкає.
+ņaudēt | verb | нявкати | Kaķis ___. | ņaud | Кіт нявкає.
+glāstīt | verb | гладити | Bērns ___ kaķi. | glāsta | Дитина гладить кота.
+kopt | verb | доглядати | Zemnieks ___ dzīvniekus. | kopj | Фермер доглядає тварин.
+ganīt | verb | пасти | Zēns ___ govis. | gana | Хлопчик пасе корів.
+slaukt | verb | доїти | Zemniece ___ govi. | slauc | Фермерка доїть корову.
+zvērs | noun | звір | Mežā dzīvo daudz ___. | zvēru | У лісі живе багато звірів.
+lācis | noun | ведмідь | ___ ziemā guļ. | Lācis | Ведмідь узимку спить.
+vilks | noun | вовк | ___ dzīvo mežā. | Vilks | Вовк живе в лісі.
+lapsa | noun | лисиця | ___ ir viltīga. | Lapsa | Лисиця хитра.
+zaķis | noun | заєць | Ātrs ___ skrien pa pļavu. | zaķis | Швидкий заєць біжить по лузі.
+ezis | noun | їжак | Mežā mēs redzējām ___. | ezi | У лісі ми бачили їжака.
+briedis | noun | олень | Mežā dzīvo ___. | briedis | У лісі живе олень.
+alnis | noun | лось | ___ ir liels dzīvnieks. | Alnis | Лось — велика тварина.
+mežacūka | noun | дикий кабан | Mežā var sastapt ___. | mežacūku | У лісі можна зустріти дикого кабана.
+vāvere | noun | білка | ___ kāpj kokā. | Vāvere | Білка лізе на дерево.
+žurka | noun | щур | ___ dzīvo pagrabā. | Žurka | Щур живе в підвалі.
+ērglis | noun | орел | ___ lido augstu. | Ērglis | Орел літає високо.
+pūce | noun | сова | ___ medī naktī. | Pūce | Сова полює вночі.
+gulbis | noun | лебідь | Ezerā peld balts ___. | gulbis | На озері пливе білий лебідь.
+stārķis | noun | лелека | ___ dzīvo uz jumta. | Stārķis | Лелека живе на даху.
+strazds | noun | дрізд | Dārzā dzied ___. | strazds | У саду співає дрізд.
+zvirbulis | noun | горобець | ___ ir mazs putns. | Zvirbulis | Горобець — маленький птах.
+vārna | noun | ворона | Uz koka sēž melna ___. | vārna | На дереві сидить чорна ворона.
+dzenis | noun | дятел | ___ dauza koku. | Dzenis | Дятел довбе дерево.
+dzērve | noun | журавель | ___ lido uz dienvidiem. | Dzērve | Журавель летить на південь.
+gailis | noun | півень | ___ dzied no rīta. | Gailis | Півень співає зранку.
+kukainis | noun | комаха | Bite ir ___. | kukainis | Бджола — комаха.
+bite | noun | бджола | ___ dod medu. | Bite | Бджола дає мед.
+tauriņš | noun | метелик | Dārzā lido ___. | tauriņš | У саду літає метелик.
+skudra | noun | мурашка | ___ ir ļoti strādīga. | Skudra | Мурашка дуже працьовита.
+muša | noun | муха | Virtuvē lido ___. | muša | На кухні літає муха.
+ods | noun | комар | Vasarā mežā ir daudz ___. | odu | Влітку в лісі багато комарів.
+zirneklis | noun | павук | Stūrī sēž ___. | zirneklis | У куті сидить павук.
+odze | noun | гадюка | Mežā ir ___. | odze | У лісі є гадюка.
+čūska | noun | змія | Es baidos no ___. | čūskām | Я боюся змій.
+varde | noun | жаба | Dīķī lēkā ___. | varde | У ставку стрибає жаба.
+krupis | noun | ропуха | ___ dzīvo dārzā. | Krupis | Ропуха живе в саду.
+bruņurupucis | noun | черепаха | ___ iet ļoti lēni. | Bruņurupucis | Черепаха йде дуже повільно.
+zilonis | noun | слон | ___ ir ļoti liels. | Zilonis | Слон дуже великий.
+lauva | noun | лев | ___ ir ļoti bīstams zvērs. | Lauva | Лев — дуже небезпечний звір.
+tīģeris | noun | тигр | ___ dzīvo Āzijā. | Tīģeris | Тигр живе в Азії.
+pērtiķis | noun | мавпа | ___ ēd banānus. | Pērtiķis | Мавпа їсть банани.
+žirafe | noun | жирафа | ___ ir garš kakls. | Žirafei | У жирафи довга шия.
+delfīns | noun | дельфін | ___ ir gudrs dzīvnieks. | Delfīns | Дельфін — розумна тварина.
+valis | noun | кит | ___ ir lielākais dzīvnieks. | Valis | Кит — найбільша тварина.
+haizivs | noun | акула | ___ ir bīstama zivs. | Haizivs | Акула — небезпечна риба.
+ķengurs | noun | кенгуру | ___ lēkā ļoti tālu. | Ķengurs | Кенгуру стрибає дуже далеко.
+medīt | verb | полювати | Vilks ___ naktī. | medī | Вовк полює вночі.
+rāpot | verb | повзти | Čūska ___. | rāpo | Змія повзе.
+dzelt | verb | жалити | Bite var ___. | dzelt | Бджола може вжалити.
+kost | verb | кусати | Suns var ___. | kost | Пес може вкусити.
+mežonīgs | adj | дикий | Vilks ir ___ dzīvnieks. | mežonīgs | Вовк — дикий звір.
+savvaļas | adj | дикий (вільний) | Šeit dzīvo ___ dzīvnieki. | savvaļas | Тут живуть дикі тварини.
+bīstams | adj | небезпечний | Šis suns ir ___. | bīstams | Цей пес небезпечний.

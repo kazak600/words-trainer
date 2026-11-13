@@ -100,8 +100,9 @@ Tasks:
 - Handle words with several senses: take the first sense by default and mark multi-sense words for the review.
 - Coverage report: how many words matched, and how many verbs have full forms. This decides whether verb forms are promised in the UI (stage 16).
 - Unmatched words keep an empty English meaning and are flagged so stage 5 can still translate them.
+- **Grammar fallback (`fill_grammar_tezaurs.py`):** for words Wiktionary cannot describe, and for verbs with incomplete forms, the free Tēzaurs morphology service supplies gender, declension, case forms and verb forms. Plural-only words (*brīvdienas*) take the grammar of their base word (`form-of:` flag); a guess for a word outside the Tēzaurs lexicon is flagged `grammar-guessed`. Results are cached in `data/.cache`, and the step is safe to run again.
 
-**Done when:** the CSV has the new columns and the coverage report shows the match rate.
+**Done when:** the CSV has the new columns, the coverage report shows the match rate, and the grammar fallback has run.
 
 ## Stage 5. Ukrainian translations and gap sentences (data track)
 
@@ -113,6 +114,8 @@ Tasks:
 - AI gap sentences in Latvian at the unit's level, with the gap marker and the answer. The answer must be the word's form in the sentence, since Latvian changes endings.
 - Validation script: no empty translations, the gap marker is present, the answer appears in the sentence, no duplicate sentences.
 - All new rows get `review_status = pending`.
+- Authoring format: one file per topic in `data/translations/`, one line per word: `lemma | pos | ukrainian | sentence with ___ | answer | ukrainian translation of the sentence`. One gap sentence per word. The Ukrainian translation shown with a gap sentence is what tells apart gap sentences that look alike.
+- The English meaning from Wiktionary is only a hint: where it was wrong (for example *svārki* glossed as "coat", *tualete* as "dress") the Latvian word wins.
 
 **Done when:** the CSV passes validation and no row lacks a translation.
 

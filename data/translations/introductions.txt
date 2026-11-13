@@ -1,0 +1,59 @@
+sveiki | interj | привіт | ___! Es esmu Anna. | Sveiki | Привіт! Я Анна.
+sveiks | interj | привіт (до чоловіка) | ___, Jāni! Kā tev klājas? | Sveiks | Привіт, Янісе! Як у тебе справи?
+labdien | interj | добрий день | ___! Mani sauc Anna. | Labdien | Добрий день! Мене звати Анна.
+labrīt | interj | доброго ранку | ___! Vai tu labi gulēji? | Labrīt | Доброго ранку! Ти добре спав?
+labvakar | interj | добрий вечір | ___! Priecājos jūs redzēt. | Labvakar | Добрий вечір! Радий вас бачити.
+ardievas | interj | прощавайте | ___, draugi! | Ardievas | Прощавайте, друзі!
+atā | interj | бувай | ___, rīt tiksimies! | Atā | Бувай, завтра побачимось!
+paldies | interj | дякую | ___ par palīdzību! | Paldies | Дякую за допомогу!
+lūdzu | interj | будь ласка | Kafiju, ___! | lūdzu | Каву, будь ласка!
+atvainojiet | interj | вибачте | ___, kur ir stacija? | Atvainojiet | Вибачте, де станція?
+piedodiet | interj | пробачте | ___, es nokavēju. | Piedodiet | Пробачте, я запізнився.
+jā | interj | так | ___, es runāju latviski. | Jā | Так, я розмовляю латиською.
+nē | interj | ні | ___, es nezinu. | Nē | Ні, я не знаю.
+uz redzēšanos | phrase | до побачення | ___, līdz rītdienai! | Uz redzēšanos | До побачення, до завтра!
+prieks iepazīties | phrase | приємно познайомитися | Mani sauc Pēteris, ___. | prieks iepazīties | Мене звати Петеріс, приємно познайомитися.
+labu nakti | phrase | на добраніч | ___, mīļie bērni! | Labu nakti | На добраніч, любі діти!
+uz drīzu redzēšanos | phrase | до швидкої зустрічі | Mēs sazināsimies. ___! | Uz drīzu redzēšanos | Ми зв'яжемося. До швидкої зустрічі!
+es | pron | я | ___ esmu students. | Es | Я студент.
+tu | pron | ти | Vai ___ runā latviski? | tu | Ти розмовляєш латиською?
+viņš | pron | він | ___ dzīvo Rīgā. | Viņš | Він живе в Ризі.
+viņa | pron | вона | ___ strādā skolā. | Viņa | Вона працює в школі.
+mēs | pron | ми | ___ esam draugi. | Mēs | Ми друзі.
+jūs | pron | ви | Vai ___ esat no Ukrainas? | jūs | Ви з України?
+viņi | pron | вони (чоловіки) | ___ dzīvo Latvijā. | Viņi | Вони живуть у Латвії.
+viņas | pron | вони (жінки) | ___ ir draudzenes. | Viņas | Вони подруги.
+vārds | noun | ім'я; слово | Mans ___ ir Anna. | vārds | Моє ім'я Анна.
+uzvārds | noun | прізвище | Kāds ir jūsu ___? | uzvārds | Яке ваше прізвище?
+vecums | noun | вік | Kāds ir jūsu ___? | vecums | Який ваш вік?
+adrese | noun | адреса | Uzrakstiet savu ___, lūdzu. | adresi | Напишіть свою адресу, будь ласка.
+tālrunis | noun | телефон | Es runāju pa ___. | tālruni | Я розмовляю по телефону.
+pase | noun | паспорт | Lūdzu, parādiet savu ___. | pasi | Будь ласка, покажіть свій паспорт.
+kungs | noun | пан | Labdien, Ozola ___! | kungs | Добрий день, пане Озоле!
+kundze | noun | пані | Labdien, Bērziņas ___! | kundze | Добрий день, пані Берзіню!
+jaunkundze | noun | панна | Šī ir ___ Liepa, mūsu skolotāja. | jaunkundze | Це панна Ліпа, наша вчителька.
+meitene | noun | дівчина; дівчинка | Šī ___ ir mana māsa. | meitene | Ця дівчина — моя сестра.
+puisis | noun | хлопець | Tas ___ ir mans brālis. | puisis | Той хлопець — мій брат.
+cilvēks | noun | людина | Viņš ir labs ___. | cilvēks | Він добра людина.
+sveiciens | noun | привітання | Sirsnīgs ___ no Rīgas! | sveiciens | Сердечне привітання з Риги!
+students | noun | студент | Mans brālis ir ___. | students | Мій брат — студент.
+studente | noun | студентка | Anna ir ___. | studente | Анна — студентка.
+skolēns | noun | школяр; учень | Mans dēls ir ___. | skolēns | Мій син — школяр.
+dzimtene | noun | батьківщина | Ukraina ir mana ___. | dzimtene | Україна — моя батьківщина.
+saukties | verb | називатися | Kā jūs ___? | saucaties | Як вас звати?
+iepazīties | verb | знайомитися | Es gribu ar jums ___. | iepazīties | Я хочу з вами познайомитися.
+dzīvot | verb | жити | Es ___ Rīgā. | dzīvoju | Я живу в Ризі.
+runāt | verb | говорити; розмовляти | Es ___ latviski. | runāju | Я розмовляю латиською.
+strādāt | verb | працювати | Viņa ___ bankā. | strādā | Вона працює в банку.
+mācīties | verb | вчитися | Mēs ___ latviešu valodu. | mācāmies | Ми вчимо латиську мову.
+būt | verb | бути | Es gribu ___ ārsts. | būt | Я хочу бути лікарем.
+nākt | verb | приходити; походити | Es ___ no Ukrainas. | nāku | Я родом з України.
+sveicināt | verb | вітати | Viņš ___ visus ar smaidu. | sveicina | Він вітає всіх з усмішкою.
+pateikties | verb | дякувати | Es gribu jums ___. | pateikties | Я хочу вам подякувати.
+atvainoties | verb | вибачатися | Es gribu ___ par kavēšanos. | atvainoties | Я хочу вибачитися за запізнення.
+lūgt | verb | просити | Es jūs ___ palīdzēt. | lūdzu | Я прошу вас допомогти.
+saprast | verb | розуміти | Es labi ___ latviski. | saprotu | Я добре розумію латиську.
+atkārtot | verb | повторювати | Lūdzu, ___ vēlreiz. | atkārtojiet | Будь ласка, повторіть ще раз.
+pierakstīt | verb | записувати | Lūdzu, ___ savu vārdu. | pierakstiet | Будь ласка, запишіть своє ім'я.
+laipns | adj | ввічливий; люб'язний | Viņš ir ļoti ___ cilvēks. | laipns | Він дуже люб'язна людина.
+jauks | adj | милий; приємний | Tas ir ļoti ___ vārds. | jauks | Це дуже гарне ім'я.

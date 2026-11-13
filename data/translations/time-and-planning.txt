@@ -1,0 +1,62 @@
+pirmdiena | noun | понеділок | Pēc svētdienas nāk ___. | pirmdiena | Після неділі йде понеділок.
+otrdiena | noun | вівторок | Pēc pirmdienas nāk ___. | otrdiena | Після понеділка йде вівторок.
+trešdiena | noun | середа | Pēc otrdienas nāk ___. | trešdiena | Після вівторка йде середа.
+ceturtdiena | noun | четвер | Pēc trešdienas nāk ___. | ceturtdiena | Після середи йде четвер.
+piektdiena | noun | п'ятниця | Pēc ceturtdienas nāk ___. | piektdiena | Після четверга йде п'ятниця.
+sestdiena | noun | субота | Pēc piektdienas nāk ___. | sestdiena | Після п'ятниці йде субота.
+svētdiena | noun | неділя | Pēc sestdienas nāk ___. | svētdiena | Після суботи йде неділя.
+janvāris | noun | січень | Pēc decembra nāk ___. | janvāris | Після грудня йде січень.
+februāris | noun | лютий | Pēc janvāra nāk ___. | februāris | Після січня йде лютий.
+marts | noun | березень | Pēc februāra nāk ___. | marts | Після лютого йде березень.
+aprīlis | noun | квітень | Pēc marta nāk ___. | aprīlis | Після березня йде квітень.
+maijs | noun | травень | Pēc aprīļa nāk ___. | maijs | Після квітня йде травень.
+jūnijs | noun | червень | Pēc maija nāk ___. | jūnijs | Після травня йде червень.
+jūlijs | noun | липень | Pēc jūnija nāk ___. | jūlijs | Після червня йде липень.
+augusts | noun | серпень | Pēc jūlija nāk ___. | augusts | Після липня йде серпень.
+septembris | noun | вересень | Pēc augusta nāk ___. | septembris | Після серпня йде вересень.
+oktobris | noun | жовтень | Pēc septembra nāk ___. | oktobris | Після вересня йде жовтень.
+novembris | noun | листопад | Pēc oktobra nāk ___. | novembris | Після жовтня йде листопад.
+decembris | noun | грудень | Pēc novembra nāk ___. | decembris | Після листопада йде грудень.
+nedēļa | noun | тиждень | Vienā ___ ir septiņas dienas. | nedēļā | В одному тижні сім днів.
+mēnesis | noun | місяць | Gadā ir divpadsmit ___. | mēneši | У році дванадцять місяців.
+gads | noun | рік | Šis ___ bija ļoti interesants. | gads | Цей рік був дуже цікавим.
+minūte | noun | хвилина | Pagaidiet vienu ___, lūdzu. | minūti | Зачекайте одну хвилину, будь ласка.
+pusdiena | noun | полудень | Ap ___ ir ļoti karsts. | pusdienu | Близько полудня дуже жарко.
+datums | noun | дата; число | Kāds šodien ir ___? | datums | Яке сьогодні число?
+laiks | noun | час | Man nav ___. | laika | У мене немає часу.
+šodien | adv | сьогодні | ___ ir ļoti silts. | Šodien | Сьогодні дуже тепло.
+rīt | adv | завтра | ___ mēs tiekamies. | Rīt | Завтра ми зустрічаємося.
+vakar | adv | вчора | ___ es biju teātrī. | Vakar | Вчора я був у театрі.
+tagad | adv | зараз | Es ___ esmu darbā. | tagad | Я зараз на роботі.
+vēlāk | adv | пізніше | Es piezvanīšu ___. | vēlāk | Я зателефоную пізніше.
+tūlīt | adv | зараз; негайно | Es nākšu ___. | tūlīt | Я зараз прийду.
+cik pulkstenis | phrase | котра година | Atvainojiet, ___? | cik pulkstenis | Вибачте, котра година?
+pusseptiņi | phrase | пів на сьому | Tagad ir ___. | pusseptiņi | Зараз пів на сьому.
+plānotājs | noun | планер; щоденник | Es pierakstu visu savā ___. | plānotājā | Я записую все у своєму планері.
+plāns | noun | план | Mums ir labs ___. | plāns | У нас є хороший план.
+sekunde | noun | секунда | Minūtē ir sešdesmit ___. | sekundes | У хвилині шістдесят секунд.
+tikšanās | noun | зустріч | Rīt man ir svarīga ___. | tikšanās | Завтра в мене важлива зустріч.
+rinda | noun | черга; ряд | Veikalā ir gara ___. | rinda | У магазині довга черга.
+termiņš | noun | термін | Šis ___ beidzas rīt. | termiņš | Цей термін закінчується завтра.
+kalendārs | noun | календар | Uz sienas karājas ___. | kalendārs | На стіні висить календар.
+pasākums | noun | захід | Šovakar ir interesants ___. | pasākums | Сьогодні ввечері цікавий захід.
+izstāde | noun | виставка | Mēs apmeklējām mākslas ___. | izstādi | Ми відвідали виставку мистецтва.
+kavēšanās | noun | запізнення | Atvainojiet par ___. | kavēšanos | Вибачте за запізнення.
+atgādinājums | noun | нагадування | Es saņēmu ___ par tikšanos. | atgādinājumu | Я отримав нагадування про зустріч.
+steiga | noun | поспіх | Man ir liela ___. | steiga | Я дуже поспішаю.
+darba diena | phrase | робочий день | Pirmdiena ir ___. | darba diena | Понеділок — робочий день.
+plānot | verb | планувати | Mēs ___ ceļojumu uz Itāliju. | plānojam | Ми плануємо подорож до Італії.
+norunāt | verb | домовитися | Mēs ___ tikties pulksten piecos. | norunājām | Ми домовилися зустрітися о п'ятій.
+atcelt | verb | скасувати | Viņi ___ tikšanos. | atcēla | Вони скасували зустріч.
+pārcelt | verb | перенести | Es gribu ___ tikšanos uz rītu. | pārcelt | Я хочу перенести зустріч на завтра.
+paspēt | verb | встигнути | Es nevaru ___ uz autobusu. | paspēt | Я не можу встигнути на автобус.
+steigties | verb | поспішати | Mēs ļoti ___ uz staciju. | steidzamies | Ми дуже поспішаємо на станцію.
+atcerēties | verb | пам'ятати; згадувати | Es labi ___ šo dienu. | atceros | Я добре пам'ятаю цей день.
+atgādināt | verb | нагадати | Lūdzu, ___ man rīt. | atgādiniet | Будь ласка, нагадайте мені завтра.
+sākties | verb | починатися | Filma ___ pulksten septiņos. | sākas | Фільм починається о сьомій.
+beigties | verb | закінчуватися | Koncerts ___ vienpadsmitos. | beidzas | Концерт закінчується об одинадцятій.
+ilgt | verb | тривати | Filma ___ divas stundas. | ilgst | Фільм триває дві години.
+apstiprināt | verb | підтвердити | Lūdzu, ___ rezervāciju. | apstipriniet | Будь ласка, підтвердіть бронювання.
+parīt | adv | післязавтра | ___ mēs braucam uz Rīgu. | Parīt | Післязавтра ми їдемо до Риги.
+drīz | adv | незабаром | Vilciens ___ atnāks. | drīz | Поїзд незабаром прийде.
+nesen | adv | нещодавно | Es ___ pārcēlos uz Rīgu. | nesen | Я нещодавно переїхав до Риги.

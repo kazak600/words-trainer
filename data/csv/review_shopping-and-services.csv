@@ -1,0 +1,40 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+frizētava,noun,A2,,перукарня,Es eju uz ___.,frizētavu,Я йду до перукарні.,approved
+pakalpojums,noun,A2,,послуга,Šis ___ ir ļoti dārgs.,pakalpojums,Ця послуга дуже дорога.,approved
+akcija,noun,A2,action,акція,Šodien veikalā ir ___.,akcija,Сьогодні в магазині акція.,approved
+kvīts,noun,A2,receipt,квитанція,Saglabājiet ___.,kvīti,Збережіть квитанцію.,approved
+kredītkarte,noun,A2,credit card,кредитна картка,Man ir ___.,kredītkarte,У мене є кредитна картка.,approved
+bankomāts,noun,A2,,банкомат,Kur ir ___?,bankomāts,Де банкомат?,approved
+konts,noun,A2,"account, bank account",рахунок,Man ir ___ bankā.,konts,У мене є рахунок у банку.,approved
+klients,noun,A2,customer,клієнт,___ gaida rindā.,Klients,Клієнт чекає в черзі.,approved
+preces,noun,A2,"article, product, goods, wares, merchandise",товари,Veikalā ir daudz dažādu ___.,preču,У магазині багато різних товарів.,approved
+kvalitāte,noun,A2,quality,якість,Šo preču ___ ir ļoti laba.,kvalitāte,Якість цих товарів дуже хороша.,approved
+garantija,noun,A2,,гарантія,Telefonam ir divu gadu ___.,garantija,Телефон має дворічну гарантію.,approved
+iepakojums,noun,A2,"packaging, pack",упаковка,Šis ___ ir ļoti skaists.,iepakojums,Ця упаковка дуже гарна.,approved
+pasūtījums,noun,A2,,замовлення,Mans ___ jau ir ceļā.,pasūtījums,Моє замовлення вже в дорозі.,approved
+piegāde,noun,A2,,доставка,___ ir bezmaksas.,Piegāde,Доставка безкоштовна.,approved
+sūdzība,noun,A2,complaint,скарга,Es gribu uzrakstīt ___.,sūdzību,Я хочу написати скаргу.,approved
+vēstule,noun,A2,letter,лист,Es saņēmu ___ no drauga.,vēstuli,Я отримав листа від друга.,approved
+sūtījums,noun,A2,"consignment, parcel, remittance, shipment",посилка,Mans ___ ir atnācis.,sūtījums,Моя посилка прийшла.,approved
+pakete,noun,A2,,пакунок,Pastā ir ___ jums.,pakete,На пошті є пакунок для вас.,approved
+aploksne,noun,A2,envelope,конверт,Ielieciet vēstuli ___.,aploksnē,Покладіть листа в конверт.,approved
+marka,noun,A2,,марка,Man vajag aploksni un ___.,marku,Мені потрібен конверт і марка.,approved
+atdot,verb,A2,,віддати,"Lūdzu, ___ man grāmatu.",atdodiet,"Будь ласка, віддайте мені книжку.",approved
+atgriezt,verb,A2,to return,повернути,Es gribu ___ šo kreklu.,atgriezt,Я хочу повернути цю сорочку.,approved
+nomainīt,verb,A2,,замінити; обміняти,Vai varu ___ izmēru?,nomainīt,Чи можу я поміняти розмір?,approved
+piegādāt,verb,A2,,доставити,Mēs ___ preces uz mājām.,piegādājam,Ми доставляємо товари додому.,approved
+sūtīt,verb,A2,to send,відправляти,Es gribu ___ vēstuli.,sūtīt,Я хочу відправити листа.,approved
+saņemt,verb,A2,"to receive, to get",отримувати,Kur var ___ sūtījumu?,saņemt,Де можна отримати посилку?,approved
+nosūtīt,verb,A2,,відправити,Vai jūs varat ___ šo paketi?,nosūtīt,Чи можете ви відправити цей пакунок?,approved
+iztērēt,verb,A2,,витратити,Es negribu ___ daudz naudas.,iztērēt,Я не хочу витрачати багато грошей.,approved
+ietaupīt,verb,A2,,заощадити,Mēs gribam ___ naudu.,ietaupīt,Ми хочемо заощадити гроші.,approved
+izņemt,verb,A2,,зняти; забрати,Es gribu ___ naudu no bankomāta.,izņemt,Я хочу зняти гроші з банкомата.,approved
+pārskaitīt,verb,A2,,переказати,Es gribu ___ naudu draugam.,pārskaitīt,Я хочу переказати гроші другові.,approved
+sūdzēties,verb,A2,,скаржитися,Viņš vienmēr ___ par visu.,sūdzas,Він завжди скаржиться на все.,approved
+bezmaksas,adj,A2,,безкоштовний,Šis kurss ir ___.,bezmaksas,Цей курс безкоштовний.,approved
+pieejams,adj,A2,accessible,доступний,Šī informācija ir ___ internetā.,pieejama,Ця інформація доступна в інтернеті.,approved
+derīgs,adj,A2,"useful, usable, fit, suitable, adapted, appropriate",дійсний; придатний,Mana biļete ir ___ līdz piektdienai.,derīga,Мій квиток дійсний до п'ятниці.,approved
+bojāts,adj,A2,,пошкоджений; зламаний,Šis telefons ir ___.,bojāts,Цей телефон зламаний.,approved
+piemērots,adj,A2,,відповідний,Šī jaka ir ___ ziemai.,piemērota,Ця куртка підходить для зими.,approved
+nepiemērots,adj,A2,,невідповідний,Šie apavi ir ___ lietum.,nepiemēroti,Це взуття не підходить для дощу.,approved
+nepieciešams,adj,A2,necessary,необхідний,Pase ir ___.,nepieciešama,Паспорт необхідний.,approved

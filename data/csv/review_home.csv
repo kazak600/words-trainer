@@ -1,0 +1,26 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+guļamistaba,noun,A2,bedroom,спальня,Mana ___ ir maza.,guļamistaba,Моя спальня маленька.,approved
+viesistaba,noun,A2,"living room, sitting room",вітальня,Mēs skatāmies televizoru ___.,viesistabā,Ми дивимося телевізор у вітальні.,approved
+kāpnes,noun,A2,"stairs, staircase",сходи,Mēs ejam augšā pa ___.,kāpnēm,Ми йдемо нагору по сходах.,approved
+lifts,noun,A2,,ліфт,Mēs braucam augšā ar ___.,liftu,Ми їдемо нагору ліфтом.,approved
+griesti,noun,A2,ceiling,стеля,___ ir balti.,Griesti,Стеля біла.,approved
+mēbele,noun,A2,"piece of furniture, item of furniture",меблі (предмет),Šī ___ ir ļoti veca.,mēbele,Цей предмет меблів дуже старий.,approved
+plaukts,noun,A2,shelf,полиця,Grāmatas ir uz ___.,plaukta,Книжки на полиці.,approved
+paklājs,noun,A2,"carpet, rug, mat",килим,Uz grīdas ir liels ___.,paklājs,На підлозі великий килим.,approved
+aizkars,noun,A2,curtain,штора,"Aizvelciet ___, lūdzu.",aizkaru,"Засуньте штору, будь ласка.",approved
+spogulis,noun,A2,mirror,дзеркало,Es skatos ___.,spogulī,Я дивлюся в дзеркало.,approved
+īrnieks,noun,A2,,орендар,___ maksā īri katru mēnesi.,Īrnieks,Орендар платить оренду щомісяця.,approved
+īpašnieks,noun,A2,possessor,власник,Dzīvokļa ___ dzīvo ārzemēs.,īpašnieks,Власник квартири живе за кордоном.,approved
+remonts,noun,A2,"renovation, repair",ремонт,Mūsu dzīvoklī notiek ___.,remonts,У нашій квартирі йде ремонт.,approved
+garāža,noun,A2,garage,гараж,Auto stāv ___.,garāžā,Автомобіль стоїть у гаражі.,approved
+apkure,noun,A2,heating,опалення,Ziemā ___ ir ļoti dārga.,apkure,Узимку опалення дуже дороге.,approved
+siltums,noun,A2,heat,тепло,Mēs mīlam saules ___.,siltumu,Ми любимо сонячне тепло.,approved
+komunālie maksājumi,noun,A2,,комунальні платежі,___ ir ļoti augsti.,Komunālie maksājumi,Комунальні платежі дуже високі.,approved
+pārcelties,verb,A2,,переїжджати,Mēs gribam ___ uz Rīgu.,pārcelties,Ми хочемо переїхати до Риги.,approved
+īrēt,verb,A2,,орендувати; винаймати,Mēs gribam ___ dzīvokli.,īrēt,Ми хочемо винайняти квартиру.,approved
+remontēt,verb,A2,,ремонтувати,Viņš ___ mūsu virtuvi.,remontē,Він ремонтує нашу кухню.,approved
+apmesties,verb,A2,,оселитися,Viņi gribēja ___ laukos.,apmesties,Вони хотіли оселитися на селі.,approved
+iekārtot,verb,A2,,облаштовувати,Mēs ___ jaunu dzīvokli.,iekārtojam,Ми облаштовуємо нову квартиру.,approved
+izīrēt,verb,A2,,здавати в оренду,Viņš grib ___ savu dzīvokli.,izīrēt,Він хоче здати свою квартиру в оренду.,approved
+mājīgs,adj,A2,,затишний,Mūsu dzīvoklis ir ļoti ___.,mājīgs,Наша квартира дуже затишна.,approved
+plašs,adj,A2,"wide, broad, spacious, large",просторий,Viesistaba ir ļoti ___.,plaša,Вітальня дуже простора.,approved

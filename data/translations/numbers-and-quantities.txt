@@ -1,0 +1,51 @@
+nulle | num | нуль | Ūdens sasalst pie ___ grādiem. | nulles | Вода замерзає при нулі градусів.
+viens | num | один | Man ir ___ brālis. | viens | У мене один брат.
+divi | num | два | Man ir ___ bērni. | divi | У мене двоє дітей.
+trīs | num | три | Mums ir ___ istabas. | trīs | У нас три кімнати.
+četri | num | чотири | Gadā ir ___ gadalaiki. | četri | В році чотири пори року.
+pieci | num | п'ять | Uz rokas ir ___ pirksti. | pieci | На руці п'ять пальців.
+seši | num | шість | Divreiz trīs ir ___. | seši | Двічі по три — шість.
+septiņi | num | сім | Nedēļā ir ___ dienas. | septiņas | У тижні сім днів.
+astoņi | num | вісім | Divreiz četri ir ___. | astoņi | Двічі по чотири — вісім.
+deviņi | num | дев'ять | Trīsreiz trīs ir ___. | deviņi | Тричі по три — дев'ять.
+desmit | num | десять | Divreiz pieci ir ___. | desmit | Двічі по п'ять — десять.
+vienpadsmit | num | одинадцять | Futbola komandā ir ___ spēlētāji. | vienpadsmit | У футбольній команді одинадцять гравців.
+divpadsmit | num | дванадцять | Vienpadsmit un viens ir ___. | divpadsmit | Одинадцять і один — дванадцять.
+trīspadsmit | num | тринадцять | Divpadsmit un viens ir ___. | trīspadsmit | Дванадцять і один — тринадцять.
+četrpadsmit | num | чотирнадцять | Trīspadsmit un viens ir ___. | četrpadsmit | Тринадцять і один — чотирнадцять.
+piecpadsmit | num | п'ятнадцять | Četrpadsmit un viens ir ___. | piecpadsmit | Чотирнадцять і один — п'ятнадцять.
+sešpadsmit | num | шістнадцять | Piecpadsmit un viens ir ___. | sešpadsmit | П'ятнадцять і один — шістнадцять.
+septiņpadsmit | num | сімнадцять | Sešpadsmit un viens ir ___. | septiņpadsmit | Шістнадцять і один — сімнадцять.
+astoņpadsmit | num | вісімнадцять | Septiņpadsmit un viens ir ___. | astoņpadsmit | Сімнадцять і один — вісімнадцять.
+deviņpadsmit | num | дев'ятнадцять | Astoņpadsmit un viens ir ___. | deviņpadsmit | Вісімнадцять і один — дев'ятнадцять.
+divdesmit | num | двадцять | Deviņpadsmit un viens ir ___. | divdesmit | Дев'ятнадцять і один — двадцять.
+trīsdesmit | num | тридцять | Divdesmit un desmit ir ___. | trīsdesmit | Двадцять і десять — тридцять.
+četrdesmit | num | сорок | Trīsdesmit un desmit ir ___. | četrdesmit | Тридцять і десять — сорок.
+piecdesmit | num | п'ятдесят | Četrdesmit un desmit ir ___. | piecdesmit | Сорок і десять — п'ятдесят.
+sešdesmit | num | шістдесят | Piecdesmit un desmit ir ___. | sešdesmit | П'ятдесят і десять — шістдесят.
+septiņdesmit | num | сімдесят | Sešdesmit un desmit ir ___. | septiņdesmit | Шістдесят і десять — сімдесят.
+astoņdesmit | num | вісімдесят | Septiņdesmit un desmit ir ___. | astoņdesmit | Сімдесят і десять — вісімдесят.
+deviņdesmit | num | дев'яносто | Astoņdesmit un desmit ir ___. | deviņdesmit | Вісімдесят і десять — дев'яносто.
+simts | num | сто | Deviņdesmit un desmit ir ___. | simts | Дев'яносто і десять — сто.
+tūkstotis | num | тисяча | Kilometrā ir viens ___ metru. | tūkstotis | У кілометрі тисяча метрів.
+miljons | num | мільйон | Tūkstotis tūkstošu ir viens ___. | miljons | Тисяча тисяч — це один мільйон.
+pirmais | num | перший | Janvāris ir gada ___ mēnesis. | pirmais | Січень — перший місяць року.
+otrais | num | другий | Februāris ir gada ___ mēnesis. | otrais | Лютий — другий місяць року.
+trešais | num | третій | Marts ir gada ___ mēnesis. | trešais | Березень — третій місяць року.
+ceturtais | num | четвертий | Aprīlis ir gada ___ mēnesis. | ceturtais | Квітень — четвертий місяць року.
+piektais | num | п'ятий | Maijs ir gada ___ mēnesis. | piektais | Травень — п'ятий місяць року.
+skaitlis | noun | число; цифра | Septiņi ir mans laimīgais ___. | skaitlis | Сім — моє щасливе число.
+puse | noun | половина | Es apēdu ___ kūkas. | pusi | Я з'їв половину торта.
+ceturtdaļa | noun | чверть | Es paņēmu vienu ___ no kūkas. | ceturtdaļu | Я взяв чверть торта.
+pāris | noun | пара | Es nopirku ___ zeķu. | pāri | Я купив пару шкарпеток.
+daudzums | noun | кількість | Šim ēdienam vajag lielu ___ cukura. | daudzumu | Для цієї страви потрібна велика кількість цукру.
+procents | noun | відсоток | Atlaide ir desmit ___. | procenti | Знижка — десять відсотків.
+summa | noun | сума | Kāda ir kopējā ___? | summa | Яка загальна сума?
+daudz | adv | багато | Veikalā ir ___ cilvēku. | daudz | У магазині багато людей.
+maz | adv | мало | Man ir ___ laika. | maz | У мене мало часу.
+mazliet | adv | трохи | Es runāju latviski tikai ___. | mazliet | Я розмовляю латиською лише трохи.
+vairāk | adv | більше | Es gribu ___ ūdens. | vairāk | Я хочу більше води.
+mazāk | adv | менше | Man vajag ___ cukura. | mazāk | Мені потрібно менше цукру.
+pietiekami | adv | достатньо | Man ir ___ naudas. | pietiekami | У мене достатньо грошей.
+vienreiz | adv | один раз | Es to redzēju tikai ___. | vienreiz | Я бачив це лише один раз.
+divreiz | adv | двічі | Es braucu uz Rīgu ___ gadā. | divreiz | Я їжджу до Риги двічі на рік.

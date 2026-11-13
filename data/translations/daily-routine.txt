@@ -1,0 +1,54 @@
+diena | noun | день | Šī ir jauka ___. | diena | Це чудовий день.
+rīts | noun | ранок | Es celos katru ___. | rītu | Я прокидаюся щоранку.
+vakars | noun | вечір | Es mīlu mierīgu ___. | vakaru | Я люблю спокійний вечір.
+nakts | noun | ніч | Šī ___ bija ļoti auksta. | nakts | Ця ніч була дуже холодною.
+brokastis | noun | сніданок | Man garšo ___. | brokastis | Мені смакує сніданок.
+pusdienas | noun | обід | Mēs ēdam ___ pulksten vienpadsmitos. | pusdienas | Ми обідаємо об одинадцятій.
+vakariņas | noun | вечеря | Mēs ēdam ___ kopā. | vakariņas | Ми вечеряємо разом.
+darbs | noun | робота | Mans ___ sākas astoņos. | darbs | Моя робота починається о восьмій.
+duša | noun | душ | Es eju ___. | dušā | Я йду в душ.
+zobu birste | noun | зубна щітка | Man vajag jaunu ___. | zobu birsti | Мені потрібна нова зубна щітка.
+ziepes | noun | мило | Rokas jāmazgā ar ___. | ziepēm | Руки треба мити милом.
+dvielis | noun | рушник | Dod man ___, lūdzu. | dvieli | Дай мені рушник, будь ласка.
+pulkstenis | noun | годинник | Man ir jauns ___. | pulkstenis | У мене новий годинник.
+modinātājs | noun | будильник | ___ zvana septiņos. | Modinātājs | Будильник дзвонить о сьомій.
+veļa | noun | білизна; прання | Es mazgāju ___. | veļu | Я перу білизну.
+veļasmašīna | noun | пральна машина | ___ ir vannasistabā. | Veļasmašīna | Пральна машина у ванній кімнаті.
+atpūta | noun | відпочинок | Pēc darba man vajag ___. | atpūtu | Після роботи мені потрібен відпочинок.
+rutīna | noun | рутина | Katru dienu ir viena un tā pati ___. | rutīna | Щодня одна й та сама рутина.
+brīvdiena | noun | вихідний | Svētdiena ir ___. | brīvdiena | Неділя — вихідний.
+mājas darbi | phrase | домашнє завдання | Bērni dara ___. | mājas darbus | Діти роблять домашнє завдання.
+iet gulēt | phrase | лягати спати | Es parasti ___ vienpadsmitos. | eju gulēt | Я зазвичай лягаю спати об одинадцятій.
+katru dienu | phrase | щодня | Es mācos latviešu valodu ___. | katru dienu | Я вчу латиську мову щодня.
+pēc tam | phrase | потім | Vispirms brokastis, ___ darbs. | pēc tam | Спочатку сніданок, потім робота.
+celties | verb | вставати | Es ___ septiņos. | ceļos | Я встаю о сьомій.
+mosties | verb | прокидатися | Es ___ ļoti agri. | mostos | Я прокидаюся дуже рано.
+mazgāties | verb | митися; вмиватися | Es ___ katru rītu. | mazgājos | Я вмиваюся щоранку.
+ģērbties | verb | одягатися | Bērns jau māk pats ___. | ģērbties | Дитина вже вміє сама одягатися.
+brokastot | verb | снідати | Mēs ___ virtuvē. | brokastojam | Ми снідаємо на кухні.
+pusdienot | verb | обідати | Es ___ darbā. | pusdienoju | Я обідаю на роботі.
+vakariņot | verb | вечеряти | Mēs ___ septiņos. | vakariņojam | Ми вечеряємо о сьомій.
+ēst | verb | їсти | Es gribu ___. | ēst | Я хочу їсти.
+dzert | verb | пити | Es ___ tēju. | dzeru | Я п'ю чай.
+skatīties | verb | дивитися | Es gribu ___ filmu. | skatīties | Я хочу подивитися фільм.
+klausīties | verb | слухати | Es mīlu ___ mūziku. | klausīties | Я люблю слухати музику.
+lasīt | verb | читати | Vakarā es ___ grāmatu. | lasu | Увечері я читаю книжку.
+rakstīt | verb | писати | Es ___ vēstuli draugam. | rakstu | Я пишу листа другові.
+iepirkties | verb | робити покупки | Sestdien mēs ___. | iepērkamies | У суботу ми ходимо за покупками.
+aizmigt | verb | заснути | Bērns ātri ___. | aizmiga | Дитина швидко заснула.
+pamosties | verb | прокинутися | Šorīt es ___ vēlu. | pamodos | Сьогодні вранці я прокинувся пізно.
+zvanīt | verb | телефонувати | Es ___ mammai katru dienu. | zvanu | Я телефоную мамі щодня.
+piezvanīt | verb | зателефонувати | Es tev rīt ___. | piezvanīšu | Я тобі завтра зателефоную.
+satikt | verb | зустріти | Es gribu ___ draugu. | satikt | Я хочу зустріти друга.
+sākt | verb | починати | Es gribu ___ jaunu darbu. | sākt | Я хочу почати нову роботу.
+beigt | verb | закінчувати | Es ___ darbu piecos. | beidzu | Я закінчую роботу о п'ятій.
+gludināt | verb | прасувати | Mamma ___ kreklus. | gludina | Мама прасує сорочки.
+agri | adv | рано | Es celos ļoti ___. | agri | Я встаю дуже рано.
+vēlu | adv | пізно | Vakar es gāju gulēt ļoti ___. | vēlu | Вчора я ліг спати дуже пізно.
+parasti | adv | зазвичай | ___ es dzeru kafiju no rīta. | Parasti | Зазвичай я п'ю каву зранку.
+bieži | adv | часто | Mēs ___ ejam uz parku. | bieži | Ми часто ходимо до парку.
+reti | adv | рідко | Es ___ skatos televizoru. | reti | Я рідко дивлюся телевізор.
+vienmēr | adv | завжди | Viņš ___ ceļas agri. | vienmēr | Він завжди рано встає.
+nekad | adv | ніколи | Es ___ nekavēju. | nekad | Я ніколи не запізнююся.
+dažreiz | adv | іноді | ___ es ēdu pusdienas kafejnīcā. | Dažreiz | Іноді я обідаю в кафе.
+vispirms | adv | спочатку | ___ es tīru zobus. | Vispirms | Спочатку я чищу зуби.

@@ -1,0 +1,84 @@
+lielveikals | noun | супермаркет | Es pērku pārtiku ___. | lielveikalā | Я купую продукти в супермаркеті.
+cena | noun | ціна | Kāda ir šīs jakas ___? | cena | Яка ціна цієї куртки?
+nauda | noun | гроші | Man nav ___. | naudas | У мене немає грошей.
+maks | noun | гаманець | Mans ___ ir tukšs. | maks | Мій гаманець порожній.
+eiro | noun | євро | Šī grāmata maksā desmit ___. | eiro | Ця книжка коштує десять євро.
+cents | noun | цент | Kafija maksā vienu eiro un piecdesmit ___. | centus | Кава коштує один євро п'ятдесят центів.
+čeks | noun | чек | Lūdzu, ___. | čeku | Будь ласка, чек.
+pārdevējs | noun | продавець | ___ palīdz klientam. | Pārdevējs | Продавець допомагає клієнту.
+pircējs | noun | покупець | Veikalā ir daudz ___. | pircēju | У магазині багато покупців.
+kase | noun | каса | Samaksājiet ___. | kasē | Заплатіть у касі.
+grozs | noun | кошик | Es ieliku pienu ___. | grozā | Я поклав молоко в кошик.
+maisiņš | noun | пакет; торбинка | Vai jums vajag ___? | maisiņu | Вам потрібен пакет?
+atlaide | noun | знижка | Šodien ir liela ___. | atlaide | Сьогодні велика знижка.
+grāmatnīca | noun | книгарня | Es nopirku grāmatu ___. | grāmatnīcā | Я купив книжку в книгарні.
+karte | noun | картка; мапа | Vai varu maksāt ar ___? | karti | Чи можу я заплатити карткою?
+izmērs | noun | розмір | Kāds ir jūsu ___? | izmērs | Який у вас розмір?
+krāsa | noun | колір | Kāda ___ jums patīk? | krāsa | Який колір вам подобається?
+sīknauda | noun | дрібні гроші; решта | Man nav ___. | sīknaudas | У мене немає дрібних грошей.
+saraksts | noun | список | Es sastādīju pirkumu ___. | sarakstu | Я склав список покупок.
+svars | noun | вага | Kāds ir šīs somas ___? | svars | Яка вага цієї сумки?
+kilograms | noun | кілограм | Es gribu vienu ___ ābolu. | kilogramu | Я хочу один кілограм яблук.
+grams | noun | грам | Dodiet man divsimt ___ siera. | gramu | Дайте мені двісті грамів сиру.
+litrs | noun | літр | Es nopirku divus ___ piena. | litrus | Я купив два літри молока.
+pudele | noun | пляшка | Lūdzu, ūdens ___. | pudeli | Будь ласка, пляшку води.
+kārba | noun | коробка | Šajā ___ ir cepumi. | kārbā | У цій коробці печиво.
+paciņa | noun | пачка | Es nopirku ___ tējas. | paciņu | Я купив пачку чаю.
+skaidra nauda | phrase | готівка | Es maksāju ar ___. | skaidru naudu | Я плачу готівкою.
+pirkt | verb | купувати | Es gribu ___ jaunu telefonu. | pirkt | Я хочу купити новий телефон.
+pārdot | verb | продавати | Šajā veikalā ___ svaigu maizi. | pārdod | У цьому магазині продають свіжий хліб.
+maksāt | verb | платити; коштувати | Cik tas ___? | maksā | Скільки це коштує?
+izmaksāt | verb | коштувати | Remonts ___ ļoti dārgi. | izmaksās | Ремонт коштуватиме дуже дорого.
+izvēlēties | verb | вибирати | Es nevaru ___ krāsu. | izvēlēties | Я не можу вибрати колір.
+pielaikot | verb | приміряти | Vai varu ___ šo kreklu? | pielaikot | Чи можу я приміряти цю сорочку?
+vajadzēt | verb | бути потрібним | Man ___ jauns maks. | vajag | Мені потрібен новий гаманець.
+patikt | verb | подобатися | Man ___ šī jaka. | patīk | Мені подобається ця куртка.
+gribēt | verb | хотіти | Es ___ nopirkt maizi. | gribu | Я хочу купити хліб.
+ņemt | verb | брати | Es ___ šo kreklu. | ņemu | Я беру цю сорочку.
+dot | verb | давати | Lūdzu, ___ man maisiņu. | dodiet | Будь ласка, дайте мені пакет.
+meklēt | verb | шукати | Es ___ dāvanu mammai. | meklēju | Я шукаю подарунок для мами.
+dārgs | adj | дорогий | Šī jaka ir ļoti ___. | dārga | Ця куртка дуже дорога.
+lēts | adj | дешевий | Šis veikals ir ļoti ___. | lēts | Цей магазин дуже дешевий.
+svaigs | adj | свіжий | Maize ir ___. | svaiga | Хліб свіжий.
+atvērts | adj | відкритий | Veikals ir ___ līdz astoņiem. | atvērts | Магазин відкритий до восьмої.
+slēgts | adj | зачинений | Svētdien veikals ir ___. | slēgts | У неділю магазин зачинений.
+brīvs | adj | вільний; безкоштовний | Vai šis galds ir ___? | brīvs | Чи вільний цей стіл?
+frizētava | noun | перукарня | Es eju uz ___. | frizētavu | Я йду до перукарні.
+pakalpojums | noun | послуга | Šis ___ ir ļoti dārgs. | pakalpojums | Ця послуга дуже дорога.
+akcija | noun | акція | Šodien veikalā ir ___. | akcija | Сьогодні в магазині акція.
+kvīts | noun | квитанція | Saglabājiet ___. | kvīti | Збережіть квитанцію.
+kredītkarte | noun | кредитна картка | Man ir ___. | kredītkarte | У мене є кредитна картка.
+bankomāts | noun | банкомат | Kur ir ___? | bankomāts | Де банкомат?
+konts | noun | рахунок | Man ir ___ bankā. | konts | У мене є рахунок у банку.
+klients | noun | клієнт | ___ gaida rindā. | Klients | Клієнт чекає в черзі.
+preces | noun | товари | Veikalā ir daudz dažādu ___. | preču | У магазині багато різних товарів.
+kvalitāte | noun | якість | Šo preču ___ ir ļoti laba. | kvalitāte | Якість цих товарів дуже хороша.
+garantija | noun | гарантія | Telefonam ir divu gadu ___. | garantija | Телефон має дворічну гарантію.
+iepakojums | noun | упаковка | Šis ___ ir ļoti skaists. | iepakojums | Ця упаковка дуже гарна.
+pasūtījums | noun | замовлення | Mans ___ jau ir ceļā. | pasūtījums | Моє замовлення вже в дорозі.
+piegāde | noun | доставка | ___ ir bezmaksas. | Piegāde | Доставка безкоштовна.
+sūdzība | noun | скарга | Es gribu uzrakstīt ___. | sūdzību | Я хочу написати скаргу.
+vēstule | noun | лист | Es saņēmu ___ no drauga. | vēstuli | Я отримав листа від друга.
+sūtījums | noun | посилка | Mans ___ ir atnācis. | sūtījums | Моя посилка прийшла.
+pakete | noun | пакунок | Pastā ir ___ jums. | pakete | На пошті є пакунок для вас.
+aploksne | noun | конверт | Ielieciet vēstuli ___. | aploksnē | Покладіть листа в конверт.
+marka | noun | марка | Man vajag aploksni un ___. | marku | Мені потрібен конверт і марка.
+atdot | verb | віддати | Lūdzu, ___ man grāmatu. | atdodiet | Будь ласка, віддайте мені книжку.
+atgriezt | verb | повернути | Es gribu ___ šo kreklu. | atgriezt | Я хочу повернути цю сорочку.
+nomainīt | verb | замінити; обміняти | Vai varu ___ izmēru? | nomainīt | Чи можу я поміняти розмір?
+piegādāt | verb | доставити | Mēs ___ preces uz mājām. | piegādājam | Ми доставляємо товари додому.
+sūtīt | verb | відправляти | Es gribu ___ vēstuli. | sūtīt | Я хочу відправити листа.
+saņemt | verb | отримувати | Kur var ___ sūtījumu? | saņemt | Де можна отримати посилку?
+nosūtīt | verb | відправити | Vai jūs varat ___ šo paketi? | nosūtīt | Чи можете ви відправити цей пакунок?
+iztērēt | verb | витратити | Es negribu ___ daudz naudas. | iztērēt | Я не хочу витрачати багато грошей.
+ietaupīt | verb | заощадити | Mēs gribam ___ naudu. | ietaupīt | Ми хочемо заощадити гроші.
+izņemt | verb | зняти; забрати | Es gribu ___ naudu no bankomāta. | izņemt | Я хочу зняти гроші з банкомата.
+pārskaitīt | verb | переказати | Es gribu ___ naudu draugam. | pārskaitīt | Я хочу переказати гроші другові.
+sūdzēties | verb | скаржитися | Viņš vienmēr ___ par visu. | sūdzas | Він завжди скаржиться на все.
+bezmaksas | adj | безкоштовний | Šis kurss ir ___. | bezmaksas | Цей курс безкоштовний.
+derīgs | adj | дійсний; придатний | Mana biļete ir ___ līdz piektdienai. | derīga | Мій квиток дійсний до п'ятниці.
+bojāts | adj | пошкоджений; зламаний | Šis telefons ir ___. | bojāts | Цей телефон зламаний.
+piemērots | adj | відповідний | Šī jaka ir ___ ziemai. | piemērota | Ця куртка підходить для зими.
+nepiemērots | adj | невідповідний | Šie apavi ir ___ lietum. | nepiemēroti | Це взуття не підходить для дощу.
+pieejams | adj | доступний | Šī informācija ir ___ internetā. | pieejama | Ця інформація доступна в інтернеті.
+nepieciešams | adj | необхідний | Pase ir ___. | nepieciešama | Паспорт необхідний.

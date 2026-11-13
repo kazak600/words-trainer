@@ -1,0 +1,62 @@
+māja | noun | будинок | Mana ___ ir liela. | māja | Мій будинок великий.
+dzīvoklis | noun | квартира | Mēs dzīvojam mazā ___. | dzīvoklī | Ми живемо в маленькій квартирі.
+istaba | noun | кімната | Mans dēls ir savā ___. | istabā | Мій син у своїй кімнаті.
+virtuve | noun | кухня | Mamma gatavo ___. | virtuvē | Мама готує на кухні.
+vannasistaba | noun | ванна кімната | ___ ir blakus guļamistabai. | Vannasistaba | Ванна кімната поруч зі спальнею.
+tualete | noun | туалет | Kur ir ___? | tualete | Де туалет?
+durvis | noun | двері | Lūdzu, aizveriet ___. | durvis | Будь ласка, зачиніть двері.
+logs | noun | вікно | Atveriet ___, lūdzu. | logu | Відчиніть вікно, будь ласка.
+siena | noun | стіна | Uz ___ karājas glezna. | sienas | На стіні висить картина.
+grīda | noun | підлога | Bērns sēž uz ___. | grīdas | Дитина сидить на підлозі.
+galds | noun | стіл | Grāmata ir uz ___. | galda | Книжка на столі.
+krēsls | noun | стілець | Tur ir brīvs ___. | krēsls | Там є вільний стілець.
+gulta | noun | ліжко | Es guļu uz ērtas ___. | gultas | Я сплю на зручному ліжку.
+skapis | noun | шафа | Drēbes ir ___. | skapī | Одяг у шафі.
+dīvāns | noun | диван | Mēs sēžam uz ___. | dīvāna | Ми сидимо на дивані.
+lampa | noun | лампа | Ieslēdziet ___, lūdzu. | lampu | Увімкніть лампу, будь ласка.
+televizors | noun | телевізор | Mēs skatāmies ___. | televizoru | Ми дивимося телевізор.
+ledusskapis | noun | холодильник | Piens ir ___. | ledusskapī | Молоко в холодильнику.
+plīts | noun | плита | Zupa ir uz ___. | plīts | Суп на плиті.
+krāsns | noun | піч | Vecmāmiņa cep maizi ___. | krāsnī | Бабуся пече хліб у печі.
+trauki | noun | посуд | Es mazgāju ___. | traukus | Я мию посуд.
+atslēga | noun | ключ | Es nevaru atrast savu ___. | atslēgu | Я не можу знайти свій ключ.
+stāvs | noun | поверх | Mēs dzīvojam trešajā ___. | stāvā | Ми живемо на третьому поверсі.
+balkons | noun | балкон | Vasarā mēs sēžam uz ___. | balkona | Влітку ми сидимо на балконі.
+kaimiņš | noun | сусід | Mans ___ ir ļoti laipns. | kaimiņš | Мій сусід дуже привітний.
+īre | noun | оренда | Mēneša ___ ir trīssimt eiro. | īre | Місячна оренда — триста євро.
+atvērt | verb | відкривати | Es gribu ___ logu. | atvērt | Я хочу відчинити вікно.
+aizvērt | verb | зачиняти | Vai jūs varat ___ durvis? | aizvērt | Чи можете ви зачинити двері?
+iet | verb | іти; ходити | Es ___ uz virtuvi. | eju | Я йду на кухню.
+gulēt | verb | спати | Es gribu ___. | gulēt | Я хочу спати.
+gatavot | verb | готувати | Mamma ___ vakariņas. | gatavo | Мама готує вечерю.
+tīrīt | verb | чистити | Es ___ zobus katru rītu. | tīru | Я чищу зуби щоранку.
+uzkopt | verb | прибирати | Šodien mēs ___ dzīvokli. | uzkopjam | Сьогодні ми прибираємо квартиру.
+mazgāt | verb | мити | Viņš ___ rokas pirms ēšanas. | mazgā | Він миє руки перед їжею.
+ērts | adj | зручний | Šis krēsls ir ļoti ___. | ērts | Цей стілець дуже зручний.
+silts | adj | теплий | Istabā ir ___. | silts | У кімнаті тепло.
+auksts | adj | холодний | Ārā ir ļoti ___. | auksts | Надворі дуже холодно.
+guļamistaba | noun | спальня | Mana ___ ir maza. | guļamistaba | Моя спальня маленька.
+viesistaba | noun | вітальня | Mēs skatāmies televizoru ___. | viesistabā | Ми дивимося телевізор у вітальні.
+kāpnes | noun | сходи | Mēs ejam augšā pa ___. | kāpnēm | Ми йдемо нагору по сходах.
+lifts | noun | ліфт | Mēs braucam augšā ar ___. | liftu | Ми їдемо нагору ліфтом.
+griesti | noun | стеля | ___ ir balti. | Griesti | Стеля біла.
+mēbele | noun | меблі (предмет) | Šī ___ ir ļoti veca. | mēbele | Цей предмет меблів дуже старий.
+plaukts | noun | полиця | Grāmatas ir uz ___. | plaukta | Книжки на полиці.
+paklājs | noun | килим | Uz grīdas ir liels ___. | paklājs | На підлозі великий килим.
+aizkars | noun | штора | Aizvelciet ___, lūdzu. | aizkaru | Засуньте штору, будь ласка.
+spogulis | noun | дзеркало | Es skatos ___. | spogulī | Я дивлюся в дзеркало.
+īrnieks | noun | орендар | ___ maksā īri katru mēnesi. | Īrnieks | Орендар платить оренду щомісяця.
+īpašnieks | noun | власник | Dzīvokļa ___ dzīvo ārzemēs. | īpašnieks | Власник квартири живе за кордоном.
+remonts | noun | ремонт | Mūsu dzīvoklī notiek ___. | remonts | У нашій квартирі йде ремонт.
+garāža | noun | гараж | Auto stāv ___. | garāžā | Автомобіль стоїть у гаражі.
+apkure | noun | опалення | Ziemā ___ ir ļoti dārga. | apkure | Узимку опалення дуже дороге.
+siltums | noun | тепло | Mēs mīlam saules ___. | siltumu | Ми любимо сонячне тепло.
+komunālie maksājumi | noun | комунальні платежі | ___ ir ļoti augsti. | Komunālie maksājumi | Комунальні платежі дуже високі.
+pārcelties | verb | переїжджати | Mēs gribam ___ uz Rīgu. | pārcelties | Ми хочемо переїхати до Риги.
+īrēt | verb | орендувати; винаймати | Mēs gribam ___ dzīvokli. | īrēt | Ми хочемо винайняти квартиру.
+remontēt | verb | ремонтувати | Viņš ___ mūsu virtuvi. | remontē | Він ремонтує нашу кухню.
+apmesties | verb | оселитися | Viņi gribēja ___ laukos. | apmesties | Вони хотіли оселитися на селі.
+iekārtot | verb | облаштовувати | Mēs ___ jaunu dzīvokli. | iekārtojam | Ми облаштовуємо нову квартиру.
+izīrēt | verb | здавати в оренду | Viņš grib ___ savu dzīvokli. | izīrēt | Він хоче здати свою квартиру в оренду.
+mājīgs | adj | затишний | Mūsu dzīvoklis ir ļoti ___. | mājīgs | Наша квартира дуже затишна.
+plašs | adj | просторий | Viesistaba ir ļoti ___. | plaša | Вітальня дуже простора.

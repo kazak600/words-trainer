@@ -1,0 +1,64 @@
+apģērbs | noun | одяг | Ziemā vajag siltu ___. | apģērbu | Взимку потрібен теплий одяг.
+krekls | noun | сорочка | Viņš valkā baltu ___. | kreklu | Він носить білу сорочку.
+bikses | noun | штани | Man vajag jaunas ___. | bikses | Мені потрібні нові штани.
+svārki | noun | спідниця | Viņa valkā īsus ___. | svārkus | Вона носить коротку спідницю.
+kleita | noun | сукня | Šī ___ ir ļoti skaista. | kleita | Ця сукня дуже гарна.
+jaka | noun | куртка | Ārā ir auksts, uzvelc ___. | jaku | Надворі холодно, одягни куртку.
+cepure | noun | шапка; капелюх | Ziemā es valkāju siltu ___. | cepuri | Взимку я ношу теплу шапку.
+kurpes | noun | туфлі; взуття | Man vajag jaunas ___. | kurpes | Мені потрібні нові туфлі.
+zeķes | noun | шкарпетки | Vecmāmiņa adī siltas ___. | zeķes | Бабуся в'яже теплі шкарпетки.
+mētelis | noun | пальто | Ziemā es valkāju garu ___. | mēteli | Взимку я ношу довге пальто.
+džemperis | noun | светр | Šis ___ ir ļoti silts. | džemperis | Цей светр дуже теплий.
+cimdi | noun | рукавиці; рукавички | Aukstumā vajag ___. | cimdus | У холод потрібні рукавиці.
+šalle | noun | шарф | Es ap kaklu aptinu ___. | šalli | Я обмотую навколо шиї шарф.
+brilles | noun | окуляри | Viņš valkā ___. | brilles | Він носить окуляри.
+apavi | noun | взуття | Šie ___ ir ļoti ērti. | apavi | Це взуття дуже зручне.
+zābaki | noun | чоботи | Ziemā es valkāju siltus ___. | zābakus | Взимку я ношу теплі чоботи.
+balts | adj | білий | Sniegs ir ___. | balts | Сніг білий.
+melns | adj | чорний | Kaķis ir ___. | melns | Кіт чорний.
+sarkans | adj | червоний | Ābols ir ___. | sarkans | Яблуко червоне.
+zils | adj | синій; блакитний | Jūra ir ___. | zila | Море синє.
+zaļš | adj | зелений | Zāle ir ___. | zaļa | Трава зелена.
+dzeltens | adj | жовтий | Banāns ir ___. | dzeltens | Банан жовтий.
+brūns | adj | коричневий | Šokolāde ir ___. | brūna | Шоколад коричневий.
+pelēks | adj | сірий | Pele ir ___. | pelēka | Миша сіра.
+oranžs | adj | помаранчевий | Apelsīns ir ___. | oranžs | Апельсин помаранчевий.
+rozā | adj | рожевий | Viņai ir ___ kleita. | rozā | У неї рожева сукня.
+violets | adj | фіолетовий | Viņam ir ___ krekls. | violets | У нього фіолетова сорочка.
+gaišs | adj | світлий | Man patīk ___ istaba. | gaiša | Мені подобається світла кімната.
+tumšs | adj | темний | Ārā jau ir ___. | tumšs | Надворі вже темно.
+garš | adj | довгий | Šie svārki ir pārāk ___. | gari | Ця спідниця занадто довга.
+īss | adj | короткий | Šī kleita ir pārāk ___. | īsa | Ця сукня занадто коротка.
+plats | adj | широкий | Šīs bikses ir pārāk ___. | platas | Ці штани надто широкі.
+šaurs | adj | вузький | Šie zābaki ir pārāk ___. | šauri | Ці чоботи надто вузькі.
+valkāt | verb | носити (одяг) | Viņš mīl ___ melnu. | valkāt | Він любить носити чорне.
+uzvilkt | verb | одягнути | Es gribu ___ jaunu kleitu. | uzvilkt | Я хочу одягнути нову сукню.
+novilkt | verb | зняти (одяг) | Lūdzu, ___ apavus. | novelciet | Будь ласка, зніміть взуття.
+derēt | verb | пасувати; бути впору | Šī kleita tev ļoti ___. | der | Ця сукня тобі дуже пасує.
+drēbes | noun | одяг; речі | Es mazgāju ___. | drēbes | Я перу одяг.
+džinsi | noun | джинси | Viņš valkā zilus ___. | džinsus | Він носить сині джинси.
+sandales | noun | сандалі | Vasarā es valkāju ___. | sandales | Влітку я ношу сандалі.
+josta | noun | пасок | Man vajag ___ pie biksēm. | jostu | Мені потрібен пасок до штанів.
+kaklasaite | noun | краватка | Viņš valkā uzvalku un ___. | kaklasaiti | Він носить костюм і краватку.
+uzvalks | noun | костюм | Viņam ir jauns ___. | uzvalks | У нього новий костюм.
+pidžama | noun | піжама | Bērns guļ ___. | pidžamā | Дитина спить у піжамі.
+peldkostīms | noun | купальник; плавки | Pludmalē es valkāju ___. | peldkostīmu | На пляжі я ношу купальник.
+audums | noun | тканина | Šis ___ ir ļoti mīksts. | audums | Ця тканина дуже м'яка.
+kokvilna | noun | бавовна | Šis krekls ir no ___. | kokvilnas | Ця сорочка з бавовни.
+vilna | noun | вовна | Šis džemperis ir no ___. | vilnas | Цей светр з вовни.
+āda | noun | шкіра | Šīs kurpes ir no ___. | ādas | Це взуття зі шкіри.
+kabata | noun | кишеня | Telefons ir manā ___. | kabatā | Телефон у моїй кишені.
+poga | noun | гудзик | Krekla ___ ir nokritusi. | poga | Гудзик на сорочці відірвався.
+rāvējslēdzējs | noun | блискавка (на одязі) | Jakai ir salūzis ___. | rāvējslēdzējs | У куртки зламалася блискавка.
+mode | noun | мода | Šī kleita ir pēc jaunākās ___. | modes | Ця сукня за останньою модою.
+stils | noun | стиль | Man patīk viņas ___. | stils | Мені подобається її стиль.
+saģērbties | verb | одягнутися | Es ātri ___. | saģērbjos | Я швидко одягаюся.
+noģērbties | verb | роздягнутися | Bērns grib ___. | noģērbties | Дитина хоче роздягнутися.
+apāvt | verb | взути | Es nevaru ___ jaunos apavus. | apāvt | Я не можу взути нове взуття.
+šūt | verb | шити | Mana mamma māk ___. | šūt | Моя мама вміє шити.
+žāvēt | verb | сушити | Es ___ veļu uz balkona. | žāvēju | Я сушу білизну на балконі.
+piestāvēt | verb | личити | Šī krāsa tev ļoti ___. | piestāv | Цей колір тобі дуже личить.
+moderns | adj | модний; сучасний | Šī jaka ir ļoti ___. | moderna | Ця куртка дуже модна.
+elegants | adj | елегантний | Viņš ir ļoti ___ vīrietis. | elegants | Він дуже елегантний чоловік.
+raibs | adj | строкатий | Viņai ir ___ šalle. | raiba | У неї строкатий шарф.
+vienkrāsains | adj | однотонний | Man patīk ___ krekli. | vienkrāsaini | Мені подобаються однотонні сорочки.

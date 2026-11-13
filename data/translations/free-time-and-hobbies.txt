@@ -1,0 +1,82 @@
+hobijs | noun | хобі | Mans ___ ir fotografēšana. | hobijs | Моє хобі — фотографія.
+sports | noun | спорт | Es mīlu ___. | sportu | Я люблю спорт.
+spēle | noun | гра | Šī ___ ir ļoti interesanta. | spēle | Ця гра дуже цікава.
+futbols | noun | футбол | Zēni spēlē ___. | futbolu | Хлопці грають у футбол.
+mūzika | noun | музика | Es klausos ___. | mūziku | Я слухаю музику.
+filma | noun | фільм | Vakar mēs skatījāmies jauku ___. | filmu | Вчора ми дивилися гарний фільм.
+grāmata | noun | книжка | Es lasu interesantu ___. | grāmatu | Я читаю цікаву книжку.
+koncerts | noun | концерт | Rīt vakarā ir ___. | koncerts | Завтра ввечері концерт.
+dziesma | noun | пісня | Tā ir mana mīļākā ___. | dziesma | Це моя улюблена пісня.
+deja | noun | танець | Mēs mācāmies jaunu ___. | deju | Ми вчимо новий танець.
+pastaiga | noun | прогулянка | Pēc pusdienām mēs dodamies ___. | pastaigā | Після обіду ми йдемо на прогулянку.
+ekskursija | noun | екскурсія | Rīt mums ir ___ pa Vecrīgu. | ekskursija | Завтра в нас екскурсія по Старій Ризі.
+dators | noun | комп'ютер | Man ir jauns ___. | dators | У мене новий комп'ютер.
+telefons | noun | телефон | Mans ___ ir uz galda. | telefons | Мій телефон на столі.
+ziņas | noun | новини | Es skatos ___. | ziņas | Я дивлюся новини.
+avīze | noun | газета | Tētis lasa ___. | avīzi | Тато читає газету.
+žurnāls | noun | журнал | Šajā ___ ir interesanti raksti. | žurnālā | У цьому журналі цікаві статті.
+fotogrāfija | noun | фотографія | Šī ___ ir ļoti skaista. | fotogrāfija | Ця фотографія дуже гарна.
+ballīte | noun | вечірка | Sestdien mums ir ___. | ballīte | У суботу в нас вечірка.
+pludmale | noun | пляж | Vasarā mēs ejam uz ___. | pludmali | Влітку ми йдемо на пляж.
+peldēšana | noun | плавання | Man patīk ___. | peldēšana | Мені подобається плавання.
+brīvais laiks | phrase | вільний час | Savā ___ es lasu. | brīvajā laikā | У вільний час я читаю.
+nedēļas nogale | phrase | вихідні | Šajā ___ es braucu uz laukiem. | nedēļas nogalē | Цими вихідними я їду на село.
+spēlēt | verb | грати | Es gribu ___ futbolā. | spēlēt | Я хочу грати у футбол.
+dziedāt | verb | співати | Viņa mīl ___. | dziedāt | Вона любить співати.
+dejot | verb | танцювати | Mēs gribam ___. | dejot | Ми хочемо танцювати.
+zīmēt | verb | малювати | Bērni mīl ___. | zīmēt | Діти люблять малювати.
+peldēt | verb | плавати | Es māku ___. | peldēt | Я вмію плавати.
+sportot | verb | займатися спортом | Es katru dienu ___. | sportoju | Я щодня займаюся спортом.
+tikties | verb | зустрічатися | Mēs ___ katru piektdienu. | tiekamies | Ми зустрічаємося щоп'ятниці.
+fotografēt | verb | фотографувати | Es mīlu ___ dabu. | fotografēt | Я люблю фотографувати природу.
+ceļot | verb | подорожувати | Viņi mīl ___. | ceļot | Вони люблять подорожувати.
+sarunāties | verb | розмовляти | Mēs ilgi ___ pa tālruni. | sarunājāmies | Ми довго розмовляли по телефону.
+sēdēt | verb | сидіти | Es gribu ___ parkā. | sēdēt | Я хочу посидіти в парку.
+svinēt | verb | святкувати | Mēs ___ dzimšanas dienu. | svinam | Ми святкуємо день народження.
+ielūgt | verb | запросити | Es gribu jūs ___ ciemos. | ielūgt | Я хочу запросити вас у гості.
+interesants | adj | цікавий | Šī grāmata ir ļoti ___. | interesanta | Ця книжка дуже цікава.
+garlaicīgs | adj | нудний | Šī filma ir ļoti ___. | garlaicīga | Цей фільм дуже нудний.
+jautrs | adj | веселий | Šī ballīte ir ļoti ___. | jautra | Ця вечірка дуже весела.
+patīkams | adj | приємний | Tas bija ___ vakars. | patīkams | Це був приємний вечір.
+kopā | adv | разом | Mēs vienmēr ejam ___. | kopā | Ми завжди ходимо разом.
+ciemos | adv | в гості | Mēs ejam ___ pie draugiem. | ciemos | Ми йдемо в гості до друзів.
+vaļasprieks | noun | захоплення; хобі | Gleznošana ir mans ___. | vaļasprieks | Малювання — моє захоплення.
+interese | noun | інтерес | Man ir liela ___ par mūziku. | interese | У мене великий інтерес до музики.
+basketbols | noun | баскетбол | Viņš spēlē ___ komandā. | basketbolu | Він грає в баскетбол у команді.
+hokejs | noun | хокей | Ziemā mēs skatāmies ___. | hokeju | Взимку ми дивимося хокей.
+teniss | noun | теніс | Viņa spēlē ___. | tenisu | Вона грає в теніс.
+skriešana | noun | біг | ___ ir veselīga. | Skriešana | Біг корисний для здоров'я.
+riteņbraukšana | noun | їзда на велосипеді | Man patīk ___. | riteņbraukšana | Мені подобається їздити на велосипеді.
+slēpošana | noun | катання на лижах | Ziemā mēs nodarbojamies ar ___. | slēpošanu | Взимку ми займаємося лижами.
+dziedātājs | noun | співак | Viņš ir slavens ___. | dziedātājs | Він відомий співак.
+instruments | noun | інструмент | Ģitāra ir mūzikas ___. | instruments | Гітара — музичний інструмент.
+ģitāra | noun | гітара | Viņš spēlē ___. | ģitāru | Він грає на гітарі.
+klavieres | noun | піаніно; фортепіано | Mana māsa spēlē ___. | klavieres | Моя сестра грає на піаніно.
+izrāde | noun | вистава | Mēs gribam redzēt ___. | izrādi | Ми хочемо побачити виставу.
+romāns | noun | роман | Es lasu garu ___. | romānu | Я читаю довгий роман.
+dzeja | noun | поезія | Viņa mīl ___. | dzeju | Вона любить поезію.
+glezna | noun | картина | Uz sienas karājas jauka ___. | glezna | На стіні висить гарна картина.
+zīmēšana | noun | малювання | Bērniem patīk ___. | zīmēšana | Дітям подобається малювання.
+internets | noun | інтернет | Man ir ātrs ___. | internets | У мене швидкий інтернет.
+kolekcija | noun | колекція | Viņam ir liela monētu ___. | kolekcija | У нього велика колекція монет.
+makšķerēšana | noun | риболовля | Mans tētis mīl ___. | makšķerēšanu | Мій тато любить риболовлю.
+rokdarbi | noun | рукоділля | Vecmāmiņa dara ___. | rokdarbus | Бабуся займається рукоділлям.
+adīšana | noun | в'язання | Mana vecmāmiņa mīl ___. | adīšanu | Моя бабуся любить в'язання.
+vingrošana | noun | гімнастика | No rīta es daru ___. | vingrošanu | Зранку я роблю гімнастику.
+treniņš | noun | тренування | Šovakar man ir ___. | treniņš | Сьогодні ввечері в мене тренування.
+komanda | noun | команда | Mūsu ___ uzvarēja. | komanda | Наша команда перемогла.
+uzvara | noun | перемога | Tā ir mūsu pirmā ___. | uzvara | Це наша перша перемога.
+sacensības | noun | змагання | Rīt notiek ___. | sacensības | Завтра відбуваються змагання.
+čempions | noun | чемпіон | Viņš ir pasaules ___. | čempions | Він чемпіон світу.
+interesēties | verb | цікавитися | Es ___ par mūziku. | interesējos | Я цікавлюся музикою.
+trenēties | verb | тренуватися | Mēs ___ trīs reizes nedēļā. | trenējamies | Ми тренуємося тричі на тиждень.
+slēpot | verb | кататися на лижах | Ziemā es mīlu ___. | slēpot | Взимку я люблю кататися на лижах.
+makšķerēt | verb | ловити рибу | Mēs gribam ___ ezerā. | makšķerēt | Ми хочемо ловити рибу на озері.
+vākt | verb | збирати | Es ___ pastmarkas. | vācu | Я збираю поштові марки.
+izklaidēties | verb | розважатися | Mēs gribam ___. | izklaidēties | Ми хочемо розважитися.
+populārs | adj | популярний | Šis dziedātājs ir ļoti ___. | populārs | Цей співак дуже популярний.
+aizraujošs | adj | захопливий | Šis futbola mačs bija ļoti ___. | aizraujošs | Цей футбольний матч був дуже захопливим.
+mīļākais | adj | улюблений | Futbols ir mans ___ sporta veids. | mīļākais | Футбол — мій улюблений вид спорту.
+adīt | verb | в'язати | Vecmāmiņa ___ zeķes. | adī | Бабуся в'яже шкарпетки.
+uzvarēt | verb | перемагати | Mūsu komanda grib ___. | uzvarēt | Наша команда хоче перемогти.
+zaudēt | verb | програвати; губити | Mēs nedrīkstam ___. | zaudēt | Ми не можемо програти.
