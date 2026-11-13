@@ -1,0 +1,3 @@
+noun: apģērbs, drēbes, džinsi, svārki, kleita, jaka, mētelis, džemperis, cepure, cimdi, šalle, zeķes, apavi, kurpes, zābaki, sandales, brilles, soma, josta, kaklasaite, uzvalks, pidžama, peldkostīms, audums, kokvilna, vilna, āda, kabata, poga, rāvējslēdzējs, mode, stils
+verb: ģērbties, saģērbties, noģērbties, apāvt, novilkt, uzvilkt, valkāt, pielaikot, šūt, mazgāt, gludināt, žāvēt, piestāvēt, derēt
+adj: moderns, elegants, ērts, šaurs, plats, viegls, raibs, vienkrāsains

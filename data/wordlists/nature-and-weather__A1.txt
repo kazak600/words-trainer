@@ -1,0 +1,4 @@
+# extra cell: weather, seasons
+noun: laiks, laikapstākļi, saule, lietus, sniegs, vējš, mākonis, debesis, temperatūra, grāds, rudens, ziema, pavasaris, vasara, gadalaiks, migla, pērkons, ledus, daba, koks, zieds, mežs, jūra, ezers, upe, kalns, lauks, zāle, putns
+adj: silts, auksts, karsts, vēss, saulains, mākoņains, lietains, vējains, slapjš, sauss, skaists, slikts
+verb: līt, snigt, pūst, spīdēt, sasalt

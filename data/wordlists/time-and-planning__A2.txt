@@ -1,0 +1,4 @@
+noun: plānotājs, plāns, laiks, datums, nedēļa, mēnesis, gads, stunda, minūte, sekunde, pusdiena, brīvdiena, atvaļinājums, tikšanās, vizīte, rinda, termiņš, grafiks, kalendārs, pulkstenis, pasākums, koncerts, izstāde, kavēšanās, atgādinājums, steiga
+phrase: darba diena, nedēļas nogale, brīvais laiks
+verb: plānot, norunāt, pierakstīt, atcelt, pārcelt, kavēt, paspēt, steigties, gaidīt, atcerēties, aizmirst, atgādināt, sākties, beigties, ilgt, rezervēt, apstiprināt
+adv: šodien, rīt, vakar, parīt, tūlīt, vēlāk, agri, vēlu, bieži, reti, vienmēr, nekad, dažreiz, tagad, drīz, nesen

@@ -1,0 +1,7 @@
+# extra cell: countries, nationalities, languages beyond the A1 basics
+propn: Francija, Itālija, Spānija, Zviedrija, Somija, Norvēģija, Dānija, Polija, Čehija, Grieķija, Turcija, Ķīna, Japāna, Kanāda, Āzija, Āfrika, Austrālija
+noun: kontinents, francūzis, itālis, spānis, zviedrs, soms, polis, poliete, ķīnietis, japānis, turks, lietuvietis, lietuviete, igaunis, igauniete, imigrants, emigrants, ārzemju viesis
+phrase: franču valoda, spāņu valoda, itāļu valoda, poļu valoda, ķīniešu valoda, dzimtā valoda
+verb: tulkot, dzimt, izcelties, pārcelties, emigrēt
+adv: franciski, spāniski, itāliski, poliski
+adj: ārzemju, vietējais, starptautisks, daudzvalodu, dzimtais

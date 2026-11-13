@@ -1,0 +1,5 @@
+propn: Latvija, Igaunija, Lietuva, Krievija, Ukraina, Vācija, Anglija, Amerika, Eiropa
+noun: valsts, pilsēta, valoda, pasaule, tautība, latvietis, latviete, ukrainis, ukrainiete, krievs, krieviete, vācietis, vāciete, anglis, angliete, amerikānis, amerikāniete, ārzemnieks, ārzemniece, karogs, galvaspilsēta, iedzīvotājs
+phrase: latviešu valoda, angļu valoda, krievu valoda, ukraiņu valoda, vācu valoda
+verb: nākt, dzīvot, runāt, mācīties, saprast, zināt
+adv: latviski, angliski, krieviski, ukrainiski, vāciski

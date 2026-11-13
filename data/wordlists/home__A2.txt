@@ -1,0 +1,3 @@
+noun: dzīvoklis, māja, istaba, virtuve, vannasistaba, tualete, gulamistaba, viesistaba, balkons, stāvs, kāpnes, lifts, durvis, logs, siena, grīda, griesti, mēbele, galds, krēsls, gulta, skapis, plaukts, dīvāns, lampa, paklājs, aizkars, spogulis, adrese, kaimiņš, īre, īrnieks, īpašnieks, remonts, pagalms, dārzs, garāža, apkure, siltums, komunālie maksājumi
+verb: dzīvot, pārcelties, īrēt, remontēt, uzkopt, apmesties, atrasties, iekārtot, izīrēt
+adj: mājīgs, plašs, šaurs, ērts, gaišs, tumšs, tīrs, netīrs, jauns, vecs, dārgs, lēts

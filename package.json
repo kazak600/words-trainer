@@ -1,0 +1,26 @@
+{
+  "name": "latvian-words-trainer",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "worker",
+    "web"
+  ],
+  "scripts": {
+    "predev": "mkdir -p web/dist",
+    "dev": "concurrently -n worker,web -c blue,green \"npm run dev -w worker\" \"npm run dev -w web\"",
+    "build": "npm run build -w web",
+    "test": "npm run test -w worker",
+    "typecheck": "npm run typecheck -w worker && npm run typecheck -w web",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "db:migrate:local": "npm run db:migrate:local -w worker"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.7",
+    "eslint": "^10.14.0",
+    "prettier": "^3.10.1",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.72.2"
+  }
+}

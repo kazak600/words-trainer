@@ -1,0 +1,5 @@
+noun: brīvdiena, atpūta, hobijs, sports, spēle, futbols, mūzika, filma, grāmata, kino, teātris, koncerts, dziesma, deja, pastaiga, ekskursija, dators, telefons, televizors, ziņas, avīze, žurnāls, fotogrāfija, draugs, ciemiņš, ballīte, parks, pludmale, peldēšana, velosipēds
+phrase: brīvais laiks, nedēļas nogale
+verb: atpūsties, spēlēt, skatīties, klausīties, lasīt, dziedāt, dejot, zīmēt, peldēt, skriet, braukt, staigāt, pastaigāties, sportot, ciemoties, tikties, zvanīt, fotografēt, ceļot, sarunāties, sēdēt, svinēt, ielūgt
+adj: interesants, garlaicīgs, jautrs, patīkams
+adv: kopā, ciemos

@@ -1,0 +1,3 @@
+noun: ģimene, māte, tēvs, mamma, tētis, vecmāmiņa, vectēvs, bērns, dēls, meita, brālis, māsa, vīrs, sieva, draugs, draudzene, vīrietis, sieviete, puika, meitene, kaimiņš, ciemiņš, radinieks, mazulis, vecāki
+verb: dzīvot, mīlēt, strādāt, mācīties, saukties, būt, ciemoties
+adj: jauns, vecs, mīļš, liels, mazs, precējies

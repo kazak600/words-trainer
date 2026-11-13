@@ -1,0 +1,2 @@
+adj: labs, slikts, jauks, ātrs, lēns, tuvs, tāls, tukšs, pilns, pareizs, svarīgs, īsts, gatavs, vajadzīgs, skaidrs, dzīvs, drošs, vienāds, jauns, vecs, liels, mazs, garš, īss, grūts, viegls, brīvs, silts, auksts, tīrs, netīrs
+adv: skaisti, jauki, droši, skaidri, pareizi, nopietni, svarīgi, laipni, uzmanīgi, viegli, grūti

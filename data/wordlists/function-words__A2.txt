@@ -1,0 +1,5 @@
+pron: kāda, neko, nevienu, dažs, abi, pati, sevis, kurš, tāpat
+prep: dēļ, caur, apkārt, priekš, ārpus, garām, pāri, cauri
+conj: tomēr, tātad, tāpēc, kamēr, nevis, taču, gan, nekā
+adv: prom, ilgi, vienkārši, joprojām, tikko, līdzi, pareizi, žēl, diezgan, pārāk, nedaudz, vēlreiz, vienalga, vispār, nemaz, pavisam, pilnīgi, kādreiz, šobrīd, klāt, nost, vismaz, gandrīz, vairs, tieši, kādēļ, pēkšņi, galvenokārt, īpaši, diemžēl, droši
+part: varbūt, protams, tiešām, tieši, vien, laikam, pat, taču, tomēr, patiešām

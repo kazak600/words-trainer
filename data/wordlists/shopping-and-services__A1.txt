@@ -1,0 +1,4 @@
+noun: veikals, tirgus, lielveikals, cena, nauda, maks, eiro, cents, čeks, pārdevējs, pircējs, kase, grozs, maisiņš, atlaide, aptieka, grāmatnīca, pasts, banka, karte, izmērs, krāsa, sīknauda, saraksts, svars, kilograms, grams, litrs, pudele, kārba, paciņa
+phrase: skaidra nauda
+verb: pirkt, pārdot, maksāt, izmaksāt, iepirkties, izvēlēties, pielaikot, vajadzēt, patikt, gribēt, ņemt, dot, atvērt, aizvērt, meklēt, atrast, jautāt
+adj: dārgs, lēts, svaigs, liels, mazs, vecs, jauns, atvērts, slēgts, brīvs

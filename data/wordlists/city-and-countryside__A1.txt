@@ -1,0 +1,3 @@
+noun: pilsēta, ciems, lauki, laukums, iela, ceļš, tilts, parks, centrs, rajons, apkaime, veikals, kafejnīca, restorāns, bibliotēka, skola, slimnīca, aptieka, pasts, banka, policija, baznīca, muzejs, kino, teātris, stadions, dārzs, mežs, lauks, upe, ezers, pagalms, zemnieks, saimniecība, govs, zirgs, cūka, vista, traktors, tirgus, stūris, krustojums, luksofors, iedzīvotājs
+verb: dzīvot, atrasties, atpūsties, pastaigāties, strādāt
+adj: liels, mazs, vecs, jauns, kluss, skaļš, tīrs, skaists, tuvs, tāls

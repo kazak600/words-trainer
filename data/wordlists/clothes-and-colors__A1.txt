@@ -1,0 +1,3 @@
+noun: apģērbs, krekls, bikses, svārki, kleita, jaka, cepure, kurpes, zeķes, mētelis, džemperis, cimdi, šalle, soma, brilles, apavi, zābaki, krāsa, izmērs
+adj: balts, melns, sarkans, zils, zaļš, dzeltens, brūns, pelēks, oranžs, rozā, violets, gaišs, tumšs, liels, mazs, garš, īss, plats, šaurs, jauns, vecs, skaists
+verb: valkāt, ģērbties, uzvilkt, novilkt, pielaikot, derēt

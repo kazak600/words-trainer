@@ -1,0 +1,4 @@
+noun: ēdiens, dzēriens, brokastis, pusdienas, vakariņas, maize, sviests, siers, desa, gaļa, vista, zivs, ola, piens, jogurts, biezpiens, putra, zupa, salāti, kartupelis, burkāns, tomāts, gurķis, sīpols, ķiploks, kāposti, ābols, banāns, apelsīns, citrons, bumbieris, zemene, ķirsis, sula, ūdens, tēja, kafija, limonāde, alus, vīns, cukurs, sāls, pipari, eļļa, medus, kūka, cepums, saldējums, šokolāde, rīsi, makaroni, pica, sviestmaize, galds, šķīvis, glāze, krūze, karote, dakšiņa, nazis, ēdienkarte, rēķins, restorāns, kafejnīca, ēdnīca, oficiants, dzeramnauda, vegetārietis
+phrase: labu apetīti
+verb: ēst, dzert, gatavot, cept, vārīt, griezt, ieliet, nogaršot, garšot, pasūtīt, pusdienot, brokastot, vakariņot, ieteikt, maksāt, vēlēties, pietikt
+adj: garšīgs, svaigs, silts, auksts, salds, sāļš, skābs, rūgts, ass, vārīts, cepts, izsalcis, izslāpis

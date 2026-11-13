@@ -1,0 +1,3 @@
+noun: zvērs, lācis, vilks, lapsa, zaķis, ezis, briedis, alnis, mežacūka, vāvere, žurka, ērglis, pūce, gulbis, stārķis, strazds, zvirbulis, vārna, dzenis, dzērve, gailis, kukainis, bite, tauriņš, skudra, muša, ods, zirneklis, odze, čūska, varde, krupis, bruņurupucis, zilonis, lauva, tīģeris, pērtiķis, žirafe, delfīns, valis, haizivs, ķengurs
+verb: medīt, barot, rāpot, dzelt, kost, aizsargāt
+adj: mežonīgs, savvaļas, bīstams

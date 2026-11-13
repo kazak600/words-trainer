@@ -1,0 +1,5 @@
+pron: tas, kas, kurš, kāds, mans, tavs, mūsu, jūsu, savs, šis, tāds, viss, katrs, nekas, neviens, cits, pats, kaut kas, kaut kur
+prep: ar, par, uz, no, pie, pēc, līdz, bez, pret, starp, zem, virs, aiz, pirms, kopš, blakus, pa
+conj: un, bet, vai, ka, ja, lai, jo, kad, kā
+adv: tā, tad, vēl, jau, tik, tur, te, šeit, ļoti, tikai, atkal, kopā, iekšā, ārā, augšā, lejā, kur, kāpēc, cik, labi, slikti, ātri, lēni, tuvu, tālu
+part: ne, nu, arī, vai

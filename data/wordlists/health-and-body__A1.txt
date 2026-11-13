@@ -1,0 +1,4 @@
+noun: ķermenis, galva, mati, seja, acs, deguns, mute, zobs, auss, kakls, plecs, roka, pirksts, mugura, krūtis, vēders, kāja, ceļgals, pēda, sirds, ārsts, slimnīca, poliklīnika, aptieka, zāles, tablete, temperatūra, sāpes, saaukstēšanās, klepus, iesnas, gripa, drudzis, recepte, vizīte, veselība, slimība, slimnieks, medmāsa, zobārsts, vitamīni, vingrinājums, miegs, trauma, brūce
+phrase: esi vesels
+verb: sāpēt, slimot, ārstēt, izārstēt, justies, saaukstēties, klepot, šķaudīt, atpūsties, gulēt, vingrot, atveseļoties, pieteikties, uzmanīties, mazgāt, mērīt, izrakstīt
+adj: vesels, slims, vājš, stiprs, noguris, sāpīgs, veselīgs, nevesels

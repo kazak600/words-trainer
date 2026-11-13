@@ -1,0 +1,3 @@
+noun: izskats, raksturs, acis, mati, seja, deguns, mute, auss, augums, vecums, garastāvoklis, prieks, bēdas, bailes, dusmas, noskaņojums, īpašība, cilvēks, pieredze, vārds, uzvārds, svars, muļķis, sapnis
+adj: garš, īss, resns, tievs, skaists, glīts, jauks, smuks, gudrs, laipns, rupjš, jautrs, bēdīgs, nopietns, kluss, skaļš, drosmīgs, bailīgs, slinks, čakls, strādīgs, godīgs, dusmīgs, priecīgs, noguris, uztraucies, ziņkārīgs, pacietīgs, nepacietīgs, sabiedrisks, kautrīgs, līdzīgs, atšķirīgs, izskatīgs, blonds, tumšmatains
+verb: izskatīties, līdzināties, justies, smaidīt, raudāt, smieties, priecāties, bēdāties, dusmoties, uztraukties, nomierināties, patikt

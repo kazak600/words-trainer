@@ -1,0 +1,4 @@
+noun: ģimene, vecāki, māte, tēvs, mamma, tētis, vecmāmiņa, vectēvs, vecvecāki, bērns, dēls, meita, brālis, māsa, brālēns, māsīca, tante, onkulis, mazbērns, vīrs, sieva, vīrietis, sieviete, puisis, meitene, draugs, draudzene, paziņa, kolēģis, kaimiņš, radinieks, attiecības, kāzas, svētki, dāvana, viesis, ielūgums, pāris, draudzība, mīlestība
+phrase: dzimšanas diena
+verb: iepazīties, satikties, draudzēties, precēties, šķirties, mīlēt, svinēt, apciemot, ielūgt, dāvināt, sveikt, audzināt, pazīt, strīdēties, palīdzēt
+adj: precējies, vientuļš, tuvs, draudzīgs, mīļš

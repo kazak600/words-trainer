@@ -1,0 +1,3 @@
+noun: dzīvnieks, suns, kaķis, putns, zivs, zirgs, govs, cūka, aita, kaza, vista, pīle, zoss, trusis, pele, kucēns, kaķēns, teļš, mājdzīvnieks, saimniecība, ola, piens, aste, spalva, kažoks, ķepa, būris
+verb: barot, staigāt, lēkt, riet, ņaudēt, mīlēt, glāstīt, kopt, ganīt, slaukt
+adj: jauks, mazs, liels

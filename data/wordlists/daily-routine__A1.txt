@@ -1,0 +1,4 @@
+noun: diena, rīts, vakars, nakts, brokastis, pusdienas, vakariņas, darbs, duša, zobu birste, ziepes, dvielis, gulta, pulkstenis, modinātājs, veļa, trauki, veļasmašīna, atpūta, rutīna, brīvdiena
+phrase: mājas darbi, iet gulēt, katru dienu, pēc tam
+verb: celties, mosties, mazgāties, ģērbties, brokastot, pusdienot, vakariņot, gatavot, ēst, dzert, iet, braukt, strādāt, mācīties, atpūsties, skatīties, klausīties, lasīt, rakstīt, tīrīt, uzkopt, iepirkties, gulēt, aizmigt, pamosties, zvanīt, piezvanīt, satikt, gaidīt, sākt, beigt, gludināt
+adv: agri, vēlu, parasti, bieži, reti, vienmēr, nekad, dažreiz, vispirms

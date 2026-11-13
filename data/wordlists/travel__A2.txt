@@ -1,0 +1,4 @@
+noun: ceļojums, ceļotājs, tūrists, tūrisms, brauciens, izbraukums, bagāža, koferis, mugursoma, pase, vīza, biļete, rezervācija, numurs, viesnīca, hostelis, kempings, telts, karte, ceļvedis, ekskursija, suvenīrs, lidosta, stacija, reiss, lidmašīna, vilciens, kuģis, osta, robeža, muita, jūra, pludmale, kalni, galamērķis, maršruts, atvaļinājums, pieturvieta
+phrase: apskates vieta
+verb: ceļot, rezervēt, pārbaudīt, iepakot, izpakot, nokavēt, lidot, izbraukt, atbraukt, pārsēsties, nolaisties, pieteikties, izrakstīties, izmitināties, apskatīt, apmaldīties, atrast, atgriezties, atpūsties
+adj: iespaidīgs, pārpildīts, ērts, tiešs

@@ -1,0 +1,6 @@
+interj: sveiki, sveiks, labdien, labrīt, labvakar, ardievas, atā, paldies, lūdzu, atvainojiet, piedodiet, jā, nē
+phrase: uz redzēšanos, prieks iepazīties, labu nakti, uz drīzu redzēšanos
+pron: es, tu, viņš, viņa, mēs, jūs, viņi, viņas
+noun: vārds, uzvārds, vecums, adrese, tālrunis, pase, kungs, kundze, jaunkundze, meitene, puisis, cilvēks, sveiciens, students, studente, skolēns, dzimtene
+verb: saukties, iepazīties, dzīvot, runāt, strādāt, mācīties, būt, nākt, sveicināt, pateikties, atvainoties, lūgt, saprast, atkārtot, pierakstīt
+adj: laipns, jauks

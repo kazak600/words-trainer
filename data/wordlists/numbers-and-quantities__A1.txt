@@ -1,0 +1,3 @@
+num: nulle, viens, divi, trīs, četri, pieci, seši, septiņi, astoņi, deviņi, desmit, vienpadsmit, divpadsmit, trīspadsmit, četrpadsmit, piecpadsmit, sešpadsmit, septiņpadsmit, astoņpadsmit, deviņpadsmit, divdesmit, trīsdesmit, četrdesmit, piecdesmit, sešdesmit, septiņdesmit, astoņdesmit, deviņdesmit, simts, tūkstotis, miljons, pirmais, otrais, trešais, ceturtais, piektais
+noun: skaitlis, numurs, puse, ceturtdaļa, pāris, daudzums, procents, summa
+adv: daudz, maz, mazliet, vairāk, mazāk, pietiekami, vienreiz, divreiz

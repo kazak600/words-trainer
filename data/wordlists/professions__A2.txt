@@ -1,0 +1,3 @@
+noun: profesija, darbs, darbinieks, skolotājs, skolotāja, ārsts, medmāsa, zobārsts, farmaceits, advokāts, tiesnesis, policists, ugunsdzēsējs, kareivis, pārdevējs, kasieris, frizieris, šoferis, vadītājs, pilots, stjuarte, pavārs, oficiants, bārmenis, celtnieks, elektriķis, santehniķis, mehāniķis, inženieris, programmētājs, grāmatvedis, sekretāre, direktors, menedžeris, žurnālists, aktieris, mākslinieks, mūziķis, rakstnieks, students, zinātnieks, lauksaimnieks, zvejnieks, bibliotekārs, tulks, arhitekts, dizainers
+phrase: darba devējs
+verb: strādāt, pelnīt, nodarboties, vadīt, mācīt, ārstēt, būvēt, gatavot

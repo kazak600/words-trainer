@@ -1,0 +1,3 @@
+noun: veikals, tirgus, lielveikals, aptieka, banka, pasts, frizētava, pakalpojums, cena, atlaide, akcija, čeks, kvīts, maks, nauda, kredītkarte, bankomāts, konts, pārdevējs, pircējs, klients, preces, izmērs, kvalitāte, garantija, kase, grozs, maisiņš, iepakojums, pasūtījums, piegāde, sūdzība, vēstule, sūtījums, pakete, aploksne, marka
+verb: pirkt, pārdot, maksāt, izvēlēties, pielaikot, atdot, atgriezt, nomainīt, pasūtīt, piegādāt, sūtīt, saņemt, nosūtīt, atvērt, aizvērt, iztērēt, ietaupīt, izņemt, pārskaitīt, sūdzēties, ieteikt, rezervēt
+adj: dārgs, lēts, atvērts, slēgts, bezmaksas, pieejams, derīgs, bojāts, piemērots, nepiemērots, nepieciešams

@@ -1,0 +1,4 @@
+# extra cell: days, months, clock time
+noun: pirmdiena, otrdiena, trešdiena, ceturtdiena, piektdiena, sestdiena, svētdiena, janvāris, februāris, marts, aprīlis, maijs, jūnijs, jūlijs, augusts, septembris, oktobris, novembris, decembris, diena, nedēļa, mēnesis, gads, stunda, minūte, rīts, vakars, nakts, pusdiena, datums, laiks, pulkstenis, brīvdiena
+adv: šodien, rīt, vakar, tagad, vēlāk, tūlīt, agri, vēlu
+phrase: cik pulkstenis, pusseptiņi

@@ -1,0 +1,46 @@
+topic_slug,title_lv,title_uk,level,origin,source_hint
+introductions,Iepazīšanās,Знайомство,A1,textbook,A1 u1 Prieks iepazīties!
+countries-and-languages,Valstis un valodas,Країни та мови,A1,textbook,A1 u2 No visas pasaules
+countries-and-languages,Valstis un valodas,Країни та мови,A2,extra,"countries, nationalities, languages"
+city-and-countryside,Pilsēta un lauki,Місто і село,A1,textbook,A1 u3 Pilsētā un laukos
+home,Māja un dzīvesvieta,Дім і житло,A1,textbook,A1 u4 Mana māja un ģimene (house part)
+home,Māja un dzīvesvieta,Дім і житло,A2,textbook,A2 u3 Mana dzīvesvieta
+home,Māja un dzīvesvieta,Дім і житло,B1,textbook,B1 u3 Dzīvesvieta
+family-and-friends,Ģimene un draugi,Родина і друзі,A1,textbook,A1 u4 Mana māja un ģimene (family part)
+family-and-friends,Ģimene un draugi,Родина і друзі,A2,textbook,"A2 u1 Es, mana ģimene un draugi"
+family-and-friends,Ģimene un draugi,Родина і друзі,B1,textbook,B1 u2 Starp savējiem
+people-and-character,Cilvēki un raksturs,Люди і характер,A2,textbook,A2 u2 Kādi mēs esam
+people-and-character,Cilvēki un raksturs,Люди і характер,B1,textbook,B1 u9 Kļūsti laimīgs!
+transport-and-directions,Transports un ceļš,Транспорт і дорога,A1,textbook,"A1 u5 Kājām, ar trolejbusu, ar lidmašīnu"
+daily-routine,Ikdiena,Щоденні справи,A1,textbook,A1 u6 Ikdienas darbi
+time-and-planning,Laiks un plāni,Час і плани,A1,extra,"days, months, clock time"
+time-and-planning,Laiks un plāni,Час і плани,A2,textbook,A2 u5 Mans plānotājs
+shopping-and-services,Iepirkšanās un pakalpojumi,Покупки й послуги,A1,textbook,A1 u7 Iepirkšanās
+shopping-and-services,Iepirkšanās un pakalpojumi,Покупки й послуги,A2,textbook,A2 u6 Iepirkšanās un pakalpojumi
+food-and-drink,Ēdiens un dzērieni,Їжа та напої,A1,textbook,A1 u8 Labu apetīti!
+free-time-and-hobbies,Brīvais laiks un vaļasprieki,Дозвілля і хобі,A1,textbook,A1 u9 Brīvais laiks
+free-time-and-hobbies,Brīvais laiks un vaļasprieki,Дозвілля і хобі,A2,textbook,A2 u7 Es interesējos par…
+free-time-and-hobbies,Brīvais laiks un vaļasprieki,Дозвілля і хобі,B1,textbook,B1 u4 Kad beidzas darbadiena…
+travel,Ceļojumi,Подорожі,A1,textbook,A1 u10 Es ceļoju
+travel,Ceļojumi,Подорожі,A2,textbook,A2 u8 Ceļojums
+health-and-body,Veselība un ķermenis,Здоров'я і тіло,A1,textbook,A1 u11 Esi vesels!
+health-and-body,Veselība un ķermenis,Здоров'я і тіло,B1,textbook,B1 u5 Skaistums un veselība
+study-and-work,Mācības un darbs,Навчання і робота,A1,textbook,A1 u12 Mācības un darbs
+study-and-work,Mācības un darbs,Навчання і робота,B1,textbook,B1 u1 Nekad nav par vēlu; B1 u8 Amatu un piedzīvojumu meistari
+nature-and-weather,Daba un laikapstākļi,Природа і погода,A1,extra,"weather, seasons"
+nature-and-weather,Daba un laikapstākļi,Природа і погода,A2,textbook,A2 u4 Pie dabas
+nature-and-weather,Daba un laikapstākļi,Природа і погода,B1,textbook,B1 u6 Zeme, gaiss, ūdens
+technology,Tehnika un internets,Техніка та інтернет,B1,textbook,B1 u7 Tehnikas un informācijas laikmets
+latvia,Latvija,Латвія,B1,textbook,B1 u10 Brīnumainā un noslēpumainā Latvija
+numbers-and-quantities,Skaitļi un daudzums,Числа та кількість,A1,extra,"numbers, amounts, ordinals"
+clothes-and-colors,Apģērbs un krāsas,Одяг і кольори,A1,extra,"clothes, colors, sizes"
+clothes-and-colors,Apģērbs un krāsas,Одяг і кольори,A2,extra,"clothes, fabrics, appearance"
+animals,Dzīvnieki,Тварини,A1,extra,"pets, farm animals"
+animals,Dzīvnieki,Тварини,A2,extra,"wild animals, birds, insects"
+professions,Profesijas,Професії,A2,extra,"jobs, workplaces"
+function-words,Palīgvārdi,Службові слова,A1,extra,"pronouns, prepositions, conjunctions, question words"
+function-words,Palīgvārdi,Службові слова,A2,extra,"adverbs, particles, linking words"
+common-verbs,Biežākie darbības vārdi,Найпоширеніші дієслова,A1,extra,most frequent verbs not covered above
+common-verbs,Biežākie darbības vārdi,Найпоширеніші дієслова,A2,extra,more frequent verbs not covered above
+common-adjectives,Biežākie īpašības vārdi,Найпоширеніші прикметники,A1,extra,most frequent adjectives and adverbs not covered above
+common-adjectives,Biežākie īpašības vārdi,Найпоширеніші прикметники,A2,extra,more adjectives and adverbs not covered above

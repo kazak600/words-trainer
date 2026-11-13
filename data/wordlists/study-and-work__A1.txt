@@ -1,0 +1,3 @@
+noun: skola, skolotājs, skolēns, students, universitāte, klase, stunda, nodarbība, lekcija, grāmata, burtnīca, pildspalva, zīmulis, papīrs, tāfele, dators, mājasdarbs, eksāmens, atzīme, jautājums, atbilde, uzdevums, vingrinājums, vārds, teikums, valoda, vārdnīca, kurss, darbs, darbinieks, birojs, uzņēmums, kolēģis, priekšnieks, alga, pārtraukums, sapulce
+verb: mācīties, mācīt, strādāt, lasīt, rakstīt, runāt, klausīties, atkārtot, saprast, atbildēt, jautāt, skaidrot, skaitīt, zīmēt, pierakstīt, pārbaudīt, labot, sākt, beigt, kavēt, apmeklēt, pelnīt, vadīt
+adj: grūts, viegls, svarīgs, noderīgs, pareizs, nepareizs, nopietns, aizņemts, brīvs

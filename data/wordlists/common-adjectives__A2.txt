@@ -1,0 +1,2 @@
+adj: lielisks, laimīgs, vienīgs, iespējams, galvenais, pārējais, traks, pilnīgs, patiess, noteikts, svešs, spēcīgs, bagāts, nabadzīgs, vispārējs, tipisks, parasts, neparasts, dīvains, vienkāršs, sarežģīts, nepieciešams, iespējams, atbildīgs, atvērts, noslēgts, zems, augsts, dziļš, sekls, ciets, mīksts, smags, viegls, skaļš, kluss
+adv: lieliski, vienkārši, noteikti, smieklīgi, forši, citādi, pilnīgi, ilgi, ātri, tāli

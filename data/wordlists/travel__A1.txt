@@ -1,0 +1,3 @@
+noun: ceļojums, ceļotājs, biļete, pase, bagāža, koferis, soma, viesnīca, istaba, numurs, rezervācija, karte, lidosta, stacija, vilciens, lidmašīna, autobuss, pilsēta, valsts, jūra, pludmale, ekskursija, suvenīrs, fotoaparāts, atvaļinājums, brīvdienas, ceļvedis, maršruts, kafejnīca, restorāns, ārzemes, valūta, nauda, eiro
+phrase: laimīgu ceļu
+verb: ceļot, braukt, lidot, nopirkt, rezervēt, uzkāpt, izkāpt, atbraukt, aizbraukt, atgriezties, apskatīt, fotografēt, atpūsties, pārnakšņot, pārbaudīt, aizmirst, paņemt, iepakot

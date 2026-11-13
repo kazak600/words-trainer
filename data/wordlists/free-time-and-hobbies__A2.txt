@@ -1,0 +1,3 @@
+noun: hobijs, vaļasprieks, interese, sports, futbols, basketbols, hokejs, teniss, peldēšana, skriešana, riteņbraukšana, slēpošana, deja, mūzika, dziesma, dziedātājs, instruments, ģitāra, klavieres, filma, kino, teātris, izrāde, muzejs, grāmata, romāns, dzeja, glezna, fotogrāfija, zīmēšana, spēle, dators, internets, kolekcija, makšķerēšana, rokdarbi, adīšana, vingrošana, treniņš, komanda, uzvara, sacensības, čempions
+verb: interesēties, vingrot, trenēties, spēlēt, dziedāt, dejot, zīmēt, fotografēt, lasīt, skatīties, klausīties, peldēt, skriet, slēpot, makšķerēt, adīt, vākt, uzvarēt, zaudēt, apmeklēt, izklaidēties, atpūsties
+adj: interesants, garlaicīgs, populārs, aizraujošs, mīļākais

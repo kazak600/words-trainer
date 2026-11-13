@@ -1,0 +1,3 @@
+noun: daba, mežs, koks, zieds, zāle, lauks, pļava, kalns, ezers, upe, jūra, pludmale, smiltis, akmens, sala, parks, putns, zivs, ogas, sēnes, lietus, sniegs, vējš, saule, mēness, zvaigzne, debesis, mākonis, negaiss, pērkons, zibens, migla, salna, ledus, rudens, pavasaris, vasara, ziema, sezona, temperatūra, laikapstākļi, prognoze, gaiss, ūdens, zeme, uguns
+verb: līt, snigt, pūst, spīdēt, sasalt, kust, ziedēt, augt, sēņot, pastaigāties, vērot, aizsargāt, piesārņot, šķirot
+adj: saulains, mākoņains, lietains, vējains, auksts, silts, karsts, vēss, mitrs, sauss, dabisks, zaļš

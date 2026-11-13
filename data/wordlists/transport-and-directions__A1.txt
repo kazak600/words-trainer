@@ -1,0 +1,5 @@
+noun: transports, autobuss, trolejbuss, tramvajs, vilciens, lidmašīna, taksometrs, taksis, automašīna, auto, velosipēds, motocikls, kuģis, laiva, metro, pietura, stacija, lidosta, osta, biļete, maršruts, ceļš, iela, krustojums, luksofors, tilts, stāvvieta, degviela, šoferis, pasažieris, vadītājs, kontrolieris, grafiks, reiss, perons, vagons, virziens
+phrase: pa kreisi, pa labi
+verb: braukt, iet, staigāt, skriet, lidot, pārsēsties, nokļūt, aizbraukt, atbraukt, iekāpt, izkāpt, nokavēt, gaidīt, pagriezties, apstāties, stāvēt, jautāt, parādīt, atrast
+adv: tālu, tuvu, taisni, tālāk, atpakaļ
+adj: nākamais, pēdējais, pirmais, kreisais, labais

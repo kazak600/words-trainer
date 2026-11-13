@@ -1,0 +1,3 @@
+noun: māja, dzīvoklis, istaba, virtuve, vannasistaba, tualete, durvis, logs, siena, grīda, galds, krēsls, gulta, skapis, dīvāns, lampa, televizors, ledusskapis, plīts, krāsns, trauki, atslēga, adrese, iela, stāvs, balkons, dārzs, pagalms, kaimiņš, īre
+verb: dzīvot, atrasties, atvērt, aizvērt, iet, gulēt, gatavot, tīrīt, uzkopt, mazgāt
+adj: liels, mazs, jauns, vecs, ērts, skaists, silts, auksts
