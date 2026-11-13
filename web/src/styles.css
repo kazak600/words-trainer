@@ -1,16 +1,138 @@
 :root {
+  --bg: #f6f7f9;
+  --surface: #ffffff;
+  --text: #16181d;
+  --muted: #5d6573;
+  --border: #d5d9e0;
+  --accent: #9e1b32;
+  --accent-text: #ffffff;
+  --error: #b00020;
   font-family:
     system-ui,
     -apple-system,
     sans-serif;
+  color-scheme: light dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #101216;
+    --surface: #1a1d23;
+    --text: #eceef2;
+    --muted: #a0a8b6;
+    --border: #353a44;
+    --accent: #e0536b;
+    --accent-text: #16181d;
+    --error: #ff8a9b;
+  }
+}
+
+* {
+  box-sizing: border-box;
 }
 
 body {
   margin: 0;
+  background: var(--bg);
+  color: var(--text);
   padding: env(safe-area-inset-top) env(safe-area-inset-right)
     env(safe-area-inset-bottom) env(safe-area-inset-left);
 }
 
-main {
+.layout {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  max-width: 480px;
+  margin: 0 auto;
+}
+
+.layout main {
+  flex: 1;
   padding: 16px;
+}
+
+footer {
+  padding: 16px;
+  font-size: 0.8rem;
+  color: var(--muted);
+  text-align: center;
+}
+
+footer a {
+  color: inherit;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 20px;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+h1 {
+  margin: 0 0 12px;
+  font-size: 1.5rem;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+.login {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 12vh;
+}
+
+label {
+  font-weight: 600;
+  margin-top: 8px;
+}
+
+/* 16px keeps iOS Safari from zooming into a focused field. */
+input {
+  font-size: 16px;
+  min-height: 48px;
+  padding: 0 12px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--bg);
+  color: var(--text);
+}
+
+button {
+  font-size: 1rem;
+  min-height: 48px;
+  padding: 0 20px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--surface);
+  color: var(--text);
+  touch-action: manipulation;
+}
+
+button.primary {
+  background: var(--accent);
+  color: var(--accent-text);
+  border-color: var(--accent);
+  font-weight: 600;
+  margin-top: 16px;
+}
+
+button:disabled {
+  opacity: 0.6;
+}
+
+.error {
+  color: var(--error);
+  margin: 8px 0 0;
 }

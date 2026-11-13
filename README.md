@@ -21,7 +21,7 @@ Run from the repo root.
 |---|---|
 | `npm install` | Install all workspaces |
 | `npm run dev` | Worker on `:8787` and Vite on `:5173` (Vite proxies `/api` to the Worker) |
-| `npm test` | Worker unit tests (Vitest) |
+| `npm test` | Worker and web tests (Vitest) |
 | `npm run typecheck` | `tsc --noEmit` in both workspaces |
 | `npm run lint` | ESLint |
 | `npm run build` | Typecheck and build the frontend into `web/dist` |

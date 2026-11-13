@@ -10,7 +10,7 @@
     "predev": "mkdir -p web/dist",
     "dev": "concurrently -n worker,web -c blue,green \"npm run dev -w worker\" \"npm run dev -w web\"",
     "build": "npm run build -w web",
-    "test": "npm run test -w worker",
+    "test": "npm run test -w worker && npm run test -w web",
     "typecheck": "npm run typecheck -w worker && npm run typecheck -w web",
     "lint": "eslint .",
     "format": "prettier --write .",
