@@ -41,10 +41,12 @@ function levenshtein(a: string[], b: string[]): number {
   return row[b.length]!;
 }
 
+// `strict` drops the edit tolerance (cloze trains exact endings); missing marks still pass as typos.
 function verdictFor(
   typedText: string,
   expectedText: string,
   rules: Rules,
+  strict: boolean,
 ): Verdict {
   const typed = clean(typedText);
   const expected = clean(expectedText);
@@ -52,6 +54,7 @@ function verdictFor(
   if (fold(typed, rules) === fold(expected, rules)) return 'exact';
   const lower = (t: string) => t.toLocaleLowerCase(rules.locale);
   if (lower(stripMarks(typed)) === lower(stripMarks(expected))) return 'typo';
+  if (strict) return 'wrong';
   const letters = [...expected];
   const distance = levenshtein([...lower(typed)], [...lower(expected)]);
   return distance <= allowedEdits(letters.length) ? 'typo' : 'wrong';
@@ -88,6 +91,7 @@ export function checkAnswer(
   typedText: string,
   expectedText: string,
   lang: string,
+  options: { strict?: boolean } = {},
 ): CheckResult {
   const rules = RULES[lang];
   if (!rules) throw new Error(`no checker rules for language "${lang}"`);
@@ -136,5 +140,13 @@ export function checkAnswer(
   }
   diff.reverse();
 
-  return { verdict: verdictFor(typedText, expectedText, rules), diff };
+  return {
+    verdict: verdictFor(
+      typedText,
+      expectedText,
+      rules,
+      options.strict === true,
+    ),
+    diff,
+  };
 }

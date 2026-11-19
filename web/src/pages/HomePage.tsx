@@ -1,71 +1,65 @@
 import { useEffect, useState } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
-import { ApiError } from '../api/client';
+import { Link } from 'react-router-dom';
 import {
   fetchCurrentSession,
-  fetchStreak,
+  fetchReview,
   fetchTopics,
-  startSession,
-  type Streak,
+  startReviewSession,
+  startTopicSession,
+  type ReviewSummary,
   type Topic,
 } from '../api/study';
-import { useAuth } from '../auth/AuthContext';
-
-function streakLabel(streak: Streak): string {
-  return streak.days > 0 ? `${streak.days}-day streak` : 'No streak yet';
-}
+import { useDeck } from '../decks/DeckContext';
+import { useStartSession } from './startSession';
 
 export function HomePage() {
-  const { logout } = useAuth();
-  const navigate = useNavigate();
+  const { deck } = useDeck();
   const [topics, setTopics] = useState<Topic[] | null>(null);
-  const [streak, setStreak] = useState<Streak | null>(null);
+  const [review, setReview] = useState<ReviewSummary | null>(null);
   const [hasSession, setHasSession] = useState(false);
-  const [error, setError] = useState<string | null>(null);
-  const [starting, setStarting] = useState(false);
+  const [loadError, setLoadError] = useState<string | null>(null);
+  const { start, starting, error } = useStartSession();
 
   useEffect(() => {
-    fetchTopics()
+    fetchTopics(deck.slug)
       .then(setTopics)
-      .catch(() => setError('Could not load topics.'));
-    fetchStreak()
-      .then(setStreak)
-      .catch(() => {});
-    fetchCurrentSession()
+      .catch(() => setLoadError('Could not load topics.'));
+    fetchReview(deck.slug)
+      .then(setReview)
+      .catch(() => setLoadError('Could not load topics.'));
+    fetchCurrentSession(deck.slug)
       .then(() => setHasSession(true))
       .catch(() => setHasSession(false));
-  }, []);
+  }, [deck.slug]);
 
-  async function start(topic: Topic) {
-    setStarting(true);
-    setError(null);
-    try {
-      await startSession(topic.id);
-      navigate('/session');
-    } catch (e) {
-      setError(
-        e instanceof ApiError && e.status === 409
-          ? 'Nothing to study in this topic right now. Come back when words are due.'
-          : 'Could not start the session. Try again.',
-      );
-      setStarting(false);
-    }
-  }
+  const message = error ?? loadError;
 
   return (
     <section>
-      <header className="row">
-        <h1>Topics</h1>
-        {streak && <span className="badge">{streakLabel(streak)}</span>}
-      </header>
+      <h1>Topics</h1>
       {hasSession && (
         <Link to="/session" className="continue">
           Continue your session
         </Link>
       )}
-      {error && (
+      {review && (
+        <div className="card review-cta">
+          <button
+            type="button"
+            className="primary"
+            disabled={starting || review.due === 0}
+            onClick={() => start(() => startReviewSession(deck.slug))}
+          >
+            Review · {review.due} due
+          </button>
+          <p className="muted center">
+            New today: {review.newToday} / {review.newCap}
+          </p>
+        </div>
+      )}
+      {message && (
         <p role="alert" className="error">
-          {error}
+          {message}
         </p>
       )}
       <ul className="topics">
@@ -75,7 +69,9 @@ export function HomePage() {
               type="button"
               className="topic"
               disabled={starting}
-              onClick={() => start(topic)}
+              onClick={() =>
+                start(() => startTopicSession(deck.slug, topic.id))
+              }
             >
               <span className="topic-title">
                 {topic.title} <span className="muted">{topic.titleUk}</span>
@@ -95,9 +91,6 @@ export function HomePage() {
           </li>
         ))}
       </ul>
-      <button type="button" className="link" onClick={logout}>
-        Log out
-      </button>
     </section>
   );
 }

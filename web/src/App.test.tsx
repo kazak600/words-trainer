@@ -1,10 +1,10 @@
-import { render, screen } from '@testing-library/react';
+import { render, screen, within } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import { MemoryRouter } from 'react-router-dom';
 import { afterEach, describe, expect, it, vi } from 'vitest';
 import { App } from './App';
 import { setUnauthorizedHandler } from './api/client';
-import { mockApi } from './test/mockApi';
+import { appRoutes, mockApi } from './test/mockApi';
 
 afterEach(() => {
   setUnauthorizedHandler(null);
@@ -22,7 +22,7 @@ function renderApp(path = '/') {
 const loggedOut = {
   'GET /api/me': () => ({ status: 401, body: { error: 'unauthorized' } }),
 };
-const loggedIn = { 'GET /api/me': () => ({ body: { username: 'anton' } }) };
+const loggedIn = appRoutes();
 
 async function fillAndSubmit(username: string, password: string) {
   const user = userEvent.setup();
@@ -84,7 +84,22 @@ describe('unreachable server', () => {
     let up = false;
     vi.stubGlobal('fetch', async (input: RequestInfo | URL) => {
       if (!up) throw new TypeError('network down');
-      const body = String(input) === '/api/me' ? { username: 'anton' } : [];
+      const url = String(input);
+      const body =
+        url === '/api/me'
+          ? { username: 'anton' }
+          : url === '/api/decks'
+            ? [
+                {
+                  slug: 'lv-uk',
+                  sourceLang: 'lv',
+                  targetLang: 'uk',
+                  title: 'Latvian → Ukrainian',
+                },
+              ]
+            : url.includes('/review')
+              ? { due: 0, newToday: 0, newCap: 15, cards: [] }
+              : [];
       return new Response(JSON.stringify(body), { status: 200 });
     });
     renderApp('/');
@@ -106,6 +121,7 @@ describe('login', () => {
   it('logs in and lands on the empty Home page', async () => {
     let sessionActive = false;
     const { calls } = mockApi({
+      ...appRoutes(),
       'GET /api/me': () =>
         sessionActive
           ? { body: { username: 'anton' } }
@@ -173,12 +189,12 @@ describe('login', () => {
 });
 
 describe('logout and expired sessions', () => {
-  it('logs out and returns to the login page', async () => {
+  it('logs out from Settings and returns to the login page', async () => {
     mockApi({
       ...loggedIn,
       'POST /api/logout': () => ({ body: { ok: true } }),
     });
-    renderApp('/');
+    renderApp('/settings');
     const user = userEvent.setup();
 
     await user.click(await screen.findByRole('button', { name: 'Log out' }));
@@ -191,16 +207,18 @@ describe('logout and expired sessions', () => {
   it('returns to login when the API answers 401 later (session expired)', async () => {
     const { fetchMock } = mockApi({
       ...loggedIn,
-      'GET /api/decks': () => ({
-        status: 401,
-        body: { error: 'unauthorized' },
-      }),
     });
     renderApp('/');
     await screen.findByRole('heading', { name: 'Topics' });
 
     const { api } = await import('./api/client');
-    await api('/api/decks').catch(() => {});
+    mockApi({
+      'GET /api/anything': () => ({
+        status: 401,
+        body: { error: 'unauthorized' },
+      }),
+    });
+    await api('/api/anything').catch(() => {});
 
     expect(
       await screen.findByRole('button', { name: 'Log in' }),
@@ -209,17 +227,133 @@ describe('logout and expired sessions', () => {
   });
 });
 
-describe('layout', () => {
-  it('shows the Wiktionary attribution on every page', async () => {
+describe('tab bar', () => {
+  const tabs = ['Home', 'Review', 'Add', 'Stats', 'Settings'];
+
+  it('shows the five tabs and marks the current one', async () => {
+    mockApi(loggedIn);
+    renderApp('/');
+
+    const nav = await screen.findByRole('navigation', { name: 'Main' });
+
+    expect(
+      within(nav)
+        .getAllByRole('link')
+        .map((l) => l.textContent),
+    ).toEqual(tabs);
+    expect(within(nav).getByRole('link', { name: 'Home' })).toHaveAttribute(
+      'aria-current',
+      'page',
+    );
+    expect(
+      within(nav).getByRole('link', { name: 'Settings' }),
+    ).not.toHaveAttribute('aria-current');
+  });
+
+  it('is not shown on the login page', async () => {
     mockApi(loggedOut);
     renderApp('/');
 
     await screen.findByRole('button', { name: 'Log in' });
 
-    expect(screen.getByText(/Wiktionary/)).toBeInTheDocument();
-    expect(screen.getByRole('link', { name: /CC BY-SA 4\.0/ })).toHaveAttribute(
-      'href',
-      'https://creativecommons.org/licenses/by-sa/4.0/',
+    expect(
+      screen.queryByRole('navigation', { name: 'Main' }),
+    ).not.toBeInTheDocument();
+  });
+
+  it('is not shown during a session', async () => {
+    mockApi(
+      appRoutes({
+        'GET /api/decks/lv-uk/sessions/current': () => ({
+          body: {
+            id: 's1',
+            topicId: 1,
+            total: 2,
+            index: 0,
+            card: {
+              index: 0,
+              kind: 'recognition',
+              retry: false,
+              wordId: 1,
+              pos: 'noun',
+              translation: 'хліб',
+              lemma: 'maize',
+            },
+          },
+        }),
+      }),
     );
+    renderApp('/session');
+
+    await screen.findByText('maize');
+
+    expect(
+      screen.queryByRole('navigation', { name: 'Main' }),
+    ).not.toBeInTheDocument();
+  });
+
+  it('navigates between pages, with Add and Stats as placeholders', async () => {
+    mockApi(loggedIn);
+    renderApp('/');
+    const user = userEvent.setup();
+    const nav = await screen.findByRole('navigation', { name: 'Main' });
+
+    await user.click(within(nav).getByRole('link', { name: 'Add' }));
+    expect(
+      await screen.findByRole('heading', { name: 'Add' }),
+    ).toBeInTheDocument();
+    expect(screen.getByText('Coming soon')).toBeInTheDocument();
+
+    await user.click(within(nav).getByRole('link', { name: 'Stats' }));
+    expect(
+      await screen.findByRole('heading', { name: 'Stats' }),
+    ).toBeInTheDocument();
+
+    await user.click(within(nav).getByRole('link', { name: 'Review' }));
+    expect(
+      await screen.findByRole('heading', { name: 'Review' }),
+    ).toBeInTheDocument();
+  });
+});
+
+describe('settings', () => {
+  it('lists the decks with the current one selected and switches the deck', async () => {
+    mockApi(
+      appRoutes({
+        'GET /api/decks': () => ({
+          body: [
+            {
+              slug: 'lv-uk',
+              sourceLang: 'lv',
+              targetLang: 'uk',
+              title: 'Latvian → Ukrainian',
+            },
+            {
+              slug: 'en-uk',
+              sourceLang: 'en',
+              targetLang: 'uk',
+              title: 'English → Ukrainian',
+            },
+          ],
+        }),
+      }),
+    );
+    localStorage.clear();
+    renderApp('/settings');
+    const user = userEvent.setup();
+
+    const latvian = await screen.findByRole('button', {
+      name: 'Latvian → Ukrainian',
+    });
+    expect(latvian).toHaveAttribute('aria-pressed', 'true');
+    const english = screen.getByRole('button', { name: 'English → Ukrainian' });
+    expect(english).toHaveAttribute('aria-pressed', 'false');
+
+    await user.click(english);
+
+    expect(english).toHaveAttribute('aria-pressed', 'true');
+    expect(latvian).toHaveAttribute('aria-pressed', 'false');
+    expect(localStorage.getItem('deck')).toBe('en-uk');
+    localStorage.clear();
   });
 });

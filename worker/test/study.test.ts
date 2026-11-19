@@ -5,6 +5,7 @@ import {
   createTestD1,
   seedCard,
   seedReviewLog,
+  seedSentence,
   seedUser,
   seedWord,
   type TestD1,
@@ -36,6 +37,8 @@ type CardView = {
   wordId: number;
   translation: string;
   lemma?: string;
+  textWithGap?: string;
+  hint?: string;
 };
 type SessionView = { id: string; total: number; index: number; card: CardView };
 type AnswerView = {
@@ -781,5 +784,225 @@ describe('raising an exact answer to Easy', () => {
 
     expect((await raise(s.id)).status).toBe(404);
     expect((await raise('nope')).status).toBe(404);
+  });
+});
+
+describe('cloze cards', () => {
+  async function wordWithProduction(lemma = 'maize') {
+    const id = await seedWord(t.db, { lemma, topic: 'home', level: 'A1' });
+    await seedCard(t.db, {
+      userId,
+      wordId: id,
+      kind: 'production',
+      dueAt: 1,
+      state: 2,
+      stability: 5,
+      reps: 3,
+    });
+    return id;
+  }
+  const clozeRows = (wordId: number) =>
+    t.db
+      .prepare(
+        "SELECT sentence_id, state, due_at FROM cards WHERE word_id = ? AND kind = 'cloze' ORDER BY sentence_id",
+      )
+      .bind(wordId)
+      .all<{ sentence_id: number; state: number; due_at: number }>()
+      .then((r) => r.results);
+
+  async function answerProduction(typed: string) {
+    const s = (await start({ review: true })).body;
+    return answer(s.id, 0, { typed });
+  }
+
+  it('creates a cloze card per approved sentence when the production answer passes', async () => {
+    const id = await wordWithProduction();
+    const a = await seedSentence(t.db, id, {
+      gap: 'Es ēdu ___',
+      answer: 'maizi',
+      hint: 'Я їм хліб',
+    });
+    const b = await seedSentence(t.db, id, {
+      gap: 'Dod ___',
+      answer: 'maizi',
+      hint: 'Дай хліб',
+    });
+    await seedSentence(t.db, id, {
+      gap: 'x ___',
+      answer: 'y',
+      hint: 'h',
+      status: 'pending',
+    });
+
+    await answerProduction('maize');
+
+    const rows = await clozeRows(id);
+    expect(rows.map((r) => r.sentence_id)).toEqual([a, b]);
+    const production = await cardRow(id, 'production');
+    for (const row of rows) {
+      expect(row.state).toBe(0);
+      expect(row.due_at).toBeGreaterThan(production!.due_at!);
+    }
+  });
+
+  it('also creates them after a typo pass, but not after a wrong answer', async () => {
+    const typo = await wordWithProduction('maizē');
+    await seedSentence(t.db, typo, {
+      gap: 'a ___',
+      answer: 'maizi',
+      hint: 'h',
+    });
+    await answerProduction('maize');
+    expect(await clozeRows(typo)).toHaveLength(1);
+
+    await t.db.exec('DELETE FROM cards; DELETE FROM session_state');
+    const wrong = await wordWithProduction('piens');
+    await seedSentence(t.db, wrong, {
+      gap: 'a ___',
+      answer: 'pienu',
+      hint: 'h',
+    });
+    await answerProduction('xxxxxxxx');
+    expect(await clozeRows(wrong)).toEqual([]);
+  });
+
+  it('creates nothing for a word without sentences and no duplicates on a second pass', async () => {
+    const bare = await wordWithProduction('bare');
+    await answerProduction('bare');
+    expect(await clozeRows(bare)).toEqual([]);
+
+    const id = await wordWithProduction('maize');
+    await seedSentence(t.db, id, { gap: 'a ___', answer: 'maizi', hint: 'h' });
+    await answerProduction('maize');
+    await t.db.exec(
+      "UPDATE cards SET due_at = 1 WHERE kind = 'production'; DELETE FROM session_state",
+    );
+    await answerProduction('maize');
+    expect(await clozeRows(id)).toHaveLength(1);
+  });
+
+  async function dueCloze() {
+    const id = await seedWord(t.db, {
+      lemma: 'maize',
+      topic: 'home',
+      level: 'A1',
+    });
+    const sentenceId = await seedSentence(t.db, id, {
+      gap: 'Es ēdu ___',
+      answer: 'maizi',
+      hint: 'Я їм хліб',
+    });
+    await seedCard(t.db, {
+      userId,
+      wordId: id,
+      kind: 'cloze',
+      sentenceId,
+      dueAt: 1,
+      state: 2,
+      stability: 5,
+      reps: 2,
+    });
+    await seedCard(t.db, {
+      userId,
+      wordId: id,
+      kind: 'production',
+      dueAt: 9_999_999_999,
+      state: 2,
+      stability: 9,
+      reps: 4,
+    });
+    return { id, sentenceId, s: (await start({ review: true })).body };
+  }
+
+  it('shows the sentence and its hint without the answer or the lemma', async () => {
+    const { s } = await dueCloze();
+
+    expect(s.card).toMatchObject({
+      kind: 'cloze',
+      textWithGap: 'Es ēdu ___',
+      hint: 'Я їм хліб',
+    });
+    expect(s.card.lemma).toBeUndefined();
+    expect(JSON.stringify(s.card)).not.toContain('maizi');
+  });
+
+  it('checks the typed form against the sentence answer, not the lemma', async () => {
+    const { s } = await dueCloze();
+
+    const { body } = await answer(s.id, 0, { typed: 'maizi' });
+
+    expect(body).toMatchObject({
+      verdict: 'exact',
+      grade: 'good',
+      expected: 'maizi',
+      canRaise: true,
+      finished: true,
+    });
+    const log = await t.db
+      .prepare('SELECT mode, kind, grade FROM review_log')
+      .first();
+    expect(log).toEqual({ mode: 'gap', kind: 'cloze', grade: 3 });
+  });
+
+  it('fails a wrong ending in a cloze, since the ending is what it trains', async () => {
+    const { s } = await dueCloze();
+
+    const { body } = await answer(s.id, 0, { typed: 'maize' });
+
+    expect(body).toMatchObject({
+      verdict: 'wrong',
+      grade: 'again',
+      expected: 'maizi',
+    });
+    expect(body.diff!.some((d) => d.kind === 'wrong')).toBe(true);
+  });
+
+  it('raises the cloze card to Easy without touching the production card', async () => {
+    const { id, s } = await dueCloze();
+    await answer(s.id, 0, { typed: 'maizi' });
+    const before = await t.db
+      .prepare("SELECT scheduled_days FROM cards WHERE kind = 'cloze'")
+      .first<{ scheduled_days: number }>();
+    const prod = await cardRow(id, 'production');
+
+    const res = await call(`/api/sessions/${s.id}/easy`, {
+      method: 'POST',
+      body: { cardIndex: 0 },
+    });
+
+    expect(res.status).toBe(200);
+    const after = await t.db
+      .prepare("SELECT scheduled_days FROM cards WHERE kind = 'cloze'")
+      .first<{ scheduled_days: number }>();
+    expect(after!.scheduled_days).toBeGreaterThan(before!.scheduled_days);
+    expect(await cardRow(id, 'production')).toEqual(prod);
+    const grades = await t.db
+      .prepare('SELECT kind, grade FROM review_log')
+      .all();
+    expect(grades.results).toEqual([{ kind: 'cloze', grade: 4 }]);
+  });
+
+  it('resumes a session saved before cards had a sentenceId', async () => {
+    const [id] = await seedMany(1);
+    await t.db
+      .prepare(
+        'INSERT INTO session_state (user_id, deck_id, payload_json) VALUES (?, 1, ?)',
+      )
+      .bind(
+        userId,
+        JSON.stringify({
+          id: 'p',
+          topicId: null,
+          cards: [{ wordId: id, kind: 'recognition', retry: false }],
+          index: 0,
+          correct: 0,
+          wrong: 0,
+        }),
+      )
+      .run();
+
+    const res = await call('/api/decks/lv-uk/sessions/current');
+
+    expect(res.status).toBe(200);
   });
 });

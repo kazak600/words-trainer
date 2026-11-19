@@ -1,60 +1,56 @@
 import { useEffect, useState } from 'react';
 import { Navigate, useNavigate } from 'react-router-dom';
+import { languageName } from '../api/decks';
 import {
   answerCard,
   fetchCurrentSession,
-  startSession,
+  raiseToEasy,
+  startReviewSession,
+  startTopicSession,
   type AnswerInput,
   type AnswerView,
   type Card,
+  type Grade,
   type SessionView,
 } from '../api/study';
-import { grammarLine } from '../grammar';
-import { ChoiceCard } from '../session/ChoiceCard';
+import { useDeck } from '../decks/DeckContext';
 import { Feedback } from '../session/Feedback';
-import { WriteCard } from '../session/WriteCard';
+import { RecognitionCard } from '../session/RecognitionCard';
+import { TypedCard } from '../session/TypedCard';
+import { describeStartError } from './startSession';
 
 type Phase =
   | { kind: 'loading' }
   | { kind: 'none' }
-  | {
-      kind: 'card';
-      session: SessionView;
-      card: Card;
-      index: number;
-      total: number;
-    }
+  | { kind: 'card'; session: SessionView; card: Card; total: number }
   | {
       kind: 'done';
-      topicId: number;
+      topicId: number | null;
       summary: NonNullable<AnswerView['summary']>;
     };
 
-type Checked = { reply: AnswerView; picked?: number; typed?: string };
+type Checked = { reply: AnswerView; typed: string };
 
-function toPhase(session: SessionView): Phase {
-  return {
-    kind: 'card',
-    session,
-    card: session.card,
-    index: session.index,
-    total: session.total,
-  };
-}
+const toPhase = (session: SessionView): Phase => ({
+  kind: 'card',
+  session,
+  card: session.card,
+  total: session.total,
+});
 
 export function SessionPage() {
   const navigate = useNavigate();
+  const { deck } = useDeck();
   const [phase, setPhase] = useState<Phase>({ kind: 'loading' });
-  const [flipped, setFlipped] = useState(false);
   const [checked, setChecked] = useState<Checked | null>(null);
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    fetchCurrentSession()
+    fetchCurrentSession(deck.slug)
       .then((session) => setPhase(toPhase(session)))
       .catch(() => setPhase({ kind: 'none' }));
-  }, []);
+  }, [deck.slug]);
 
   if (phase.kind === 'loading') return null;
   if (phase.kind === 'none') return <Navigate to="/" replace />;
@@ -63,12 +59,16 @@ export function SessionPage() {
     const { summary, topicId } = phase;
     async function another() {
       setBusy(true);
+      setError(null);
       try {
-        setPhase(toPhase(await startSession(topicId)));
-        setFlipped(false);
+        const session =
+          topicId === null
+            ? await startReviewSession(deck.slug)
+            : await startTopicSession(deck.slug, topicId);
+        setPhase(toPhase(session));
         setChecked(null);
-      } catch {
-        setError('Nothing more to study in this topic right now.');
+      } catch (e) {
+        setError(describeStartError(e));
       }
       setBusy(false);
     }
@@ -99,11 +99,11 @@ export function SessionPage() {
     );
   }
 
-  const { card, index, total, session } = phase;
+  const { card, session, total } = phase;
 
   function advance(reply: AnswerView) {
-    setFlipped(false);
     setChecked(null);
+    setError(null);
     if (reply.finished && reply.summary) {
       setPhase({
         kind: 'done',
@@ -115,7 +115,6 @@ export function SessionPage() {
         kind: 'card',
         session,
         card: reply.next,
-        index: reply.next.index,
         total: Math.max(total, reply.next.index + 1),
       });
     }
@@ -125,7 +124,7 @@ export function SessionPage() {
     setBusy(true);
     setError(null);
     try {
-      return await answerCard(session.id, index, input);
+      return await answerCard(session.id, card.index, input);
     } catch {
       setError('Could not save the answer. Try again.');
       return null;
@@ -134,101 +133,54 @@ export function SessionPage() {
     }
   }
 
-  async function rate(result: 'again' | 'good' | 'easy') {
-    const reply = await submit({ result });
+  async function grade(value: Grade) {
+    const reply = await submit({ grade: value });
     if (reply) advance(reply);
   }
 
-  async function choose(wordId: number) {
-    const reply = await submit({ choiceWordId: wordId });
-    if (reply) setChecked({ reply, picked: wordId });
-  }
-
-  async function write(typed: string) {
+  async function type(typed: string) {
     const reply = await submit({ typed });
     if (reply) setChecked({ reply, typed });
   }
 
-  const grammar = flipped ? grammarLine(card.pos, card.grammar) : null;
+  async function raise(): Promise<{ learned: boolean } | null> {
+    try {
+      const { learned } = await raiseToEasy(session.id, card.index);
+      return { learned };
+    } catch {
+      setError('Could not mark the card as easy.');
+      return null;
+    }
+  }
 
   return (
     <section className="session">
-      <header className="row">
-        <button type="button" onClick={() => navigate('/')}>
+      <header className="topbar">
+        <button type="button" className="exit" onClick={() => navigate('/')}>
           Exit
         </button>
-        <progress value={index} max={total} aria-label="Session progress" />
+        <progress
+          value={card.index}
+          max={total}
+          aria-label="Session progress"
+        />
       </header>
 
-      {card.mode === 'flip' && (
-        <>
-          <button
-            type="button"
-            className="flip-card"
-            onClick={() => setFlipped(true)}
-            disabled={flipped}
-          >
-            <span className="lemma">{card.lemma}</span>
-            {flipped && (
-              <span className="back" key={card.index}>
-                <span className="translation">{card.translation}</span>
-                {grammar && <span className="muted">{grammar}</span>}
-              </span>
-            )}
-            {!flipped && <span className="muted">Tap to flip</span>}
-          </button>
-          {flipped && (
-            <div className="answers">
-              <button
-                type="button"
-                disabled={busy}
-                onClick={() => rate('again')}
-              >
-                Again
-              </button>
-              <button
-                type="button"
-                className="primary"
-                disabled={busy}
-                onClick={() => rate('good')}
-              >
-                Good
-              </button>
-              <button
-                type="button"
-                disabled={busy}
-                onClick={() => rate('easy')}
-              >
-                Easy
-              </button>
-            </div>
-          )}
-        </>
-      )}
-
-      {card.mode === 'choice' && (
-        <ChoiceCard
-          card={card}
-          picked={checked?.picked ?? null}
-          rightId={
-            checked
-              ? checked.reply.correct
-                ? checked.picked!
-                : card.wordId
-              : null
-          }
-          busy={busy}
-          onPick={choose}
-        />
-      )}
-
-      {card.mode === 'write' && (
-        <WriteCard
+      {card.kind === 'recognition' ? (
+        <RecognitionCard
           key={card.index}
           card={card}
+          busy={busy}
+          onGrade={grade}
+        />
+      ) : (
+        <TypedCard
+          key={card.index}
+          card={card}
+          language={languageName(deck.sourceLang)}
           locked={checked !== null}
           busy={busy}
-          onSubmit={write}
+          onSubmit={type}
         />
       )}
 
@@ -241,6 +193,7 @@ export function SessionPage() {
         <Feedback
           reply={checked.reply}
           typed={checked.typed}
+          onRaise={raise}
           onContinue={() => advance(checked.reply)}
         />
       )}

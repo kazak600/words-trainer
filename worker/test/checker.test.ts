@@ -127,3 +127,19 @@ describe('checkAnswer language table', () => {
     expect(() => checkAnswer('x', 'x', 'xx')).toThrow(/xx/);
   });
 });
+
+describe('checkAnswer strict mode (cloze)', () => {
+  const strict = (typed: string, expected: string) =>
+    checkAnswer(typed, expected, 'lv', { strict: true }).verdict;
+
+  it('does not forgive a wrong ending', () => {
+    expect(strict('maize', 'maizi')).toBe('wrong');
+    expect(strict('Latvija', 'Latvijas')).toBe('wrong');
+  });
+
+  it('still passes a missing diacritic as a typo and an exact answer', () => {
+    expect(strict('maizi', 'maizi')).toBe('exact');
+    expect(strict('sveiki', 'sveiķi')).toBe('typo');
+    expect(strict('', 'maizi')).toBe('wrong');
+  });
+});

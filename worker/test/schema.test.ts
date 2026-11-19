@@ -180,6 +180,38 @@ describe('database schema', () => {
       });
     });
 
+    describe('sentences.source', () => {
+      const insertSentence = (wordId: number | bigint, source?: string) =>
+        source === undefined
+          ? db
+              .prepare(
+                "INSERT INTO sentences (word_id, text_with_gap, answer, hint_target_lang, hint) VALUES (?, 'a ___', 'b', 'uk', 'h')",
+              )
+              .run(wordId)
+          : db
+              .prepare(
+                "INSERT INTO sentences (word_id, text_with_gap, answer, hint_target_lang, hint, source) VALUES (?, 'a ___', 'b', 'uk', 'h', ?)",
+              )
+              .run(wordId, source);
+
+      it('defaults to generated and accepts manual', () => {
+        const { lastInsertRowid: wordId } = insertWord(1);
+        insertSentence(wordId);
+        insertSentence(wordId, 'manual');
+
+        const rows = db
+          .prepare('SELECT source FROM sentences ORDER BY id')
+          .all();
+        expect(rows).toEqual([{ source: 'generated' }, { source: 'manual' }]);
+      });
+
+      it('rejects an unknown source', () => {
+        const { lastInsertRowid: wordId } = insertWord(1);
+
+        expect(() => insertSentence(wordId, 'other')).toThrow(/CHECK/);
+      });
+    });
+
     it('accepts kind and grade on review_log and rejects grade 5', () => {
       const { lastInsertRowid: userId } = db
         .prepare('INSERT INTO users (username, password_hash) VALUES (?, ?)')

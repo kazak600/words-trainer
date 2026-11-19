@@ -7,7 +7,7 @@ import {
   type MemoryCard,
 } from '../lib/fsrs';
 import { GRADE_VALUES, gradeFromVerdict } from '../lib/grading';
-import { localDayWindow } from '../lib/streak';
+import { localDayWindow } from '../lib/day';
 import {
   countNewWordsBetween,
   findCard,
@@ -32,18 +32,33 @@ import {
   upsertSessionStatement,
 } from '../repositories/study';
 import { findTopic } from '../repositories/topics';
+import {
+  findSentence,
+  listVisibleSentences,
+  type SentenceRow,
+} from '../repositories/sentences';
 import { listWordsByIds, type WordCoreRow } from '../repositories/words';
 
 export const NEW_WORDS_PER_DAY = 15;
 const TOPIC_SESSION_SIZE = 10;
 const REVIEW_SESSION_SIZE = 20;
+const MODES = {
+  recognition: 'flip',
+  production: 'write',
+  cloze: 'gap',
+} as const;
 const GRADES: Grade[] = ['again', 'hard', 'good', 'easy'];
 const DAY_SECONDS = 86_400;
 const MAX_TYPED_LENGTH = 100;
 const NO_FLAGS: CardFlags = { suspended: false, leech: false };
 
-type StudyKind = 'recognition' | 'production';
-type PayloadCard = { wordId: number; kind: StudyKind; retry: boolean };
+type StudyKind = 'recognition' | 'production' | 'cloze';
+type PayloadCard = {
+  wordId: number;
+  kind: StudyKind;
+  sentenceId?: number | null;
+  retry: boolean;
+};
 type Payload = {
   id: string;
   topicId: number | null;
@@ -55,6 +70,8 @@ type Payload = {
   lastExact?: {
     index: number;
     wordId: number;
+    kind: StudyKind;
+    sentenceId: number | null;
     before: MemoryCard;
     at: number;
   };
@@ -69,6 +86,8 @@ export type CardView = {
   translation: string;
   lemma?: string;
   grammar?: unknown;
+  textWithGap?: string;
+  hint?: string;
 };
 export type SessionView = {
   id: string;
@@ -162,6 +181,14 @@ async function toCardView(
     view.lemma = word.lemma;
     view.grammar = word.grammar_json ? JSON.parse(word.grammar_json) : null;
   }
+  if (card.kind === 'cloze') {
+    const sentence = card.sentenceId
+      ? await findSentence(db, card.sentenceId)
+      : null;
+    if (!sentence) throw new StudyError('session_not_found');
+    view.textWithGap = sentence.textWithGap;
+    view.hint = sentence.hint;
+  }
   return view;
 }
 
@@ -214,7 +241,7 @@ async function reviewCards(
     deckId: deck.id,
     targetLang: deck.target_lang,
     now,
-    limit: REVIEW_SESSION_SIZE * 2,
+    limit: REVIEW_SESSION_SIZE * 3,
   });
   // A word's other card is held back until the next review, so one card never shows the answer to the next.
   const seen = new Set<number>();
@@ -224,6 +251,7 @@ async function reviewCards(
   return firstPerWord.slice(0, REVIEW_SESSION_SIZE).map((d) => ({
     wordId: d.wordId,
     kind: d.kind as StudyKind,
+    sentenceId: d.sentenceId,
     retry: false,
   }));
 }
@@ -283,6 +311,7 @@ type Judgement = {
 function judge(
   card: PayloadCard,
   word: WordCoreRow,
+  expected: string,
   input: AnswerInput,
 ): Judgement {
   if (card.kind === 'recognition') {
@@ -292,7 +321,9 @@ function judge(
   }
   if (typeof input.typed !== 'string' || input.typed.length > MAX_TYPED_LENGTH)
     throw new StudyError('bad_answer');
-  const checked = checkAnswer(input.typed, word.lemma, word.lang);
+  const checked = checkAnswer(input.typed, expected, word.lang, {
+    strict: card.kind === 'cloze',
+  });
   return {
     grade: gradeFromVerdict(checked.verdict),
     verdict: checked.verdict,
@@ -318,13 +349,21 @@ export async function answerCard(
   const [word] = await listWordsByIds(db, [card.wordId], deck.target_lang);
   if (!word) throw new StudyError('session_not_found');
 
-  const judgement = judge(card, word, input);
+  const sentence: SentenceRow | null =
+    card.kind === 'cloze' && card.sentenceId
+      ? await findSentence(db, card.sentenceId)
+      : null;
+  if (card.kind === 'cloze' && !sentence)
+    throw new StudyError('session_not_found');
+  const expected = sentence?.answer ?? word.lemma;
+
+  const judgement = judge(card, word, expected, input);
   const key: CardKey = {
     userId,
     deckId: deck.id,
     wordId: card.wordId,
     kind: card.kind,
-    sentenceId: null,
+    sentenceId: sentence?.id ?? null,
   };
   const stored = await findCard(db, key);
   const updated = review(stored?.card ?? newCard(now), judgement.grade, now);
@@ -341,6 +380,8 @@ export async function answerCard(
       ? {
           index: payload.index - 1,
           wordId: card.wordId,
+          kind: card.kind,
+          sentenceId: key.sentenceId,
           before: stored?.card ?? newCard(now),
           at: now,
         }
@@ -352,7 +393,7 @@ export async function answerCard(
       userId,
       deckId: deck.id,
       wordId: card.wordId,
-      mode: card.kind === 'recognition' ? 'flip' : 'write',
+      mode: MODES[card.kind],
       kind: card.kind,
       grade: GRADE_VALUES[judgement.grade],
       correct,
@@ -380,6 +421,24 @@ export async function answerCard(
       ),
     );
   }
+  if (card.kind === 'production' && correct) {
+    // Cloze cards follow the production card, one per visible sentence of the word.
+    // A day after the production card is due, so the two never come up together.
+    const nextDue = Math.max(updated.dueAt, now + DAY_SECONDS) + DAY_SECONDS;
+    for (const s of await listVisibleSentences(
+      db,
+      card.wordId,
+      deck.target_lang,
+    )) {
+      statements.push(
+        insertCardIfMissingStatement(
+          db,
+          { ...key, kind: 'cloze', sentenceId: s.id },
+          newCard(nextDue),
+        ),
+      );
+    }
+  }
   await db.batch(statements);
 
   const production =
@@ -391,7 +450,7 @@ export async function answerCard(
     grade: judgement.grade,
     verdict: judgement.verdict,
     correct,
-    expected: word.lemma,
+    expected,
     diff: judgement.diff,
     learned: isLearned(production),
     canRaise: judgement.verdict === 'exact',
@@ -426,8 +485,8 @@ export async function raiseToEasy(
     userId,
     deckId: row.deck_id,
     wordId: last.wordId,
-    kind: 'production',
-    sentenceId: null,
+    kind: last.kind,
+    sentenceId: last.sentenceId,
   };
   const stored = await findCard(db, key);
   const easy = review(last.before, 'easy', last.at);
@@ -441,7 +500,7 @@ export async function raiseToEasy(
       userId,
       row.deck_id,
       last.wordId,
-      'production',
+      last.kind,
       GRADE_VALUES.easy,
     ),
     finished
@@ -454,5 +513,10 @@ export async function raiseToEasy(
           now,
         ),
   ]);
-  return { grade: 'easy', learned: isLearned(easy) };
+  const production =
+    last.kind === 'production'
+      ? easy
+      : ((await findCard(db, { ...key, kind: 'production', sentenceId: null }))
+          ?.card ?? null);
+  return { grade: 'easy', learned: isLearned(production) };
 }

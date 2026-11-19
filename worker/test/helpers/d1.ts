@@ -100,7 +100,8 @@ export async function seedUser(
 export type CardSeed = {
   userId: number;
   wordId: number;
-  kind?: 'recognition' | 'production';
+  kind?: 'recognition' | 'production' | 'cloze';
+  sentenceId?: number;
   dueAt?: number;
   state?: number;
   stability?: number;
@@ -112,13 +113,14 @@ export type CardSeed = {
 export async function seedCard(db: D1Database, c: CardSeed): Promise<number> {
   const row = await db
     .prepare(
-      `INSERT INTO cards (user_id, deck_id, word_id, kind, state, due_at, stability, difficulty, reps, lapses, suspended)
-       VALUES (?, 1, ?, ?, ?, ?, ?, 5, ?, ?, ?) RETURNING id`,
+      `INSERT INTO cards (user_id, deck_id, word_id, kind, sentence_id, state, due_at, stability, difficulty, reps, lapses, suspended)
+       VALUES (?, 1, ?, ?, ?, ?, ?, ?, 5, ?, ?, ?) RETURNING id`,
     )
     .bind(
       c.userId,
       c.wordId,
       c.kind ?? 'recognition',
+      c.sentenceId ?? null,
       c.state ?? 2,
       c.dueAt ?? 0,
       c.stability ?? 1,
@@ -143,4 +145,32 @@ export function seedReviewLog(
     )
     .bind(userId, wordId, createdAt)
     .run();
+}
+
+export async function seedSentence(
+  db: D1Database,
+  wordId: number,
+  s: {
+    gap: string;
+    answer: string;
+    hint: string;
+    status?: string;
+    lang?: string;
+  },
+): Promise<number> {
+  const row = await db
+    .prepare(
+      `INSERT INTO sentences (word_id, text_with_gap, answer, hint_target_lang, hint, review_status)
+       VALUES (?, ?, ?, ?, ?, ?) RETURNING id`,
+    )
+    .bind(
+      wordId,
+      s.gap,
+      s.answer,
+      s.lang ?? 'uk',
+      s.hint,
+      s.status ?? 'approved',
+    )
+    .first<{ id: number }>();
+  return row!.id;
 }

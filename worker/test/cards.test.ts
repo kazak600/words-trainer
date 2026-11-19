@@ -14,6 +14,7 @@ import {
   createTestD1,
   seedCard,
   seedReviewLog,
+  seedSentence,
   seedUser,
   seedWord,
   type TestD1,
@@ -152,13 +153,48 @@ describe('due cards', () => {
     expect(await countDueCards(t.db, scope())).toBe(2);
   });
 
-  it('never lists cloze cards in the queue', async () => {
-    await t.db
-      .prepare(
-        "INSERT INTO cards (user_id, deck_id, word_id, kind, due_at) VALUES (?, 1, ?, 'cloze', 1)",
-      )
-      .bind(userId, wordId)
-      .run();
+  it('lists cloze cards with their sentence id', async () => {
+    const sentenceId = await seedSentence(t.db, wordId, {
+      gap: 'a ___',
+      answer: 'b',
+      hint: 'h',
+    });
+    await seedCard(t.db, {
+      userId,
+      wordId,
+      kind: 'cloze',
+      sentenceId,
+      dueAt: 1,
+    });
+
+    const rows = await findDueCards(t.db, scope());
+
+    expect(rows).toMatchObject([{ kind: 'cloze', sentenceId }]);
+    expect(await countDueCards(t.db, scope())).toBe(1);
+  });
+
+  it('counts a word once when several of its cards are due', async () => {
+    await seedCard(t.db, { userId, wordId, kind: 'recognition', dueAt: 1 });
+    await seedCard(t.db, { userId, wordId, kind: 'production', dueAt: 1 });
+
+    expect(await countDueCards(t.db, scope())).toBe(1);
+    expect(await findDueCards(t.db, scope())).toHaveLength(2);
+  });
+
+  it('does not serve a cloze card whose sentence is no longer approved', async () => {
+    const sentenceId = await seedSentence(t.db, wordId, {
+      gap: 'a ___',
+      answer: 'b',
+      hint: 'h',
+      status: 'pending',
+    });
+    await seedCard(t.db, {
+      userId,
+      wordId,
+      kind: 'cloze',
+      sentenceId,
+      dueAt: 1,
+    });
 
     expect(await findDueCards(t.db, scope())).toEqual([]);
     expect(await countDueCards(t.db, scope())).toBe(0);

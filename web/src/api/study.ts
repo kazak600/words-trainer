@@ -1,7 +1,5 @@
 import { api } from './client';
 
-const DECK = 'lv-uk';
-
 export type Topic = {
   id: number;
   slug: string;
@@ -13,20 +11,20 @@ export type Topic = {
 
 export type Card = {
   index: number;
-  stage: 1 | 2 | 3;
-  mode: 'flip' | 'choice' | 'write';
+  kind: 'recognition' | 'production' | 'cloze';
   retry: boolean;
   wordId: number;
   pos: string;
   translation: string;
   lemma?: string;
   grammar?: Record<string, unknown> | null;
-  options?: { wordId: number; lemma: string }[];
+  textWithGap?: string;
+  hint?: string;
 };
 
 export type SessionView = {
   id: string;
-  topicId: number;
+  topicId: number | null;
   total: number;
   index: number;
   card: Card;
@@ -38,32 +36,49 @@ export type DiffItem = {
   typed?: string;
 };
 
-export type AnswerInput =
-  | { result: 'again' | 'good' | 'easy' }
-  | { choiceWordId: number }
-  | { typed: string };
+export type Grade = 'again' | 'hard' | 'good' | 'easy';
+export type Verdict = 'exact' | 'typo' | 'wrong';
+
+export type AnswerInput = { grade: Grade } | { typed: string };
 
 export type AnswerView = {
+  grade: Grade;
+  verdict?: Verdict;
   correct: boolean;
   expected: string;
   diff?: DiffItem[];
   learned: boolean;
+  canRaise: boolean;
   finished: boolean;
   next: Card | null;
   summary?: { cards: number; correct: number; wrong: number };
 };
 
-export type Streak = { days: number; studiedToday: boolean };
+export type ReviewSummary = {
+  due: number;
+  newToday: number;
+  newCap: number;
+  cards: { cardId: number; wordId: number; kind: string }[];
+};
 
-export const fetchTopics = () => api<Topic[]>(`/api/decks/${DECK}/topics`);
-export const fetchStreak = () =>
-  api<Streak>(`/api/streak?tzOffset=${-new Date().getTimezoneOffset()}`);
-export const fetchCurrentSession = () =>
-  api<SessionView>(`/api/decks/${DECK}/sessions/current`);
-export const startSession = (topicId: number) =>
-  api<SessionView>(`/api/decks/${DECK}/sessions`, {
+// Minutes east of UTC; the server uses it to find the user's local day.
+const tzOffset = () => -new Date().getTimezoneOffset();
+
+export const fetchTopics = (deck: string) =>
+  api<Topic[]>(`/api/decks/${deck}/topics`);
+export const fetchReview = (deck: string) =>
+  api<ReviewSummary>(`/api/decks/${deck}/review?tzOffset=${tzOffset()}`);
+export const fetchCurrentSession = (deck: string) =>
+  api<SessionView>(`/api/decks/${deck}/sessions/current`);
+export const startTopicSession = (deck: string, topicId: number) =>
+  api<SessionView>(`/api/decks/${deck}/sessions`, {
     method: 'POST',
-    body: { topicId },
+    body: { topicId, tzOffset: tzOffset() },
+  });
+export const startReviewSession = (deck: string) =>
+  api<SessionView>(`/api/decks/${deck}/sessions`, {
+    method: 'POST',
+    body: { review: true, tzOffset: tzOffset() },
   });
 export const answerCard = (
   sessionId: string,
@@ -73,4 +88,9 @@ export const answerCard = (
   api<AnswerView>(`/api/sessions/${sessionId}/answer`, {
     method: 'POST',
     body: { cardIndex, ...input },
+  });
+export const raiseToEasy = (sessionId: string, cardIndex: number) =>
+  api<{ grade: 'easy'; learned: boolean }>(`/api/sessions/${sessionId}/easy`, {
+    method: 'POST',
+    body: { cardIndex },
   });

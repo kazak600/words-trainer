@@ -4,8 +4,8 @@ export function insertReviewLogStatement(
     userId: number;
     deckId: number;
     wordId: number;
-    mode: 'flip' | 'write';
-    kind: 'recognition' | 'production';
+    mode: 'flip' | 'write' | 'gap';
+    kind: 'recognition' | 'production' | 'cloze';
     grade: number;
     correct: boolean;
     typed: string | null;

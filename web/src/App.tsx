@@ -2,7 +2,11 @@ import { Navigate, Route, Routes } from 'react-router-dom';
 import { AuthProvider, useAuth } from './auth/AuthContext';
 import { RequireAuth } from './auth/RequireAuth';
 import { Layout } from './Layout';
+import { ComingSoonPage } from './pages/ComingSoonPage';
 import { HomePage } from './pages/HomePage';
+import { ReviewPage } from './pages/ReviewPage';
+import { SettingsPage } from './pages/SettingsPage';
+import { AppShell } from './shell/AppShell';
 import { SessionPage } from './pages/SessionPage';
 import { LoginPage } from './pages/LoginPage';
 
@@ -28,8 +32,14 @@ function Gate() {
       <Route element={<Layout />}>
         <Route path="/login" element={<LoginPage />} />
         <Route element={<RequireAuth />}>
-          <Route path="/" element={<HomePage />} />
-          <Route path="/session" element={<SessionPage />} />
+          <Route element={<AppShell />}>
+            <Route path="/" element={<HomePage />} />
+            <Route path="/review" element={<ReviewPage />} />
+            <Route path="/add" element={<ComingSoonPage title="Add" />} />
+            <Route path="/stats" element={<ComingSoonPage title="Stats" />} />
+            <Route path="/settings" element={<SettingsPage />} />
+            <Route path="/session" element={<SessionPage />} />
+          </Route>
         </Route>
         <Route path="*" element={<Navigate to="/" replace />} />
       </Route>

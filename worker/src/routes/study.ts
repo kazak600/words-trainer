@@ -1,6 +1,6 @@
 import { Hono } from 'hono';
 import type { ContentfulStatusCode } from 'hono/utils/http-status';
-import { parseTzOffset } from '../lib/streak';
+import { parseTzOffset } from '../lib/day';
 import type { AuthEnv } from '../middleware/auth';
 import { getReviewSummary } from '../services/review';
 import {

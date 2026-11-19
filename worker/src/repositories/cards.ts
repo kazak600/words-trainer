@@ -134,8 +134,10 @@ const DUE_FROM = `FROM cards c
   JOIN words w ON w.id = c.word_id
   JOIN translations tr ON tr.word_id = w.id AND tr.target_lang = ?
   WHERE c.user_id = ? AND c.deck_id = ? AND c.suspended = 0 AND c.due_at <= ?
-    AND c.kind IN ('recognition', 'production')
-    AND ${VISIBLE} AND (? IS NULL OR w.topic_id = ?)`;
+    AND ${VISIBLE} AND (? IS NULL OR w.topic_id = ?)
+    AND (c.kind <> 'cloze' OR EXISTS (
+      SELECT 1 FROM sentences s
+      WHERE s.id = c.sentence_id AND s.review_status IN ('approved', 'edited')))`;
 
 export async function findDueCards(
   db: D1Database,
@@ -160,7 +162,7 @@ export async function countDueCards(
 ): Promise<number> {
   const topic = p.topicId ?? null;
   const row = await db
-    .prepare(`SELECT COUNT(*) AS n ${DUE_FROM}`)
+    .prepare(`SELECT COUNT(DISTINCT c.word_id) AS n ${DUE_FROM}`)
     .bind(p.targetLang, p.userId, p.deckId, p.now, topic, topic)
     .first<{ n: number }>();
   return row!.n;

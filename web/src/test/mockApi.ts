@@ -25,3 +25,25 @@ export function mockApi(routes: Record<string, MockHandler>) {
   vi.stubGlobal('fetch', fetchMock);
   return { calls, fetchMock };
 }
+
+export const lvDeck = {
+  slug: 'lv-uk',
+  sourceLang: 'lv',
+  targetLang: 'uk',
+  title: 'Latvian → Ukrainian',
+};
+
+export const emptyReview = { due: 0, newToday: 0, newCap: 15, cards: [] };
+
+// The calls every logged-in page makes; tests override or add routes.
+export function appRoutes(
+  extra: Record<string, MockHandler> = {},
+): Record<string, MockHandler> {
+  return {
+    'GET /api/me': () => ({ body: { username: 'anton' } }),
+    'GET /api/decks': () => ({ body: [lvDeck] }),
+    'GET /api/decks/lv-uk/topics': () => ({ body: [] }),
+    'GET /api/decks/lv-uk/review?tzOffset=0': () => ({ body: emptyReview }),
+    ...extra,
+  };
+}

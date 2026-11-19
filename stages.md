@@ -333,7 +333,7 @@ Tasks:
 
 **Done when:** API tests cover the cap (reached, partly used, next day), a mixed review of due cards from two topics, a resume, and the production card appearing after a recognition pass.
 
-## Stage 22. Frontend: cards and Home
+## Stage 22. Frontend: cards and Home [DONE]
 
 **Goal:** the UI matches the new mechanics.
 
@@ -344,18 +344,20 @@ Tasks:
 - Home: a Review button with the due count, topics with new-word counts, "new today: n / 15". Streak badge removed (and `lib/streak.ts`).
 - Multiple-choice UI removed.
 - **Decks are separate flows.** The whole app (Home, Review, Add, Stats, Leech Workshop) is scoped to one current deck, and nothing from another deck is mixed in: no shared queue, no shared counts, no shared daily cap. The current deck is app state (a context, default `lv-uk`), remembered on the device; no page or API call hard-codes a deck slug. The language is switched in the Settings tab (a list of decks, the current one selected); with one deck the list shows only Latvian. UI strings about the language come from the deck's metadata.
+- Add and Stats are placeholder pages ("Coming soon") until stages 25 and 15. The streak is gone from the worker (`/api/streak`, `computeStreak`; the day helpers moved to `lib/day.ts`) and from the web app. The deck choice is kept in `localStorage`.
 - Visual style follows the reference screenshots `Speak iOS 5/7/22/23.png` in the repo root, as a loose guide (see `development_plan.md`, section 7). Elements can be adjusted.
 
 **Done when:** on the iPhone, a review of due cards and a topic session with new words both work, and a missing-diacritic answer shows as a typo.
 
-## Stage 23. Cloze cards
+## Stage 23. Cloze cards [DONE]
 
 **Goal:** words are also tested inside a sentence, which trains the right case and verb form.
 
 Tasks:
 
 - A cloze card is created for each word sentence (from `sentences`) after the word's production card first passes. The Ukrainian sentence translation is the hint; the answer is the form in the sentence, checked by the stage 20 checker.
-- `sentences` gets `source` (`generated` or `manual`), so real "+1" sentences can be added later (stage 25).
+- `sentences` gets `source` (`generated` or `manual`) in migration 0008, so real "+1" sentences can be added later (stage 25).
+- A word's cloze cards are created (one per approved sentence, first due a day later) whenever its production answer passes; cloze cards share the review queue and the typed-card UI with production cards.
 
 **Done when:** a cloze card is created and scheduled after a production pass, and a wrong ending is shown as a typo or an error with the diff.
 
