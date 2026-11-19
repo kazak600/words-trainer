@@ -2,8 +2,10 @@ import { Navigate, Route, Routes } from 'react-router-dom';
 import { AuthProvider, useAuth } from './auth/AuthContext';
 import { RequireAuth } from './auth/RequireAuth';
 import { Layout } from './Layout';
-import { ComingSoonPage } from './pages/ComingSoonPage';
+import { AddPage } from './pages/AddPage';
 import { HomePage } from './pages/HomePage';
+import { LeechPage } from './pages/LeechPage';
+import { StatsPage } from './pages/StatsPage';
 import { ReviewPage } from './pages/ReviewPage';
 import { SettingsPage } from './pages/SettingsPage';
 import { AppShell } from './shell/AppShell';
@@ -35,8 +37,9 @@ function Gate() {
           <Route element={<AppShell />}>
             <Route path="/" element={<HomePage />} />
             <Route path="/review" element={<ReviewPage />} />
-            <Route path="/add" element={<ComingSoonPage title="Add" />} />
-            <Route path="/stats" element={<ComingSoonPage title="Stats" />} />
+            <Route path="/add" element={<AddPage />} />
+            <Route path="/stats" element={<StatsPage />} />
+            <Route path="/stats/leeches" element={<LeechPage />} />
             <Route path="/settings" element={<SettingsPage />} />
             <Route path="/session" element={<SessionPage />} />
           </Route>

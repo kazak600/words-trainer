@@ -1,4 +1,8 @@
-import { countDueCards, findDueCards } from '../repositories/cards';
+import {
+  countDueCards,
+  countLeeches,
+  findDueCards,
+} from '../repositories/cards';
 import { countNewToday, NEW_WORDS_PER_DAY, requireDeck } from './study';
 
 const LIST_LIMIT = 100;
@@ -7,6 +11,7 @@ export type ReviewSummary = {
   due: number;
   newToday: number;
   newCap: number;
+  leeches: number;
   cards: { cardId: number; wordId: number; kind: string }[];
 };
 
@@ -24,15 +29,17 @@ export async function getReviewSummary(
     targetLang: deck.target_lang,
     now,
   };
-  const [due, cards, newToday] = await Promise.all([
+  const [due, cards, newToday, leeches] = await Promise.all([
     countDueCards(db, scope),
     findDueCards(db, { ...scope, limit: LIST_LIMIT }),
     countNewToday(db, userId, deck.id, tzOffsetMinutes, now),
+    countLeeches(db, scope),
   ]);
   return {
     due,
     newToday,
     newCap: NEW_WORDS_PER_DAY,
+    leeches,
     cards: cards.map(({ cardId, wordId, kind }) => ({ cardId, wordId, kind })),
   };
 }

@@ -58,12 +58,13 @@ def build_sql(words, translations, sentences):
                   f"{quote(s['hint_uk'])}, {quote(s['review_status'])}")
         statements.append(
             "INSERT INTO sentences (word_id, text_with_gap, answer, hint_target_lang, hint, review_status) "
-            f"SELECT {ref}, {values} WHERE NOT EXISTS (SELECT 1 FROM sentences WHERE word_id = {ref});"
+            f"SELECT {ref}, {values} WHERE NOT EXISTS "
+            f"(SELECT 1 FROM sentences WHERE word_id = {ref} AND source = 'generated');"
         )
         statements.append(
             f"UPDATE sentences SET text_with_gap = {quote(s['text_with_gap'])}, answer = {quote(s['answer'])}, "
             f"hint_target_lang = {quote(TARGET_LANG)}, hint = {quote(s['hint_uk'])}, "
-            f"review_status = {quote(s['review_status'])} WHERE word_id = {ref};"
+            f"review_status = {quote(s['review_status'])} WHERE word_id = {ref} AND source = 'generated';"
         )
     return "\n".join(statements) + "\n"
 

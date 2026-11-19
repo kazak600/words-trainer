@@ -326,6 +326,23 @@ describe('production card', () => {
     ).toHaveFocus();
   });
 
+  it('tells the user when a card became a leech', async () => {
+    setup(production, () => ({
+      body: reply({
+        verdict: 'wrong',
+        correct: false,
+        grade: 'again',
+        leech: true,
+        finished: true,
+        next: null,
+        summary: { cards: 1, correct: 0, wrong: 1 },
+      }),
+    }));
+    await typeAndCheck('piens');
+
+    expect(await screen.findByText(/Leech Workshop/)).toBeInTheDocument();
+  });
+
   it('shows the learned badge', async () => {
     setup(production, () => ({
       body: reply({ verdict: 'exact', canRaise: true, learned: true }),

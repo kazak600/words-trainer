@@ -42,6 +42,11 @@ export function HomePage() {
           Continue your session
         </Link>
       )}
+      {review && review.leeches > 0 && (
+        <Link to="/stats/leeches" className="continue">
+          Leech Workshop · {review.leeches}
+        </Link>
+      )}
       {review && (
         <div className="card review-cta">
           <button

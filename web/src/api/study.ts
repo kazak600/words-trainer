@@ -49,6 +49,7 @@ export type AnswerView = {
   diff?: DiffItem[];
   learned: boolean;
   canRaise: boolean;
+  leech?: boolean;
   finished: boolean;
   next: Card | null;
   summary?: { cards: number; correct: number; wrong: number };
@@ -58,6 +59,7 @@ export type ReviewSummary = {
   due: number;
   newToday: number;
   newCap: number;
+  leeches: number;
   cards: { cardId: number; wordId: number; kind: string }[];
 };
 

@@ -302,12 +302,14 @@ describe('tab bar', () => {
     expect(
       await screen.findByRole('heading', { name: 'Add' }),
     ).toBeInTheDocument();
-    expect(screen.getByText('Coming soon')).toBeInTheDocument();
 
     await user.click(within(nav).getByRole('link', { name: 'Stats' }));
     expect(
       await screen.findByRole('heading', { name: 'Stats' }),
     ).toBeInTheDocument();
+    expect(
+      screen.getByRole('link', { name: 'Leech Workshop' }),
+    ).toHaveAttribute('href', '/stats/leeches');
 
     await user.click(within(nav).getByRole('link', { name: 'Review' }));
     expect(

@@ -32,10 +32,11 @@ const topics = [
   },
 ];
 
-const review = (due: number, newToday = 3) => ({
+const review = (due: number, newToday = 3, leeches = 0) => ({
   due,
   newToday,
   newCap: 15,
+  leeches,
   cards: [],
 });
 
@@ -194,6 +195,30 @@ describe('Home', () => {
   });
 });
 
+describe('Leech Workshop link', () => {
+  it('shows the leech count on Home and links to the workshop', async () => {
+    setup({
+      'GET /api/decks/lv-uk/review?tzOffset=0': () => ({
+        body: review(1, 0, 3),
+      }),
+    });
+
+    expect(
+      await screen.findByRole('link', { name: 'Leech Workshop · 3' }),
+    ).toHaveAttribute('href', '/stats/leeches');
+  });
+
+  it('is hidden without leeches', async () => {
+    setup();
+
+    await screen.findByRole('button', { name: 'Review · 12 due' });
+
+    expect(
+      screen.queryByRole('link', { name: /Leech Workshop/ }),
+    ).not.toBeInTheDocument();
+  });
+});
+
 describe('Review page', () => {
   it('shows the due count and starts a review', async () => {
     const bodies: unknown[] = [];
@@ -222,8 +247,8 @@ describe('Review page', () => {
     );
 
     expect(
-      await screen.findByRole('button', { name: 'Start review' }),
-    ).toBeDisabled();
-    expect(screen.getByText('Nothing is due right now.')).toBeInTheDocument();
+      await screen.findByText('Nothing is due right now.'),
+    ).toBeInTheDocument();
+    expect(screen.getByRole('button', { name: 'Start review' })).toBeDisabled();
   });
 });

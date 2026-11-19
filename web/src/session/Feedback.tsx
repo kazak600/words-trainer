@@ -48,6 +48,11 @@ export function Feedback({ reply, typed, onRaise, onContinue }: Props) {
         {variant !== 'ok' && typed !== undefined && (
           <span className="muted">You typed: {typed.trim()}</span>
         )}
+        {reply.leech && (
+          <span className="muted">
+            This card keeps failing. It moved to the Leech Workshop.
+          </span>
+        )}
         {variant === 'typo' && (
           <span className="muted">Short interval, no promotion.</span>
         )}

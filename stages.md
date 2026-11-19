@@ -344,7 +344,7 @@ Tasks:
 - Home: a Review button with the due count, topics with new-word counts, "new today: n / 15". Streak badge removed (and `lib/streak.ts`).
 - Multiple-choice UI removed.
 - **Decks are separate flows.** The whole app (Home, Review, Add, Stats, Leech Workshop) is scoped to one current deck, and nothing from another deck is mixed in: no shared queue, no shared counts, no shared daily cap. The current deck is app state (a context, default `lv-uk`), remembered on the device; no page or API call hard-codes a deck slug. The language is switched in the Settings tab (a list of decks, the current one selected); with one deck the list shows only Latvian. UI strings about the language come from the deck's metadata.
-- Add and Stats are placeholder pages ("Coming soon") until stages 25 and 15. The streak is gone from the worker (`/api/streak`, `computeStreak`; the day helpers moved to `lib/day.ts`) and from the web app. The deck choice is kept in `localStorage`.
+- Stats is a placeholder page (charts: stage 15) with the Leech Workshop link; Add became a real form in stage 25. The streak is gone from the worker (`/api/streak`, `computeStreak`; the day helpers moved to `lib/day.ts`) and from the web app. The deck choice is kept in `localStorage`.
 - Visual style follows the reference screenshots `Speak iOS 5/7/22/23.png` in the repo root, as a loose guide (see `development_plan.md`, section 7). Elements can be adjusted.
 
 **Done when:** on the iPhone, a review of due cards and a topic session with new words both work, and a missing-diacritic answer shows as a typo.
@@ -361,24 +361,26 @@ Tasks:
 
 **Done when:** a cloze card is created and scheduled after a production pass, and a wrong ending is shown as a typo or an error with the diff.
 
-## Stage 24. Leech detection and workshop
+## Stage 24. Leech detection and workshop [DONE]
 
 **Goal:** words that do not stick are handled instead of clogging the queue.
 
 Tasks:
 
 - A card reaching 5 lapses is marked leech and suspended from the queue.
+- Implementation notes: the leech is marked in the answer flow on the lapse that reaches 5 (`AnswerView.leech`); `GET /api/decks/:deck/leeches`, `PUT /api/decks/:deck/words/:wordId/notes` and `POST /api/decks/:deck/cards/:cardId/unsuspend` serve the workshop (page `/stats/leeches`, linked from Stats and from Home when `leeches > 0` in the review summary). "Confused with" is free text. Migration 0009 adds `word_notes` and `words.source`.
 - Leech Workshop screen: list of leeches; for each, a personal mnemonic (stored per user and word), a stronger sentence, and a similar word it is confused with. A button returns the card to the queue.
 
 **Done when:** a card with 5 lapses leaves the queue and appears in the workshop, and after the user adds a mnemonic and unsuspends it, it is due again.
 
-## Stage 25. Quick add
+## Stage 25. Quick add [DONE]
 
 **Goal:** adding a word takes under 5 seconds.
 
 Tasks:
 
 - `POST /api/decks/:deck/words` and a form: Latvian, Ukrainian, part of speech, topic, level (default A2), optional sentence with its translation. It writes to D1 directly with `review_status = approved` and `words.source = manual` (migration). No AI calls from the app.
+- Implementation notes: `GET /api/decks/:deck/topic-options`, `POST /api/decks/:deck/words` and `POST /api/decks/:deck/words/:wordId/sentences` (the workshop reuses it); the Add tab is the form. `load_words.py` leaves `source = 'manual'` sentences alone.
 - Duplicate check on (deck, lemma, part of speech). The new word enters the new-word queue and counts toward the cap.
 
 **Done when:** a word added from the phone shows in its topic and in a session, and a duplicate is rejected.

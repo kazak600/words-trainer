@@ -1,6 +1,7 @@
 import { checkAnswer, type DiffItem, type Verdict } from '../lib/checker';
 import {
   isLearned,
+  isLeech,
   newCard,
   review,
   type Grade,
@@ -105,6 +106,7 @@ export type AnswerView = {
   grade: Grade;
   verdict?: Verdict;
   correct: boolean;
+  leech: boolean;
   expected: string;
   diff?: DiffItem[];
   learned: boolean;
@@ -368,8 +370,13 @@ export async function answerCard(
   const stored = await findCard(db, key);
   const updated = review(stored?.card ?? newCard(now), judgement.grade, now);
   const correct = judgement.grade !== 'again';
+  // Only the lapse that takes the card to the threshold suspends it, so a returned card gets another chance.
+  const becameLeech =
+    updated.lapses > (stored?.card.lapses ?? 0) && isLeech(updated);
 
-  if (!correct && !card.retry) payload.cards.push({ ...card, retry: true });
+  // A card that just became a leech has left the queue; asking it again would reschedule it.
+  if (!correct && !card.retry && !becameLeech)
+    payload.cards.push({ ...card, retry: true });
   if (correct) payload.correct++;
   else payload.wrong++;
   payload.index++;
@@ -388,7 +395,12 @@ export async function answerCard(
       : undefined;
 
   const statements = [
-    upsertCardStatement(db, key, updated, stored ?? NO_FLAGS),
+    upsertCardStatement(
+      db,
+      key,
+      updated,
+      becameLeech ? { suspended: true, leech: true } : (stored ?? NO_FLAGS),
+    ),
     insertReviewLogStatement(db, {
       userId,
       deckId: deck.id,
@@ -450,6 +462,7 @@ export async function answerCard(
     grade: judgement.grade,
     verdict: judgement.verdict,
     correct,
+    leech: becameLeech,
     expected,
     diff: judgement.diff,
     learned: isLearned(production),

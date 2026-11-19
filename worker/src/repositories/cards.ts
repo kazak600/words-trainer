@@ -186,7 +186,7 @@ export async function findNewWordIds(
        WHERE w.topic_id = ? AND ${VISIBLE}
          AND NOT EXISTS (
            SELECT 1 FROM cards c WHERE c.user_id = ? AND c.deck_id = ? AND c.word_id = w.id)
-       ORDER BY ${LEVEL_ORDER}, w.id
+       ORDER BY (w.source = 'manual') DESC, ${LEVEL_ORDER}, w.id
        LIMIT ?`,
     )
     .bind(p.targetLang, p.topicId, p.userId, p.deckId, p.limit)
@@ -240,4 +240,20 @@ export function insertCardIfMissingStatement(
       card.lapses,
       card.lastReviewAt,
     );
+}
+
+export async function countLeeches(
+  db: D1Database,
+  p: { userId: number; deckId: number; targetLang: string },
+): Promise<number> {
+  const row = await db
+    .prepare(
+      `SELECT COUNT(*) AS n
+       FROM cards c
+       JOIN translations tr ON tr.word_id = c.word_id AND tr.target_lang = ?
+       WHERE c.user_id = ? AND c.deck_id = ? AND c.leech = 1 AND ${VISIBLE}`,
+    )
+    .bind(p.targetLang, p.userId, p.deckId)
+    .first<{ n: number }>();
+  return row!.n;
 }

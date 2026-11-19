@@ -28,6 +28,7 @@ describe('database schema', () => {
         'words',
         'translations',
         'sentences',
+        'word_notes',
         'cards',
         'review_log',
         'session_state',
@@ -177,6 +178,62 @@ describe('database schema', () => {
             last_review_at: null,
           }),
         );
+      });
+    });
+
+    describe('word notes and word source', () => {
+      const userAndWord = () => {
+        const { lastInsertRowid: userId } = db
+          .prepare('INSERT INTO users (username, password_hash) VALUES (?, ?)')
+          .run('anton', 'hash');
+        const { lastInsertRowid: wordId } = insertWord(1);
+        return { userId, wordId };
+      };
+      const insertNote = (u: number | bigint, w: number | bigint) =>
+        db
+          .prepare('INSERT INTO word_notes (user_id, word_id) VALUES (?, ?)')
+          .run(u, w);
+
+      it('keeps one note per user and word, empty by default', () => {
+        const { userId, wordId } = userAndWord();
+        insertNote(userId, wordId);
+
+        expect(() => insertNote(userId, wordId)).toThrow(/UNIQUE|PRIMARY/);
+        expect(
+          db.prepare('SELECT mnemonic, similar_word FROM word_notes').get(),
+        ).toEqual({
+          mnemonic: '',
+          similar_word: '',
+        });
+      });
+
+      it('deletes the note with its word or its user', () => {
+        const { userId, wordId } = userAndWord();
+        insertNote(userId, wordId);
+        db.prepare('DELETE FROM words WHERE id = ?').run(wordId);
+        expect(
+          db.prepare('SELECT COUNT(*) AS n FROM word_notes').get(),
+        ).toEqual({ n: 0 });
+
+        const { lastInsertRowid: w2 } = insertWord(1, 'A1', 'piens');
+        insertNote(userId, w2);
+        db.prepare('DELETE FROM users WHERE id = ?').run(userId);
+        expect(
+          db.prepare('SELECT COUNT(*) AS n FROM word_notes').get(),
+        ).toEqual({ n: 0 });
+      });
+
+      it('marks words as dataset by default and accepts manual only besides', () => {
+        const { lastInsertRowid: id } = insertWord(1);
+        expect(
+          db.prepare('SELECT source FROM words WHERE id = ?').get(id),
+        ).toEqual({
+          source: 'dataset',
+        });
+        db.prepare("UPDATE words SET source = 'manual' WHERE id = ?").run(id);
+        expect(() =>
+          db.prepare("UPDATE words SET source = 'other' WHERE id = ?").run(id),
+        ).toThrow(/CHECK/);
       });
     });
 

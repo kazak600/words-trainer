@@ -45,6 +45,7 @@ type AnswerView = {
   grade: string;
   verdict?: string;
   correct: boolean;
+  leech: boolean;
   expected: string;
   diff?: { kind: string }[];
   learned: boolean;
@@ -1004,5 +1005,107 @@ describe('cloze cards', () => {
     const res = await call('/api/decks/lv-uk/sessions/current');
 
     expect(res.status).toBe(200);
+  });
+});
+
+describe('leeches', () => {
+  async function production(lapses: number, extra: { leech?: boolean } = {}) {
+    const id = await seedWord(t.db, {
+      lemma: 'maize',
+      topic: 'home',
+      level: 'A1',
+    });
+    await seedCard(t.db, {
+      userId,
+      wordId: id,
+      kind: 'production',
+      dueAt: 1,
+      state: 2,
+      stability: 3,
+      reps: 8,
+      lapses,
+      ...extra,
+    });
+    return { id, s: (await start({ review: true })).body };
+  }
+
+  it('suspends a card whose lapse reaches 5 and drops it from the queue', async () => {
+    const { id, s } = await production(4);
+
+    const { body } = await answer(s.id, 0, { typed: 'xxxxx' });
+
+    expect(body.leech).toBe(true);
+    expect(await cardRow(id, 'production')).toMatchObject({
+      lapses: 5,
+      leech: 1,
+      suspended: 1,
+    });
+    const queue = await call('/api/decks/lv-uk/review');
+    expect(await queue.json()).toMatchObject({ due: 0, leeches: 1 });
+    expect((await start({ review: true })).res.status).toBe(409);
+  });
+
+  it('does not ask again for a card that just became a leech', async () => {
+    const { s } = await production(4);
+
+    const { body } = await answer(s.id, 0, { typed: 'xxxxx' });
+
+    expect(body).toMatchObject({ leech: true, finished: true, next: null });
+    expect(body.summary).toMatchObject({ cards: 1, wrong: 1 });
+  });
+
+  it('still asks again for an ordinary wrong answer', async () => {
+    const { s } = await production(1);
+
+    const { body } = await answer(s.id, 0, { typed: 'xxxxx' });
+
+    expect(body).toMatchObject({ leech: false, finished: false });
+    expect(body.next).toMatchObject({ retry: true });
+  });
+
+  it('does not flag a card below the threshold', async () => {
+    const { id, s } = await production(3);
+
+    const { body } = await answer(s.id, 0, { typed: 'xxxxx' });
+
+    expect(body.leech).toBe(false);
+    expect(await cardRow(id, 'production')).toMatchObject({
+      lapses: 4,
+      leech: 0,
+      suspended: 0,
+    });
+  });
+
+  it('does not flag a returned card on a pass, but flags it again on its next lapse', async () => {
+    const { id, s } = await production(6);
+    expect((await answer(s.id, 0, { typed: 'maize' })).body.leech).toBe(false);
+    expect(await cardRow(id, 'production')).toMatchObject({
+      leech: 0,
+      suspended: 0,
+    });
+
+    await t.db.exec('UPDATE cards SET due_at = 1; DELETE FROM session_state');
+    const again = (await start({ review: true })).body;
+    const { body } = await answer(again.id, 0, { typed: 'xxxxx' });
+
+    expect(body.leech).toBe(true);
+    expect(await cardRow(id, 'production')).toMatchObject({
+      lapses: 7,
+      leech: 1,
+      suspended: 1,
+    });
+  });
+
+  it('never flags a first review answered Again', async () => {
+    const [id] = await seedMany(1);
+    const s = (await start()).body;
+
+    const { body } = await answer(s.id, 0, { grade: 'again' });
+
+    expect(body.leech).toBe(false);
+    expect(await cardRow(id!, 'recognition')).toMatchObject({
+      leech: 0,
+      suspended: 0,
+    });
   });
 });

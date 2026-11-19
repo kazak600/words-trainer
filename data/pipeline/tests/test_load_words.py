@@ -95,6 +95,38 @@ class LoadWordsTest(unittest.TestCase):
                          "дім")
         self.assertEqual(db.execute("SELECT count(*) FROM sentences WHERE word_id = ?", (word_id,)).fetchone()[0], 1)
 
+    def test_rerun_keeps_hand_added_sentences_and_updates_generated_ones(self):
+        db = new_db()
+        db.executescript(self.sql)
+        word_id = db.execute("SELECT id FROM words WHERE lemma = 'māja'").fetchone()[0]
+        db.execute("INSERT INTO sentences (word_id, text_with_gap, answer, hint_target_lang, hint, "
+                   "review_status, source) VALUES (?, 'Mana ___', 'māja', 'uk', 'моя', 'approved', 'manual')",
+                   (word_id,))
+
+        t, s = stores(self.statuses)
+        s[("māja", "noun")] = {"text_with_gap": "Jauna ___", "answer": "māja", "hint_uk": "нове",
+                               "review_status": "approved"}
+        db.executescript(build_sql(WORDS, t, s))
+
+        rows = db.execute("SELECT source, text_with_gap FROM sentences WHERE word_id = ? ORDER BY id",
+                          (word_id,)).fetchall()
+        self.assertEqual(rows, [("generated", "Jauna ___"), ("manual", "Mana ___")])
+
+    def test_word_with_only_a_manual_sentence_still_gets_its_generated_one(self):
+        db = new_db()
+        db.executescript(build_sql(WORDS, *stores({"māja": "pending", "ēst": "pending", "istaba": "pending"})))
+        db.execute("INSERT INTO words (lang, lemma, pos, topic_id, level, source) "
+                   "VALUES ('lv', 'māja', 'noun', (SELECT id FROM topics WHERE slug = 'home'), 'A2', 'manual')")
+        word_id = db.execute("SELECT id FROM words WHERE lemma = 'māja'").fetchone()[0]
+        db.execute("INSERT INTO sentences (word_id, text_with_gap, answer, hint_target_lang, hint, "
+                   "review_status, source) VALUES (?, 'Mana ___', 'māja', 'uk', 'моя', 'approved', 'manual')",
+                   (word_id,))
+
+        db.executescript(self.sql)
+
+        rows = db.execute("SELECT source FROM sentences WHERE word_id = ? ORDER BY source", (word_id,)).fetchall()
+        self.assertEqual(rows, [("generated",), ("manual",)])
+
 
 if __name__ == "__main__":
     unittest.main()

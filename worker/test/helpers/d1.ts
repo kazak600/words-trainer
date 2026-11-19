@@ -108,13 +108,14 @@ export type CardSeed = {
   reps?: number;
   lapses?: number;
   suspended?: boolean;
+  leech?: boolean;
 };
 
 export async function seedCard(db: D1Database, c: CardSeed): Promise<number> {
   const row = await db
     .prepare(
-      `INSERT INTO cards (user_id, deck_id, word_id, kind, sentence_id, state, due_at, stability, difficulty, reps, lapses, suspended)
-       VALUES (?, 1, ?, ?, ?, ?, ?, ?, 5, ?, ?, ?) RETURNING id`,
+      `INSERT INTO cards (user_id, deck_id, word_id, kind, sentence_id, state, due_at, stability, difficulty, reps, lapses, suspended, leech)
+       VALUES (?, 1, ?, ?, ?, ?, ?, ?, 5, ?, ?, ?, ?) RETURNING id`,
     )
     .bind(
       c.userId,
@@ -127,6 +128,7 @@ export async function seedCard(db: D1Database, c: CardSeed): Promise<number> {
       c.reps ?? 1,
       c.lapses ?? 0,
       c.suspended ? 1 : 0,
+      c.leech ? 1 : 0,
     )
     .first<{ id: number }>();
   return row!.id;

@@ -33,7 +33,18 @@ export const lvDeck = {
   title: 'Latvian → Ukrainian',
 };
 
-export const emptyReview = { due: 0, newToday: 0, newCap: 15, cards: [] };
+export const emptyReview = {
+  due: 0,
+  newToday: 0,
+  newCap: 15,
+  leeches: 0,
+  cards: [],
+};
+
+export const topicOptions = [
+  { id: 1, slug: 'home', title: 'Home', titleUk: 'Дім' },
+  { id: 2, slug: 'food-and-drink', title: 'Food and drink', titleUk: 'Їжа' },
+];
 
 // The calls every logged-in page makes; tests override or add routes.
 export function appRoutes(
@@ -44,6 +55,7 @@ export function appRoutes(
     'GET /api/decks': () => ({ body: [lvDeck] }),
     'GET /api/decks/lv-uk/topics': () => ({ body: [] }),
     'GET /api/decks/lv-uk/review?tzOffset=0': () => ({ body: emptyReview }),
+    'GET /api/decks/lv-uk/topic-options': () => ({ body: topicOptions }),
     ...extra,
   };
 }

@@ -2,6 +2,7 @@ import { afterEach, beforeEach, describe, expect, it } from 'vitest';
 import { newCard, review } from '../src/lib/fsrs';
 import {
   countDueCards,
+  countLeeches,
   countNewWordsBetween,
   findCard,
   findDueCards,
@@ -261,6 +262,38 @@ describe('new words', () => {
   });
 });
 
+describe('new word order', () => {
+  it('puts hand-added words before dataset words of the same topic', async () => {
+    const topicId = (await t.db
+      .prepare("SELECT id FROM topics WHERE slug = 'home'")
+      .first<{ id: number }>())!.id;
+    const dataset = await seedWord(t.db, {
+      lemma: 'a1',
+      topic: 'home',
+      level: 'A1',
+    });
+    const manual = await seedWord(t.db, {
+      lemma: 'm',
+      topic: 'home',
+      level: 'B1',
+    });
+    await t.db
+      .prepare("UPDATE words SET source = 'manual' WHERE id = ?")
+      .bind(manual)
+      .run();
+
+    const ids = await findNewWordIds(t.db, {
+      userId,
+      deckId: 1,
+      topicId,
+      targetLang: 'uk',
+      limit: 10,
+    });
+
+    expect(ids).toEqual([manual, dataset]);
+  });
+});
+
 describe('daily cap count', () => {
   it('counts a word once, by its first review, inside [from, to)', async () => {
     const b = await seedWord(t.db, { lemma: 'b', topic: 'home', level: 'A1' });
@@ -316,5 +349,34 @@ describe('insertCardIfMissingStatement', () => {
     const created = await findCard(t.db, key({ kind: 'recognition' }));
     expect(created!.card.dueAt).toBe(NOW + 5);
     expect(await countCards()).toBe(2);
+  });
+});
+
+describe('leech count', () => {
+  it('counts leech cards with a visible translation for the user', async () => {
+    const hidden = await seedWord(t.db, {
+      lemma: 'h',
+      topic: 'home',
+      level: 'A1',
+      status: 'pending',
+    });
+    const other = await seedUser(t.db, 'other', 'pw');
+    await seedCard(t.db, { userId, wordId, leech: true, suspended: true });
+    await seedCard(t.db, {
+      userId,
+      wordId: hidden,
+      leech: true,
+      suspended: true,
+    });
+    await seedCard(t.db, {
+      userId: other,
+      wordId,
+      leech: true,
+      suspended: true,
+    });
+
+    expect(
+      await countLeeches(t.db, { userId, deckId: 1, targetLang: 'uk' }),
+    ).toBe(1);
   });
 });

@@ -5,6 +5,7 @@ import {
   createTestD1,
   seedCard,
   seedReviewLog,
+  seedUser,
   seedWord,
   type TestD1,
 } from './helpers/d1';
@@ -56,11 +57,40 @@ describe('GET /api/decks/:deck/review', () => {
       due: 2,
       newToday: 0,
       newCap: 15,
+      leeches: 0,
       cards: [
         { cardId: cardB, wordId: b, kind: 'production' },
         { cardId: cardA, wordId: a, kind: 'recognition' },
       ],
     });
+  });
+
+  it('counts the leeches of the current user only', async () => {
+    const a = await seedWord(t.db, { lemma: 'a', topic: 'home', level: 'A1' });
+    const b = await seedWord(t.db, { lemma: 'b', topic: 'home', level: 'A1' });
+    const other = await seedUser(t.db, 'other', 'pw');
+    await seedCard(t.db, {
+      userId,
+      wordId: a,
+      leech: true,
+      suspended: true,
+      lapses: 5,
+    });
+    await seedCard(t.db, { userId, wordId: b, dueAt: 1 });
+    await seedCard(t.db, {
+      userId: other,
+      wordId: a,
+      leech: true,
+      suspended: true,
+      lapses: 5,
+    });
+
+    const body = (await (await get('/api/decks/lv-uk/review')).json()) as {
+      leeches: number;
+      due: number;
+    };
+
+    expect(body).toMatchObject({ leeches: 1, due: 1 });
   });
 
   it('counts new words of the local day', async () => {
