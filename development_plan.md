@@ -176,7 +176,7 @@ Each phase ends with something usable.
 3. **Flip cards + spaced repetition.** The core loop, usable daily from here.
 4. **Writing mode + checker, multiple-choice stage.**
 5. **Topics, stats, session resume.**
-6. **Learning mechanics v2** (stages 19–25 in `stages.md`): FSRS cards, fuzzy checker, review queue with daily cap, cloze cards, leeches, quick add. Then grammar panels.
+6. **Learning mechanics v2** (done): FSRS cards, fuzzy checker, review queue with daily cap, cloze cards, leeches, quick add. Next: stats, grammar panels (`stages.md`).
 7. **Full dataset review (A2, then A1)**, run in parallel with phases 3–6.
 8. **B1 units** added to the dataset.
 9. **English → Ukrainian deck** (not scheduled): English adapter for the pipeline, `en-uk` deck row, deck switcher visible, English topics.
