@@ -4,10 +4,11 @@ Companion to `development_plan.md`. The plan says what the app is; this file say
 
 Decisions that shape the stages (from the answered open questions):
 
-- **One session = 10 words from one topic.** The number of sessions per day is unlimited, so there is no daily new-word cap.
+- **One session = up to 10 new words from one topic.** The number of sessions per day is unlimited, but new words are capped at 15 per day per deck (stage 21). Due reviews come from all topics in one Review queue.
 - **A topic is a theme, not a textbook unit.** One topic merges units from different levels (for example shopping: A1 unit 7 and A2 unit 6), so a topic holds words of several levels. Every word keeps the level it was generated for. This fits the schema: `topics` have no level, and `words` carry both a topic and a level. Topics can also be extra ones that are not in the textbook (numbers, animals, professions, function words, common verbs and adjectives).
 - **Review of translations**: a CSV round-trip inside the repo; the user reviews manually.
-- **Writing checker is strict** about all diacritics.
+- **Writing checker is fuzzy** (stage 20): exact, typo (pass, but never lengthens the interval) or wrong. A missing diacritic counts as a typo and still shows the diff. This replaces the earlier strict rule.
+- **Scheduling is FSRS** with one card per word and direction (stage 19). The flip → choice → write ladder and multiple choice are removed. Streaks are removed.
 - English → Ukrainian is later, but the schema and code are language-neutral from the start.
 
 Rules for every stage:
@@ -24,6 +25,8 @@ Two tracks can run in parallel after stage 2:
 - **App track:** stages 7 → 8 → 9 → 10 → 11 → 12 → 13.
 
 Stage 13 is the first version usable every day. Stages 14–17 improve it. Stage 18 is not scheduled.
+
+**Learning mechanics v2 (stages 19–25)** is built after stage 14, before stages 15 and 16: 19 → 20 → 21 → 22 → 23 → 24 → 25. It supersedes the scheduler and checker rules of stage 9, the session rules of stage 10, the multiple-choice card of stage 14, the streak of stage 13, and the gap-sentence mode of stage 16.
 
 ---
 
@@ -224,7 +227,7 @@ Tasks:
 
 **Done when:** the user does a full 10-word session on the iPhone, closes Safari in the middle of another one and resumes it, and sees reviewed words scheduled for later.
 
-## Stage 14. Multiple choice and writing
+## Stage 14. Multiple choice and writing [DONE]
 
 **Goal:** the three stages of a word are all playable.
 
@@ -237,17 +240,17 @@ Tasks:
 
 **Done when:** a word moves from flip to multiple choice to writing in real sessions, and a typo without a diacritic is shown as an error with the diff.
 
-## Stage 15. Stats, streak and resume polish
+## Stage 15. Stats and resume polish
 
 **Goal:** the user can see progress.
 
 Tasks:
 
-- Stats page: words by stage, learned count per level and per topic, a calendar of study days, a streak (a day counts if at least one session was finished).
-- Stats endpoints built from `review_log` and `progress`, per deck, with the streak across decks.
+- Stats page: words by state (new / learning / review / learned), learned count per level and per topic, a calendar of study days, reviews per day. No streak.
+- Stats endpoints built from `review_log` and `cards`, per deck.
 - Resume edge cases: a session older than a day is offered as "continue or start over".
 
-**Done when:** the stats match a hand count from a test database, and the streak survives a day with two sessions and breaks after a missed day.
+**Done when:** the stats match a hand count from a test database.
 
 ## Stage 16. Gap sentences and grammar panels
 
@@ -255,10 +258,10 @@ Tasks:
 
 Tasks:
 
-- Gap-sentence mode for learned words: Latvian sentence with a blank, Ukrainian hint, the user types the form; the checker is the same strict one.
+- Gap-sentence mode is replaced by the cloze cards of stage 23.
 - Grammar panel rendered from `grammar_json` and `forms_json` by a per-language component: nouns (gender, plural, key cases), verbs (*es / tu / viņš*) only if the stage 4 coverage report shows enough data, otherwise verbs are skipped and this is written down.
 
-**Done when:** a learned word can be tested with a gap sentence, and the grammar panel shows for nouns, and for verbs if covered.
+**Done when:** the grammar panel shows for nouns, and for verbs if covered.
 
 ## Stage 17. Finish the dataset (data track, ongoing)
 
@@ -272,16 +275,109 @@ Tasks:
 
 **Done when:** every A2 and A1 unit is approved and loaded; B1 follows unit by unit.
 
-## Stage 18. English → Ukrainian deck (later, not scheduled)
+## Stage 18. English → Ukrainian deck
 
-**Goal:** a second deck, `en-uk`, with no schema change.
+**Goal:** a second deck, `en-uk`, with no schema change. It is a separate study flow: its own topics, queue, daily cap and stats, never mixed with `lv-uk`.
 
 Tasks:
 
 - English language adapter for the pipeline (kaikki English dump), English topics, an `en-uk` deck row.
-- Make the deck switcher visible; check the checker table (English rules) and the grammar panel for English.
+- Add the second deck to the language list in Settings, and remember the chosen deck on the device; check the checker table (English rules) and the grammar panel for English.
 
 **Done when:** the user can switch decks and study English words with the same session flow.
+
+---
+
+## Learning mechanics v2 (stages 19–25)
+
+Goal: make every review force retrieval, and schedule it from a model of the user's own forgetting. Personal app: no streaks, leaderboards or hearts.
+
+## Stage 19. FSRS cards and scheduler
+
+**Goal:** one FSRS memory state per word and direction replaces `progress` and the stage ladder.
+
+Tasks:
+
+- Migration: table `cards(id, user_id, deck_id, word_id, kind, sentence_id, state, due_at, stability, difficulty, scheduled_days, learning_steps, reps, lapses, last_review_at, suspended)`, unique on (user, deck, word, kind, sentence). `kind` is `recognition` (lv → uk, tap to reveal), `production` (uk → lv, typed) or `cloze`. Index on (user_id, deck_id, due_at). `review_log` gets `kind` and `grade` (1–4) columns.
+- Convert existing `progress` rows into recognition and production cards (stage 1 → recognition only; stage 2–3 → both; interval kept as `scheduled_days`), then drop `progress`.
+- `lib/scheduler` wraps `ts-fsrs` (pure, fuzz off in tests): grades **Again / Hard / Good / Easy**, target retention 0.9. **(my call)**
+- **Learned** = the production card is in review state with stability of at least 21 days. **(my call)**
+- Leech threshold: 5 lapses on one card. **(my call)**
+
+**Done when:** Vitest suites cover first review, each grade, lapse, and the progress migration (checked on a copy of a real database).
+
+## Stage 20. Fuzzy checker and auto-grade
+
+**Goal:** typing is forgiving about typos but never hides them.
+
+Tasks:
+
+- `lib/checker` returns `exact`, `typo` or `wrong`, plus the per-letter diff. Case-insensitive, trimmed. A match after stripping diacritics is always `typo`. Otherwise Levenshtein distance 1 is `typo` for words of 4–8 letters, 2 for longer ones. Per-language table stays; the English case stays in the tests. **(my call)**
+- Auto-grade for typed cards: `exact` → Good, `typo` → Hard (passes, short interval, no promotion), `wrong` → Again. After an exact answer the user may raise it to Easy. **(my call)**
+
+**Done when:** a table of cases passes (*maize / maizē*, *šeit / seit*, *ļoti / loti*, one wrong letter, a far miss, extra spaces, capitals, English).
+
+## Stage 21. Review queue and daily cap
+
+**Goal:** the Worker serves one queue of due cards and introduces new words within the cap.
+
+Tasks:
+
+- `GET /api/decks/:deck/review`: due cards from all topics, oldest first, suspended cards excluded.
+- Topic sessions introduce up to 10 new words, limited by the remaining daily cap of 15 (counted from first reviews in `review_log`, user's local day). **(my call)**
+- A new word starts as a recognition card. Its production card is created after the first recognition review that is not Again. Later answered-wrong cards return once at the end of the session (kept from stage 10).
+- Answer endpoint runs the checker for typed cards, maps the result to a grade, calls the scheduler, updates `cards`, appends to `review_log` and `session_state`. Resume stays.
+- Multiple-choice code and distractor logic are removed.
+
+**Done when:** API tests cover the cap (reached, partly used, next day), a mixed review of due cards from two topics, a resume, and the production card appearing after a recognition pass.
+
+## Stage 22. Frontend: cards and Home
+
+**Goal:** the UI matches the new mechanics.
+
+Tasks:
+
+- Recognition card: reveal, then four grade buttons. Production card: typed, with a diacritic quick-bar (*ā č ē ģ ī ķ ļ ņ š ū ž*) above the keyboard; a typo is shown in yellow with the diff as "Pass with typo".
+- Bottom tab bar: Home, Review, Add, Stats, Settings. Settings holds the language switch and logout.
+- Home: a Review button with the due count, topics with new-word counts, "new today: n / 15". Streak badge removed (and `lib/streak.ts`).
+- Multiple-choice UI removed.
+- **Decks are separate flows.** The whole app (Home, Review, Add, Stats, Leech Workshop) is scoped to one current deck, and nothing from another deck is mixed in: no shared queue, no shared counts, no shared daily cap. The current deck is app state (a context, default `lv-uk`), remembered on the device; no page or API call hard-codes a deck slug. The language is switched in the Settings tab (a list of decks, the current one selected); with one deck the list shows only Latvian. UI strings about the language come from the deck's metadata.
+- Visual style follows the reference screenshots `Speak iOS 5/7/22/23.png` in the repo root, as a loose guide (see `development_plan.md`, section 7). Elements can be adjusted.
+
+**Done when:** on the iPhone, a review of due cards and a topic session with new words both work, and a missing-diacritic answer shows as a typo.
+
+## Stage 23. Cloze cards
+
+**Goal:** words are also tested inside a sentence, which trains the right case and verb form.
+
+Tasks:
+
+- A cloze card is created for each word sentence (from `sentences`) after the word's production card first passes. The Ukrainian sentence translation is the hint; the answer is the form in the sentence, checked by the stage 20 checker.
+- `sentences` gets `source` (`generated` or `manual`), so real "+1" sentences can be added later (stage 25).
+
+**Done when:** a cloze card is created and scheduled after a production pass, and a wrong ending is shown as a typo or an error with the diff.
+
+## Stage 24. Leech detection and workshop
+
+**Goal:** words that do not stick are handled instead of clogging the queue.
+
+Tasks:
+
+- A card reaching 5 lapses is marked leech and suspended from the queue.
+- Leech Workshop screen: list of leeches; for each, a personal mnemonic (stored per user and word), a stronger sentence, and a similar word it is confused with. A button returns the card to the queue.
+
+**Done when:** a card with 5 lapses leaves the queue and appears in the workshop, and after the user adds a mnemonic and unsuspends it, it is due again.
+
+## Stage 25. Quick add
+
+**Goal:** adding a word takes under 5 seconds.
+
+Tasks:
+
+- `POST /api/decks/:deck/words` and a form: Latvian, Ukrainian, part of speech, topic, level (default A2), optional sentence with its translation. It writes to D1 directly with `review_status = approved` and `words.source = manual` (migration). No AI calls from the app.
+- Duplicate check on (deck, lemma, part of speech). The new word enters the new-word queue and counts toward the cap.
+
+**Done when:** a word added from the phone shows in its topic and in a session, and a duplicate is rejected.
 
 ---
 

@@ -16,7 +16,7 @@ A personal web app for one user (single account) to learn vocabulary.
 - No AI calls from the app. AI is used only offline, once, to build the dataset.
 - No audio.
 - No sign-up, password reset, or multi-user features. The user is created directly in the database.
-- No manual word entry in the UI. All words come from the dataset script.
+- Manual word entry is limited to a quick-add form (one pair into the database, no AI). The bulk of the words comes from the dataset script.
 - English words, English topics and a language switcher in the UI are **not** part of v1. Only the schema and code structure are prepared.
 
 ## 2. Stack
@@ -89,9 +89,11 @@ The model is language-neutral. Language-specific things (gender, declension) liv
   - `level` is the CEFR level the word was generated for (A1/A2/B1), so a topic holds words of several levels. The textbook units behind each topic live only in `data/topic_map.csv`.
 - `translations(id, word_id, target_lang, text, review_status)`
   - A Latvian word has an `en` row (used as AI input, not shown by default) and a `uk` row (shown in the app). An English word later gets only a `uk` row.
-- `sentences(id, word_id, text_with_gap, answer, hint_target_lang, hint)`
-- `progress(user_id, deck_id, word_id, stage, ease, interval_days, due_at, reps, lapses, last_reviewed_at)`: progress is per deck.
-- `review_log(id, user_id, deck_id, word_id, mode, correct, typed_answer, created_at)`, for the stats page
+- `sentences(id, word_id, text_with_gap, answer, hint_target_lang, hint, source)`: `source` is `generated` or `manual`.
+- `cards(id, user_id, deck_id, word_id, kind, sentence_id, state, due_at, stability, difficulty, scheduled_days, learning_steps, reps, lapses, last_review_at, suspended)`: the FSRS state, one row per word and direction (`recognition`, `production`, `cloze`), per deck. Replaces the earlier `progress` table.
+- `word_notes(user_id, word_id, mnemonic)`: personal memory hooks, mostly for leeches.
+- `words` also has `source` (`dataset` or `manual`).
+- `review_log(id, user_id, deck_id, word_id, kind, grade, correct, typed_answer, created_at)`, for the stats page and the daily cap
 - `session_state(user_id, deck_id, payload_json, updated_at)`, so an interrupted session resumes where it stopped
 
 ### Keeping the app ready for English
@@ -99,11 +101,11 @@ The model is language-neutral. Language-specific things (gender, declension) liv
 Rules for the code, so adding English later is data plus a small UI change:
 
 - Every API call that deals with words takes a `deck` (slug) parameter. In v1 the frontend always sends `lv-uk`.
-- The writing checker takes the word's language and uses a per-language normalisation table (Latvian: strict diacritics; English: none). It never assumes Latvian.
+- The writing checker takes the word's language and uses a per-language normalisation table (Latvian: diacritics are checked and a miss is a typo; English: none). It never assumes Latvian.
 - Grammar panels are rendered from `grammar_json` by a per-language component (Latvian: gender, plural, verb forms; English: nothing at first).
 - UI strings about the language ("Latvian word") come from the deck's metadata, not hard-coded.
-- Home screen: a deck switcher exists in the code but is hidden while there is only one deck.
-- Stats, streak and daily new-word cap are per deck, with the streak shown across all decks. **(my call)**
+- Decks are separate flows: the Review queue, Home, Add, Stats, the leech list and the daily cap are all scoped to the current deck, and nothing is mixed across decks. The current deck is app state (default `lv-uk`), remembered on the device. The language is switched in the Settings tab; with one deck it lists only Latvian.
+- Stats and the daily new-word cap are per deck. There is no streak.
 - Multiple-choice distractors are taken only from the same deck, topic and part of speech.
 
 ## 5. Auth
@@ -118,34 +120,52 @@ Rules for the code, so adding English later is data plus a small UI change:
 
 ### Spaced repetition
 
-After each card the user gives a result. The app schedules the next review: known words return after days or weeks, missed words return soon. Start with an SM-2-style scheduler with simple buttons (**Again / Good / Easy**). FSRS is a possible later upgrade. **(my call)**
+**FSRS** (via `ts-fsrs`) schedules every card from its own stability and difficulty, with target retention 0.9. Grades: **Again / Hard / Good / Easy**. A card is one word in one direction, so a word has its own memory state for recognising it and for producing it.
 
-### Stages per word
+### Card kinds
 
-1. **Flip card**: Latvian word, flip, Ukrainian translation, plus grammar (gender, plural, or verb forms).
-2. **Multiple choice**: pick the correct Latvian word out of 4 (distractors from the same topic and part of speech).
-3. **Writing**: Ukrainian shown, user types the Latvian word.
+1. **Recognition** (Latvian → Ukrainian): the Latvian word, tap to reveal the translation and grammar, then grade manually.
+2. **Production** (Ukrainian → Latvian): the user types the word.
+3. **Cloze**: a Latvian sentence with a gap and the Ukrainian translation as a hint; the user types the form in the sentence. This trains case and verb endings.
 
-A word counts as **learned** once it has been typed correctly. A wrong answer moves the word back a stage. Gap sentences are an extra mode used on learned words.
+A new word starts as a recognition card. Its production card is created after the first recognition review that is not Again. Its cloze cards are created after the production card first passes. A word counts as **learned** when its production card is in review state with stability of at least 21 days. There is no multiple-choice card.
 
 ### Writing checker
 
-- Exact match is correct.
-- The check is strict: every diacritic must be present and correct (*ā, ē, ī, ū*, and also *š, č, ž, ģ, ķ, ļ, ņ*). A missing or wrong mark is an error. The user's wording was about the long marks (garumzīmes); I apply the same rule to all diacritics.
-- Wrong answers show which letters differ, including a missing mark.
-- Comparison is case-insensitive and trims whitespace.
+- Case-insensitive, trims whitespace. Result is `exact`, `typo` or `wrong`, with a per-letter diff.
+- A match after stripping diacritics is always a `typo`. Otherwise Levenshtein distance 1 (words of 4–8 letters) or 2 (longer words) is a `typo`.
+- Auto-grade: exact → Good (the user may raise it to Easy), typo → Hard (a pass that does not promote the card), wrong → Again. A typo is shown in yellow with the diff.
+- A diacritic quick-bar sits above the keyboard on typed cards.
+
+### Leeches
+
+A card with 5 lapses is marked a leech and suspended. The Leech Workshop lists them so the user can add a mnemonic, a better sentence or a contrasting word, and return the card to the queue.
 
 ### Session shape
 
-- A session is **10 words from one topic**: due reviews first, then new words ordered by level (A1, A2, B1) and then in dataset order. Sessions per day are unlimited; there is no daily cap.
+- **Review queue:** all due cards from every topic, oldest first.
+- **Topic session:** up to 10 new words from one topic, limited by the daily cap of **15 new words per deck per day**. Sessions per day are unlimited.
 - Progress is saved after every card, so closing Safari loses nothing.
 
 ## 7. Screens
 
 1. **Login**
-2. **Home = topics list**: per-topic new / learning / learned counts and level chips; tapping a topic starts a session; streak badge.
+2. **Home**: a Review button with the due count, the topics list with new / learning / learned counts and level chips, and "new today: n / 15". Tapping a topic starts a session. Also entries for Quick add and the Leech Workshop.
 3. **Session**: one card at a time, large thumb-reachable buttons, a progress bar, an exit button that saves state.
-4. **Stats**: words by stage, learned count, daily goal, streak, a calendar of study days.
+4. **Stats**: words by state, learned count, a calendar of study days, reviews per day.
+5. **Quick add** and **Leech Workshop**.
+6. **Settings**: language (deck) switch, logout.
+
+### Visual reference
+
+Four screenshots of the Speak app (`Speak iOS 5.png`, `7`, `22`, `23` in the repo root) are a loose reference for appearance. They are not a spec; elements can be adjusted. What we take from them:
+
+- **Colour and surface:** a near-white page with a faint blue tint, one saturated royal blue as the only accent (primary buttons, active tab, selected state), grey text for secondary items.
+- **Buttons:** full-width blue pill buttons fixed at the bottom, with white bold labels. A disabled button is the same blue, lighter.
+- **Cards and options:** white rounded cards (large radius) with a soft shadow; list options as white rounded rows, and the selected row gets a pale blue fill with a blue border. This fits the grade buttons and the topic list.
+- **Inputs:** light grey pill fields with a grey placeholder, a large centred title above (login, quick add).
+- **Navigation:** a bottom tab bar with an icon and label, the active tab in blue. Tabs: Home, Review, Add, Stats, Settings. The Leech Workshop sits under Stats; Settings has the language switch and logout. A header with a small progress line under the title during a session.
+- **Not taken:** the mascot, the flame/streak counter, premium upsell cards, and the speech and tutor modes.
 
 ## 8. Delivery phases
 
@@ -155,23 +175,23 @@ Each phase ends with something usable.
 2. **Skeleton.** Worker + React + D1 deployed on Cloudflare, login working, one hardcoded user, the multi-language schema in place, dataset loaded.
 3. **Flip cards + spaced repetition.** The core loop, usable daily from here.
 4. **Writing mode + checker, multiple-choice stage.**
-5. **Topics, stats, streak, session resume.**
-6. **Gap sentences and grammar panels.**
+5. **Topics, stats, session resume.**
+6. **Learning mechanics v2** (stages 19–25 in `stages.md`): FSRS cards, fuzzy checker, review queue with daily cap, cloze cards, leeches, quick add. Then grammar panels.
 7. **Full dataset review (A2, then A1)**, run in parallel with phases 3–6.
 8. **B1 units** added to the dataset.
 9. **English → Ukrainian deck** (not scheduled): English adapter for the pipeline, `en-uk` deck row, deck switcher visible, English topics.
 
 ## 9. Testing
 
-- Unit tests (Vitest) for the scheduler and the writing checker, the two places with real logic. The checker tests include a non-Latvian language case, so the language-neutral design is verified.
+- Unit tests (Vitest) for the FSRS wrapper and the writing checker, the two places with real logic. The checker tests include a non-Latvian language case, so the language-neutral design is verified.
 - API tests for login and the session endpoints against a local D1 (Miniflare).
 - Manual check on a real iPhone for layout and the keyboard (long-press for *ā, š*, or the Latvian keyboard).
 
 ## 10. Open questions
 
 1. **Review tool** for the Ukrainian translations: CSV/spreadsheet round-trip in repo, I review manually.
-2. **Daily new-word cap**: One session is 10 words. Sessions in a day are unlimited.
-3. **Does the strict diacritic rule cover all marks** (including *š, č, ž…*) Yes, all are strict.
+2. **Daily new-word cap**: 15 new words per deck per day; sessions are unlimited (changed from "no cap" with the learning mechanics v2).
+3. **Diacritics**: no longer strict. A missing mark is a typo that passes but does not promote the card (changed with the learning mechanics v2).
 4. **A1 and A2 in the first dataset, A2 first**: One session is one topic, but words could be from different levels. Confirmed: a topic is a theme merging units across levels; each word keeps its own level.
 
-Resolved: the word list is AI-generated by topic from `topics.md`; the writing checker is strict about diacritics; English → Ukrainian comes later and is covered in the schema.
+Resolved: the word list is AI-generated by topic from `topics.md`; the writing checker is fuzzy (typos pass without promoting the card); English → Ukrainian comes later and is covered in the schema.
