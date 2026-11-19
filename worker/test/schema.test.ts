@@ -29,6 +29,7 @@ describe('database schema', () => {
         'translations',
         'sentences',
         'progress',
+        'cards',
         'review_log',
         'session_state',
       ]),
@@ -113,7 +114,82 @@ describe('database schema', () => {
       );
     });
 
-    it('deletes translations, sentences and progress with their word', () => {
+    describe('cards', () => {
+      const insertCard = (
+        userId: number | bigint,
+        wordId: number | bigint,
+        kind = 'recognition',
+        sentenceId: number | bigint | null = null,
+      ) =>
+        db
+          .prepare(
+            'INSERT INTO cards (user_id, deck_id, word_id, kind, sentence_id, due_at) VALUES (?, 1, ?, ?, ?, 0)',
+          )
+          .run(userId, wordId, kind, sentenceId);
+      const seedUserAndWord = () => {
+        const { lastInsertRowid: userId } = db
+          .prepare('INSERT INTO users (username, password_hash) VALUES (?, ?)')
+          .run('anton', 'hash');
+        const { lastInsertRowid: wordId } = insertWord(1);
+        return { userId, wordId };
+      };
+
+      it('rejects a duplicate card for the same word, kind and sentence', () => {
+        const { userId, wordId } = seedUserAndWord();
+        insertCard(userId, wordId);
+
+        expect(() => insertCard(userId, wordId)).toThrow(/UNIQUE/);
+      });
+
+      it('allows a different kind for the same word', () => {
+        const { userId, wordId } = seedUserAndWord();
+        insertCard(userId, wordId, 'recognition');
+
+        expect(() => insertCard(userId, wordId, 'production')).not.toThrow();
+      });
+
+      it('rejects an unknown kind', () => {
+        const { userId, wordId } = seedUserAndWord();
+
+        expect(() => insertCard(userId, wordId, 'listening')).toThrow(/CHECK/);
+      });
+
+      it('defaults a new card to state 0, not suspended, not a leech', () => {
+        const { userId, wordId } = seedUserAndWord();
+        insertCard(userId, wordId);
+
+        expect(db.prepare('SELECT * FROM cards').get()).toEqual(
+          expect.objectContaining({
+            state: 0,
+            stability: 0,
+            difficulty: 0,
+            reps: 0,
+            lapses: 0,
+            suspended: 0,
+            leech: 0,
+            last_review_at: null,
+          }),
+        );
+      });
+    });
+
+    it('accepts kind and grade on review_log and rejects grade 5', () => {
+      const { lastInsertRowid: userId } = db
+        .prepare('INSERT INTO users (username, password_hash) VALUES (?, ?)')
+        .run('anton', 'hash');
+      const { lastInsertRowid: wordId } = insertWord(1);
+      const insertLog = (grade: number) =>
+        db
+          .prepare(
+            "INSERT INTO review_log (user_id, deck_id, word_id, mode, correct, kind, grade) VALUES (?, 1, ?, 'flip', 1, 'production', ?)",
+          )
+          .run(userId, wordId, grade);
+
+      expect(() => insertLog(4)).not.toThrow();
+      expect(() => insertLog(5)).toThrow(/CHECK/);
+    });
+
+    it('deletes translations, sentences, progress and cards with their word', () => {
       const { lastInsertRowid: wordId } = insertWord(1);
       const { lastInsertRowid: userId } = db
         .prepare('INSERT INTO users (username, password_hash) VALUES (?, ?)')
@@ -127,10 +203,13 @@ describe('database schema', () => {
       db.prepare(
         'INSERT INTO progress (user_id, deck_id, word_id, due_at) VALUES (?, 1, ?, 0)',
       ).run(userId, wordId);
+      db.prepare(
+        'INSERT INTO cards (user_id, deck_id, word_id, kind, due_at) VALUES (?, 1, ?, ?, 0)',
+      ).run(userId, wordId, 'recognition');
 
       db.prepare('DELETE FROM words WHERE id = ?').run(wordId);
 
-      for (const table of ['translations', 'sentences', 'progress']) {
+      for (const table of ['translations', 'sentences', 'progress', 'cards']) {
         const row = db.prepare(`SELECT COUNT(*) AS n FROM ${table}`).get() as {
           n: number;
         };

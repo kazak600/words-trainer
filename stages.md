@@ -299,7 +299,7 @@ Goal: make every review force retrieval, and schedule it from a model of the use
 Tasks:
 
 - Migration: table `cards(id, user_id, deck_id, word_id, kind, sentence_id, state, due_at, stability, difficulty, scheduled_days, learning_steps, reps, lapses, last_review_at, suspended)`, unique on (user, deck, word, kind, sentence). `kind` is `recognition` (lv → uk, tap to reveal), `production` (uk → lv, typed) or `cloze`. Index on (user_id, deck_id, due_at). `review_log` gets `kind` and `grade` (1–4) columns.
-- Convert existing `progress` rows into recognition and production cards (stage 1 → recognition only; stage 2–3 → both; interval kept as `scheduled_days`), then drop `progress`.
+- Convert existing `progress` rows into recognition and production cards (stage 1 → recognition only; stage 2–3 → both; interval kept as `scheduled_days`). `progress` and the old scheduler stay until stage 21 moves the study service, topic counts and web app to `cards`.
 - `lib/scheduler` wraps `ts-fsrs` (pure, fuzz off in tests): grades **Again / Hard / Good / Easy**, target retention 0.9. **(my call)**
 - **Learned** = the production card is in review state with stability of at least 21 days. **(my call)**
 - Leech threshold: 5 lapses on one card. **(my call)**
@@ -328,6 +328,7 @@ Tasks:
 - A new word starts as a recognition card. Its production card is created after the first recognition review that is not Again. Later answered-wrong cards return once at the end of the session (kept from stage 10).
 - Answer endpoint runs the checker for typed cards, maps the result to a grade, calls the scheduler, updates `cards`, appends to `review_log` and `session_state`. Resume stays.
 - Multiple-choice code and distractor logic are removed.
+- Move `findDueWords`, `findNewWordIds`, `listTopicLevelCounts` and the answer flow from `progress` to `cards`; delete `lib/scheduler.ts`, the `learned` handling and the `progress` table (new migration). That migration first re-runs the `-- convert progress` block of `0006_cards.sql` (it refreshes existing cards), so reviews done on `progress` after stage 19 are not lost. Learned counts may dip right after the switch: converted production cards start with stability equal to their old interval.
 
 **Done when:** API tests cover the cap (reached, partly used, next day), a mixed review of due cards from two topics, a resume, and the production card appearing after a recognition pass.
 
