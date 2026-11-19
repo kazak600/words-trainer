@@ -28,12 +28,19 @@ describe('database schema', () => {
         'words',
         'translations',
         'sentences',
-        'progress',
         'cards',
         'review_log',
         'session_state',
       ]),
     );
+  });
+
+  it('has no progress table any more', () => {
+    const row = db
+      .prepare("SELECT 1 FROM sqlite_master WHERE name = 'progress'")
+      .get();
+
+    expect(row).toBeUndefined();
   });
 
   it('seeds the lv-uk deck', () => {
@@ -189,7 +196,7 @@ describe('database schema', () => {
       expect(() => insertLog(5)).toThrow(/CHECK/);
     });
 
-    it('deletes translations, sentences, progress and cards with their word', () => {
+    it('deletes translations, sentences and cards with their word', () => {
       const { lastInsertRowid: wordId } = insertWord(1);
       const { lastInsertRowid: userId } = db
         .prepare('INSERT INTO users (username, password_hash) VALUES (?, ?)')
@@ -201,15 +208,12 @@ describe('database schema', () => {
         'INSERT INTO sentences (word_id, text_with_gap, answer, hint_target_lang, hint) VALUES (?, ?, ?, ?, ?)',
       ).run(wordId, 'Es ēdu ___', 'maizi', 'uk', 'Я їм хліб');
       db.prepare(
-        'INSERT INTO progress (user_id, deck_id, word_id, due_at) VALUES (?, 1, ?, 0)',
-      ).run(userId, wordId);
-      db.prepare(
         'INSERT INTO cards (user_id, deck_id, word_id, kind, due_at) VALUES (?, 1, ?, ?, 0)',
       ).run(userId, wordId, 'recognition');
 
       db.prepare('DELETE FROM words WHERE id = ?').run(wordId);
 
-      for (const table of ['translations', 'sentences', 'progress', 'cards']) {
+      for (const table of ['translations', 'sentences', 'cards']) {
         const row = db.prepare(`SELECT COUNT(*) AS n FROM ${table}`).get() as {
           n: number;
         };

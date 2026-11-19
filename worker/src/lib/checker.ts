@@ -5,7 +5,8 @@ export type DiffItem =
   | { kind: 'missing'; expected: string }
   | { kind: 'extra'; typed: string };
 
-export type CheckResult = { correct: boolean; diff: DiffItem[] };
+export type Verdict = 'exact' | 'typo' | 'wrong';
+export type CheckResult = { verdict: Verdict; diff: DiffItem[] };
 
 type Rules = { locale: string; requireDiacritics: boolean };
 
@@ -17,6 +18,44 @@ const RULES: Record<string, Rules> = {
 
 const MARKS = /\p{M}/gu;
 const DIACRITIC_COST = 0.5;
+
+// Words of 1-3 letters have no edit tolerance: one edit changes them into other words.
+function allowedEdits(letters: number): number {
+  if (letters <= 3) return 0;
+  return letters <= 8 ? 1 : 2;
+}
+
+function levenshtein(a: string[], b: string[]): number {
+  let row = Array.from({ length: b.length + 1 }, (_, j) => j);
+  for (let i = 1; i <= a.length; i++) {
+    const next = [i];
+    for (let j = 1; j <= b.length; j++) {
+      next[j] = Math.min(
+        row[j]! + 1,
+        next[j - 1]! + 1,
+        row[j - 1]! + (a[i - 1] === b[j - 1] ? 0 : 1),
+      );
+    }
+    row = next;
+  }
+  return row[b.length]!;
+}
+
+function verdictFor(
+  typedText: string,
+  expectedText: string,
+  rules: Rules,
+): Verdict {
+  const typed = clean(typedText);
+  const expected = clean(expectedText);
+  if (typed === '') return 'wrong';
+  if (fold(typed, rules) === fold(expected, rules)) return 'exact';
+  const lower = (t: string) => t.toLocaleLowerCase(rules.locale);
+  if (lower(stripMarks(typed)) === lower(stripMarks(expected))) return 'typo';
+  const letters = [...expected];
+  const distance = levenshtein([...lower(typed)], [...lower(expected)]);
+  return distance <= allowedEdits(letters.length) ? 'typo' : 'wrong';
+}
 
 function clean(text: string): string {
   return text.normalize('NFC').trim().replace(/\s+/g, ' ');
@@ -97,8 +136,5 @@ export function checkAnswer(
   }
   diff.reverse();
 
-  return {
-    correct: fold(clean(typedText), rules) === fold(clean(expectedText), rules),
-    diff,
-  };
+  return { verdict: verdictFor(typedText, expectedText, rules), diff };
 }

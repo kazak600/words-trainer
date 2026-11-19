@@ -1,43 +1,56 @@
 import { describe, expect, it } from 'vitest';
-import { checkAnswer } from '../src/lib/checker';
+import { checkAnswer, type Verdict } from '../src/lib/checker';
 
-describe('checkAnswer (lv, strict diacritics)', () => {
-  const cases: [string, string, boolean][] = [
-    ['maize', 'maize', true],
-    ['maize', 'maizē', false],
-    ['seit', 'šeit', false],
-    ['loti', 'ļoti', false],
-    ['šeit', 'šeit', true],
-    ['  maize  ', 'maize', true],
-    ['Maize', 'maize', true],
-    ['MAIZĒ', 'maizē', true],
-    ['labā  diena', 'labā diena', true],
-    ['', 'maize', false],
-    ['maiz', 'maize', false],
-    ['maizee', 'maize', false],
+describe('checkAnswer (lv)', () => {
+  const cases: [string, string, Verdict][] = [
+    ['maize', 'maize', 'exact'],
+    ['maize', 'maizē', 'typo'],
+    ['seit', 'šeit', 'typo'],
+    ['loti', 'ļoti', 'typo'],
+    ['šeit', 'šeit', 'exact'],
+    ['  maize  ', 'maize', 'exact'],
+    ['Maize', 'maize', 'exact'],
+    ['MAIZĒ', 'maizē', 'exact'],
+    ['labā  diena', 'labā diena', 'exact'],
+    ['', 'maize', 'wrong'],
+    ['   ', 'maize', 'wrong'],
+    ['maiz', 'maize', 'typo'],
+    ['maizee', 'maize', 'typo'],
+    ['maizeee', 'maize', 'wrong'],
+    ['ir', 'is', 'wrong'],
+    ['maja', 'mala', 'typo'],
+    ['skolotajs', 'skolotājs', 'typo'],
+    ['pardevejs', 'pārdevējs', 'typo'],
+    ['pārdevējz', 'pārdevējs', 'typo'],
+    ['pārdavējz', 'pārdevējs', 'typo'],
+    ['pārdavēgz', 'pārdevējs', 'wrong'],
+    ['skolotājz', 'skolotāj', 'typo'],
+    ['skolotaz', 'skolotājs', 'wrong'],
+    ['galds', 'galdi', 'typo'],
+    ['gaxxi', 'galdi', 'wrong'],
   ];
 
-  it.each(cases)('typed %j for %j → %s', (typed, expected, correct) => {
-    expect(checkAnswer(typed, expected, 'lv').correct).toBe(correct);
+  it.each(cases)('typed %j for %j → %s', (typed, expected, verdict) => {
+    expect(checkAnswer(typed, expected, 'lv').verdict).toBe(verdict);
   });
 
   it('treats a decomposed ā (a + combining macron) the same as the single character', () => {
-    expect(checkAnswer('ā', 'ā', 'lv').correct).toBe(true);
+    expect(checkAnswer('ā', 'ā', 'lv').verdict).toBe('exact');
   });
 
   it('is case-insensitive for a capitalised expected word', () => {
-    expect(checkAnswer('rīga', 'Rīga', 'lv').correct).toBe(true);
+    expect(checkAnswer('rīga', 'Rīga', 'lv').verdict).toBe('exact');
   });
 });
 
 describe('checkAnswer (en, no diacritic requirement)', () => {
   it('accepts a missing mark and any case', () => {
-    expect(checkAnswer('Cafe', 'café', 'en').correct).toBe(true);
-    expect(checkAnswer('cafe ', 'café', 'en').correct).toBe(true);
+    expect(checkAnswer('Cafe', 'café', 'en').verdict).toBe('exact');
+    expect(checkAnswer('cafe ', 'café', 'en').verdict).toBe('exact');
   });
 
   it('still rejects a wrong letter', () => {
-    expect(checkAnswer('cafs', 'café', 'en').correct).toBe(false);
+    expect(checkAnswer('cafs', 'café', 'en').verdict).not.toBe('exact');
   });
 
   it('shows no diacritic difference when the mark is optional', () => {
@@ -93,9 +106,9 @@ describe('checkAnswer diff', () => {
   });
 
   it('keeps the case of the expected word and ignores case differences', () => {
-    const { correct, diff } = checkAnswer('rīga', 'Rīga', 'lv');
+    const { verdict, diff } = checkAnswer('rīga', 'Rīga', 'lv');
 
-    expect(correct).toBe(true);
+    expect(verdict).toBe('exact');
     expect(diff[0]).toEqual({ kind: 'match', expected: 'R', typed: 'r' });
   });
 

@@ -1,7 +1,13 @@
 import { afterEach, beforeEach, describe, expect, it } from 'vitest';
 import { app } from '../src/app';
 import { loginCookie } from './helpers/auth';
-import { createTestD1, seedUser, seedWord, type TestD1 } from './helpers/d1';
+import {
+  createTestD1,
+  seedCard,
+  seedUser,
+  seedWord,
+  type TestD1,
+} from './helpers/d1';
 
 let t: TestD1;
 let env: { DB: D1Database };
@@ -88,43 +94,84 @@ describe('GET /api/decks/:deck/topics', () => {
 });
 
 describe('topic progress counts', () => {
-  it('splits visible words into new, learning and learned for the current user only', async () => {
-    const learned = await seedWord(t.db, {
-      lemma: 'a',
-      topic: 'home',
-      level: 'A1',
-    });
-    const learning = await seedWord(t.db, {
-      lemma: 'b',
-      topic: 'home',
-      level: 'A1',
-    });
-    await seedWord(t.db, { lemma: 'c', topic: 'home', level: 'A2' });
+  async function counts(): Promise<object> {
+    const res = await app.request('/api/decks/lv-uk/topics', { headers }, env);
+    return ((await res.json()) as { counts: object }[])[0]!.counts;
+  }
+  const word = (lemma: string, level = 'A1') =>
+    seedWord(t.db, { lemma, topic: 'home', level });
+  const meId = async () =>
+    (await t.db.prepare('SELECT id FROM users').first<{ id: number }>())!.id;
+
+  it('splits visible words into new, learning and learned', async () => {
+    const me = await meId();
+    const learned = await word('a');
+    const young = await word('b');
+    const recOnly = await word('c');
+    await word('d', 'A2');
     await seedWord(t.db, {
       lemma: 'hidden',
       topic: 'home',
       level: 'A2',
       status: 'pending',
     });
-    const me = (await t.db
-      .prepare('SELECT id FROM users')
-      .first<{ id: number }>())!.id;
+    await seedCard(t.db, { userId: me, wordId: learned });
+    await seedCard(t.db, {
+      userId: me,
+      wordId: learned,
+      kind: 'production',
+      state: 2,
+      stability: 25,
+    });
+    await seedCard(t.db, { userId: me, wordId: young });
+    await seedCard(t.db, {
+      userId: me,
+      wordId: young,
+      kind: 'production',
+      state: 2,
+      stability: 10,
+    });
+    await seedCard(t.db, { userId: me, wordId: recOnly });
+
+    expect(await counts()).toEqual({ new: 1, learning: 2, learned: 1 });
+  });
+
+  it("ignores another user's cards", async () => {
     const other = await seedUser(t.db, 'other', 'pw');
-    const insert = (user: number, word: number, isLearned: number) =>
-      t.db
-        .prepare(
-          `INSERT INTO progress (user_id, deck_id, word_id, stage, due_at, learned) VALUES (?, 1, ?, 3, 0, ?)`,
-        )
-        .bind(user, word, isLearned)
-        .run();
-    await insert(me, learned, 1);
-    await insert(me, learning, 0);
-    await insert(other, learning, 1);
+    const id = await word('a');
+    await seedCard(t.db, { userId: other, wordId: id });
+    await seedCard(t.db, {
+      userId: other,
+      wordId: id,
+      kind: 'production',
+      state: 2,
+      stability: 99,
+    });
 
-    const res = await app.request('/api/decks/lv-uk/topics', { headers }, env);
-    const body = (await res.json()) as { counts: object }[];
+    expect(await counts()).toEqual({ new: 1, learning: 0, learned: 0 });
+  });
 
-    expect(body[0]!.counts).toEqual({ new: 1, learning: 1, learned: 1 });
+  it('keeps a suspended word out of the new count', async () => {
+    const me = await meId();
+    const id = await word('a');
+    await seedCard(t.db, { userId: me, wordId: id, suspended: true });
+
+    expect(await counts()).toEqual({ new: 0, learning: 1, learned: 0 });
+  });
+
+  it('does not count a learning production card as learned when its state is relearning', async () => {
+    const me = await meId();
+    const id = await word('a');
+    await seedCard(t.db, { userId: me, wordId: id });
+    await seedCard(t.db, {
+      userId: me,
+      wordId: id,
+      kind: 'production',
+      state: 3,
+      stability: 40,
+    });
+
+    expect(await counts()).toEqual({ new: 0, learning: 1, learned: 0 });
   });
 });
 

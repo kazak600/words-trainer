@@ -306,7 +306,7 @@ Tasks:
 
 **Done when:** Vitest suites cover first review, each grade, lapse, and the progress migration (checked on a copy of a real database).
 
-## Stage 20. Fuzzy checker and auto-grade
+## Stage 20. Fuzzy checker and auto-grade [DONE]
 
 **Goal:** typing is forgiving about typos but never hides them.
 
@@ -317,7 +317,7 @@ Tasks:
 
 **Done when:** a table of cases passes (*maize / maizē*, *šeit / seit*, *ļoti / loti*, one wrong letter, a far miss, extra spaces, capitals, English).
 
-## Stage 21. Review queue and daily cap
+## Stage 21. Review queue and daily cap [DONE]
 
 **Goal:** the Worker serves one queue of due cards and introduces new words within the cap.
 
@@ -328,6 +328,7 @@ Tasks:
 - A new word starts as a recognition card. Its production card is created after the first recognition review that is not Again. Later answered-wrong cards return once at the end of the session (kept from stage 10).
 - Answer endpoint runs the checker for typed cards, maps the result to a grade, calls the scheduler, updates `cards`, appends to `review_log` and `session_state`. Resume stays.
 - Multiple-choice code and distractor logic are removed.
+- API shape: `GET /api/decks/:deck/review?tzOffset=` (due count, new today, cap, due list); `POST /api/decks/:deck/sessions` takes `{topicId, tzOffset?}` (new words only) or `{review: true}` (up to 20 due cards); `POST /api/sessions/:id/answer` takes `{cardIndex, grade}` for recognition or `{cardIndex, typed}` for production; `POST /api/sessions/:id/easy` with `{cardIndex}` raises that card's exact typed answer to Easy while it is still the latest answer. A new production card is first due a day after its recognition card is answered, and a review session holds back a word's second card when both are due. Apply migration 0007 before deploying this Worker (it keeps newer card reviews either way). The web app still calls the old shape and is rebuilt in stage 22.
 - Move `findDueWords`, `findNewWordIds`, `listTopicLevelCounts` and the answer flow from `progress` to `cards`; delete `lib/scheduler.ts`, the `learned` handling and the `progress` table (new migration). That migration first re-runs the `-- convert progress` block of `0006_cards.sql` (it refreshes existing cards), so reviews done on `progress` after stage 19 are not lost. Learned counts may dip right after the switch: converted production cards start with stability equal to their old interval.
 
 **Done when:** API tests cover the cap (reached, partly used, next day), a mixed review of due cards from two topics, a resume, and the production card appearing after a recognition pass.

@@ -50,7 +50,13 @@ export async function seedWord(db: D1Database, w: WordSeed): Promise<number> {
        VALUES ('lv', ?, ?, (SELECT id FROM topics WHERE lang = 'lv' AND slug = ?), ?, ?)
        RETURNING id`,
     )
-    .bind(w.lemma, pos, w.topic, w.level, w.grammar ? JSON.stringify(w.grammar) : null)
+    .bind(
+      w.lemma,
+      pos,
+      w.topic,
+      w.level,
+      w.grammar ? JSON.stringify(w.grammar) : null,
+    )
     .first<{ id: number }>();
   const id = word!.id;
   await db
@@ -65,16 +71,76 @@ export async function seedWord(db: D1Database, w: WordSeed): Promise<number> {
         `INSERT INTO sentences (word_id, text_with_gap, answer, hint_target_lang, hint, review_status)
          VALUES (?, ?, ?, 'uk', ?, ?)`,
       )
-      .bind(id, w.sentence.gap, w.sentence.answer, w.sentence.hint, w.status ?? 'approved')
+      .bind(
+        id,
+        w.sentence.gap,
+        w.sentence.answer,
+        w.sentence.hint,
+        w.status ?? 'approved',
+      )
       .run();
   }
   return id;
 }
 
-export async function seedUser(db: D1Database, username: string, password: string): Promise<number> {
+export async function seedUser(
+  db: D1Database,
+  username: string,
+  password: string,
+): Promise<number> {
   const row = await db
-    .prepare('INSERT INTO users (username, password_hash) VALUES (?, ?) RETURNING id')
+    .prepare(
+      'INSERT INTO users (username, password_hash) VALUES (?, ?) RETURNING id',
+    )
     .bind(username, await hashPassword(password))
     .first<{ id: number }>();
   return row!.id;
+}
+
+export type CardSeed = {
+  userId: number;
+  wordId: number;
+  kind?: 'recognition' | 'production';
+  dueAt?: number;
+  state?: number;
+  stability?: number;
+  reps?: number;
+  lapses?: number;
+  suspended?: boolean;
+};
+
+export async function seedCard(db: D1Database, c: CardSeed): Promise<number> {
+  const row = await db
+    .prepare(
+      `INSERT INTO cards (user_id, deck_id, word_id, kind, state, due_at, stability, difficulty, reps, lapses, suspended)
+       VALUES (?, 1, ?, ?, ?, ?, ?, 5, ?, ?, ?) RETURNING id`,
+    )
+    .bind(
+      c.userId,
+      c.wordId,
+      c.kind ?? 'recognition',
+      c.state ?? 2,
+      c.dueAt ?? 0,
+      c.stability ?? 1,
+      c.reps ?? 1,
+      c.lapses ?? 0,
+      c.suspended ? 1 : 0,
+    )
+    .first<{ id: number }>();
+  return row!.id;
+}
+
+export function seedReviewLog(
+  db: D1Database,
+  userId: number,
+  wordId: number,
+  createdAt: number,
+): Promise<D1Result> {
+  return db
+    .prepare(
+      `INSERT INTO review_log (user_id, deck_id, word_id, mode, correct, created_at)
+       VALUES (?, 1, ?, 'flip', 1, ?)`,
+    )
+    .bind(userId, wordId, createdAt)
+    .run();
 }

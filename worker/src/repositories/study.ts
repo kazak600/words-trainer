@@ -1,152 +1,12 @@
-import type { Scheduled } from '../lib/scheduler';
-
-const VISIBLE = `tr.review_status IN ('approved', 'edited')`;
-const LEVEL_ORDER = `CASE w.level WHEN 'A1' THEN 1 WHEN 'A2' THEN 2 WHEN 'B1' THEN 3 ELSE 4 END`;
-
-export type DueRow = { id: number; stage: number };
-
-export async function findDueWords(
-  db: D1Database,
-  p: {
-    userId: number;
-    deckId: number;
-    topicId: number;
-    targetLang: string;
-    now: number;
-    limit: number;
-  },
-): Promise<DueRow[]> {
-  const { results } = await db
-    .prepare(
-      `SELECT w.id, pr.stage
-       FROM progress pr
-       JOIN words w ON w.id = pr.word_id
-       JOIN translations tr ON tr.word_id = w.id AND tr.target_lang = ?
-       WHERE pr.user_id = ? AND pr.deck_id = ? AND w.topic_id = ? AND pr.due_at <= ? AND ${VISIBLE}
-       ORDER BY pr.due_at, w.id
-       LIMIT ?`,
-    )
-    .bind(p.targetLang, p.userId, p.deckId, p.topicId, p.now, p.limit)
-    .all<DueRow>();
-  return results;
-}
-
-export async function findNewWordIds(
-  db: D1Database,
-  p: {
-    userId: number;
-    deckId: number;
-    topicId: number;
-    targetLang: string;
-    limit: number;
-  },
-): Promise<number[]> {
-  const { results } = await db
-    .prepare(
-      `SELECT w.id
-       FROM words w
-       JOIN translations tr ON tr.word_id = w.id AND tr.target_lang = ?
-       WHERE w.topic_id = ? AND ${VISIBLE}
-         AND NOT EXISTS (
-           SELECT 1 FROM progress pr WHERE pr.user_id = ? AND pr.deck_id = ? AND pr.word_id = w.id)
-       ORDER BY ${LEVEL_ORDER}, w.id
-       LIMIT ?`,
-    )
-    .bind(p.targetLang, p.topicId, p.userId, p.deckId, p.limit)
-    .all<{ id: number }>();
-  return results.map((r) => r.id);
-}
-
-// Same topic first, then the rest of the deck with the same part of speech.
-export async function findDistractorIds(
-  db: D1Database,
-  p: {
-    lang: string;
-    targetLang: string;
-    pos: string;
-    topicId: number;
-    excludeWordId: number;
-    limit: number;
-  },
-): Promise<number[]> {
-  const { results } = await db
-    .prepare(
-      `SELECT w.id
-       FROM words w
-       JOIN translations tr ON tr.word_id = w.id AND tr.target_lang = ?
-       WHERE w.lang = ? AND w.pos = ? AND w.id <> ? AND ${VISIBLE}
-       ORDER BY (w.topic_id = ?) DESC, RANDOM()
-       LIMIT ?`,
-    )
-    .bind(p.targetLang, p.lang, p.pos, p.excludeWordId, p.topicId, p.limit)
-    .all<{ id: number }>();
-  return results.map((r) => r.id);
-}
-
-export type ProgressRow = {
-  stage: number;
-  ease: number;
-  interval_days: number;
-  reps: number;
-  lapses: number;
-  learned: number;
-};
-
-export function findProgress(
-  db: D1Database,
-  userId: number,
-  deckId: number,
-  wordId: number,
-): Promise<ProgressRow | null> {
-  return db
-    .prepare(
-      `SELECT stage, ease, interval_days, reps, lapses, learned
-       FROM progress WHERE user_id = ? AND deck_id = ? AND word_id = ?`,
-    )
-    .bind(userId, deckId, wordId)
-    .first<ProgressRow>();
-}
-
-export function upsertProgressStatement(
-  db: D1Database,
-  userId: number,
-  deckId: number,
-  wordId: number,
-  s: Scheduled,
-  now: number,
-): D1PreparedStatement {
-  return db
-    .prepare(
-      `INSERT INTO progress
-         (user_id, deck_id, word_id, stage, ease, interval_days, due_at, reps, lapses, learned, last_reviewed_at)
-       VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-       ON CONFLICT (user_id, deck_id, word_id) DO UPDATE SET
-         stage = excluded.stage, ease = excluded.ease, interval_days = excluded.interval_days,
-         due_at = excluded.due_at, reps = excluded.reps, lapses = excluded.lapses,
-         learned = excluded.learned, last_reviewed_at = excluded.last_reviewed_at`,
-    )
-    .bind(
-      userId,
-      deckId,
-      wordId,
-      s.stage,
-      s.ease,
-      s.intervalDays,
-      s.dueAt,
-      s.reps,
-      s.lapses,
-      s.learned ? 1 : 0,
-      now,
-    );
-}
-
 export function insertReviewLogStatement(
   db: D1Database,
   r: {
     userId: number;
     deckId: number;
     wordId: number;
-    mode: string;
+    mode: 'flip' | 'write';
+    kind: 'recognition' | 'production';
+    grade: number;
     correct: boolean;
     typed: string | null;
     now: number;
@@ -154,14 +14,16 @@ export function insertReviewLogStatement(
 ): D1PreparedStatement {
   return db
     .prepare(
-      `INSERT INTO review_log (user_id, deck_id, word_id, mode, correct, typed_answer, created_at)
-       VALUES (?, ?, ?, ?, ?, ?, ?)`,
+      `INSERT INTO review_log (user_id, deck_id, word_id, mode, kind, grade, correct, typed_answer, created_at)
+       VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)`,
     )
     .bind(
       r.userId,
       r.deckId,
       r.wordId,
       r.mode,
+      r.kind,
+      r.grade,
       r.correct ? 1 : 0,
       r.typed,
       r.now,
@@ -221,4 +83,22 @@ export function deleteSessionStatement(
   return db
     .prepare('DELETE FROM session_state WHERE user_id = ? AND deck_id = ?')
     .bind(userId, deckId);
+}
+
+// The latest log row of the word is the answer being raised.
+export function raiseLatestGradeStatement(
+  db: D1Database,
+  userId: number,
+  deckId: number,
+  wordId: number,
+  kind: string,
+  grade: number,
+): D1PreparedStatement {
+  return db
+    .prepare(
+      `UPDATE review_log SET grade = ?
+       WHERE id = (SELECT MAX(id) FROM review_log
+                   WHERE user_id = ? AND deck_id = ? AND word_id = ? AND kind = ?)`,
+    )
+    .bind(grade, userId, deckId, wordId, kind);
 }

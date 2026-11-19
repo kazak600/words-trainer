@@ -1,11 +1,23 @@
 import { afterEach, beforeEach, describe, expect, it } from 'vitest';
 import { newCard, review } from '../src/lib/fsrs';
 import {
+  countDueCards,
+  countNewWordsBetween,
   findCard,
+  findDueCards,
+  findNewWordIds,
+  insertCardIfMissingStatement,
   upsertCardStatement,
   type CardKey,
 } from '../src/repositories/cards';
-import { createTestD1, seedUser, seedWord, type TestD1 } from './helpers/d1';
+import {
+  createTestD1,
+  seedCard,
+  seedReviewLog,
+  seedUser,
+  seedWord,
+  type TestD1,
+} from './helpers/d1';
 
 const NOW = 1_800_000_000;
 const NO_FLAGS = { suspended: false, leech: false };
@@ -24,8 +36,9 @@ const key = (overrides: Partial<CardKey> = {}): CardKey => ({
 });
 
 const countCards = async (): Promise<number> =>
-  (await t.db.prepare('SELECT COUNT(*) AS n FROM cards').first<{ n: number }>())!
-    .n;
+  (await t.db
+    .prepare('SELECT COUNT(*) AS n FROM cards')
+    .first<{ n: number }>())!.n;
 
 beforeEach(async () => {
   t = await createTestD1();
@@ -99,5 +112,173 @@ describe('card repository', () => {
     expect(await countCards()).toBe(2);
     expect((await findCard(t.db, cloze))?.sentenceId).toBe(sentenceId);
     expect((await findCard(t.db, key()))?.sentenceId).toBeNull();
+  });
+});
+
+describe('due cards', () => {
+  const scope = () => ({
+    userId,
+    deckId: 1,
+    targetLang: 'uk',
+    now: NOW,
+    limit: 50,
+  });
+
+  it('lists due cards oldest first and skips suspended, future and hidden ones', async () => {
+    const b = await seedWord(t.db, { lemma: 'b', topic: 'home', level: 'A1' });
+    const c = await seedWord(t.db, { lemma: 'c', topic: 'home', level: 'A1' });
+    const d = await seedWord(t.db, { lemma: 'd', topic: 'home', level: 'A1' });
+    const hidden = await seedWord(t.db, {
+      lemma: 'h',
+      topic: 'home',
+      level: 'A1',
+      status: 'pending',
+    });
+    await seedCard(t.db, { userId, wordId, dueAt: NOW - 10 });
+    await seedCard(t.db, { userId, wordId: b, dueAt: NOW - 500 });
+    await seedCard(t.db, { userId, wordId: c, dueAt: NOW + 60 });
+    await seedCard(t.db, {
+      userId,
+      wordId: d,
+      dueAt: NOW - 5,
+      suspended: true,
+    });
+    await seedCard(t.db, { userId, wordId: hidden, dueAt: NOW - 5 });
+
+    const rows = await findDueCards(t.db, scope());
+
+    expect(rows.map((r) => r.wordId)).toEqual([b, wordId]);
+    expect(rows[0]).toMatchObject({ kind: 'recognition', sentenceId: null });
+    expect(await countDueCards(t.db, scope())).toBe(2);
+  });
+
+  it('never lists cloze cards in the queue', async () => {
+    await t.db
+      .prepare(
+        "INSERT INTO cards (user_id, deck_id, word_id, kind, due_at) VALUES (?, 1, ?, 'cloze', 1)",
+      )
+      .bind(userId, wordId)
+      .run();
+
+    expect(await findDueCards(t.db, scope())).toEqual([]);
+    expect(await countDueCards(t.db, scope())).toBe(0);
+  });
+
+  it('narrows to one topic', async () => {
+    const home = await seedWord(t.db, {
+      lemma: 'b',
+      topic: 'home',
+      level: 'A1',
+    });
+    await seedCard(t.db, { userId, wordId, dueAt: 1 });
+    await seedCard(t.db, { userId, wordId: home, dueAt: 2 });
+
+    const rows = await findDueCards(t.db, {
+      ...scope(),
+      topicId: (await t.db
+        .prepare("SELECT id FROM topics WHERE slug = 'home'")
+        .first<{ id: number }>())!.id,
+    });
+
+    expect(rows.map((r) => r.wordId)).toEqual([home]);
+  });
+
+  it("ignores another user's cards", async () => {
+    const other = await seedUser(t.db, 'other', 'secret');
+    await seedCard(t.db, { userId: other, wordId, dueAt: 1 });
+
+    expect(await countDueCards(t.db, scope())).toBe(0);
+  });
+});
+
+describe('new words', () => {
+  it('skips words that already have a card and orders by level', async () => {
+    const a2 = await seedWord(t.db, {
+      lemma: 'a2',
+      topic: 'food-and-drink',
+      level: 'A2',
+    });
+    const b1 = await seedWord(t.db, {
+      lemma: 'b1',
+      topic: 'food-and-drink',
+      level: 'B1',
+    });
+    const a1b = await seedWord(t.db, {
+      lemma: 'a1b',
+      topic: 'food-and-drink',
+      level: 'A1',
+    });
+    await seedCard(t.db, { userId, wordId });
+    const topicId = (await t.db
+      .prepare("SELECT id FROM topics WHERE slug = 'food-and-drink'")
+      .first<{ id: number }>())!.id;
+
+    const ids = await findNewWordIds(t.db, {
+      userId,
+      deckId: 1,
+      topicId,
+      targetLang: 'uk',
+      limit: 10,
+    });
+
+    expect(ids).toEqual([a1b, a2, b1]);
+  });
+});
+
+describe('daily cap count', () => {
+  it('counts a word once, by its first review, inside [from, to)', async () => {
+    const b = await seedWord(t.db, { lemma: 'b', topic: 'home', level: 'A1' });
+    const c = await seedWord(t.db, { lemma: 'c', topic: 'home', level: 'A1' });
+    const d = await seedWord(t.db, { lemma: 'd', topic: 'home', level: 'A1' });
+    await seedReviewLog(t.db, userId, wordId, 1000);
+    await seedReviewLog(t.db, userId, wordId, 1500);
+    await seedReviewLog(t.db, userId, b, 900);
+    await seedReviewLog(t.db, userId, b, 1200);
+    await seedReviewLog(t.db, userId, c, 1000);
+    await seedReviewLog(t.db, userId, d, 2000);
+
+    const n = await countNewWordsBetween(t.db, {
+      userId,
+      deckId: 1,
+      from: 1000,
+      to: 2000,
+    });
+
+    expect(n).toBe(2);
+  });
+});
+
+describe('insertCardIfMissingStatement', () => {
+  it('creates the card once and never overwrites an existing one', async () => {
+    const existing = review(newCard(NOW), 'good', NOW);
+    await upsertCardStatement(
+      t.db,
+      key({ kind: 'production' }),
+      existing,
+      NO_FLAGS,
+    ).run();
+
+    await insertCardIfMissingStatement(
+      t.db,
+      key({ kind: 'production' }),
+      newCard(NOW + 5),
+    ).run();
+    await insertCardIfMissingStatement(
+      t.db,
+      key({ kind: 'recognition' }),
+      newCard(NOW + 5),
+    ).run();
+    await insertCardIfMissingStatement(
+      t.db,
+      key({ kind: 'recognition' }),
+      newCard(NOW + 99),
+    ).run();
+
+    expect((await findCard(t.db, key({ kind: 'production' })))!.card.reps).toBe(
+      existing.reps,
+    );
+    const created = await findCard(t.db, key({ kind: 'recognition' }));
+    expect(created!.card.dueAt).toBe(NOW + 5);
+    expect(await countCards()).toBe(2);
   });
 });

@@ -8,6 +8,7 @@ import {
 
 const BEFORE = '0005_progress_learned.sql';
 const CARDS = '0006_cards.sql';
+const DROP = '0007_drop_progress.sql';
 
 type CardRow = {
   user_id: number;
@@ -80,6 +81,11 @@ function rerunConversion(): void {
   expect(sql).toContain(marker);
   db.exec(sql.slice(sql.indexOf(marker)));
 }
+
+const tableExists = (name: string): boolean =>
+  db
+    .prepare("SELECT 1 FROM sqlite_master WHERE type = 'table' AND name = ?")
+    .get(name) !== undefined;
 
 const cardsOf = (wordId: number): CardRow[] =>
   db
@@ -190,7 +196,12 @@ describe('progress to cards conversion', () => {
   });
 
   it('refreshes existing cards when the conversion runs again after progress changed', () => {
-    const wordId = addProgress({ stage: 2, reps: 1, intervalDays: 1, dueAt: 1000 });
+    const wordId = addProgress({
+      stage: 2,
+      reps: 1,
+      intervalDays: 1,
+      dueAt: 1000,
+    });
     applyMigration(db, CARDS);
 
     db.prepare(
@@ -200,8 +211,18 @@ describe('progress to cards conversion', () => {
     rerunConversion();
 
     expect(cardsOf(wordId)).toEqual([
-      expect.objectContaining({ kind: 'production', reps: 5, due_at: 9000, stability: 20 }),
-      expect.objectContaining({ kind: 'recognition', reps: 5, due_at: 9000, stability: 20 }),
+      expect.objectContaining({
+        kind: 'production',
+        reps: 5,
+        due_at: 9000,
+        stability: 20,
+      }),
+      expect.objectContaining({
+        kind: 'recognition',
+        reps: 5,
+        due_at: 9000,
+        stability: 20,
+      }),
     ]);
     expect(cardsOf(lateWord)).toHaveLength(1);
   });
@@ -227,5 +248,87 @@ describe('progress to cards conversion', () => {
     rerunConversion();
 
     expect(countCards()).toBe(before);
+  });
+});
+
+describe('dropping progress', () => {
+  it('picks up reviews made on progress after the cards migration, then drops the table', () => {
+    const wordId = addProgress({
+      stage: 2,
+      reps: 1,
+      intervalDays: 1,
+      dueAt: 1000,
+      lastReviewedAt: 500,
+    });
+    applyMigration(db, CARDS);
+    db.prepare(
+      'UPDATE progress SET stage = 3, reps = 5, interval_days = 20, due_at = 9000, last_reviewed_at = 800 WHERE word_id = ?',
+    ).run(wordId);
+    const lateWord = addProgress({ stage: 1 });
+
+    applyMigration(db, DROP);
+
+    expect(cardsOf(wordId)).toEqual([
+      expect.objectContaining({
+        kind: 'production',
+        reps: 5,
+        due_at: 9000,
+        stability: 20,
+      }),
+      expect.objectContaining({
+        kind: 'recognition',
+        reps: 5,
+        due_at: 9000,
+        stability: 20,
+      }),
+    ]);
+    expect(cardsOf(lateWord)).toHaveLength(1);
+    expect(tableExists('progress')).toBe(false);
+  });
+
+  it('keeps a card that was reviewed after its progress row (new code ran before the migration)', () => {
+    const wordId = addProgress({
+      stage: 2,
+      reps: 1,
+      intervalDays: 1,
+      dueAt: 1000,
+      lastReviewedAt: 500,
+    });
+    applyMigration(db, CARDS);
+    db.prepare(
+      'UPDATE cards SET reps = 9, due_at = 77777, last_review_at = 900 WHERE word_id = ?',
+    ).run(wordId);
+
+    applyMigration(db, DROP);
+
+    for (const card of cardsOf(wordId))
+      expect(card).toMatchObject({
+        reps: 9,
+        due_at: 77777,
+        last_review_at: 900,
+      });
+  });
+
+  it('succeeds on a database with no progress rows', () => {
+    applyMigration(db, CARDS);
+
+    expect(() => applyMigration(db, DROP)).not.toThrow();
+    expect(tableExists('progress')).toBe(false);
+    expect(countCards()).toBe(0);
+  });
+
+  it('does not touch review history or saved sessions', () => {
+    applyMigration(db, CARDS);
+    const wordId = addProgress();
+    db.prepare(
+      "INSERT INTO review_log (user_id, deck_id, word_id, mode, correct) VALUES (?, 1, ?, 'flip', 1)",
+    ).run(userId, wordId);
+
+    applyMigration(db, DROP);
+
+    const row = db.prepare('SELECT COUNT(*) AS n FROM review_log').get() as {
+      n: number;
+    };
+    expect(row.n).toBe(1);
   });
 });

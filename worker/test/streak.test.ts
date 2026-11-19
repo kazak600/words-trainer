@@ -1,8 +1,52 @@
 import { afterEach, beforeEach, describe, expect, it } from 'vitest';
 import { app } from '../src/app';
-import { computeStreak, localDay } from '../src/lib/streak';
+import {
+  computeStreak,
+  localDay,
+  localDayWindow,
+  parseTzOffset,
+} from '../src/lib/streak';
 import { loginCookie } from './helpers/auth';
 import { createTestD1, seedWord, type TestD1 } from './helpers/d1';
+
+describe('localDayWindow', () => {
+  const utc = (iso: string) => Math.floor(Date.parse(iso) / 1000);
+
+  it('is the UTC day for offset 0', () => {
+    expect(localDayWindow(utc('2026-03-10T13:00:00Z'), 0)).toEqual({
+      from: utc('2026-03-10T00:00:00Z'),
+      to: utc('2026-03-11T00:00:00Z'),
+    });
+  });
+
+  it('starts at local midnight east of UTC', () => {
+    expect(localDayWindow(utc('2026-03-09T22:10:00Z'), 120)).toEqual({
+      from: utc('2026-03-09T22:00:00Z'),
+      to: utc('2026-03-10T22:00:00Z'),
+    });
+  });
+
+  it('starts at local midnight west of UTC', () => {
+    expect(localDayWindow(utc('2026-03-10T03:00:00Z'), -300)).toEqual({
+      from: utc('2026-03-09T05:00:00Z'),
+      to: utc('2026-03-10T05:00:00Z'),
+    });
+  });
+});
+
+describe('parseTzOffset', () => {
+  it('defaults to 0 and accepts whole minutes within 14 hours', () => {
+    expect(parseTzOffset(undefined)).toBe(0);
+    expect(parseTzOffset('120')).toBe(120);
+    expect(parseTzOffset(-300)).toBe(-300);
+  });
+
+  it('rejects anything else', () => {
+    expect(parseTzOffset('abc')).toBeNull();
+    expect(parseTzOffset('1.5')).toBeNull();
+    expect(parseTzOffset(841)).toBeNull();
+  });
+});
 
 describe('computeStreak', () => {
   it('counts consecutive days ending today', () => {
