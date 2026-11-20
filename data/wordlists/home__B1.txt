@@ -1,0 +1,3 @@
+# B1 wordlist, generated from translations/home-b1.txt
+noun: hipotēka, jumts, pagrabs, mājoklis, priekšpilsēta, ēka
+verb: pārvākties, siltināt

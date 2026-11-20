@@ -1,0 +1,16 @@
+# B1 units 1 and 8 (Nekad nav par vēlu, Amatu un piedzīvojumu meistari): study, motivation, careers
+motivācija | noun | мотивація | Viņam trūkst ___. | motivācijas | Йому бракує мотивації.
+mērķis | noun | мета | Mans ___ ir nokārtot eksāmenu. | mērķis | Моя мета — скласти іспит.
+prasme | noun | навичка | Viņam ir laba ___. | prasme | У нього хороші навички.
+karjera | noun | кар'єра | Viņa veido savu ___. | karjeru | Вона будує свою кар'єру.
+atalgojums | noun | зарплата | Darbs ir interesants, bet ___ ir zems. | atalgojums | Робота цікава, але зарплата низька.
+diploms | noun | диплом | Pēc studijām viņa saņēma ___. | diplomu | Після навчання вона отримала диплом.
+seminārs | noun | семінар | Rīt notiek ___ par valodu. | seminārs | Завтра відбувається семінар про мову.
+pētījums | noun | дослідження | Viņa veic ___ par mācīšanos. | pētījumu | Вона проводить дослідження про навчання.
+pilnveidot | verb | удосконалювати | Viņš grib ___ savas prasmes. | pilnveidot | Він хоче удосконалити свої навички.
+sasniegt | verb | досягти | Viņa ir ___ savu mērķi. | sasniegusi | Вона досягла своєї мети.
+attīstīties | verb | розвиватися | Viņas karjera ___ ļoti ātri. | attīstās | Її кар'єра розвивається дуже швидко.
+pārvarēt | verb | подолати | Viņš ___ grūtības. | pārvarēja | Він подолав труднощі.
+iemācīties | verb | навчитися | Es gribu ___ rakstīt ātrāk. | iemācīties | Я хочу навчитися писати швидше.
+profesionāls | adj | професійний | Viņa ir ļoti ___ ārste. | profesionāla | Вона дуже професійна лікарка.
+motivēts | adj | мотивований | Viņš ir ___ students. | motivēts | Він мотивований студент.

@@ -1,0 +1,16 @@
+# B1 unit 6 (Zeme, gaiss, ūdens): environment, ecology, waste, climate
+klimats | noun | клімат | Mūsu ___ kļūst siltāks. | klimats | Наш клімат стає теплішим.
+piesārņojums | noun | забруднення | Gaisa ___ ir liels. | piesārņojums | Забруднення повітря велике.
+atkritumi | noun | відходи | Šos ___ vajag nodot pārstrādei. | atkritumus | Ці відходи треба здати на переробку.
+reciklēšana | noun | переробка | Papīra ___ ir svarīga. | reciklēšana | Переробка паперу важлива.
+ekoloģija | noun | екологія | Viņa studē ___. | ekoloģiju | Вона вивчає екологію.
+sausums | noun | посуха | Šogad ir liels ___. | sausums | Цього року велика посуха.
+plūdi | noun | повінь | Pēc lietus pilsētā bija ___. | plūdi | Після дощу в місті була повінь.
+ūdenstilpe | noun | водойма | Ezers ir liela ___. | ūdenstilpe | Озеро — велика водойма.
+pārstrādāt | verb | переробляти | Plastmasu var ___. | pārstrādāt | Пластик можна переробляти.
+samazināt | verb | зменшувати | Mēs gribam ___ CO2 izmešus. | samazināt | Ми хочемо зменшити викиди CO2.
+saglabāt | verb | зберегти | Mēs spējam ___ dabu nākamajām paaudzēm. | saglabāt | Ми маємо змогу зберегти природу для наступних поколінь.
+ilgtspējīgs | adj | сталий | Viņi izmanto ___ enerģiju. | ilgtspējīgu | Вони використовують сталу енергію.
+ekoloģisks | adj | екологічний | Viņa pērk ___ produktus. | ekoloģiskus | Вона купує екологічні продукти.
+piesārņots | adj | забруднений | Upe ir ļoti ___. | piesārņota | Річка дуже забруднена.
+vētrains | adj | бурхливий | Šodien ir ___ laiks ar lietu. | vētrains | Сьогодні бурхлива погода з дощем.

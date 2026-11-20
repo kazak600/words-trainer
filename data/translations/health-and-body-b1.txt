@@ -1,0 +1,14 @@
+# B1 unit 5 (Skaistums un veselība): healthcare, symptoms, nutrition, self-care
+simptoms | noun | симптом | Kādi ir jūsu ___? | simptomi | Які в вас симптоми?
+diagnoze | noun | діагноз | Ārsts uzstādīja ___. | diagnozi | Лікар поставив діагноз.
+uzturs | noun | харчування | Veselīgs ___ ir svarīgs. | uzturs | Здорове харчування важливе.
+imunitāte | noun | імунітет | Vitamīni stiprina ___. | imunitāti | Вітаміни зміцнюють імунітет.
+terapija | noun | терапія | Viņš apmeklē fizisko ___. | terapiju | Він відвідує фізичну терапію.
+profilakse | noun | профілактика | Regulārā ___ ir svarīga. | profilakse | Регулярна профілактика важлива.
+izmeklēt | verb | обстежити | Ārsts mani rūpīgi ___. | izmeklēja | Лікар мене ретельно обстежив.
+ierobežot | verb | обмежити | Ārsts ieteica ___ kafijas dzeršanu. | ierobežot | Лікар порадив обмежити вживання кави.
+uzturēt | verb | підтримувати | Ir svarīgi ___ labu formu. | uzturēt | Важливо підтримувати добру форму.
+alerģisks | adj | алергічний | Mana māsa ir ___ pret putekļiem. | alerģiska | Моя сестра алергічна на пил.
+hronisks | adj | хронічний | Viņam ir ___ slimība. | hroniska | У нього хронічна хвороба.
+izmocīts | adj | виснажений | Pēc garas nakts viņš izskatījās ___. | izmocīts | Після довгої ночі він виглядав виснаженим.
+pilnvērtīgs | adj | повноцінний | Bērnam ir vajadzīgs ___ uzturs. | pilnvērtīgs | Дитині потрібне повноцінне харчування.

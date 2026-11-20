@@ -1,0 +1,4 @@
+# B1 wordlist, generated from translations/people-and-character-b1.txt
+noun: optimisms, pesimisms, humors, pašapziņa, emocija, dzīvesprieks, stress, iedvesma
+verb: skumt, apvainoties
+adj: optimistisks, pesimistisks, nervozs, atklāts

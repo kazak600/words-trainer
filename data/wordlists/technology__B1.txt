@@ -1,0 +1,4 @@
+# B1 wordlist, generated from translations/technology-b1.txt
+noun: lietotne, dezinformācija, drošība, piekļuve, avots, mediji, kiberuzbrukums, noplūde
+verb: lejupielādēt, dalīties, pieslēgties, atjaunināt
+adj: digitāls, nepatiess

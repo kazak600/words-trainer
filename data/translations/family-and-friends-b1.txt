@@ -1,0 +1,15 @@
+# B1 unit 2 (Starp savējiem): relationships, conflict, communication
+konflikts | noun | конфлікт | Starp viņiem radās ___. | konflikts | Між ними виник конфлікт.
+strīds | noun | суперечка | Vakar mums bija liels ___. | strīds | Учора в нас була велика суперечка.
+cieņa | noun | повага | Viņš izturas pret vecākiem ar ___. | cieņu | Він ставиться до батьків з повагою.
+uzticība | noun | довіра | Bez ___ nav draudzības. | uzticības | Без довіри немає дружби.
+kompromiss | noun | компроміс | Mēs atradām ___. | kompromisu | Ми знайшли компроміс.
+pārpratums | noun | непорозуміння | Tas bija tikai ___. | pārpratums | Це було лише непорозуміння.
+sapratne | noun | розуміння | Starp mums ir laba ___. | sapratne | Між нами є добре розуміння.
+saprasties | verb | порозумітися | Mēs labi ___ ar kaimiņiem. | saprotamies | Ми добре ладнаємо з сусідами.
+uzticēties | verb | довіряти | Es ___ saviem draugiem. | uzticos | Я довіряю своїм друзям.
+sadzīvot | verb | уживатися | Ir grūti ___ ar tik skaļu kaimiņu. | sadzīvot | Важко уживатися з таким гучним сусідом.
+rūpīgs | adj | турботливий | Viņa ir ļoti ___ māte. | rūpīga | Вона дуже турботлива мати.
+uzticams | adj | надійний | Mans draugs ir ļoti ___. | uzticams | Мій друг дуже надійний.
+sapratīgs | adj | розсудливий | Viņš ir ļoti ___ cilvēks. | sapratīgs | Він дуже розсудливий.
+greizsirdīgs | adj | ревнивий | Viņa ir ___ uz savu māsu. | greizsirdīga | Вона ревнива до своєї сестри.

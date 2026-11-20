@@ -1,0 +1,4 @@
+# B1 wordlist, generated from translations/free-time-and-hobbies-b1.txt
+noun: klubs
+verb: iesaistīties, piedalīties, aizrauties
+adj: saturīgs, aktīvs

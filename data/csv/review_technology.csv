@@ -1,0 +1,15 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+lietotne,noun,B1,"application, app, applet",застосунок,Es esmu lejupielādējis jaunu ___.,lietotni,Я завантажив новий застосунок.,approved
+dezinformācija,noun,B1,,дезінформація,Sociālajos tīklos izplatās ___.,dezinformācija,У соцмережах поширюється дезінформація.,approved
+drošība,noun,B1,safety,безпека,Interneta ___ ir svarīga.,drošība,Безпека в інтернеті важлива.,approved
+piekļuve,noun,B1,,доступ,Man nav ___ pie interneta.,piekļuves,У мене немає доступу до інтернету.,approved
+avots,noun,B1,spring,джерело,"Vienmēr norādiet ___, kad citējat ziņas.",avotu,"Завжди вказуйте джерело, коли цитуєте новини.",approved
+mediji,noun,B1,,медіа,Par šo notikumu runā visi ___.,mediji,Про цю подію говорять усі медіа.,approved
+kiberuzbrukums,noun,B1,,кібератака,Banka piedzīvoja ___.,kiberuzbrukumu,Банк зазнав кібератаки.,approved
+noplūde,noun,B1,,витік,Datu ___ skāra miljoniem lietotāju.,noplūde,Витік даних торкнувся мільйонів користувачів.,approved
+lejupielādēt,verb,B1,,завантажувати,Tu vari ___ šo failu bez maksas.,lejupielādēt,Ти можеш завантажити цей файл безкоштовно.,approved
+dalīties,verb,B1,to share,ділитися,Nevajag internetā ___ ar personiskiem datiem.,dalīties,Не варто ділитися в інтернеті особистими даними.,approved
+pieslēgties,verb,B1,,підключитися,"Lūdzu, ___ Wi-Fi tīklam.",pieslēgties,"Будь ласка, підключіться до Wi-Fi.",approved
+atjaunināt,verb,B1,to update,оновлювати,Telefons ___ programmu automātiski.,atjaunina,Телефон автоматично оновлює програму.,approved
+digitāls,adj,B1,,цифровий,Mēs izmantojam ___ rīkus.,digitālus,Ми використовуємо цифрові інструменти.,approved
+nepatiess,adj,B1,,неправдивий,Šī ziņa ir ___.,nepatiesa,Ця новина неправдива.,approved

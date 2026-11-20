@@ -1,0 +1,9 @@
+# B1 unit 3 (Dzīvesvieta): housing, renting, repairs, neighbourhoods
+hipotēka | noun | іпотека | Mēs ņemam ___, lai nopirktu māju. | hipotēku | Ми беремо іпотеку, щоб купити будинок.
+jumts | noun | дах | Lietus tek caur ___. | jumtu | Дощ тече крізь дах.
+pagrabs | noun | підвал | Vīna pudeles glabājas ___. | pagrabā | Пляшки з вином зберігаються в підвалі.
+mājoklis | noun | житло | Viņiem ir vajadzīgs ___ Rīgā. | mājoklis | Їм потрібне житло в Ризі.
+priekšpilsēta | noun | передмістя | Viņi dzīvo ___, tālu no centra. | priekšpilsētā | Вони живуть у передмісті, далеко від центру.
+ēka | noun | будівля | Šī ___ ir ļoti veca. | ēka | Ця будівля дуже стара.
+pārvākties | verb | переїхати | Nākamgad mēs ___ uz lauku māju. | pārvāksimies | Наступного року ми переїдемо в заміський будинок.
+siltināt | verb | утеплювати | Pirms ziemas mēs ___ māju. | siltinām | Перед зимою ми утеплюємо будинок.

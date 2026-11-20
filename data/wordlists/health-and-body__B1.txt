@@ -1,0 +1,4 @@
+# B1 wordlist, generated from translations/health-and-body-b1.txt
+noun: simptoms, diagnoze, uzturs, imunitāte, terapija, profilakse
+verb: izmeklēt, ierobežot, uzturēt
+adj: alerģisks, hronisks, izmocīts, pilnvērtīgs

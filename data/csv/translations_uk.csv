@@ -100,60 +100,60 @@ angliski,adv,англійською,pending
 krieviski,adv,російською,pending
 ukrainiski,adv,українською,pending
 vāciski,adv,німецькою,pending
-Francija,propn,Франція,pending
-Itālija,propn,Італія,pending
-Spānija,propn,Іспанія,pending
-Zviedrija,propn,Швеція,pending
-Somija,propn,Фінляндія,pending
-Norvēģija,propn,Норвегія,pending
-Dānija,propn,Данія,pending
-Polija,propn,Польща,pending
-Čehija,propn,Чехія,pending
-Grieķija,propn,Греція,pending
-Turcija,propn,Туреччина,pending
-Ķīna,propn,Китай,pending
-Japāna,propn,Японія,pending
-Kanāda,propn,Канада,pending
-Āzija,propn,Азія,pending
-Āfrika,propn,Африка,pending
-Austrālija,propn,Австралія,pending
-kontinents,noun,континент,pending
-francūzis,noun,француз,pending
-itālis,noun,італієць,pending
-spānis,noun,іспанець,pending
-zviedrs,noun,швед,pending
-soms,noun,фін,pending
-polis,noun,поляк,pending
-poliete,noun,полька,pending
-ķīnietis,noun,китаєць,pending
-japānis,noun,японець,pending
-turks,noun,турок,pending
-lietuvietis,noun,литовець,pending
-lietuviete,noun,литовка,pending
-igaunis,noun,естонець,pending
-igauniete,noun,естонка,pending
-imigrants,noun,імігрант,pending
-emigrants,noun,емігрант,pending
-ārzemju viesis,noun,іноземний гість,pending
-franču valoda,phrase,французька мова,pending
-spāņu valoda,phrase,іспанська мова,pending
-itāļu valoda,phrase,італійська мова,pending
-poļu valoda,phrase,польська мова,pending
-ķīniešu valoda,phrase,китайська мова,pending
-dzimtā valoda,phrase,рідна мова,pending
-tulkot,verb,перекладати,pending
-dzimt,verb,народжуватися,pending
-izcelties,verb,походити; вирізнятися,pending
-emigrēt,verb,емігрувати,pending
-franciski,adv,французькою,pending
-spāniski,adv,іспанською,pending
-itāliski,adv,італійською,pending
-poliski,adv,польською,pending
-ārzemju,adj,іноземний; закордонний,pending
-vietējais,adj,місцевий,pending
-starptautisks,adj,міжнародний,pending
-daudzvalodu,adj,багатомовний,pending
-dzimtais,adj,рідний,pending
+Francija,propn,Франція,approved
+Itālija,propn,Італія,approved
+Spānija,propn,Іспанія,approved
+Zviedrija,propn,Швеція,approved
+Somija,propn,Фінляндія,approved
+Norvēģija,propn,Норвегія,approved
+Dānija,propn,Данія,approved
+Polija,propn,Польща,approved
+Čehija,propn,Чехія,approved
+Grieķija,propn,Греція,approved
+Turcija,propn,Туреччина,approved
+Ķīna,propn,Китай,approved
+Japāna,propn,Японія,approved
+Kanāda,propn,Канада,approved
+Āzija,propn,Азія,approved
+Āfrika,propn,Африка,approved
+Austrālija,propn,Австралія,approved
+kontinents,noun,континент,approved
+francūzis,noun,француз,approved
+itālis,noun,італієць,approved
+spānis,noun,іспанець,approved
+zviedrs,noun,швед,approved
+soms,noun,фін,approved
+polis,noun,поляк,approved
+poliete,noun,полька,approved
+ķīnietis,noun,китаєць,approved
+japānis,noun,японець,approved
+turks,noun,турок,approved
+lietuvietis,noun,литовець,approved
+lietuviete,noun,литовка,approved
+igaunis,noun,естонець,approved
+igauniete,noun,естонка,approved
+imigrants,noun,імігрант,approved
+emigrants,noun,емігрант,approved
+ārzemju viesis,noun,іноземний гість,approved
+franču valoda,phrase,французька мова,approved
+spāņu valoda,phrase,іспанська мова,approved
+itāļu valoda,phrase,італійська мова,approved
+poļu valoda,phrase,польська мова,approved
+ķīniešu valoda,phrase,китайська мова,approved
+dzimtā valoda,phrase,рідна мова,approved
+tulkot,verb,перекладати,approved
+dzimt,verb,народжуватися,approved
+izcelties,verb,походити; вирізнятися,approved
+emigrēt,verb,емігрувати,approved
+franciski,adv,французькою,approved
+spāniski,adv,іспанською,approved
+itāliski,adv,італійською,approved
+poliski,adv,польською,approved
+ārzemju,adj,іноземний; закордонний,approved
+vietējais,adj,місцевий,approved
+starptautisks,adj,міжнародний,approved
+daudzvalodu,adj,багатомовний,approved
+dzimtais,adj,рідний,approved
 ciems,noun,село,pending
 lauki,noun,сільська місцевість; поля,pending
 laukums,noun,площа,pending
@@ -271,6 +271,14 @@ iekārtot,verb,облаштовувати,approved
 izīrēt,verb,здавати в оренду,approved
 mājīgs,adj,затишний,approved
 plašs,adj,просторий,approved
+hipotēka,noun,іпотека,approved
+jumts,noun,дах,approved
+pagrabs,noun,підвал,approved
+mājoklis,noun,житло,approved
+priekšpilsēta,noun,передмістя,approved
+ēka,noun,будівля,approved
+pārvākties,verb,переїхати,approved
+siltināt,verb,утеплювати,approved
 ģimene,noun,сім'я; родина,pending
 māte,noun,мати,pending
 tēvs,noun,батько,pending
@@ -327,6 +335,20 @@ strīdēties,verb,сперечатися,approved
 palīdzēt,verb,допомагати,approved
 vientuļš,adj,самотній,approved
 draudzīgs,adj,дружній,approved
+konflikts,noun,конфлікт,approved
+strīds,noun,суперечка,approved
+cieņa,noun,повага,approved
+uzticība,noun,довіра,approved
+kompromiss,noun,компроміс,approved
+pārpratums,noun,непорозуміння,approved
+sapratne,noun,розуміння,approved
+saprasties,verb,порозумітися,approved
+uzticēties,verb,довіряти,approved
+sadzīvot,verb,уживатися,approved
+rūpīgs,adj,турботливий,approved
+uzticams,adj,надійний,approved
+sapratīgs,adj,розсудливий,approved
+greizsirdīgs,adj,ревнивий,approved
 izskats,noun,зовнішність,approved
 raksturs,noun,характер,approved
 acis,noun,очі,approved
@@ -377,6 +399,20 @@ bēdāties,verb,сумувати; журитися,approved
 dusmoties,verb,сердитися,approved
 uztraukties,verb,хвилюватися,approved
 nomierināties,verb,заспокоїтися,approved
+optimisms,noun,оптимізм,approved
+pesimisms,noun,песимізм,approved
+humors,noun,гумор,approved
+pašapziņa,noun,впевненість у собі,approved
+emocija,noun,емоція,approved
+dzīvesprieks,noun,життєрадісність,approved
+stress,noun,стрес,approved
+iedvesma,noun,натхнення,approved
+skumt,verb,сумувати,approved
+apvainoties,verb,ображатися,approved
+optimistisks,adj,оптимістичний,approved
+pesimistisks,adj,песимістичний,approved
+nervozs,adj,нервовий,approved
+atklāts,adj,відвертий,approved
 transports,noun,транспорт,pending
 autobuss,noun,автобус,pending
 trolejbuss,noun,тролейбус,pending
@@ -763,46 +799,52 @@ jautrs,adj,веселий,pending
 patīkams,adj,приємний,pending
 kopā,adv,разом,pending
 ciemos,adv,в гості,pending
-vaļasprieks,noun,захоплення; хобі,pending
-interese,noun,інтерес,pending
-basketbols,noun,баскетбол,pending
-hokejs,noun,хокей,pending
-teniss,noun,теніс,pending
-skriešana,noun,біг,pending
-riteņbraukšana,noun,їзда на велосипеді,pending
-slēpošana,noun,катання на лижах,pending
-dziedātājs,noun,співак,pending
-instruments,noun,інструмент,pending
-ģitāra,noun,гітара,pending
-klavieres,noun,піаніно; фортепіано,pending
-izrāde,noun,вистава,pending
-romāns,noun,роман,pending
-dzeja,noun,поезія,pending
-glezna,noun,картина,pending
-zīmēšana,noun,малювання,pending
-internets,noun,інтернет,pending
-kolekcija,noun,колекція,pending
-makšķerēšana,noun,риболовля,pending
-rokdarbi,noun,рукоділля,pending
-adīšana,noun,в'язання,pending
-vingrošana,noun,гімнастика,pending
-treniņš,noun,тренування,pending
-komanda,noun,команда,pending
-uzvara,noun,перемога,pending
-sacensības,noun,змагання,pending
-čempions,noun,чемпіон,pending
-interesēties,verb,цікавитися,pending
-trenēties,verb,тренуватися,pending
-slēpot,verb,кататися на лижах,pending
-makšķerēt,verb,ловити рибу,pending
-adīt,verb,в'язати,pending
-vākt,verb,збирати,pending
-uzvarēt,verb,перемагати,pending
-zaudēt,verb,програвати; губити,pending
-izklaidēties,verb,розважатися,pending
-populārs,adj,популярний,pending
-aizraujošs,adj,захопливий,pending
-mīļākais,adj,улюблений,pending
+vaļasprieks,noun,захоплення; хобі,approved
+interese,noun,інтерес,approved
+basketbols,noun,баскетбол,approved
+hokejs,noun,хокей,approved
+teniss,noun,теніс,approved
+skriešana,noun,біг,approved
+riteņbraukšana,noun,їзда на велосипеді,approved
+slēpošana,noun,катання на лижах,approved
+dziedātājs,noun,співак,approved
+instruments,noun,інструмент,approved
+ģitāra,noun,гітара,approved
+klavieres,noun,піаніно; фортепіано,approved
+izrāde,noun,вистава,approved
+romāns,noun,роман,approved
+dzeja,noun,поезія,approved
+glezna,noun,картина,approved
+zīmēšana,noun,малювання,approved
+internets,noun,інтернет,approved
+kolekcija,noun,колекція,approved
+makšķerēšana,noun,риболовля,approved
+rokdarbi,noun,рукоділля,approved
+adīšana,noun,в'язання,approved
+vingrošana,noun,гімнастика,approved
+treniņš,noun,тренування,approved
+komanda,noun,команда,approved
+uzvara,noun,перемога,approved
+sacensības,noun,змагання,approved
+čempions,noun,чемпіон,approved
+interesēties,verb,цікавитися,approved
+trenēties,verb,тренуватися,approved
+slēpot,verb,кататися на лижах,approved
+makšķerēt,verb,ловити рибу,approved
+adīt,verb,в'язати,approved
+vākt,verb,збирати,approved
+uzvarēt,verb,перемагати,approved
+zaudēt,verb,програвати; губити,approved
+izklaidēties,verb,розважатися,approved
+populārs,adj,популярний,approved
+aizraujošs,adj,захопливий,approved
+mīļākais,adj,улюблений,approved
+klubs,noun,клуб,approved
+iesaistīties,verb,долучатися,approved
+piedalīties,verb,брати участь,approved
+aizrauties,verb,захоплюватися,approved
+saturīgs,adj,змістовний,approved
+aktīvs,adj,активний,approved
 ceļojums,noun,подорож,pending
 ceļotājs,noun,мандрівник,pending
 bagāža,noun,багаж,pending
@@ -830,30 +872,30 @@ pārbaudīt,verb,перевірити,pending
 aizmirst,verb,забути,pending
 paņemt,verb,взяти,pending
 iepakot,verb,запакувати,pending
-tūrists,noun,турист,pending
-tūrisms,noun,туризм,pending
-brauciens,noun,поїздка,pending
-izbraukums,noun,поїздка за місто,pending
-mugursoma,noun,рюкзак,pending
-vīza,noun,віза,pending
-hostelis,noun,хостел,pending
-kempings,noun,кемпінг,pending
-telts,noun,намет,pending
-robeža,noun,кордон,pending
-muita,noun,митниця,pending
-kalni,noun,гори,pending
-galamērķis,noun,пункт призначення,pending
-pieturvieta,noun,зупинка (місце),pending
-apskates vieta,phrase,пам'ятка; визначне місце,pending
-izpakot,verb,розпакувати,pending
-izbraukt,verb,виїхати,pending
-nolaisties,verb,приземлитися,pending
-izrakstīties,verb,виписатися,pending
-izmitināties,verb,оселитися,pending
-apmaldīties,verb,заблукати,pending
-iespaidīgs,adj,вражаючий,pending
-pārpildīts,adj,переповнений,pending
-tiešs,adj,прямий,pending
+tūrists,noun,турист,approved
+tūrisms,noun,туризм,approved
+brauciens,noun,поїздка,approved
+izbraukums,noun,поїздка за місто,approved
+mugursoma,noun,рюкзак,approved
+vīza,noun,віза,approved
+hostelis,noun,хостел,approved
+kempings,noun,кемпінг,approved
+telts,noun,намет,approved
+robeža,noun,кордон,approved
+muita,noun,митниця,approved
+kalni,noun,гори,approved
+galamērķis,noun,пункт призначення,approved
+pieturvieta,noun,зупинка (місце),approved
+apskates vieta,phrase,пам'ятка; визначне місце,approved
+izpakot,verb,розпакувати,approved
+izbraukt,verb,виїхати,approved
+nolaisties,verb,приземлитися,approved
+izrakstīties,verb,виписатися,approved
+izmitināties,verb,оселитися,approved
+apmaldīties,verb,заблукати,approved
+iespaidīgs,adj,вражаючий,approved
+pārpildīts,adj,переповнений,approved
+tiešs,adj,прямий,approved
 ķermenis,noun,тіло,pending
 galva,noun,голова,pending
 mati,noun,волосся,pending
@@ -920,6 +962,19 @@ noguris,adj,втомлений,pending
 sāpīgs,adj,болісний,pending
 veselīgs,adj,корисний для здоров'я,pending
 nevesels,adj,нездоровий,pending
+simptoms,noun,симптом,approved
+diagnoze,noun,діагноз,approved
+uzturs,noun,харчування,approved
+imunitāte,noun,імунітет,approved
+terapija,noun,терапія,approved
+profilakse,noun,профілактика,approved
+izmeklēt,verb,обстежити,approved
+ierobežot,verb,обмежити,approved
+uzturēt,verb,підтримувати,approved
+alerģisks,adj,алергічний,approved
+hronisks,adj,хронічний,approved
+izmocīts,adj,виснажений,approved
+pilnvērtīgs,adj,повноцінний,approved
 skolotājs,noun,вчитель,pending
 universitāte,noun,університет,pending
 klase,noun,клас,pending
@@ -965,6 +1020,21 @@ pareizs,adj,правильний,pending
 nepareizs,adj,неправильний,pending
 nopietns,adj,серйозний,pending
 aizņemts,adj,зайнятий,pending
+motivācija,noun,мотивація,approved
+mērķis,noun,мета,approved
+prasme,noun,навичка,approved
+karjera,noun,кар'єра,approved
+atalgojums,noun,зарплата,approved
+diploms,noun,диплом,approved
+seminārs,noun,семінар,approved
+pētījums,noun,дослідження,approved
+pilnveidot,verb,удосконалювати,approved
+sasniegt,verb,досягти,approved
+attīstīties,verb,розвиватися,approved
+pārvarēt,verb,подолати,approved
+iemācīties,verb,навчитися,approved
+profesionāls,adj,професійний,approved
+motivēts,adj,мотивований,approved
 laikapstākļi,noun,погода,pending
 saule,noun,сонце,pending
 lietus,noun,дощ,pending
@@ -1027,6 +1097,52 @@ piesārņot,verb,забруднювати,approved
 šķirot,verb,сортувати,approved
 mitrs,adj,вологий,approved
 dabisks,adj,природний; натуральний,approved
+klimats,noun,клімат,approved
+piesārņojums,noun,забруднення,approved
+atkritumi,noun,відходи,approved
+reciklēšana,noun,переробка,approved
+ekoloģija,noun,екологія,approved
+sausums,noun,посуха,approved
+plūdi,noun,повінь,approved
+ūdenstilpe,noun,водойма,approved
+pārstrādāt,verb,переробляти,approved
+samazināt,verb,зменшувати,approved
+saglabāt,verb,зберегти,approved
+ilgtspējīgs,adj,сталий,approved
+ekoloģisks,adj,екологічний,approved
+piesārņots,adj,забруднений,approved
+vētrains,adj,бурхливий,approved
+lietotne,noun,застосунок,approved
+dezinformācija,noun,дезінформація,approved
+drošība,noun,безпека,approved
+piekļuve,noun,доступ,approved
+avots,noun,джерело,approved
+mediji,noun,медіа,approved
+kiberuzbrukums,noun,кібератака,approved
+noplūde,noun,витік,approved
+lejupielādēt,verb,завантажувати,approved
+dalīties,verb,ділитися,approved
+pieslēgties,verb,підключитися,approved
+atjaunināt,verb,оновлювати,approved
+digitāls,adj,цифровий,approved
+nepatiess,adj,неправдивий,approved
+muiža,noun,садиба,approved
+leģenda,noun,легенда,approved
+vēsture,noun,історія,approved
+mantojums,noun,спадщина,approved
+novads,noun,край,approved
+tradīcija,noun,традиція,approved
+piemineklis,noun,пам'ятник,approved
+purvs,noun,болото,approved
+cietoksnis,noun,фортеця,approved
+atjaunot,verb,відновлювати,approved
+uzcelt,verb,збудувати,approved
+pārdzīvot,verb,пережити,approved
+vēsturisks,adj,історичний,approved
+leģendārs,adj,легендарний,approved
+nacionāls,adj,національний,approved
+senatnīgs,adj,старовинний,approved
+pazīstams,adj,відомий,approved
 nulle,num,нуль,pending
 viens,num,один,pending
 divi,num,два,pending
@@ -1115,33 +1231,33 @@ valkāt,verb,носити (одяг),pending
 uzvilkt,verb,одягнути,pending
 novilkt,verb,зняти (одяг),pending
 derēt,verb,пасувати; бути впору,pending
-drēbes,noun,одяг; речі,pending
-džinsi,noun,джинси,pending
-sandales,noun,сандалі,pending
-josta,noun,пасок,pending
-kaklasaite,noun,краватка,pending
-uzvalks,noun,костюм,pending
-pidžama,noun,піжама,pending
-peldkostīms,noun,купальник; плавки,pending
-audums,noun,тканина,pending
-kokvilna,noun,бавовна,pending
-vilna,noun,вовна,pending
-āda,noun,шкіра,pending
-kabata,noun,кишеня,pending
-poga,noun,гудзик,pending
-rāvējslēdzējs,noun,блискавка (на одязі),pending
-mode,noun,мода,pending
-stils,noun,стиль,pending
-saģērbties,verb,одягнутися,pending
-noģērbties,verb,роздягнутися,pending
-apāvt,verb,взути,pending
-šūt,verb,шити,pending
-žāvēt,verb,сушити,pending
-piestāvēt,verb,личити,pending
-moderns,adj,модний; сучасний,pending
-elegants,adj,елегантний,pending
-raibs,adj,строкатий,pending
-vienkrāsains,adj,однотонний,pending
+drēbes,noun,одяг; речі,approved
+džinsi,noun,джинси,approved
+sandales,noun,сандалі,approved
+josta,noun,пасок,approved
+kaklasaite,noun,краватка,approved
+uzvalks,noun,костюм,approved
+pidžama,noun,піжама,approved
+peldkostīms,noun,купальник; плавки,approved
+audums,noun,тканина,approved
+kokvilna,noun,бавовна,approved
+vilna,noun,вовна,approved
+āda,noun,шкіра,approved
+kabata,noun,кишеня,approved
+poga,noun,гудзик,approved
+rāvējslēdzējs,noun,блискавка (на одязі),approved
+mode,noun,мода,approved
+stils,noun,стиль,approved
+saģērbties,verb,одягнутися,approved
+noģērbties,verb,роздягнутися,approved
+apāvt,verb,взути,approved
+šūt,verb,шити,approved
+žāvēt,verb,сушити,approved
+piestāvēt,verb,личити,approved
+moderns,adj,модний; сучасний,approved
+elegants,adj,елегантний,approved
+raibs,adj,строкатий,approved
+vienkrāsains,adj,однотонний,approved
 dzīvnieks,noun,тварина,pending
 suns,noun,пес; собака,pending
 kaķis,noun,кіт,pending
@@ -1168,94 +1284,94 @@ glāstīt,verb,гладити,pending
 kopt,verb,доглядати,pending
 ganīt,verb,пасти,pending
 slaukt,verb,доїти,pending
-zvērs,noun,звір,pending
-lācis,noun,ведмідь,pending
-vilks,noun,вовк,pending
-lapsa,noun,лисиця,pending
-zaķis,noun,заєць,pending
-ezis,noun,їжак,pending
-briedis,noun,олень,pending
-alnis,noun,лось,pending
-mežacūka,noun,дикий кабан,pending
-vāvere,noun,білка,pending
-žurka,noun,щур,pending
-ērglis,noun,орел,pending
-pūce,noun,сова,pending
-gulbis,noun,лебідь,pending
-stārķis,noun,лелека,pending
-strazds,noun,дрізд,pending
-zvirbulis,noun,горобець,pending
-vārna,noun,ворона,pending
-dzenis,noun,дятел,pending
-dzērve,noun,журавель,pending
-gailis,noun,півень,pending
-kukainis,noun,комаха,pending
-bite,noun,бджола,pending
-tauriņš,noun,метелик,pending
-skudra,noun,мурашка,pending
-muša,noun,муха,pending
-ods,noun,комар,pending
-zirneklis,noun,павук,pending
-odze,noun,гадюка,pending
-čūska,noun,змія,pending
-varde,noun,жаба,pending
-krupis,noun,ропуха,pending
-bruņurupucis,noun,черепаха,pending
-zilonis,noun,слон,pending
-lauva,noun,лев,pending
-tīģeris,noun,тигр,pending
-pērtiķis,noun,мавпа,pending
-žirafe,noun,жирафа,pending
-delfīns,noun,дельфін,pending
-valis,noun,кит,pending
-haizivs,noun,акула,pending
-ķengurs,noun,кенгуру,pending
-medīt,verb,полювати,pending
-rāpot,verb,повзти,pending
-dzelt,verb,жалити,pending
-kost,verb,кусати,pending
-mežonīgs,adj,дикий,pending
-savvaļas,adj,дикий (вільний),pending
-bīstams,adj,небезпечний,pending
-profesija,noun,професія,pending
-skolotāja,noun,вчителька,pending
-farmaceits,noun,фармацевт,pending
-advokāts,noun,адвокат,pending
-tiesnesis,noun,суддя,pending
-policists,noun,поліцейський,pending
-ugunsdzēsējs,noun,пожежник,pending
-kareivis,noun,солдат,pending
-kasieris,noun,касир,pending
-frizieris,noun,перукар,pending
-pilots,noun,пілот,pending
-stjuarte,noun,бортпровідниця,pending
-pavārs,noun,кухар,pending
-bārmenis,noun,бармен,pending
-celtnieks,noun,будівельник,pending
-elektriķis,noun,електрик,pending
-santehniķis,noun,сантехнік,pending
-mehāniķis,noun,механік,pending
-inženieris,noun,інженер,pending
-programmētājs,noun,програміст,pending
-grāmatvedis,noun,бухгалтер,pending
-sekretāre,noun,секретарка,pending
-direktors,noun,директор,pending
-menedžeris,noun,менеджер,pending
-žurnālists,noun,журналіст,pending
-aktieris,noun,актор,pending
-mākslinieks,noun,художник,pending
-mūziķis,noun,музикант,pending
-rakstnieks,noun,письменник,pending
-zinātnieks,noun,науковець,pending
-lauksaimnieks,noun,землероб,pending
-zvejnieks,noun,рибалка,pending
-bibliotekārs,noun,бібліотекар,pending
-tulks,noun,перекладач,pending
-arhitekts,noun,архітектор,pending
-dizainers,noun,дизайнер,pending
-darba devējs,phrase,роботодавець,pending
-nodarboties,verb,займатися,pending
-būvēt,verb,будувати,pending
+zvērs,noun,звір,approved
+lācis,noun,ведмідь,approved
+vilks,noun,вовк,approved
+lapsa,noun,лисиця,approved
+zaķis,noun,заєць,approved
+ezis,noun,їжак,approved
+briedis,noun,олень,approved
+alnis,noun,лось,approved
+mežacūka,noun,дикий кабан,approved
+vāvere,noun,білка,approved
+žurka,noun,щур,approved
+ērglis,noun,орел,approved
+pūce,noun,сова,approved
+gulbis,noun,лебідь,approved
+stārķis,noun,лелека,approved
+strazds,noun,дрізд,approved
+zvirbulis,noun,горобець,approved
+vārna,noun,ворона,approved
+dzenis,noun,дятел,approved
+dzērve,noun,журавель,approved
+gailis,noun,півень,approved
+kukainis,noun,комаха,approved
+bite,noun,бджола,approved
+tauriņš,noun,метелик,approved
+skudra,noun,мурашка,approved
+muša,noun,муха,approved
+ods,noun,комар,approved
+zirneklis,noun,павук,approved
+odze,noun,гадюка,approved
+čūska,noun,змія,approved
+varde,noun,жаба,approved
+krupis,noun,ропуха,approved
+bruņurupucis,noun,черепаха,approved
+zilonis,noun,слон,approved
+lauva,noun,лев,approved
+tīģeris,noun,тигр,approved
+pērtiķis,noun,мавпа,approved
+žirafe,noun,жирафа,approved
+delfīns,noun,дельфін,approved
+valis,noun,кит,approved
+haizivs,noun,акула,approved
+ķengurs,noun,кенгуру,approved
+medīt,verb,полювати,approved
+rāpot,verb,повзти,approved
+dzelt,verb,жалити,approved
+kost,verb,кусати,approved
+mežonīgs,adj,дикий,approved
+savvaļas,adj,дикий (вільний),approved
+bīstams,adj,небезпечний,approved
+profesija,noun,професія,approved
+skolotāja,noun,вчителька,approved
+farmaceits,noun,фармацевт,approved
+advokāts,noun,адвокат,approved
+tiesnesis,noun,суддя,approved
+policists,noun,поліцейський,approved
+ugunsdzēsējs,noun,пожежник,approved
+kareivis,noun,солдат,approved
+kasieris,noun,касир,approved
+frizieris,noun,перукар,approved
+pilots,noun,пілот,approved
+stjuarte,noun,бортпровідниця,approved
+pavārs,noun,кухар,approved
+bārmenis,noun,бармен,approved
+celtnieks,noun,будівельник,approved
+elektriķis,noun,електрик,approved
+santehniķis,noun,сантехнік,approved
+mehāniķis,noun,механік,approved
+inženieris,noun,інженер,approved
+programmētājs,noun,програміст,approved
+grāmatvedis,noun,бухгалтер,approved
+sekretāre,noun,секретарка,approved
+direktors,noun,директор,approved
+menedžeris,noun,менеджер,approved
+žurnālists,noun,журналіст,approved
+aktieris,noun,актор,approved
+mākslinieks,noun,художник,approved
+mūziķis,noun,музикант,approved
+rakstnieks,noun,письменник,approved
+zinātnieks,noun,науковець,approved
+lauksaimnieks,noun,землероб,approved
+zvejnieks,noun,рибалка,approved
+bibliotekārs,noun,бібліотекар,approved
+tulks,noun,перекладач,approved
+arhitekts,noun,архітектор,approved
+dizainers,noun,дизайнер,approved
+darba devējs,phrase,роботодавець,approved
+nodarboties,verb,займатися,approved
+būvēt,verb,будувати,approved
 tas,pron,те; це; воно,pending
 kas,pron,хто; що,pending
 kurš,pron,який; котрий,pending
@@ -1327,69 +1443,69 @@ ne,part,не; ні,pending
 nu,part,ну,pending
 arī,part,також,pending
 vai,part,чи (питальна частка),pending
-kāda,pron,яка; якась,pending
-neko,pron,нічого,pending
-nevienu,pron,нікого,pending
-dažs,pron,деякий,pending
-abi,pron,обидва,pending
-pati,pron,сама,pending
-sevis,pron,себе,pending
-tāpat,pron,так само; все одно,pending
-dēļ,prep,через,pending
-caur,prep,крізь,pending
-apkārt,prep,навколо,pending
-priekš,prep,для,pending
-ārpus,prep,поза; за межами,pending
-garām,prep,повз,pending
-pāri,prep,через; над,pending
-cauri,prep,крізь,pending
-tomēr,conj,проте,pending
-tātad,conj,отже,pending
-tāpēc,conj,тому,pending
-kamēr,conj,поки,pending
-nevis,conj,а не,pending
-taču,conj,але,pending
-gan,conj,і... і,pending
-nekā,conj,ніж,pending
-prom,adv,геть; далеко,pending
-ilgi,adv,довго,pending
-vienkārši,adv,просто,pending
-joprojām,adv,досі,pending
-tikko,adv,щойно,pending
-līdzi,adv,з собою,pending
-žēl,adv,шкода,pending
-diezgan,adv,досить,pending
-pārāk,adv,занадто,pending
-nedaudz,adv,трохи,pending
-vēlreiz,adv,ще раз,pending
-vienalga,adv,все одно,pending
-vispār,adv,взагалі,pending
-nemaz,adv,зовсім не,pending
-pavisam,adv,зовсім,pending
-pilnīgi,adv,повністю,pending
-kādreiz,adv,колись,pending
-šobrīd,adv,зараз,pending
-klāt,adv,поруч; на місці,pending
-nost,adv,геть,pending
-vismaz,adv,принаймні,pending
-gandrīz,adv,майже,pending
-vairs,adv,вже (не),pending
-tieši,adv,саме,pending
-kādēļ,adv,чому,pending
-pēkšņi,adv,раптом,pending
-galvenokārt,adv,переважно,pending
-īpaši,adv,особливо,pending
-diemžēl,adv,на жаль,pending
-varbūt,part,можливо,pending
-protams,part,звичайно,pending
-tiešām,part,справді,pending
-tieši,part,саме,pending
-vien,part,лише,pending
-laikam,part,певно,pending
-pat,part,навіть,pending
-taču,part,адже,pending
-tomēr,part,все ж,pending
-patiešām,part,справді,pending
+kāda,pron,яка; якась,approved
+neko,pron,нічого,approved
+nevienu,pron,нікого,approved
+dažs,pron,деякий,approved
+abi,pron,обидва,approved
+pati,pron,сама,approved
+sevis,pron,себе,approved
+tāpat,pron,так само; все одно,approved
+dēļ,prep,через,approved
+caur,prep,крізь,approved
+apkārt,prep,навколо,approved
+priekš,prep,для,approved
+ārpus,prep,поза; за межами,approved
+garām,prep,повз,approved
+pāri,prep,через; над,approved
+cauri,prep,крізь,approved
+tomēr,conj,проте,approved
+tātad,conj,отже,approved
+tāpēc,conj,тому,approved
+kamēr,conj,поки,approved
+nevis,conj,а не,approved
+taču,conj,але,approved
+gan,conj,і... і,approved
+nekā,conj,ніж,approved
+prom,adv,геть; далеко,approved
+ilgi,adv,довго,approved
+vienkārši,adv,просто,approved
+joprojām,adv,досі,approved
+tikko,adv,щойно,approved
+līdzi,adv,з собою,approved
+žēl,adv,шкода,approved
+diezgan,adv,досить,approved
+pārāk,adv,занадто,approved
+nedaudz,adv,трохи,approved
+vēlreiz,adv,ще раз,approved
+vienalga,adv,все одно,approved
+vispār,adv,взагалі,approved
+nemaz,adv,зовсім не,approved
+pavisam,adv,зовсім,approved
+pilnīgi,adv,повністю,approved
+kādreiz,adv,колись,approved
+šobrīd,adv,зараз,approved
+klāt,adv,поруч; на місці,approved
+nost,adv,геть,approved
+vismaz,adv,принаймні,approved
+gandrīz,adv,майже,approved
+vairs,adv,вже (не),approved
+tieši,adv,саме,approved
+kādēļ,adv,чому,approved
+pēkšņi,adv,раптом,approved
+galvenokārt,adv,переважно,approved
+īpaši,adv,особливо,approved
+diemžēl,adv,на жаль,approved
+varbūt,part,можливо,approved
+protams,part,звичайно,approved
+tiešām,part,справді,approved
+tieši,part,саме,approved
+vien,part,лише,approved
+laikam,part,певно,approved
+pat,part,навіть,approved
+taču,part,адже,approved
+tomēr,part,все ж,approved
+patiešām,part,справді,approved
 varēt,verb,могти,pending
 darīt,verb,робити,pending
 domāt,verb,думати,pending
@@ -1419,52 +1535,52 @@ tikt,verb,потрапити; дістатися,pending
 mēģināt,verb,намагатися,pending
 izmantot,verb,використовувати,pending
 drīkstēt,verb,мати право; можна,pending
-sacīt,verb,сказати,pending
-nozīmēt,verb,означати,pending
-ticēt,verb,вірити,pending
-censties,verb,старатися,pending
-izdoties,verb,вдаватися,pending
-cerēt,verb,сподіватися,pending
-ierasties,verb,прибути,pending
-atstāt,verb,залишити,pending
-turpināt,verb,продовжувати,pending
-likties,verb,здаватися,pending
-pieņemt,verb,прийняти,pending
-pārliecināt,verb,переконати,pending
-apsolīt,verb,пообіцяти,pending
-pastāstīt,verb,розповісти,pending
-stāstīt,verb,розповідати,pending
-uzskatīt,verb,вважати,pending
-sekot,verb,йти слідом,pending
-piederēt,verb,належати,pending
-baidīties,verb,боятися,pending
-iedomāties,verb,уявити,pending
-aprunāties,verb,поговорити,pending
-parunāt,verb,поговорити,pending
-pamest,verb,покинути,pending
-pazust,verb,зникнути,pending
-darboties,verb,працювати; діяти,pending
-kustēties,verb,рухатися,pending
-izbeigt,verb,закінчити,pending
-aizvest,verb,відвезти,pending
-paklausīties,verb,послухати,pending
-padomāt,verb,подумати,pending
-izstāstīt,verb,розповісти (докладно),pending
-spēt,verb,бути здатним,pending
-piedot,verb,пробачити,pending
-mirt,verb,вмирати,pending
-nomirt,verb,померти,pending
-šķist,verb,здаватися,pending
-atvainot,verb,вибачити,pending
-pazaudēt,verb,загубити,pending
-sagaidīt,verb,зустріти,pending
-atbalstīt,verb,підтримувати,pending
-pārliecināties,verb,переконатися,pending
-nolemt,verb,вирішити,pending
-ierosināt,verb,запропонувати,pending
-izlemt,verb,вирішити,pending
-izskaidrot,verb,пояснити,pending
-apsvērt,verb,обміркувати,pending
+sacīt,verb,сказати,approved
+nozīmēt,verb,означати,approved
+ticēt,verb,вірити,approved
+censties,verb,старатися,approved
+izdoties,verb,вдаватися,approved
+cerēt,verb,сподіватися,approved
+ierasties,verb,прибути,approved
+atstāt,verb,залишити,approved
+turpināt,verb,продовжувати,approved
+likties,verb,здаватися,approved
+pieņemt,verb,прийняти,approved
+pārliecināt,verb,переконати,approved
+apsolīt,verb,пообіцяти,approved
+pastāstīt,verb,розповісти,approved
+stāstīt,verb,розповідати,approved
+uzskatīt,verb,вважати,approved
+sekot,verb,йти слідом,approved
+piederēt,verb,належати,approved
+baidīties,verb,боятися,approved
+iedomāties,verb,уявити,approved
+aprunāties,verb,поговорити,approved
+parunāt,verb,поговорити,approved
+pamest,verb,покинути,approved
+pazust,verb,зникнути,approved
+darboties,verb,працювати; діяти,approved
+kustēties,verb,рухатися,approved
+izbeigt,verb,закінчити,approved
+aizvest,verb,відвезти,approved
+paklausīties,verb,послухати,approved
+padomāt,verb,подумати,approved
+izstāstīt,verb,розповісти (докладно),approved
+spēt,verb,бути здатним,approved
+piedot,verb,пробачити,approved
+mirt,verb,вмирати,approved
+nomirt,verb,померти,approved
+šķist,verb,здаватися,approved
+atvainot,verb,вибачити,approved
+pazaudēt,verb,загубити,approved
+sagaidīt,verb,зустріти,approved
+atbalstīt,verb,підтримувати,approved
+pārliecināties,verb,переконатися,approved
+nolemt,verb,вирішити,approved
+ierosināt,verb,запропонувати,approved
+izlemt,verb,вирішити,approved
+izskaidrot,verb,пояснити,approved
+apsvērt,verb,обміркувати,approved
 labs,adj,добрий; хороший,pending
 ātrs,adj,швидкий,pending
 lēns,adj,повільний,pending
@@ -1489,39 +1605,39 @@ laipni,adv,привітно,pending
 uzmanīgi,adv,обережно,pending
 viegli,adv,легко,pending
 grūti,adv,важко,pending
-lielisks,adj,чудовий,pending
-laimīgs,adj,щасливий,pending
-vienīgs,adj,єдиний,pending
-iespējams,adj,можливий,pending
-galvenais,adj,головний,pending
-pārējais,adj,решта; інший,pending
-traks,adj,божевільний,pending
-pilnīgs,adj,повний; цілковитий,pending
-patiess,adj,правдивий; щирий,pending
-noteikts,adj,певний; визначений,pending
-svešs,adj,чужий,pending
-spēcīgs,adj,сильний,pending
-bagāts,adj,багатий,pending
-nabadzīgs,adj,бідний,pending
-vispārējs,adj,загальний,pending
-tipisks,adj,типовий,pending
-parasts,adj,звичайний,pending
-neparasts,adj,незвичайний,pending
-dīvains,adj,дивний,pending
-vienkāršs,adj,простий,pending
-sarežģīts,adj,складний,pending
-atbildīgs,adj,відповідальний,pending
-noslēgts,adj,замкнений; закритий,pending
-zems,adj,низький,pending
-augsts,adj,високий,pending
-dziļš,adj,глибокий,pending
-sekls,adj,мілкий,pending
-ciets,adj,твердий,pending
-mīksts,adj,м'який,pending
-smags,adj,важкий,pending
-lieliski,adv,чудово,pending
-noteikti,adv,напевно; обов'язково,pending
-smieklīgi,adv,смішно,pending
-forši,adv,круто,pending
-citādi,adv,інакше,pending
-tāli,adv,далеко,pending
+lielisks,adj,чудовий,approved
+laimīgs,adj,щасливий,approved
+vienīgs,adj,єдиний,approved
+iespējams,adj,можливий,approved
+galvenais,adj,головний,approved
+pārējais,adj,решта; інший,approved
+traks,adj,божевільний,approved
+pilnīgs,adj,повний; цілковитий,approved
+patiess,adj,правдивий; щирий,approved
+noteikts,adj,певний; визначений,approved
+svešs,adj,чужий,approved
+spēcīgs,adj,сильний,approved
+bagāts,adj,багатий,approved
+nabadzīgs,adj,бідний,approved
+vispārējs,adj,загальний,approved
+tipisks,adj,типовий,approved
+parasts,adj,звичайний,approved
+neparasts,adj,незвичайний,approved
+dīvains,adj,дивний,approved
+vienkāršs,adj,простий,approved
+sarežģīts,adj,складний,approved
+atbildīgs,adj,відповідальний,approved
+noslēgts,adj,замкнений; закритий,approved
+zems,adj,низький,approved
+augsts,adj,високий,approved
+dziļš,adj,глибокий,approved
+sekls,adj,мілкий,approved
+ciets,adj,твердий,approved
+mīksts,adj,м'який,approved
+smags,adj,важкий,approved
+lieliski,adv,чудово,approved
+noteikti,adv,напевно; обов'язково,approved
+smieklīgi,adv,смішно,approved
+forši,adv,круто,approved
+citādi,adv,інакше,approved
+tāli,adv,далеко,approved

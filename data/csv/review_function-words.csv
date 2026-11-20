@@ -1,64 +1,64 @@
 lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
-kāda,pron,A2,"what, what kind",яка; якась,___ jauka diena!,Kāda,Який чудовий день!,pending
-neko,pron,A2,nothing,нічого,Es ___ nesaprotu.,neko,Я нічого не розумію.,pending
-nevienu,pron,A2,nobody,нікого,Es šeit ___ nepazīstu.,nevienu,Я тут нікого не знаю.,pending
-dažs,pron,A2,some,деякий,___ cilvēki nemīl kafiju.,Daži,Деякі люди не люблять каву.,pending
-abi,pron,A2,both,обидва,Mēs ___ esam studenti.,abi,Ми обидва студенти.,pending
-pati,pron,A2,self,сама,Viņa visu dara ___.,pati,Вона все робить сама.,pending
-sevis,pron,A2,of -self; genitive singular of sevi,себе,Viņš domā tikai par ___.,sevi,Він думає лише про себе.,pending
-tāpat,pron,A2,just,так само; все одно,Es ___ došos uz Rīgu.,tāpat,Я все одно поїду до Риги.,pending
-dēļ,prep,A2,because of,через,Es kavēju lietus ___.,dēļ,Я запізнився через дощ.,pending
-caur,prep,A2,through,крізь,Mēs ejam ___ parku.,caur,Ми йдемо через парк.,pending
-apkārt,prep,A2,,навколо,___ mājai ir dārzs.,Apkārt,Навколо будинку є сад.,pending
-priekš,prep,A2,for,для,Šī dāvana ir ___ tevis.,priekš,Цей подарунок для тебе.,pending
-ārpus,prep,A2,outside,поза; за межами,Mēs dzīvojam ___ pilsētas.,ārpus,Ми живемо за містом.,pending
-garām,prep,A2,"past, by, over",повз,Autobuss brauc ___ mūsu mājai.,garām,Автобус проїжджає повз наш будинок.,pending
-pāri,prep,A2,over,через; над,Tilts ir ___ upei.,pāri,Міст через річку.,pending
-cauri,prep,A2,through; adverbial form of caurs,крізь,Gaisma spīd ___ logam.,cauri,Світло світить крізь вікно.,pending
-tomēr,conj,A2,still,проте,"Ir auksts, ___ mēs ejam pastaigāties.",tomēr,"Холодно, проте ми йдемо гуляти.",pending
-tātad,conj,A2,so,отже,"Tu esi slims, ___ paliec mājās.",tātad,"Ти хворий, отже залишайся вдома.",pending
-tāpēc,conj,A2,"; so..., therefore..., because of that...",тому,"Es esmu noguris, ___ eju gulēt.",tāpēc,"Я втомлений, тому йду спати.",pending
-kamēr,conj,A2,while,поки,"___ es gatavoju, tu vari skatīties televizoru.",Kamēr,"Поки я готую, ти можеш дивитися телевізор.",pending
-nevis,conj,A2,not,а не,"Es dzeru tēju, ___ kafiju.",nevis,"Я п'ю чай, а не каву.",pending
-taču,conj,A2,"but, but also; adversative conjunction, used to express strong opposition or contrast, with a nuance of surprise, inconsistency or contradiction, in various syntactic contexts",але,"Viņš ir mazs, ___ ļoti gudrs.",taču,"Він маленький, але дуже розумний.",pending
-gan,conj,A2,"both, and",і... і,"Man garšo ___ tēja, gan kafija.",gan,"Мені смакує і чай, і кава.",pending
-nekā,conj,A2,than,ніж,Šodien ir siltāks ___ vakar.,nekā,"Сьогодні тепліше, ніж учора.",pending
-prom,adv,A2,away,геть; далеко,Viņš aizbrauca ___.,prom,Він поїхав геть.,pending
-ilgi,adv,A2,long,довго,Es ___ gaidīju autobusu.,ilgi,Я довго чекав автобус.,pending
-vienkārši,adv,A2,simply,просто,Tas ir ___.,vienkārši,Це просто.,pending
-joprojām,adv,A2,"still, on, forth",досі,Viņš ___ strādā.,joprojām,Він досі працює.,pending
-tikko,adv,A2,faintly,щойно,Es ___ atnācu.,tikko,Я щойно прийшов.,pending
-līdzi,adv,A2,used to indicate somebody move together with someone else,з собою,Neaizmirstiet paņemt ___ pasi.,līdzi,Не забудьте взяти з собою паспорт.,pending
-žēl,adv,A2,"used with verbs būt, tikt, tapt and kļūt to express pity",шкода,"Man ir ___, ka tu aizbrauc.",žēl,"Мені шкода, що ти їдеш.",pending
-diezgan,adv,A2,enough,досить,Šodien ir ___ auksts.,diezgan,Сьогодні досить холодно.,pending
-pārāk,adv,A2,too,занадто,Šī kafija ir ___ karsta.,pārāk,Ця кава занадто гаряча.,pending
-nedaudz,adv,A2,a little,трохи,Es runāju latviski ___.,nedaudz,Я трохи розмовляю латиською.,pending
-vēlreiz,adv,A2,"again, once more, once again, one more time",ще раз,"Lūdzu, pasakiet ___.",vēlreiz,"Будь ласка, скажіть ще раз.",pending
-vienalga,adv,A2,all the same,все одно,Man ir ___.,vienalga,Мені все одно.,pending
-vispār,adv,A2,,взагалі,Es ___ neēdu gaļu.,vispār,Я взагалі не їм м'яса.,pending
-nemaz,adv,A2,not at all,зовсім не,Es to ___ nezināju.,nemaz,Я цього зовсім не знав.,pending
-pavisam,adv,A2,"quite, rather, very",зовсім,Tas ir ___ cits jautājums.,pavisam,Це зовсім інше питання.,pending
-pilnīgi,adv,A2,"complete, full, completely, fully; adverbial form of pilnīgs",повністю,Es ___ piekrītu.,pilnīgi,Я повністю згоден.,pending
-kādreiz,adv,A2,"Sometime in the past; once, ever, earlier, formerly, erstwhile, used to.",колись,___ es dzīvoju laukos.,Kādreiz,Колись я жив на селі.,pending
-šobrīd,adv,A2,"now, currently, at this moment, at this point",зараз,___ es esmu aizņemts.,Šobrīd,Зараз я зайнятий.,pending
-klāt,adv,A2,"to cover, to spread",поруч; на місці,Viņš jau ir ___.,klāt,Він уже тут.,pending
-nost,adv,A2,away,геть,Ejiet ___ no loga!,nost,Відійдіть від вікна!,pending
-vismaz,adv,A2,at least,принаймні,Ēdiet ___ nedaudz.,vismaz,Їжте принаймні трохи.,pending
-gandrīz,adv,A2,almost,майже,Es ___ nokavēju vilcienu.,gandrīz,Я майже запізнився на поїзд.,pending
-vairs,adv,A2,"any more, anymore",вже (не),Es ___ nevaru.,vairs,Я вже не можу.,pending
-tieši,adv,A2,directly,саме,"Tas ir ___ tas, ko vajag.",tieši,"Це саме те, що потрібно.",pending
-kādēļ,adv,A2,why,чому,___ jūs nenācāt?,Kādēļ,Чому ви не прийшли?,pending
-pēkšņi,adv,A2,"suddenly, abruptly; adverbial form of pēkšņs",раптом,___ sāka līt.,Pēkšņi,Раптом почався дощ.,pending
-galvenokārt,adv,A2,,переважно,Es ēdu ___ dārzeņus.,galvenokārt,Я їм переважно овочі.,pending
-īpaši,adv,A2,"special, specific, especially, specifically, on purpose; nominative masculine plural of īpašs",особливо,Man ___ patīk šokolāde.,īpaši,Мені особливо подобається шоколад.,pending
-diemžēl,adv,A2,unfortunately,на жаль,___ es nevaru atnākt.,Diemžēl,"На жаль, я не можу прийти.",pending
-varbūt,part,A2,"Used to express possibility, probability; perhaps, maybe, possibly",можливо,___ rīt līs lietus.,Varbūt,"Можливо, завтра піде дощ.",pending
-protams,part,A2,which can or should be known; indefinite present passive participle of prast,звичайно,"___, es palīdzēšu.",Protams,"Звичайно, я допоможу.",pending
-tiešām,part,A2,really,справді,Vai tas ___ ir tiesa?,tiešām,Чи це справді правда?,pending
-tieši,part,A2,directly,саме,___ šodien man ir dzimšanas diena.,Tieši,Саме сьогодні в мене день народження.,pending
-vien,part,A2,only,лише,Es ___ gribēju pajautāt.,vien,Я лише хотів запитати.,pending
-laikam,part,A2,probably,певно,Viņš ___ ir slims.,laikam,"Він, певно, хворий.",pending
-pat,part,A2,even,навіть,___ bērns to var.,Pat,Навіть дитина це може.,pending
-taču,part,A2,"particle used to reinforce or emphasize a certain word or idea, usually by reducing doubts about it; but...",адже,Tu ___ zini!,taču,Ти ж знаєш!,pending
-tomēr,part,A2,"used to strengthen meaning of word or expression, assigned contrast or concession",все ж,Es ___ gribu iet.,tomēr,Я все ж хочу піти.,pending
-patiešām,part,A2,"truly, really, indeed; adverbial form of patiess",справді,Tā ___ ir laba ideja.,patiešām,Це справді гарна ідея.,pending
+kāda,pron,A2,"what, what kind",яка; якась,___ jauka diena!,Kāda,Який чудовий день!,approved
+neko,pron,A2,nothing,нічого,Es ___ nesaprotu.,neko,Я нічого не розумію.,approved
+nevienu,pron,A2,nobody,нікого,Es šeit ___ nepazīstu.,nevienu,Я тут нікого не знаю.,approved
+dažs,pron,A2,some,деякий,___ cilvēki nemīl kafiju.,Daži,Деякі люди не люблять каву.,approved
+abi,pron,A2,both,обидва,Mēs ___ esam studenti.,abi,Ми обидва студенти.,approved
+pati,pron,A2,self,сама,Viņa visu dara ___.,pati,Вона все робить сама.,approved
+sevis,pron,A2,of -self; genitive singular of sevi,себе,Viņš domā tikai par ___.,sevi,Він думає лише про себе.,approved
+tāpat,pron,A2,just,так само; все одно,Es ___ došos uz Rīgu.,tāpat,Я все одно поїду до Риги.,approved
+dēļ,prep,A2,because of,через,Es kavēju lietus ___.,dēļ,Я запізнився через дощ.,approved
+caur,prep,A2,through,крізь,Mēs ejam ___ parku.,caur,Ми йдемо через парк.,approved
+apkārt,prep,A2,,навколо,___ mājai ir dārzs.,Apkārt,Навколо будинку є сад.,approved
+priekš,prep,A2,for,для,Šī dāvana ir ___ tevis.,priekš,Цей подарунок для тебе.,approved
+ārpus,prep,A2,outside,поза; за межами,Mēs dzīvojam ___ pilsētas.,ārpus,Ми живемо за містом.,approved
+garām,prep,A2,"past, by, over",повз,Autobuss brauc ___ mūsu mājai.,garām,Автобус проїжджає повз наш будинок.,approved
+pāri,prep,A2,over,через; над,Tilts ir ___ upei.,pāri,Міст через річку.,approved
+cauri,prep,A2,through; adverbial form of caurs,крізь,Gaisma spīd ___ logam.,cauri,Світло світить крізь вікно.,approved
+tomēr,conj,A2,still,проте,"Ir auksts, ___ mēs ejam pastaigāties.",tomēr,"Холодно, проте ми йдемо гуляти.",approved
+tātad,conj,A2,so,отже,"Tu esi slims, ___ paliec mājās.",tātad,"Ти хворий, отже залишайся вдома.",approved
+tāpēc,conj,A2,"; so..., therefore..., because of that...",тому,"Es esmu noguris, ___ eju gulēt.",tāpēc,"Я втомлений, тому йду спати.",approved
+kamēr,conj,A2,while,поки,"___ es gatavoju, tu vari skatīties televizoru.",Kamēr,"Поки я готую, ти можеш дивитися телевізор.",approved
+nevis,conj,A2,not,а не,"Es dzeru tēju, ___ kafiju.",nevis,"Я п'ю чай, а не каву.",approved
+taču,conj,A2,"but, but also; adversative conjunction, used to express strong opposition or contrast, with a nuance of surprise, inconsistency or contradiction, in various syntactic contexts",але,"Viņš ir mazs, ___ ļoti gudrs.",taču,"Він маленький, але дуже розумний.",approved
+gan,conj,A2,"both, and",і... і,"Man garšo ___ tēja, gan kafija.",gan,"Мені смакує і чай, і кава.",approved
+nekā,conj,A2,than,ніж,Šodien ir siltāks ___ vakar.,nekā,"Сьогодні тепліше, ніж учора.",approved
+prom,adv,A2,away,геть; далеко,Viņš aizbrauca ___.,prom,Він поїхав геть.,approved
+ilgi,adv,A2,long,довго,Es ___ gaidīju autobusu.,ilgi,Я довго чекав автобус.,approved
+vienkārši,adv,A2,simply,просто,Tas ir ___.,vienkārši,Це просто.,approved
+joprojām,adv,A2,"still, on, forth",досі,Viņš ___ strādā.,joprojām,Він досі працює.,approved
+tikko,adv,A2,faintly,щойно,Es ___ atnācu.,tikko,Я щойно прийшов.,approved
+līdzi,adv,A2,used to indicate somebody move together with someone else,з собою,Neaizmirstiet paņemt ___ pasi.,līdzi,Не забудьте взяти з собою паспорт.,approved
+žēl,adv,A2,"used with verbs būt, tikt, tapt and kļūt to express pity",шкода,"Man ir ___, ka tu aizbrauc.",žēl,"Мені шкода, що ти їдеш.",approved
+diezgan,adv,A2,enough,досить,Šodien ir ___ auksts.,diezgan,Сьогодні досить холодно.,approved
+pārāk,adv,A2,too,занадто,Šī kafija ir ___ karsta.,pārāk,Ця кава занадто гаряча.,approved
+nedaudz,adv,A2,a little,трохи,Es runāju latviski ___.,nedaudz,Я трохи розмовляю латиською.,approved
+vēlreiz,adv,A2,"again, once more, once again, one more time",ще раз,"Lūdzu, pasakiet ___.",vēlreiz,"Будь ласка, скажіть ще раз.",approved
+vienalga,adv,A2,all the same,все одно,Man ir ___.,vienalga,Мені все одно.,approved
+vispār,adv,A2,,взагалі,Es ___ neēdu gaļu.,vispār,Я взагалі не їм м'яса.,approved
+nemaz,adv,A2,not at all,зовсім не,Es to ___ nezināju.,nemaz,Я цього зовсім не знав.,approved
+pavisam,adv,A2,"quite, rather, very",зовсім,Tas ir ___ cits jautājums.,pavisam,Це зовсім інше питання.,approved
+pilnīgi,adv,A2,"complete, full, completely, fully; adverbial form of pilnīgs",повністю,Es ___ piekrītu.,pilnīgi,Я повністю згоден.,approved
+kādreiz,adv,A2,"Sometime in the past; once, ever, earlier, formerly, erstwhile, used to.",колись,___ es dzīvoju laukos.,Kādreiz,Колись я жив на селі.,approved
+šobrīd,adv,A2,"now, currently, at this moment, at this point",зараз,___ es esmu aizņemts.,Šobrīd,Зараз я зайнятий.,approved
+klāt,adv,A2,"to cover, to spread",поруч; на місці,Viņš jau ir ___.,klāt,Він уже тут.,approved
+nost,adv,A2,away,геть,Ejiet ___ no loga!,nost,Відійдіть від вікна!,approved
+vismaz,adv,A2,at least,принаймні,Ēdiet ___ nedaudz.,vismaz,Їжте принаймні трохи.,approved
+gandrīz,adv,A2,almost,майже,Es ___ nokavēju vilcienu.,gandrīz,Я майже запізнився на поїзд.,approved
+vairs,adv,A2,"any more, anymore",вже (не),Es ___ nevaru.,vairs,Я вже не можу.,approved
+tieši,adv,A2,directly,саме,"Tas ir ___ tas, ko vajag.",tieši,"Це саме те, що потрібно.",approved
+kādēļ,adv,A2,why,чому,___ jūs nenācāt?,Kādēļ,Чому ви не прийшли?,approved
+pēkšņi,adv,A2,"suddenly, abruptly; adverbial form of pēkšņs",раптом,___ sāka līt.,Pēkšņi,Раптом почався дощ.,approved
+galvenokārt,adv,A2,,переважно,Es ēdu ___ dārzeņus.,galvenokārt,Я їм переважно овочі.,approved
+īpaši,adv,A2,"special, specific, especially, specifically, on purpose; nominative masculine plural of īpašs",особливо,Man ___ patīk šokolāde.,īpaši,Мені особливо подобається шоколад.,approved
+diemžēl,adv,A2,unfortunately,на жаль,___ es nevaru atnākt.,Diemžēl,"На жаль, я не можу прийти.",approved
+varbūt,part,A2,"Used to express possibility, probability; perhaps, maybe, possibly",можливо,___ rīt līs lietus.,Varbūt,"Можливо, завтра піде дощ.",approved
+protams,part,A2,which can or should be known; indefinite present passive participle of prast,звичайно,"___, es palīdzēšu.",Protams,"Звичайно, я допоможу.",approved
+tiešām,part,A2,really,справді,Vai tas ___ ir tiesa?,tiešām,Чи це справді правда?,approved
+tieši,part,A2,directly,саме,___ šodien man ir dzimšanas diena.,Tieši,Саме сьогодні в мене день народження.,approved
+vien,part,A2,only,лише,Es ___ gribēju pajautāt.,vien,Я лише хотів запитати.,approved
+laikam,part,A2,probably,певно,Viņš ___ ir slims.,laikam,"Він, певно, хворий.",approved
+pat,part,A2,even,навіть,___ bērns to var.,Pat,Навіть дитина це може.,approved
+taču,part,A2,"particle used to reinforce or emphasize a certain word or idea, usually by reducing doubts about it; but...",адже,Tu ___ zini!,taču,Ти ж знаєш!,approved
+tomēr,part,A2,"used to strengthen meaning of word or expression, assigned contrast or concession",все ж,Es ___ gribu iet.,tomēr,Я все ж хочу піти.,approved
+patiešām,part,A2,"truly, really, indeed; adverbial form of patiess",справді,Tā ___ ir laba ideja.,patiešām,Це справді гарна ідея.,approved

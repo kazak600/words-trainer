@@ -1,0 +1,15 @@
+# B1 unit 9 (Kļūsti laimīgs!): emotions, optimism, humour, stress
+optimisms | noun | оптимізм | Viņa vienmēr runā ar ___. | optimismu | Вона завжди говорить з оптимізмом.
+pesimisms | noun | песимізм | Viņš par visu runā ar ___. | pesimismu | Він про все говорить з песимізмом.
+humors | noun | гумор | Viņam ir labs ___. | humors | У нього гарний гумор.
+pašapziņa | noun | впевненість у собі | Viņam trūkst ___. | pašapziņas | Йому бракує впевненості в собі.
+emocija | noun | емоція | Filma izraisīja spēcīgas ___. | emocijas | Фільм викликав сильні емоції.
+dzīvesprieks | noun | життєрадісність | Viņai ir liels ___. | dzīvesprieks | У неї велика життєрадісність.
+stress | noun | стрес | Darbā ir liels ___. | stress | На роботі великий стрес.
+iedvesma | noun | натхнення | Šī grāmata man deva ___. | iedvesmu | Ця книжка дала мені натхнення.
+skumt | verb | сумувати | Pēc draugiem es ___. | skumstu | За друзями я сумую.
+apvainoties | verb | ображатися | Nav vērts ___ par tādu joku. | apvainoties | Не варто ображатися через такий жарт.
+optimistisks | adj | оптимістичний | Viņa ir ļoti ___ cilvēks. | optimistisks | Вона дуже оптимістична людина.
+pesimistisks | adj | песимістичний | Viņš bija ___ par nākotni. | pesimistisks | Він був песимістично налаштований щодо майбутнього.
+nervozs | adj | нервовий | Pirms runas viņš bija ļoti ___. | nervozs | Перед виступом він був дуже нервовий.
+atklāts | adj | відвертий | Viņš ir ___ un godīgs. | atklāts | Він відвертий і чесний.

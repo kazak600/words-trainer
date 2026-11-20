@@ -1,0 +1,18 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+muiža,noun,B1,,садиба,Vecā ___ tagad ir muzejs.,muiža,Стара садиба тепер — музей.,approved
+leģenda,noun,B1,legend,легенда,Šī ir sena latviešu ___.,leģenda,Це давня латиська легенда.,approved
+vēsture,noun,B1,history,історія,Man patīk Latvijas ___.,vēsture,Мені подобається історія Латвії.,approved
+mantojums,noun,B1,inheritance,спадщина,Pils ir kultūras ___.,mantojums,Замок — частина культурної спадщини.,approved
+novads,noun,B1,administrative division of the Republic of Latvia; municipality,край,Kurzemes ___ ir skaists.,novads,Курземський край красивий.,approved
+tradīcija,noun,B1,tradition,традиція,Ligo ir sena ___.,tradīcija,Ліго — давня традиція.,approved
+piemineklis,noun,B1,monument,пам'ятник,Rīgā ir daudz ___.,pieminekļu,У Ризі багато пам'ятників.,approved
+purvs,noun,B1,"swamp, bog, marsh, morass",болото,Ziemeļos ir liels ___.,purvs,На півночі є велике болото.,approved
+cietoksnis,noun,B1,fortress,фортеця,Turaidā ir vecs ___.,cietoksnis,У Турайді є стара фортеця.,approved
+atjaunot,verb,B1,,відновлювати,Pils tiek ___.,atjaunota,Замок відновлюють.,approved
+uzcelt,verb,B1,,збудувати,Muižu ___ pirms simts gadiem.,uzcēla,Садибу збудували сто років тому.,approved
+pārdzīvot,verb,B1,,пережити,Pils ir ___ daudzus karus.,pārdzīvojusi,Замок пережив багато воєн.,approved
+vēsturisks,adj,B1,historical,історичний,Rīgas centrs ir ___.,vēsturisks,Центр Риги історичний.,approved
+leģendārs,adj,B1,legendary,легендарний,Šī ir ___ vieta.,leģendāra,Це легендарне місце.,approved
+nacionāls,adj,B1,national,національний,Gaujas ___ parks ir skaists.,nacionālais,Національний парк Гауя чудовий.,approved
+senatnīgs,adj,B1,,старовинний,Pilsēta ir ___.,senatnīga,Місто старовинне.,approved
+pazīstams,adj,B1,,відомий,Šis parks ir ___ visiem.,pazīstams,Цей парк відомий усім.,approved

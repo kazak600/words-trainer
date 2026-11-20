@@ -1,0 +1,4 @@
+# B1 wordlist, generated from translations/family-and-friends-b1.txt
+noun: konflikts, strīds, cieņa, uzticība, kompromiss, pārpratums, sapratne
+verb: saprasties, uzticēties, sadzīvot
+adj: rūpīgs, uzticams, sapratīgs, greizsirdīgs

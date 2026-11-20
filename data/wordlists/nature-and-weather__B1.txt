@@ -1,0 +1,4 @@
+# B1 wordlist, generated from translations/nature-and-weather-b1.txt
+noun: klimats, piesārņojums, atkritumi, reciklēšana, ekoloģija, sausums, plūdi, ūdenstilpe
+verb: pārstrādāt, samazināt, saglabāt
+adj: ilgtspējīgs, ekoloģisks, piesārņots, vētrains

@@ -1,0 +1,4 @@
+# B1 wordlist, generated from translations/study-and-work-b1.txt
+noun: motivācija, mērķis, prasme, karjera, atalgojums, diploms, seminārs, pētījums
+verb: pilnveidot, sasniegt, attīstīties, pārvarēt, iemācīties
+adj: profesionāls, motivēts

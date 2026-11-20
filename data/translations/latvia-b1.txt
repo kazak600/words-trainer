@@ -1,0 +1,18 @@
+# B1 unit 10 (Brīnumainā un noslēpumainā Latvija): history, manors, castles, legends, heritage
+muiža | noun | садиба | Vecā ___ tagad ir muzejs. | muiža | Стара садиба тепер — музей.
+leģenda | noun | легенда | Šī ir sena latviešu ___. | leģenda | Це давня латиська легенда.
+vēsture | noun | історія | Man patīk Latvijas ___. | vēsture | Мені подобається історія Латвії.
+mantojums | noun | спадщина | Pils ir kultūras ___. | mantojums | Замок — частина культурної спадщини.
+novads | noun | край | Kurzemes ___ ir skaists. | novads | Курземський край красивий.
+tradīcija | noun | традиція | Ligo ir sena ___. | tradīcija | Ліго — давня традиція.
+piemineklis | noun | пам'ятник | Rīgā ir daudz ___. | pieminekļu | У Ризі багато пам'ятників.
+purvs | noun | болото | Ziemeļos ir liels ___. | purvs | На півночі є велике болото.
+cietoksnis | noun | фортеця | Turaidā ir vecs ___. | cietoksnis | У Турайді є стара фортеця.
+atjaunot | verb | відновлювати | Pils tiek ___. | atjaunota | Замок відновлюють.
+uzcelt | verb | збудувати | Muižu ___ pirms simts gadiem. | uzcēla | Садибу збудували сто років тому.
+pārdzīvot | verb | пережити | Pils ir ___ daudzus karus. | pārdzīvojusi | Замок пережив багато воєн.
+vēsturisks | adj | історичний | Rīgas centrs ir ___. | vēsturisks | Центр Риги історичний.
+leģendārs | adj | легендарний | Šī ir ___ vieta. | leģendāra | Це легендарне місце.
+nacionāls | adj | національний | Gaujas ___ parks ir skaists. | nacionālais | Національний парк Гауя чудовий.
+senatnīgs | adj | старовинний | Pilsēta ir ___. | senatnīga | Місто старовинне.
+pazīstams | adj | відомий | Šis parks ir ___ visiem. | pazīstams | Цей парк відомий усім.

@@ -1,0 +1,14 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+simptoms,noun,B1,symptom,симптом,Kādi ir jūsu ___?,simptomi,Які в вас симптоми?,approved
+diagnoze,noun,B1,,діагноз,Ārsts uzstādīja ___.,diagnozi,Лікар поставив діагноз.,approved
+uzturs,noun,B1,"nutrition, nourishment, sustenance",харчування,Veselīgs ___ ir svarīgs.,uzturs,Здорове харчування важливе.,approved
+imunitāte,noun,B1,,імунітет,Vitamīni stiprina ___.,imunitāti,Вітаміни зміцнюють імунітет.,approved
+terapija,noun,B1,therapy,терапія,Viņš apmeklē fizisko ___.,terapiju,Він відвідує фізичну терапію.,approved
+profilakse,noun,B1,,профілактика,Regulārā ___ ir svarīga.,profilakse,Регулярна профілактика важлива.,approved
+izmeklēt,verb,B1,,обстежити,Ārsts mani rūpīgi ___.,izmeklēja,Лікар мене ретельно обстежив.,approved
+ierobežot,verb,B1,,обмежити,Ārsts ieteica ___ kafijas dzeršanu.,ierobežot,Лікар порадив обмежити вживання кави.,approved
+uzturēt,verb,B1,,підтримувати,Ir svarīgi ___ labu formu.,uzturēt,Важливо підтримувати добру форму.,approved
+alerģisks,adj,B1,,алергічний,Mana māsa ir ___ pret putekļiem.,alerģiska,Моя сестра алергічна на пил.,approved
+hronisks,adj,B1,,хронічний,Viņam ir ___ slimība.,hroniska,У нього хронічна хвороба.,approved
+izmocīts,adj,B1,,виснажений,Pēc garas nakts viņš izskatījās ___.,izmocīts,Після довгої ночі він виглядав виснаженим.,approved
+pilnvērtīgs,adj,B1,,повноцінний,Bērnam ir vajadzīgs ___ uzturs.,pilnvērtīgs,Дитині потрібне повноцінне харчування.,approved

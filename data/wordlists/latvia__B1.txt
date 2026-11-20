@@ -1,0 +1,4 @@
+# B1 wordlist, generated from translations/latvia-b1.txt
+noun: muiža, leģenda, vēsture, mantojums, novads, tradīcija, piemineklis, purvs, cietoksnis
+verb: atjaunot, uzcelt, pārdzīvot
+adj: vēsturisks, leģendārs, nacionāls, senatnīgs, pazīstams

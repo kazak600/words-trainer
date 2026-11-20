@@ -1,0 +1,16 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+motivācija,noun,B1,,мотивація,Viņam trūkst ___.,motivācijas,Йому бракує мотивації.,approved
+mērķis,noun,B1,target,мета,Mans ___ ir nokārtot eksāmenu.,mērķis,Моя мета — скласти іспит.,approved
+prasme,noun,B1,,навичка,Viņam ir laba ___.,prasme,У нього хороші навички.,approved
+karjera,noun,B1,career,кар'єра,Viņa veido savu ___.,karjeru,Вона будує свою кар'єру.,approved
+atalgojums,noun,B1,,зарплата,"Darbs ir interesants, bet ___ ir zems.",atalgojums,"Робота цікава, але зарплата низька.",approved
+diploms,noun,B1,diploma,диплом,Pēc studijām viņa saņēma ___.,diplomu,Після навчання вона отримала диплом.,approved
+seminārs,noun,B1,,семінар,Rīt notiek ___ par valodu.,seminārs,Завтра відбувається семінар про мову.,approved
+pētījums,noun,B1,,дослідження,Viņa veic ___ par mācīšanos.,pētījumu,Вона проводить дослідження про навчання.,approved
+pilnveidot,verb,B1,,удосконалювати,Viņš grib ___ savas prasmes.,pilnveidot,Він хоче удосконалити свої навички.,approved
+sasniegt,verb,B1,"to achieve, to attain, to reach",досягти,Viņa ir ___ savu mērķi.,sasniegusi,Вона досягла своєї мети.,approved
+attīstīties,verb,B1,,розвиватися,Viņas karjera ___ ļoti ātri.,attīstās,Її кар'єра розвивається дуже швидко.,approved
+pārvarēt,verb,B1,,подолати,Viņš ___ grūtības.,pārvarēja,Він подолав труднощі.,approved
+iemācīties,verb,B1,,навчитися,Es gribu ___ rakstīt ātrāk.,iemācīties,Я хочу навчитися писати швидше.,approved
+profesionāls,adj,B1,,професійний,Viņa ir ļoti ___ ārste.,profesionāla,Вона дуже професійна лікарка.,approved
+motivēts,adj,B1,,мотивований,Viņš ir ___ students.,motivēts,Він мотивований студент.,approved

@@ -1,0 +1,15 @@
+# B1 unit 7 (Tehnikas un informācijas laikmets): digital tools, media literacy, online safety
+lietotne | noun | застосунок | Es esmu lejupielādējis jaunu ___. | lietotni | Я завантажив новий застосунок.
+dezinformācija | noun | дезінформація | Sociālajos tīklos izplatās ___. | dezinformācija | У соцмережах поширюється дезінформація.
+drošība | noun | безпека | Interneta ___ ir svarīga. | drošība | Безпека в інтернеті важлива.
+piekļuve | noun | доступ | Man nav ___ pie interneta. | piekļuves | У мене немає доступу до інтернету.
+avots | noun | джерело | Vienmēr norādiet ___, kad citējat ziņas. | avotu | Завжди вказуйте джерело, коли цитуєте новини.
+mediji | noun | медіа | Par šo notikumu runā visi ___. | mediji | Про цю подію говорять усі медіа.
+kiberuzbrukums | noun | кібератака | Banka piedzīvoja ___. | kiberuzbrukumu | Банк зазнав кібератаки.
+noplūde | noun | витік | Datu ___ skāra miljoniem lietotāju. | noplūde | Витік даних торкнувся мільйонів користувачів.
+lejupielādēt | verb | завантажувати | Tu vari ___ šo failu bez maksas. | lejupielādēt | Ти можеш завантажити цей файл безкоштовно.
+dalīties | verb | ділитися | Nevajag internetā ___ ar personiskiem datiem. | dalīties | Не варто ділитися в інтернеті особистими даними.
+pieslēgties | verb | підключитися | Lūdzu, ___ Wi-Fi tīklam. | pieslēgties | Будь ласка, підключіться до Wi-Fi.
+atjaunināt | verb | оновлювати | Telefons ___ programmu automātiski. | atjaunina | Телефон автоматично оновлює програму.
+digitāls | adj | цифровий | Mēs izmantojam ___ rīkus. | digitālus | Ми використовуємо цифрові інструменти.
+nepatiess | adj | неправдивий | Šī ziņa ir ___. | nepatiesa | Ця новина неправдива.

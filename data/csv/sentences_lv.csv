@@ -100,60 +100,60 @@ angliski,adv,Londonā runā ___.,angliski,У Лондоні розмовляют
 krieviski,adv,Maskavā runā ___.,krieviski,У Москві розмовляють російською.,pending
 ukrainiski,adv,Kijivā runā ___.,ukrainiski,У Києві розмовляють українською.,pending
 vāciski,adv,Berlīnē runā ___.,vāciski,У Берліні розмовляють німецькою.,pending
-Francija,propn,Parīze ir ___ galvaspilsēta.,Francijas,Париж — столиця Франції.,pending
-Itālija,propn,Roma atrodas ___.,Itālijā,Рим розташований в Італії.,pending
-Spānija,propn,Es gribu braukt uz ___.,Spāniju,Я хочу поїхати до Іспанії.,pending
-Zviedrija,propn,Stokholma ir ___ galvaspilsēta.,Zviedrijas,Стокгольм — столиця Швеції.,pending
-Somija,propn,Helsinki atrodas ___.,Somijā,Гельсінкі розташований у Фінляндії.,pending
-Norvēģija,propn,Oslo ir ___ galvaspilsēta.,Norvēģijas,Осло — столиця Норвегії.,pending
-Dānija,propn,Kopenhāgena atrodas ___.,Dānijā,Копенгаген розташований у Данії.,pending
-Polija,propn,Varšava ir ___ galvaspilsēta.,Polijas,Варшава — столиця Польщі.,pending
-Čehija,propn,Prāga atrodas ___.,Čehijā,Прага розташована в Чехії.,pending
-Grieķija,propn,Atēnas ir ___ galvaspilsēta.,Grieķijas,Афіни — столиця Греції.,pending
-Turcija,propn,Vasarā mēs braucām uz ___.,Turciju,Влітку ми їздили до Туреччини.,pending
-Ķīna,propn,___ ir ļoti liela valsts.,Ķīna,Китай — дуже велика країна.,pending
-Japāna,propn,Tokija ir ___ galvaspilsēta.,Japānas,Токіо — столиця Японії.,pending
-Kanāda,propn,Mans onkulis dzīvo ___.,Kanādā,Мій дядько живе в Канаді.,pending
-Āzija,propn,Ķīna un Japāna atrodas ___.,Āzijā,Китай і Японія розташовані в Азії.,pending
-Āfrika,propn,Lauvas dzīvo ___.,Āfrikā,Леви живуть в Африці.,pending
-Austrālija,propn,Ķengurs dzīvo ___.,Austrālijā,Кенгуру живе в Австралії.,pending
-kontinents,noun,Eiropa ir ___.,kontinents,Європа — континент.,pending
-francūzis,noun,"Viņš ir no Francijas, viņš ir ___.",francūzis,"Він з Франції, він француз.",pending
-itālis,noun,"Viņš ir no Itālijas, viņš ir ___.",itālis,"Він з Італії, він італієць.",pending
-spānis,noun,"Viņš ir no Spānijas, viņš ir ___.",spānis,"Він з Іспанії, він іспанець.",pending
-zviedrs,noun,"Viņš ir no Zviedrijas, viņš ir ___.",zviedrs,"Він зі Швеції, він швед.",pending
-soms,noun,"Viņš ir no Somijas, viņš ir ___.",soms,"Він з Фінляндії, він фін.",pending
-polis,noun,"Viņš ir no Polijas, viņš ir ___.",polis,"Він з Польщі, він поляк.",pending
-poliete,noun,"Viņa ir no Polijas, viņa ir ___.",poliete,"Вона з Польщі, вона полька.",pending
-ķīnietis,noun,"Viņš ir no Ķīnas, viņš ir ___.",ķīnietis,"Він з Китаю, він китаєць.",pending
-japānis,noun,"Viņš ir no Japānas, viņš ir ___.",japānis,"Він з Японії, він японець.",pending
-turks,noun,"Viņš ir no Turcijas, viņš ir ___.",turks,"Він з Туреччини, він турок.",pending
-lietuvietis,noun,"Viņš ir no Lietuvas, viņš ir ___.",lietuvietis,"Він з Литви, він литовець.",pending
-lietuviete,noun,"Viņa ir no Lietuvas, viņa ir ___.",lietuviete,"Вона з Литви, вона литовка.",pending
-igaunis,noun,"Viņš ir no Igaunijas, viņš ir ___.",igaunis,"Він з Естонії, він естонець.",pending
-igauniete,noun,"Viņa ir no Igaunijas, viņa ir ___.",igauniete,"Вона з Естонії, вона естонка.",pending
-imigrants,noun,Šis ___ dzīvo Latvijā jau trīs gadus.,imigrants,Цей імігрант живе в Латвії вже три роки.,pending
-emigrants,noun,Mans onkulis ir ___ Kanādā.,emigrants,Мій дядько — емігрант у Канаді.,pending
-ārzemju viesis,noun,Pie mums ir ___.,ārzemju viesis,У нас іноземний гість.,pending
-franču valoda,phrase,Mana māsa mācās ___.,franču valodu,Моя сестра вчить французьку мову.,pending
-spāņu valoda,phrase,Viņš runā ___.,spāņu valodā,Він розмовляє іспанською мовою.,pending
-itāļu valoda,phrase,Es gribu iemācīties ___.,itāļu valodu,Я хочу вивчити італійську мову.,pending
-poļu valoda,phrase,Viņa zina arī ___.,poļu valodu,Вона знає також польську мову.,pending
-ķīniešu valoda,phrase,___ ir ļoti sarežģīta.,Ķīniešu valoda,Китайська мова дуже складна.,pending
-dzimtā valoda,phrase,Kāda ir jūsu ___?,dzimtā valoda,Яка ваша рідна мова?,pending
-tulkot,verb,Viņš var ___ no latviešu valodas.,tulkot,Він може перекладати з латиської мови.,pending
-dzimt,verb,Es ___ Ukrainā.,dzimu,Я народився в Україні.,pending
-izcelties,verb,Mana ģimene ___ no Latvijas.,izceļas,Моя родина походить з Латвії.,pending
-emigrēt,verb,Daudzi cilvēki grib ___ uz ārzemēm.,emigrēt,Багато людей хочуть емігрувати за кордон.,pending
-franciski,adv,Parīzē runā ___.,franciski,У Парижі розмовляють французькою.,pending
-spāniski,adv,Madridē runā ___.,spāniski,У Мадриді розмовляють іспанською.,pending
-itāliski,adv,Romā runā ___.,itāliski,У Римі розмовляють італійською.,pending
-poliski,adv,Varšavā runā ___.,poliski,У Варшаві розмовляють польською.,pending
-ārzemju,adj,Viņam ir daudz ___ draugu.,ārzemju,У нього багато іноземних друзів.,pending
-vietējais,adj,Viņš ir ___ iedzīvotājs.,vietējais,Він місцевий мешканець.,pending
-starptautisks,adj,Tas ir ___ konkurss.,starptautisks,Це міжнародний конкурс.,pending
-daudzvalodu,adj,Rīga ir ___ pilsēta.,daudzvalodu,Рига — багатомовне місто.,pending
-dzimtais,adj,Rīga ir mana ___ pilsēta.,dzimtā,Рига — моє рідне місто.,pending
+Francija,propn,Parīze ir ___ galvaspilsēta.,Francijas,Париж — столиця Франції.,approved
+Itālija,propn,Roma atrodas ___.,Itālijā,Рим розташований в Італії.,approved
+Spānija,propn,Es gribu braukt uz ___.,Spāniju,Я хочу поїхати до Іспанії.,approved
+Zviedrija,propn,Stokholma ir ___ galvaspilsēta.,Zviedrijas,Стокгольм — столиця Швеції.,approved
+Somija,propn,Helsinki atrodas ___.,Somijā,Гельсінкі розташований у Фінляндії.,approved
+Norvēģija,propn,Oslo ir ___ galvaspilsēta.,Norvēģijas,Осло — столиця Норвегії.,approved
+Dānija,propn,Kopenhāgena atrodas ___.,Dānijā,Копенгаген розташований у Данії.,approved
+Polija,propn,Varšava ir ___ galvaspilsēta.,Polijas,Варшава — столиця Польщі.,approved
+Čehija,propn,Prāga atrodas ___.,Čehijā,Прага розташована в Чехії.,approved
+Grieķija,propn,Atēnas ir ___ galvaspilsēta.,Grieķijas,Афіни — столиця Греції.,approved
+Turcija,propn,Vasarā mēs braucām uz ___.,Turciju,Влітку ми їздили до Туреччини.,approved
+Ķīna,propn,___ ir ļoti liela valsts.,Ķīna,Китай — дуже велика країна.,approved
+Japāna,propn,Tokija ir ___ galvaspilsēta.,Japānas,Токіо — столиця Японії.,approved
+Kanāda,propn,Mans onkulis dzīvo ___.,Kanādā,Мій дядько живе в Канаді.,approved
+Āzija,propn,Ķīna un Japāna atrodas ___.,Āzijā,Китай і Японія розташовані в Азії.,approved
+Āfrika,propn,Lauvas dzīvo ___.,Āfrikā,Леви живуть в Африці.,approved
+Austrālija,propn,Ķengurs dzīvo ___.,Austrālijā,Кенгуру живе в Австралії.,approved
+kontinents,noun,Eiropa ir ___.,kontinents,Європа — континент.,approved
+francūzis,noun,"Viņš ir no Francijas, viņš ir ___.",francūzis,"Він з Франції, він француз.",approved
+itālis,noun,"Viņš ir no Itālijas, viņš ir ___.",itālis,"Він з Італії, він італієць.",approved
+spānis,noun,"Viņš ir no Spānijas, viņš ir ___.",spānis,"Він з Іспанії, він іспанець.",approved
+zviedrs,noun,"Viņš ir no Zviedrijas, viņš ir ___.",zviedrs,"Він зі Швеції, він швед.",approved
+soms,noun,"Viņš ir no Somijas, viņš ir ___.",soms,"Він з Фінляндії, він фін.",approved
+polis,noun,"Viņš ir no Polijas, viņš ir ___.",polis,"Він з Польщі, він поляк.",approved
+poliete,noun,"Viņa ir no Polijas, viņa ir ___.",poliete,"Вона з Польщі, вона полька.",approved
+ķīnietis,noun,"Viņš ir no Ķīnas, viņš ir ___.",ķīnietis,"Він з Китаю, він китаєць.",approved
+japānis,noun,"Viņš ir no Japānas, viņš ir ___.",japānis,"Він з Японії, він японець.",approved
+turks,noun,"Viņš ir no Turcijas, viņš ir ___.",turks,"Він з Туреччини, він турок.",approved
+lietuvietis,noun,"Viņš ir no Lietuvas, viņš ir ___.",lietuvietis,"Він з Литви, він литовець.",approved
+lietuviete,noun,"Viņa ir no Lietuvas, viņa ir ___.",lietuviete,"Вона з Литви, вона литовка.",approved
+igaunis,noun,"Viņš ir no Igaunijas, viņš ir ___.",igaunis,"Він з Естонії, він естонець.",approved
+igauniete,noun,"Viņa ir no Igaunijas, viņa ir ___.",igauniete,"Вона з Естонії, вона естонка.",approved
+imigrants,noun,Šis ___ dzīvo Latvijā jau trīs gadus.,imigrants,Цей імігрант живе в Латвії вже три роки.,approved
+emigrants,noun,Mans onkulis ir ___ Kanādā.,emigrants,Мій дядько — емігрант у Канаді.,approved
+ārzemju viesis,noun,Pie mums ir ___.,ārzemju viesis,У нас іноземний гість.,approved
+franču valoda,phrase,Mana māsa mācās ___.,franču valodu,Моя сестра вчить французьку мову.,approved
+spāņu valoda,phrase,Viņš runā ___.,spāņu valodā,Він розмовляє іспанською мовою.,approved
+itāļu valoda,phrase,Es gribu iemācīties ___.,itāļu valodu,Я хочу вивчити італійську мову.,approved
+poļu valoda,phrase,Viņa zina arī ___.,poļu valodu,Вона знає також польську мову.,approved
+ķīniešu valoda,phrase,___ ir ļoti sarežģīta.,Ķīniešu valoda,Китайська мова дуже складна.,approved
+dzimtā valoda,phrase,Kāda ir jūsu ___?,dzimtā valoda,Яка ваша рідна мова?,approved
+tulkot,verb,Viņš var ___ no latviešu valodas.,tulkot,Він може перекладати з латиської мови.,approved
+dzimt,verb,Es ___ Ukrainā.,dzimu,Я народився в Україні.,approved
+izcelties,verb,Mana ģimene ___ no Latvijas.,izceļas,Моя родина походить з Латвії.,approved
+emigrēt,verb,Daudzi cilvēki grib ___ uz ārzemēm.,emigrēt,Багато людей хочуть емігрувати за кордон.,approved
+franciski,adv,Parīzē runā ___.,franciski,У Парижі розмовляють французькою.,approved
+spāniski,adv,Madridē runā ___.,spāniski,У Мадриді розмовляють іспанською.,approved
+itāliski,adv,Romā runā ___.,itāliski,У Римі розмовляють італійською.,approved
+poliski,adv,Varšavā runā ___.,poliski,У Варшаві розмовляють польською.,approved
+ārzemju,adj,Viņam ir daudz ___ draugu.,ārzemju,У нього багато іноземних друзів.,approved
+vietējais,adj,Viņš ir ___ iedzīvotājs.,vietējais,Він місцевий мешканець.,approved
+starptautisks,adj,Tas ir ___ konkurss.,starptautisks,Це міжнародний конкурс.,approved
+daudzvalodu,adj,Rīga ir ___ pilsēta.,daudzvalodu,Рига — багатомовне місто.,approved
+dzimtais,adj,Rīga ir mana ___ pilsēta.,dzimtā,Рига — моє рідне місто.,approved
 ciems,noun,Mana vecmāmiņa dzīvo ___.,ciemā,Моя бабуся живе в селі.,pending
 lauki,noun,Vasarā mēs braucam uz ___.,laukiem,Влітку ми їдемо на село.,pending
 laukums,noun,Pilsētas centrā ir liels ___.,laukums,У центрі міста є велика площа.,pending
@@ -271,6 +271,14 @@ iekārtot,verb,Mēs ___ jaunu dzīvokli.,iekārtojam,Ми облаштовуєм
 izīrēt,verb,Viņš grib ___ savu dzīvokli.,izīrēt,Він хоче здати свою квартиру в оренду.,approved
 mājīgs,adj,Mūsu dzīvoklis ir ļoti ___.,mājīgs,Наша квартира дуже затишна.,approved
 plašs,adj,Viesistaba ir ļoti ___.,plaša,Вітальня дуже простора.,approved
+hipotēka,noun,"Mēs ņemam ___, lai nopirktu māju.",hipotēku,"Ми беремо іпотеку, щоб купити будинок.",approved
+jumts,noun,Lietus tek caur ___.,jumtu,Дощ тече крізь дах.,approved
+pagrabs,noun,Vīna pudeles glabājas ___.,pagrabā,Пляшки з вином зберігаються в підвалі.,approved
+mājoklis,noun,Viņiem ir vajadzīgs ___ Rīgā.,mājoklis,Їм потрібне житло в Ризі.,approved
+priekšpilsēta,noun,"Viņi dzīvo ___, tālu no centra.",priekšpilsētā,"Вони живуть у передмісті, далеко від центру.",approved
+ēka,noun,Šī ___ ir ļoti veca.,ēka,Ця будівля дуже стара.,approved
+pārvākties,verb,Nākamgad mēs ___ uz lauku māju.,pārvāksimies,Наступного року ми переїдемо в заміський будинок.,approved
+siltināt,verb,Pirms ziemas mēs ___ māju.,siltinām,Перед зимою ми утеплюємо будинок.,approved
 ģimene,noun,Mana ___ dzīvo Rīgā.,ģimene,Моя родина живе в Ризі.,pending
 māte,noun,Mana ___ strādā skolā.,māte,Моя мати працює в школі.,pending
 tēvs,noun,Mans ___ ir ārsts.,tēvs,Мій батько — лікар.,pending
@@ -327,6 +335,20 @@ strīdēties,verb,Mēs bieži ___ par sīkumiem.,strīdamies,Ми часто с�
 palīdzēt,verb,Es gribu tev ___.,palīdzēt,Я хочу тобі допомогти.,approved
 vientuļš,adj,Viņa jūtas ļoti ___.,vientuļa,Вона почувається дуже самотньою.,approved
 draudzīgs,adj,Mūsu kaimiņi ir ļoti ___.,draudzīgi,Наші сусіди дуже дружні.,approved
+konflikts,noun,Starp viņiem radās ___.,konflikts,Між ними виник конфлікт.,approved
+strīds,noun,Vakar mums bija liels ___.,strīds,Учора в нас була велика суперечка.,approved
+cieņa,noun,Viņš izturas pret vecākiem ar ___.,cieņu,Він ставиться до батьків з повагою.,approved
+uzticība,noun,Bez ___ nav draudzības.,uzticības,Без довіри немає дружби.,approved
+kompromiss,noun,Mēs atradām ___.,kompromisu,Ми знайшли компроміс.,approved
+pārpratums,noun,Tas bija tikai ___.,pārpratums,Це було лише непорозуміння.,approved
+sapratne,noun,Starp mums ir laba ___.,sapratne,Між нами є добре розуміння.,approved
+saprasties,verb,Mēs labi ___ ar kaimiņiem.,saprotamies,Ми добре ладнаємо з сусідами.,approved
+uzticēties,verb,Es ___ saviem draugiem.,uzticos,Я довіряю своїм друзям.,approved
+sadzīvot,verb,Ir grūti ___ ar tik skaļu kaimiņu.,sadzīvot,Важко уживатися з таким гучним сусідом.,approved
+rūpīgs,adj,Viņa ir ļoti ___ māte.,rūpīga,Вона дуже турботлива мати.,approved
+uzticams,adj,Mans draugs ir ļoti ___.,uzticams,Мій друг дуже надійний.,approved
+sapratīgs,adj,Viņš ir ļoti ___ cilvēks.,sapratīgs,Він дуже розсудливий.,approved
+greizsirdīgs,adj,Viņa ir ___ uz savu māsu.,greizsirdīga,Вона ревнива до своєї сестри.,approved
 izskats,noun,Viņai ir jauks ___.,izskats,У неї приємна зовнішність.,approved
 raksturs,noun,Viņam ir labs ___.,raksturs,У нього добрий характер.,approved
 acis,noun,Viņai ir zilas ___.,acis,У неї сині очі.,approved
@@ -377,6 +399,20 @@ bēdāties,verb,Nav vērts ___.,bēdāties,Не варто журитися.,app
 dusmoties,verb,Tētis uz mani ___.,dusmojas,Тато сердиться на мене.,approved
 uztraukties,verb,Es ___ par eksāmenu.,uztraucos,Я хвилююся через іспит.,approved
 nomierināties,verb,"Lūdzu, ___.",nomierinieties,"Будь ласка, заспокойтеся.",approved
+optimisms,noun,Viņa vienmēr runā ar ___.,optimismu,Вона завжди говорить з оптимізмом.,approved
+pesimisms,noun,Viņš par visu runā ar ___.,pesimismu,Він про все говорить з песимізмом.,approved
+humors,noun,Viņam ir labs ___.,humors,У нього гарний гумор.,approved
+pašapziņa,noun,Viņam trūkst ___.,pašapziņas,Йому бракує впевненості в собі.,approved
+emocija,noun,Filma izraisīja spēcīgas ___.,emocijas,Фільм викликав сильні емоції.,approved
+dzīvesprieks,noun,Viņai ir liels ___.,dzīvesprieks,У неї велика життєрадісність.,approved
+stress,noun,Darbā ir liels ___.,stress,На роботі великий стрес.,approved
+iedvesma,noun,Šī grāmata man deva ___.,iedvesmu,Ця книжка дала мені натхнення.,approved
+skumt,verb,Pēc draugiem es ___.,skumstu,За друзями я сумую.,approved
+apvainoties,verb,Nav vērts ___ par tādu joku.,apvainoties,Не варто ображатися через такий жарт.,approved
+optimistisks,adj,Viņa ir ļoti ___ cilvēks.,optimistisks,Вона дуже оптимістична людина.,approved
+pesimistisks,adj,Viņš bija ___ par nākotni.,pesimistisks,Він був песимістично налаштований щодо майбутнього.,approved
+nervozs,adj,Pirms runas viņš bija ļoti ___.,nervozs,Перед виступом він був дуже нервовий.,approved
+atklāts,adj,Viņš ir ___ un godīgs.,atklāts,Він відвертий і чесний.,approved
 transports,noun,Sabiedriskais ___ ir lēts.,transports,Громадський транспорт дешевий.,pending
 autobuss,noun,Es braucu uz darbu ar ___.,autobusu,Я їжджу на роботу автобусом.,pending
 trolejbuss,noun,Šis ___ iet uz centru.,trolejbuss,Цей тролейбус їде до центру.,pending
@@ -763,46 +799,52 @@ jautrs,adj,Šī ballīte ir ļoti ___.,jautra,Ця вечірка дуже ве�
 patīkams,adj,Tas bija ___ vakars.,patīkams,Це був приємний вечір.,pending
 kopā,adv,Mēs vienmēr ejam ___.,kopā,Ми завжди ходимо разом.,pending
 ciemos,adv,Mēs ejam ___ pie draugiem.,ciemos,Ми йдемо в гості до друзів.,pending
-vaļasprieks,noun,Gleznošana ir mans ___.,vaļasprieks,Малювання — моє захоплення.,pending
-interese,noun,Man ir liela ___ par mūziku.,interese,У мене великий інтерес до музики.,pending
-basketbols,noun,Viņš spēlē ___ komandā.,basketbolu,Він грає в баскетбол у команді.,pending
-hokejs,noun,Ziemā mēs skatāmies ___.,hokeju,Взимку ми дивимося хокей.,pending
-teniss,noun,Viņa spēlē ___.,tenisu,Вона грає в теніс.,pending
-skriešana,noun,___ ir veselīga.,Skriešana,Біг корисний для здоров'я.,pending
-riteņbraukšana,noun,Man patīk ___.,riteņbraukšana,Мені подобається їздити на велосипеді.,pending
-slēpošana,noun,Ziemā mēs nodarbojamies ar ___.,slēpošanu,Взимку ми займаємося лижами.,pending
-dziedātājs,noun,Viņš ir slavens ___.,dziedātājs,Він відомий співак.,pending
-instruments,noun,Ģitāra ir mūzikas ___.,instruments,Гітара — музичний інструмент.,pending
-ģitāra,noun,Viņš spēlē ___.,ģitāru,Він грає на гітарі.,pending
-klavieres,noun,Mana māsa spēlē ___.,klavieres,Моя сестра грає на піаніно.,pending
-izrāde,noun,Mēs gribam redzēt ___.,izrādi,Ми хочемо побачити виставу.,pending
-romāns,noun,Es lasu garu ___.,romānu,Я читаю довгий роман.,pending
-dzeja,noun,Viņa mīl ___.,dzeju,Вона любить поезію.,pending
-glezna,noun,Uz sienas karājas jauka ___.,glezna,На стіні висить гарна картина.,pending
-zīmēšana,noun,Bērniem patīk ___.,zīmēšana,Дітям подобається малювання.,pending
-internets,noun,Man ir ātrs ___.,internets,У мене швидкий інтернет.,pending
-kolekcija,noun,Viņam ir liela monētu ___.,kolekcija,У нього велика колекція монет.,pending
-makšķerēšana,noun,Mans tētis mīl ___.,makšķerēšanu,Мій тато любить риболовлю.,pending
-rokdarbi,noun,Vecmāmiņa dara ___.,rokdarbus,Бабуся займається рукоділлям.,pending
-adīšana,noun,Mana vecmāmiņa mīl ___.,adīšanu,Моя бабуся любить в'язання.,pending
-vingrošana,noun,No rīta es daru ___.,vingrošanu,Зранку я роблю гімнастику.,pending
-treniņš,noun,Šovakar man ir ___.,treniņš,Сьогодні ввечері в мене тренування.,pending
-komanda,noun,Mūsu ___ uzvarēja.,komanda,Наша команда перемогла.,pending
-uzvara,noun,Tā ir mūsu pirmā ___.,uzvara,Це наша перша перемога.,pending
-sacensības,noun,Rīt notiek ___.,sacensības,Завтра відбуваються змагання.,pending
-čempions,noun,Viņš ir pasaules ___.,čempions,Він чемпіон світу.,pending
-interesēties,verb,Es ___ par mūziku.,interesējos,Я цікавлюся музикою.,pending
-trenēties,verb,Mēs ___ trīs reizes nedēļā.,trenējamies,Ми тренуємося тричі на тиждень.,pending
-slēpot,verb,Ziemā es mīlu ___.,slēpot,Взимку я люблю кататися на лижах.,pending
-makšķerēt,verb,Mēs gribam ___ ezerā.,makšķerēt,Ми хочемо ловити рибу на озері.,pending
-adīt,verb,Vecmāmiņa ___ zeķes.,adī,Бабуся в'яже шкарпетки.,pending
-vākt,verb,Es ___ pastmarkas.,vācu,Я збираю поштові марки.,pending
-uzvarēt,verb,Mūsu komanda grib ___.,uzvarēt,Наша команда хоче перемогти.,pending
-zaudēt,verb,Mēs nedrīkstam ___.,zaudēt,Ми не можемо програти.,pending
-izklaidēties,verb,Mēs gribam ___.,izklaidēties,Ми хочемо розважитися.,pending
-populārs,adj,Šis dziedātājs ir ļoti ___.,populārs,Цей співак дуже популярний.,pending
-aizraujošs,adj,Šis futbola mačs bija ļoti ___.,aizraujošs,Цей футбольний матч був дуже захопливим.,pending
-mīļākais,adj,Futbols ir mans ___ sporta veids.,mīļākais,Футбол — мій улюблений вид спорту.,pending
+vaļasprieks,noun,Gleznošana ir mans ___.,vaļasprieks,Малювання — моє захоплення.,approved
+interese,noun,Man ir liela ___ par mūziku.,interese,У мене великий інтерес до музики.,approved
+basketbols,noun,Viņš spēlē ___ komandā.,basketbolu,Він грає в баскетбол у команді.,approved
+hokejs,noun,Ziemā mēs skatāmies ___.,hokeju,Взимку ми дивимося хокей.,approved
+teniss,noun,Viņa spēlē ___.,tenisu,Вона грає в теніс.,approved
+skriešana,noun,___ ir veselīga.,Skriešana,Біг корисний для здоров'я.,approved
+riteņbraukšana,noun,Man patīk ___.,riteņbraukšana,Мені подобається їздити на велосипеді.,approved
+slēpošana,noun,Ziemā mēs nodarbojamies ar ___.,slēpošanu,Взимку ми займаємося лижами.,approved
+dziedātājs,noun,Viņš ir slavens ___.,dziedātājs,Він відомий співак.,approved
+instruments,noun,Ģitāra ir mūzikas ___.,instruments,Гітара — музичний інструмент.,approved
+ģitāra,noun,Viņš spēlē ___.,ģitāru,Він грає на гітарі.,approved
+klavieres,noun,Mana māsa spēlē ___.,klavieres,Моя сестра грає на піаніно.,approved
+izrāde,noun,Mēs gribam redzēt ___.,izrādi,Ми хочемо побачити виставу.,approved
+romāns,noun,Es lasu garu ___.,romānu,Я читаю довгий роман.,approved
+dzeja,noun,Viņa mīl ___.,dzeju,Вона любить поезію.,approved
+glezna,noun,Uz sienas karājas jauka ___.,glezna,На стіні висить гарна картина.,approved
+zīmēšana,noun,Bērniem patīk ___.,zīmēšana,Дітям подобається малювання.,approved
+internets,noun,Man ir ātrs ___.,internets,У мене швидкий інтернет.,approved
+kolekcija,noun,Viņam ir liela monētu ___.,kolekcija,У нього велика колекція монет.,approved
+makšķerēšana,noun,Mans tētis mīl ___.,makšķerēšanu,Мій тато любить риболовлю.,approved
+rokdarbi,noun,Vecmāmiņa dara ___.,rokdarbus,Бабуся займається рукоділлям.,approved
+adīšana,noun,Mana vecmāmiņa mīl ___.,adīšanu,Моя бабуся любить в'язання.,approved
+vingrošana,noun,No rīta es daru ___.,vingrošanu,Зранку я роблю гімнастику.,approved
+treniņš,noun,Šovakar man ir ___.,treniņš,Сьогодні ввечері в мене тренування.,approved
+komanda,noun,Mūsu ___ uzvarēja.,komanda,Наша команда перемогла.,approved
+uzvara,noun,Tā ir mūsu pirmā ___.,uzvara,Це наша перша перемога.,approved
+sacensības,noun,Rīt notiek ___.,sacensības,Завтра відбуваються змагання.,approved
+čempions,noun,Viņš ir pasaules ___.,čempions,Він чемпіон світу.,approved
+interesēties,verb,Es ___ par mūziku.,interesējos,Я цікавлюся музикою.,approved
+trenēties,verb,Mēs ___ trīs reizes nedēļā.,trenējamies,Ми тренуємося тричі на тиждень.,approved
+slēpot,verb,Ziemā es mīlu ___.,slēpot,Взимку я люблю кататися на лижах.,approved
+makšķerēt,verb,Mēs gribam ___ ezerā.,makšķerēt,Ми хочемо ловити рибу на озері.,approved
+adīt,verb,Vecmāmiņa ___ zeķes.,adī,Бабуся в'яже шкарпетки.,approved
+vākt,verb,Es ___ pastmarkas.,vācu,Я збираю поштові марки.,approved
+uzvarēt,verb,Mūsu komanda grib ___.,uzvarēt,Наша команда хоче перемогти.,approved
+zaudēt,verb,Mēs nedrīkstam ___.,zaudēt,Ми не можемо програти.,approved
+izklaidēties,verb,Mēs gribam ___.,izklaidēties,Ми хочемо розважитися.,approved
+populārs,adj,Šis dziedātājs ir ļoti ___.,populārs,Цей співак дуже популярний.,approved
+aizraujošs,adj,Šis futbola mačs bija ļoti ___.,aizraujošs,Цей футбольний матч був дуже захопливим.,approved
+mīļākais,adj,Futbols ir mans ___ sporta veids.,mīļākais,Футбол — мій улюблений вид спорту.,approved
+klubs,noun,Es apmeklēju sporta ___.,klubu,Я відвідую спортивний клуб.,approved
+iesaistīties,verb,Es gribu ___ jaunā projektā.,iesaistīties,Я хочу долучитися до нового проєкту.,approved
+piedalīties,verb,Es ___ maratonā.,piedalos,Я беру участь у марафоні.,approved
+aizrauties,verb,Viņa ļoti ___ ar dejošanu.,aizraujas,Вона дуже захоплюється танцями.,approved
+saturīgs,adj,Lekcija bija ļoti ___.,saturīga,Лекція була дуже змістовна.,approved
+aktīvs,adj,Viņa ir ļoti ___ cilvēks.,aktīvs,Вона дуже активна людина.,approved
 ceļojums,noun,Mans ___ bija ļoti interesants.,ceļojums,Моя подорож була дуже цікавою.,pending
 ceļotājs,noun,___ nes lielu somu.,Ceļotājs,Мандрівник несе велику сумку.,pending
 bagāža,noun,Mana ___ ir smaga.,bagāža,Мій багаж важкий.,pending
@@ -830,30 +872,30 @@ pārbaudīt,verb,"Lūdzu, ___ manu pasi.",pārbaudiet,"Будь ласка, пе
 aizmirst,verb,Es nedrīkstu ___ pasi.,aizmirst,Я не повинен забути паспорт.,pending
 paņemt,verb,Vai jūs varat ___ manu somu?,paņemt,Чи можете ви взяти мою сумку?,pending
 iepakot,verb,Es vēl neesmu ___ koferi.,iepakojis,Я ще не запакував валізу.,pending
-tūrists,noun,Rīgā ir daudz ___.,tūristu,У Ризі багато туристів.,pending
-tūrisms,noun,___ ir svarīga nozare.,Tūrisms,Туризм — важлива галузь.,pending
-brauciens,noun,Tas bija jauks ___.,brauciens,Це була чудова поїздка.,pending
-izbraukums,noun,Svētdien mums ir ___ uz laukiem.,izbraukums,У неділю в нас поїздка на село.,pending
-mugursoma,noun,Mana ___ ir ļoti smaga.,mugursoma,Мій рюкзак дуже важкий.,pending
-vīza,noun,Man vajag ___.,vīzu,Мені потрібна віза.,pending
-hostelis,noun,Mēs apmetāmies lētā ___.,hostelī,Ми зупинилися в дешевому хостелі.,pending
-kempings,noun,Vasarā mēs dzīvojam ___.,kempingā,Влітку ми живемо в кемпінгу.,pending
-telts,noun,Mēs uzslējām ___.,telti,Ми поставили намет.,pending
-robeža,noun,Mēs šķērsojām ___.,robežu,Ми перетнули кордон.,pending
-muita,noun,Pie ___ jāparāda pase.,muitas,На митниці треба показати паспорт.,pending
-kalni,noun,Mēs gribam braukt uz ___.,kalniem,Ми хочемо поїхати в гори.,pending
-galamērķis,noun,Mūsu ___ ir Rīga.,galamērķis,Наш пункт призначення — Рига.,pending
-pieturvieta,noun,Kur ir tuvākā ___?,pieturvieta,Де найближча зупинка?,pending
-apskates vieta,phrase,Šī ir slavena ___.,apskates vieta,Це відома пам'ятка.,pending
-izpakot,verb,Es gribu ___ koferi.,izpakot,Я хочу розпакувати валізу.,pending
-izbraukt,verb,Mēs gribam ___ agri no rīta.,izbraukt,Ми хочемо виїхати рано вранці.,pending
-nolaisties,verb,Lidmašīna ___ pulksten desmitos.,nolaižas,Літак приземляється о десятій.,pending
-izrakstīties,verb,Mēs ___ no viesnīcas pulksten divpadsmitos.,izrakstāmies,Ми виселяємося з готелю о дванадцятій.,pending
-izmitināties,verb,Mēs ___ mazā viesnīcā.,izmitinājāmies,Ми оселилися в маленькому готелі.,pending
-apmaldīties,verb,Es negribu ___.,apmaldīties,Я не хочу заблукати.,pending
-iespaidīgs,adj,Šī pils ir ļoti ___.,iespaidīga,Цей замок дуже вражаючий.,pending
-pārpildīts,adj,Autobuss ir ___.,pārpildīts,Автобус переповнений.,pending
-tiešs,adj,Mums ir ___ reiss uz Parīzi.,tiešs,У нас прямий рейс до Парижа.,pending
+tūrists,noun,Rīgā ir daudz ___.,tūristu,У Ризі багато туристів.,approved
+tūrisms,noun,___ ir svarīga nozare.,Tūrisms,Туризм — важлива галузь.,approved
+brauciens,noun,Tas bija jauks ___.,brauciens,Це була чудова поїздка.,approved
+izbraukums,noun,Svētdien mums ir ___ uz laukiem.,izbraukums,У неділю в нас поїздка на село.,approved
+mugursoma,noun,Mana ___ ir ļoti smaga.,mugursoma,Мій рюкзак дуже важкий.,approved
+vīza,noun,Man vajag ___.,vīzu,Мені потрібна віза.,approved
+hostelis,noun,Mēs apmetāmies lētā ___.,hostelī,Ми зупинилися в дешевому хостелі.,approved
+kempings,noun,Vasarā mēs dzīvojam ___.,kempingā,Влітку ми живемо в кемпінгу.,approved
+telts,noun,Mēs uzslējām ___.,telti,Ми поставили намет.,approved
+robeža,noun,Mēs šķērsojām ___.,robežu,Ми перетнули кордон.,approved
+muita,noun,Pie ___ jāparāda pase.,muitas,На митниці треба показати паспорт.,approved
+kalni,noun,Mēs gribam braukt uz ___.,kalniem,Ми хочемо поїхати в гори.,approved
+galamērķis,noun,Mūsu ___ ir Rīga.,galamērķis,Наш пункт призначення — Рига.,approved
+pieturvieta,noun,Kur ir tuvākā ___?,pieturvieta,Де найближча зупинка?,approved
+apskates vieta,phrase,Šī ir slavena ___.,apskates vieta,Це відома пам'ятка.,approved
+izpakot,verb,Es gribu ___ koferi.,izpakot,Я хочу розпакувати валізу.,approved
+izbraukt,verb,Mēs gribam ___ agri no rīta.,izbraukt,Ми хочемо виїхати рано вранці.,approved
+nolaisties,verb,Lidmašīna ___ pulksten desmitos.,nolaižas,Літак приземляється о десятій.,approved
+izrakstīties,verb,Mēs ___ no viesnīcas pulksten divpadsmitos.,izrakstāmies,Ми виселяємося з готелю о дванадцятій.,approved
+izmitināties,verb,Mēs ___ mazā viesnīcā.,izmitinājāmies,Ми оселилися в маленькому готелі.,approved
+apmaldīties,verb,Es negribu ___.,apmaldīties,Я не хочу заблукати.,approved
+iespaidīgs,adj,Šī pils ir ļoti ___.,iespaidīga,Цей замок дуже вражаючий.,approved
+pārpildīts,adj,Autobuss ir ___.,pārpildīts,Автобус переповнений.,approved
+tiešs,adj,Mums ir ___ reiss uz Parīzi.,tiešs,У нас прямий рейс до Парижа.,approved
 ķermenis,noun,Mans ___ ir noguris.,ķermenis,Моє тіло втомлене.,pending
 galva,noun,"Man sāp ___, es gribu gulēt.",galva,"У мене болить голова, я хочу спати.",pending
 mati,noun,Viņai ir gari ___.,mati,У неї довге волосся.,pending
@@ -920,6 +962,19 @@ noguris,adj,Pēc darba es esmu ļoti ___.,noguris,Після роботи я д�
 sāpīgs,adj,Šī injekcija ir ļoti ___.,sāpīga,Ця ін'єкція дуже болісна.,pending
 veselīgs,adj,Dārzeņi ir ___.,veselīgi,Овочі корисні для здоров'я.,pending
 nevesels,adj,Es šodien jūtos ___.,nevesels,Я сьогодні почуваюся нездоровим.,pending
+simptoms,noun,Kādi ir jūsu ___?,simptomi,Які в вас симптоми?,approved
+diagnoze,noun,Ārsts uzstādīja ___.,diagnozi,Лікар поставив діагноз.,approved
+uzturs,noun,Veselīgs ___ ir svarīgs.,uzturs,Здорове харчування важливе.,approved
+imunitāte,noun,Vitamīni stiprina ___.,imunitāti,Вітаміни зміцнюють імунітет.,approved
+terapija,noun,Viņš apmeklē fizisko ___.,terapiju,Він відвідує фізичну терапію.,approved
+profilakse,noun,Regulārā ___ ir svarīga.,profilakse,Регулярна профілактика важлива.,approved
+izmeklēt,verb,Ārsts mani rūpīgi ___.,izmeklēja,Лікар мене ретельно обстежив.,approved
+ierobežot,verb,Ārsts ieteica ___ kafijas dzeršanu.,ierobežot,Лікар порадив обмежити вживання кави.,approved
+uzturēt,verb,Ir svarīgi ___ labu formu.,uzturēt,Важливо підтримувати добру форму.,approved
+alerģisks,adj,Mana māsa ir ___ pret putekļiem.,alerģiska,Моя сестра алергічна на пил.,approved
+hronisks,adj,Viņam ir ___ slimība.,hroniska,У нього хронічна хвороба.,approved
+izmocīts,adj,Pēc garas nakts viņš izskatījās ___.,izmocīts,Після довгої ночі він виглядав виснаженим.,approved
+pilnvērtīgs,adj,Bērnam ir vajadzīgs ___ uzturs.,pilnvērtīgs,Дитині потрібне повноцінне харчування.,approved
 skolotājs,noun,Mans ___ ir ļoti gudrs.,skolotājs,Мій вчитель дуже розумний.,pending
 universitāte,noun,Mana māsa mācās ___.,universitātē,Моя сестра вчиться в університеті.,pending
 klase,noun,Mūsu ___ ir liela.,klase,Наш клас великий.,pending
@@ -965,6 +1020,21 @@ pareizs,adj,Jūsu atbilde ir ___.,pareiza,Ваша відповідь прави
 nepareizs,adj,Šis vārds ir ___.,nepareizs,Це слово неправильне.,pending
 nopietns,adj,Tā ir ___ problēma.,nopietna,Це серйозна проблема.,pending
 aizņemts,adj,Es esmu šodien ļoti ___.,aizņemts,Я сьогодні дуже зайнятий.,pending
+motivācija,noun,Viņam trūkst ___.,motivācijas,Йому бракує мотивації.,approved
+mērķis,noun,Mans ___ ir nokārtot eksāmenu.,mērķis,Моя мета — скласти іспит.,approved
+prasme,noun,Viņam ir laba ___.,prasme,У нього хороші навички.,approved
+karjera,noun,Viņa veido savu ___.,karjeru,Вона будує свою кар'єру.,approved
+atalgojums,noun,"Darbs ir interesants, bet ___ ir zems.",atalgojums,"Робота цікава, але зарплата низька.",approved
+diploms,noun,Pēc studijām viņa saņēma ___.,diplomu,Після навчання вона отримала диплом.,approved
+seminārs,noun,Rīt notiek ___ par valodu.,seminārs,Завтра відбувається семінар про мову.,approved
+pētījums,noun,Viņa veic ___ par mācīšanos.,pētījumu,Вона проводить дослідження про навчання.,approved
+pilnveidot,verb,Viņš grib ___ savas prasmes.,pilnveidot,Він хоче удосконалити свої навички.,approved
+sasniegt,verb,Viņa ir ___ savu mērķi.,sasniegusi,Вона досягла своєї мети.,approved
+attīstīties,verb,Viņas karjera ___ ļoti ātri.,attīstās,Її кар'єра розвивається дуже швидко.,approved
+pārvarēt,verb,Viņš ___ grūtības.,pārvarēja,Він подолав труднощі.,approved
+iemācīties,verb,Es gribu ___ rakstīt ātrāk.,iemācīties,Я хочу навчитися писати швидше.,approved
+profesionāls,adj,Viņa ir ļoti ___ ārste.,profesionāla,Вона дуже професійна лікарка.,approved
+motivēts,adj,Viņš ir ___ students.,motivēts,Він мотивований студент.,approved
 laikapstākļi,noun,Kādi šodien ir ___?,laikapstākļi,Яка сьогодні погода?,pending
 saule,noun,___ spīd spoži.,Saule,Сонце світить яскраво.,pending
 lietus,noun,Ārā līst ___.,lietus,Надворі йде дощ.,pending
@@ -1027,6 +1097,52 @@ piesārņot,verb,Nedrīkst ___ upes.,piesārņot,Не можна забрудн�
 šķirot,verb,Mēs ___ atkritumus.,šķirojam,Ми сортуємо сміття.,approved
 mitrs,adj,Ziemā gaiss ir ___.,mitrs,Узимку повітря вологе.,approved
 dabisks,adj,Šī sula ir ___.,dabiska,Цей сік натуральний.,approved
+klimats,noun,Mūsu ___ kļūst siltāks.,klimats,Наш клімат стає теплішим.,approved
+piesārņojums,noun,Gaisa ___ ir liels.,piesārņojums,Забруднення повітря велике.,approved
+atkritumi,noun,Šos ___ vajag nodot pārstrādei.,atkritumus,Ці відходи треба здати на переробку.,approved
+reciklēšana,noun,Papīra ___ ir svarīga.,reciklēšana,Переробка паперу важлива.,approved
+ekoloģija,noun,Viņa studē ___.,ekoloģiju,Вона вивчає екологію.,approved
+sausums,noun,Šogad ir liels ___.,sausums,Цього року велика посуха.,approved
+plūdi,noun,Pēc lietus pilsētā bija ___.,plūdi,Після дощу в місті була повінь.,approved
+ūdenstilpe,noun,Ezers ir liela ___.,ūdenstilpe,Озеро — велика водойма.,approved
+pārstrādāt,verb,Plastmasu var ___.,pārstrādāt,Пластик можна переробляти.,approved
+samazināt,verb,Mēs gribam ___ CO2 izmešus.,samazināt,Ми хочемо зменшити викиди CO2.,approved
+saglabāt,verb,Mēs spējam ___ dabu nākamajām paaudzēm.,saglabāt,Ми маємо змогу зберегти природу для наступних поколінь.,approved
+ilgtspējīgs,adj,Viņi izmanto ___ enerģiju.,ilgtspējīgu,Вони використовують сталу енергію.,approved
+ekoloģisks,adj,Viņa pērk ___ produktus.,ekoloģiskus,Вона купує екологічні продукти.,approved
+piesārņots,adj,Upe ir ļoti ___.,piesārņota,Річка дуже забруднена.,approved
+vētrains,adj,Šodien ir ___ laiks ar lietu.,vētrains,Сьогодні бурхлива погода з дощем.,approved
+lietotne,noun,Es esmu lejupielādējis jaunu ___.,lietotni,Я завантажив новий застосунок.,approved
+dezinformācija,noun,Sociālajos tīklos izplatās ___.,dezinformācija,У соцмережах поширюється дезінформація.,approved
+drošība,noun,Interneta ___ ir svarīga.,drošība,Безпека в інтернеті важлива.,approved
+piekļuve,noun,Man nav ___ pie interneta.,piekļuves,У мене немає доступу до інтернету.,approved
+avots,noun,"Vienmēr norādiet ___, kad citējat ziņas.",avotu,"Завжди вказуйте джерело, коли цитуєте новини.",approved
+mediji,noun,Par šo notikumu runā visi ___.,mediji,Про цю подію говорять усі медіа.,approved
+kiberuzbrukums,noun,Banka piedzīvoja ___.,kiberuzbrukumu,Банк зазнав кібератаки.,approved
+noplūde,noun,Datu ___ skāra miljoniem lietotāju.,noplūde,Витік даних торкнувся мільйонів користувачів.,approved
+lejupielādēt,verb,Tu vari ___ šo failu bez maksas.,lejupielādēt,Ти можеш завантажити цей файл безкоштовно.,approved
+dalīties,verb,Nevajag internetā ___ ar personiskiem datiem.,dalīties,Не варто ділитися в інтернеті особистими даними.,approved
+pieslēgties,verb,"Lūdzu, ___ Wi-Fi tīklam.",pieslēgties,"Будь ласка, підключіться до Wi-Fi.",approved
+atjaunināt,verb,Telefons ___ programmu automātiski.,atjaunina,Телефон автоматично оновлює програму.,approved
+digitāls,adj,Mēs izmantojam ___ rīkus.,digitālus,Ми використовуємо цифрові інструменти.,approved
+nepatiess,adj,Šī ziņa ir ___.,nepatiesa,Ця новина неправдива.,approved
+muiža,noun,Vecā ___ tagad ir muzejs.,muiža,Стара садиба тепер — музей.,approved
+leģenda,noun,Šī ir sena latviešu ___.,leģenda,Це давня латиська легенда.,approved
+vēsture,noun,Man patīk Latvijas ___.,vēsture,Мені подобається історія Латвії.,approved
+mantojums,noun,Pils ir kultūras ___.,mantojums,Замок — частина культурної спадщини.,approved
+novads,noun,Kurzemes ___ ir skaists.,novads,Курземський край красивий.,approved
+tradīcija,noun,Ligo ir sena ___.,tradīcija,Ліго — давня традиція.,approved
+piemineklis,noun,Rīgā ir daudz ___.,pieminekļu,У Ризі багато пам'ятників.,approved
+purvs,noun,Ziemeļos ir liels ___.,purvs,На півночі є велике болото.,approved
+cietoksnis,noun,Turaidā ir vecs ___.,cietoksnis,У Турайді є стара фортеця.,approved
+atjaunot,verb,Pils tiek ___.,atjaunota,Замок відновлюють.,approved
+uzcelt,verb,Muižu ___ pirms simts gadiem.,uzcēla,Садибу збудували сто років тому.,approved
+pārdzīvot,verb,Pils ir ___ daudzus karus.,pārdzīvojusi,Замок пережив багато воєн.,approved
+vēsturisks,adj,Rīgas centrs ir ___.,vēsturisks,Центр Риги історичний.,approved
+leģendārs,adj,Šī ir ___ vieta.,leģendāra,Це легендарне місце.,approved
+nacionāls,adj,Gaujas ___ parks ir skaists.,nacionālais,Національний парк Гауя чудовий.,approved
+senatnīgs,adj,Pilsēta ir ___.,senatnīga,Місто старовинне.,approved
+pazīstams,adj,Šis parks ir ___ visiem.,pazīstams,Цей парк відомий усім.,approved
 nulle,num,Ūdens sasalst pie ___ grādiem.,nulles,Вода замерзає при нулі градусів.,pending
 viens,num,Man ir ___ brālis.,viens,У мене один брат.,pending
 divi,num,Man ir ___ bērni.,divi,У мене двоє дітей.,pending
@@ -1115,33 +1231,33 @@ valkāt,verb,Viņš mīl ___ melnu.,valkāt,Він любить носити ч�
 uzvilkt,verb,Es gribu ___ jaunu kleitu.,uzvilkt,Я хочу одягнути нову сукню.,pending
 novilkt,verb,"Lūdzu, ___ apavus.",novelciet,"Будь ласка, зніміть взуття.",pending
 derēt,verb,Šī kleita tev ļoti ___.,der,Ця сукня тобі дуже пасує.,pending
-drēbes,noun,Es mazgāju ___.,drēbes,Я перу одяг.,pending
-džinsi,noun,Viņš valkā zilus ___.,džinsus,Він носить сині джинси.,pending
-sandales,noun,Vasarā es valkāju ___.,sandales,Влітку я ношу сандалі.,pending
-josta,noun,Man vajag ___ pie biksēm.,jostu,Мені потрібен пасок до штанів.,pending
-kaklasaite,noun,Viņš valkā uzvalku un ___.,kaklasaiti,Він носить костюм і краватку.,pending
-uzvalks,noun,Viņam ir jauns ___.,uzvalks,У нього новий костюм.,pending
-pidžama,noun,Bērns guļ ___.,pidžamā,Дитина спить у піжамі.,pending
-peldkostīms,noun,Pludmalē es valkāju ___.,peldkostīmu,На пляжі я ношу купальник.,pending
-audums,noun,Šis ___ ir ļoti mīksts.,audums,Ця тканина дуже м'яка.,pending
-kokvilna,noun,Šis krekls ir no ___.,kokvilnas,Ця сорочка з бавовни.,pending
-vilna,noun,Šis džemperis ir no ___.,vilnas,Цей светр з вовни.,pending
-āda,noun,Šīs kurpes ir no ___.,ādas,Це взуття зі шкіри.,pending
-kabata,noun,Telefons ir manā ___.,kabatā,Телефон у моїй кишені.,pending
-poga,noun,Krekla ___ ir nokritusi.,poga,Гудзик на сорочці відірвався.,pending
-rāvējslēdzējs,noun,Jakai ir salūzis ___.,rāvējslēdzējs,У куртки зламалася блискавка.,pending
-mode,noun,Šī kleita ir pēc jaunākās ___.,modes,Ця сукня за останньою модою.,pending
-stils,noun,Man patīk viņas ___.,stils,Мені подобається її стиль.,pending
-saģērbties,verb,Es ātri ___.,saģērbjos,Я швидко одягаюся.,pending
-noģērbties,verb,Bērns grib ___.,noģērbties,Дитина хоче роздягнутися.,pending
-apāvt,verb,Es nevaru ___ jaunos apavus.,apāvt,Я не можу взути нове взуття.,pending
-šūt,verb,Mana mamma māk ___.,šūt,Моя мама вміє шити.,pending
-žāvēt,verb,Es ___ veļu uz balkona.,žāvēju,Я сушу білизну на балконі.,pending
-piestāvēt,verb,Šī krāsa tev ļoti ___.,piestāv,Цей колір тобі дуже личить.,pending
-moderns,adj,Šī jaka ir ļoti ___.,moderna,Ця куртка дуже модна.,pending
-elegants,adj,Viņš ir ļoti ___ vīrietis.,elegants,Він дуже елегантний чоловік.,pending
-raibs,adj,Viņai ir ___ šalle.,raiba,У неї строкатий шарф.,pending
-vienkrāsains,adj,Man patīk ___ krekli.,vienkrāsaini,Мені подобаються однотонні сорочки.,pending
+drēbes,noun,Es mazgāju ___.,drēbes,Я перу одяг.,approved
+džinsi,noun,Viņš valkā zilus ___.,džinsus,Він носить сині джинси.,approved
+sandales,noun,Vasarā es valkāju ___.,sandales,Влітку я ношу сандалі.,approved
+josta,noun,Man vajag ___ pie biksēm.,jostu,Мені потрібен пасок до штанів.,approved
+kaklasaite,noun,Viņš valkā uzvalku un ___.,kaklasaiti,Він носить костюм і краватку.,approved
+uzvalks,noun,Viņam ir jauns ___.,uzvalks,У нього новий костюм.,approved
+pidžama,noun,Bērns guļ ___.,pidžamā,Дитина спить у піжамі.,approved
+peldkostīms,noun,Pludmalē es valkāju ___.,peldkostīmu,На пляжі я ношу купальник.,approved
+audums,noun,Šis ___ ir ļoti mīksts.,audums,Ця тканина дуже м'яка.,approved
+kokvilna,noun,Šis krekls ir no ___.,kokvilnas,Ця сорочка з бавовни.,approved
+vilna,noun,Šis džemperis ir no ___.,vilnas,Цей светр з вовни.,approved
+āda,noun,Šīs kurpes ir no ___.,ādas,Це взуття зі шкіри.,approved
+kabata,noun,Telefons ir manā ___.,kabatā,Телефон у моїй кишені.,approved
+poga,noun,Krekla ___ ir nokritusi.,poga,Гудзик на сорочці відірвався.,approved
+rāvējslēdzējs,noun,Jakai ir salūzis ___.,rāvējslēdzējs,У куртки зламалася блискавка.,approved
+mode,noun,Šī kleita ir pēc jaunākās ___.,modes,Ця сукня за останньою модою.,approved
+stils,noun,Man patīk viņas ___.,stils,Мені подобається її стиль.,approved
+saģērbties,verb,Es ātri ___.,saģērbjos,Я швидко одягаюся.,approved
+noģērbties,verb,Bērns grib ___.,noģērbties,Дитина хоче роздягнутися.,approved
+apāvt,verb,Es nevaru ___ jaunos apavus.,apāvt,Я не можу взути нове взуття.,approved
+šūt,verb,Mana mamma māk ___.,šūt,Моя мама вміє шити.,approved
+žāvēt,verb,Es ___ veļu uz balkona.,žāvēju,Я сушу білизну на балконі.,approved
+piestāvēt,verb,Šī krāsa tev ļoti ___.,piestāv,Цей колір тобі дуже личить.,approved
+moderns,adj,Šī jaka ir ļoti ___.,moderna,Ця куртка дуже модна.,approved
+elegants,adj,Viņš ir ļoti ___ vīrietis.,elegants,Він дуже елегантний чоловік.,approved
+raibs,adj,Viņai ir ___ šalle.,raiba,У неї строкатий шарф.,approved
+vienkrāsains,adj,Man patīk ___ krekli.,vienkrāsaini,Мені подобаються однотонні сорочки.,approved
 dzīvnieks,noun,Lauva ir bīstams ___.,dzīvnieks,Лев — небезпечна тварина.,pending
 suns,noun,Mans ___ ir ļoti draudzīgs.,suns,Мій пес дуже дружній.,pending
 kaķis,noun,Mans ___ guļ uz dīvāna.,kaķis,Мій кіт спить на дивані.,pending
@@ -1168,94 +1284,94 @@ glāstīt,verb,Bērns ___ kaķi.,glāsta,Дитина гладить кота.,p
 kopt,verb,Zemnieks ___ dzīvniekus.,kopj,Фермер доглядає тварин.,pending
 ganīt,verb,Zēns ___ govis.,gana,Хлопчик пасе корів.,pending
 slaukt,verb,Zemniece ___ govi.,slauc,Фермерка доїть корову.,pending
-zvērs,noun,Mežā dzīvo daudz ___.,zvēru,У лісі живе багато звірів.,pending
-lācis,noun,___ ziemā guļ.,Lācis,Ведмідь узимку спить.,pending
-vilks,noun,___ dzīvo mežā.,Vilks,Вовк живе в лісі.,pending
-lapsa,noun,___ ir viltīga.,Lapsa,Лисиця хитра.,pending
-zaķis,noun,Ātrs ___ skrien pa pļavu.,zaķis,Швидкий заєць біжить по лузі.,pending
-ezis,noun,Mežā mēs redzējām ___.,ezi,У лісі ми бачили їжака.,pending
-briedis,noun,Mežā dzīvo ___.,briedis,У лісі живе олень.,pending
-alnis,noun,___ ir liels dzīvnieks.,Alnis,Лось — велика тварина.,pending
-mežacūka,noun,Mežā var sastapt ___.,mežacūku,У лісі можна зустріти дикого кабана.,pending
-vāvere,noun,___ kāpj kokā.,Vāvere,Білка лізе на дерево.,pending
-žurka,noun,___ dzīvo pagrabā.,Žurka,Щур живе в підвалі.,pending
-ērglis,noun,___ lido augstu.,Ērglis,Орел літає високо.,pending
-pūce,noun,___ medī naktī.,Pūce,Сова полює вночі.,pending
-gulbis,noun,Ezerā peld balts ___.,gulbis,На озері пливе білий лебідь.,pending
-stārķis,noun,___ dzīvo uz jumta.,Stārķis,Лелека живе на даху.,pending
-strazds,noun,Dārzā dzied ___.,strazds,У саду співає дрізд.,pending
-zvirbulis,noun,___ ir mazs putns.,Zvirbulis,Горобець — маленький птах.,pending
-vārna,noun,Uz koka sēž melna ___.,vārna,На дереві сидить чорна ворона.,pending
-dzenis,noun,___ dauza koku.,Dzenis,Дятел довбе дерево.,pending
-dzērve,noun,___ lido uz dienvidiem.,Dzērve,Журавель летить на південь.,pending
-gailis,noun,___ dzied no rīta.,Gailis,Півень співає зранку.,pending
-kukainis,noun,Bite ir ___.,kukainis,Бджола — комаха.,pending
-bite,noun,___ dod medu.,Bite,Бджола дає мед.,pending
-tauriņš,noun,Dārzā lido ___.,tauriņš,У саду літає метелик.,pending
-skudra,noun,___ ir ļoti strādīga.,Skudra,Мурашка дуже працьовита.,pending
-muša,noun,Virtuvē lido ___.,muša,На кухні літає муха.,pending
-ods,noun,Vasarā mežā ir daudz ___.,odu,Влітку в лісі багато комарів.,pending
-zirneklis,noun,Stūrī sēž ___.,zirneklis,У куті сидить павук.,pending
-odze,noun,Mežā ir ___.,odze,У лісі є гадюка.,pending
-čūska,noun,Es baidos no ___.,čūskām,Я боюся змій.,pending
-varde,noun,Dīķī lēkā ___.,varde,У ставку стрибає жаба.,pending
-krupis,noun,___ dzīvo dārzā.,Krupis,Ропуха живе в саду.,pending
-bruņurupucis,noun,___ iet ļoti lēni.,Bruņurupucis,Черепаха йде дуже повільно.,pending
-zilonis,noun,___ ir ļoti liels.,Zilonis,Слон дуже великий.,pending
-lauva,noun,___ ir ļoti bīstams zvērs.,Lauva,Лев — дуже небезпечний звір.,pending
-tīģeris,noun,___ dzīvo Āzijā.,Tīģeris,Тигр живе в Азії.,pending
-pērtiķis,noun,___ ēd banānus.,Pērtiķis,Мавпа їсть банани.,pending
-žirafe,noun,___ ir garš kakls.,Žirafei,У жирафи довга шия.,pending
-delfīns,noun,___ ir gudrs dzīvnieks.,Delfīns,Дельфін — розумна тварина.,pending
-valis,noun,___ ir lielākais dzīvnieks.,Valis,Кит — найбільша тварина.,pending
-haizivs,noun,___ ir bīstama zivs.,Haizivs,Акула — небезпечна риба.,pending
-ķengurs,noun,___ lēkā ļoti tālu.,Ķengurs,Кенгуру стрибає дуже далеко.,pending
-medīt,verb,Vilks ___ naktī.,medī,Вовк полює вночі.,pending
-rāpot,verb,Čūska ___.,rāpo,Змія повзе.,pending
-dzelt,verb,Bite var ___.,dzelt,Бджола може вжалити.,pending
-kost,verb,Suns var ___.,kost,Пес може вкусити.,pending
-mežonīgs,adj,Vilks ir ___ dzīvnieks.,mežonīgs,Вовк — дикий звір.,pending
-savvaļas,adj,Šeit dzīvo ___ dzīvnieki.,savvaļas,Тут живуть дикі тварини.,pending
-bīstams,adj,Šis suns ir ___.,bīstams,Цей пес небезпечний.,pending
-profesija,noun,Kāda ir jūsu ___?,profesija,Яка ваша професія?,pending
-skolotāja,noun,Mana mamma ir ___.,skolotāja,Моя мама — вчителька.,pending
-farmaceits,noun,___ aptiekā pārdod zāles.,Farmaceits,Фармацевт в аптеці продає ліки.,pending
-advokāts,noun,Viņš ir labs ___.,advokāts,Він хороший адвокат.,pending
-tiesnesis,noun,___ pieņem lēmumu.,Tiesnesis,Суддя ухвалює рішення.,pending
-policists,noun,___ pārbauda dokumentus.,Policists,Поліцейський перевіряє документи.,pending
-ugunsdzēsējs,noun,___ dzēš uguni.,Ugunsdzēsējs,Пожежник гасить вогонь.,pending
-kareivis,noun,___ dien armijā.,Kareivis,Солдат служить в армії.,pending
-kasieris,noun,___ veikalā pieņem naudu.,Kasieris,Касир у магазині приймає гроші.,pending
-frizieris,noun,___ griež matus.,Frizieris,Перукар стриже волосся.,pending
-pilots,noun,___ vada lidmašīnu.,Pilots,Пілот керує літаком.,pending
-stjuarte,noun,___ lidmašīnā nes ēdienu.,Stjuarte,Бортпровідниця в літаку несе їжу.,pending
-pavārs,noun,___ gatavo ēdienu restorānā.,Pavārs,Кухар готує їжу в ресторані.,pending
-bārmenis,noun,___ pagatavo dzērienu.,Bārmenis,Бармен готує напій.,pending
-celtnieks,noun,___ būvē māju.,Celtnieks,Будівельник будує будинок.,pending
-elektriķis,noun,___ salaboja lampu.,Elektriķis,Електрик полагодив лампу.,pending
-santehniķis,noun,___ salaboja krānu.,Santehniķis,Сантехнік полагодив кран.,pending
-mehāniķis,noun,___ labo automašīnu.,Mehāniķis,Механік ремонтує автомобіль.,pending
-inženieris,noun,Mans tēvs ir ___.,inženieris,Мій батько — інженер.,pending
-programmētājs,noun,___ raksta programmas.,Programmētājs,Програміст пише програми.,pending
-grāmatvedis,noun,___ strādā ar skaitļiem.,Grāmatvedis,Бухгалтер працює з числами.,pending
-sekretāre,noun,___ atbild uz zvaniem.,Sekretāre,Секретарка відповідає на дзвінки.,pending
-direktors,noun,Mūsu ___ ir ļoti stingrs.,direktors,Наш директор дуже суворий.,pending
-menedžeris,noun,___ vada komandu.,Menedžeris,Менеджер керує командою.,pending
-žurnālists,noun,___ raksta rakstus.,Žurnālists,Журналіст пише статті.,pending
-aktieris,noun,___ spēlē teātrī.,Aktieris,Актор грає в театрі.,pending
-mākslinieks,noun,___ glezno gleznas.,Mākslinieks,Художник малює картини.,pending
-mūziķis,noun,___ spēlē ģitāru.,Mūziķis,Музикант грає на гітарі.,pending
-rakstnieks,noun,___ raksta grāmatas.,Rakstnieks,Письменник пише книжки.,pending
-zinātnieks,noun,___ pēta dabu.,Zinātnieks,Науковець досліджує природу.,pending
-lauksaimnieks,noun,___ audzē kviešus.,Lauksaimnieks,Землероб вирощує пшеницю.,pending
-zvejnieks,noun,___ zvejo jūrā.,Zvejnieks,Рибалка ловить рибу в морі.,pending
-bibliotekārs,noun,___ strādā bibliotēkā.,Bibliotekārs,Бібліотекар працює в бібліотеці.,pending
-tulks,noun,___ tulko no angļu valodas.,Tulks,Перекладач перекладає з англійської мови.,pending
-arhitekts,noun,___ zīmē mājas.,Arhitekts,Архітектор проєктує будинки.,pending
-dizainers,noun,___ izdomā jaunu apģērbu.,Dizainers,Дизайнер вигадує новий одяг.,pending
-darba devējs,phrase,___ maksā algu.,Darba devējs,Роботодавець платить зарплату.,pending
-nodarboties,verb,Ar ko jūs ___?,nodarbojaties,Чим ви займаєтеся?,pending
-būvēt,verb,Viņi ___ jaunu māju.,būvē,Вони будують новий будинок.,pending
+zvērs,noun,Mežā dzīvo daudz ___.,zvēru,У лісі живе багато звірів.,approved
+lācis,noun,___ ziemā guļ.,Lācis,Ведмідь узимку спить.,approved
+vilks,noun,___ dzīvo mežā.,Vilks,Вовк живе в лісі.,approved
+lapsa,noun,___ ir viltīga.,Lapsa,Лисиця хитра.,approved
+zaķis,noun,Ātrs ___ skrien pa pļavu.,zaķis,Швидкий заєць біжить по лузі.,approved
+ezis,noun,Mežā mēs redzējām ___.,ezi,У лісі ми бачили їжака.,approved
+briedis,noun,Mežā dzīvo ___.,briedis,У лісі живе олень.,approved
+alnis,noun,___ ir liels dzīvnieks.,Alnis,Лось — велика тварина.,approved
+mežacūka,noun,Mežā var sastapt ___.,mežacūku,У лісі можна зустріти дикого кабана.,approved
+vāvere,noun,___ kāpj kokā.,Vāvere,Білка лізе на дерево.,approved
+žurka,noun,___ dzīvo pagrabā.,Žurka,Щур живе в підвалі.,approved
+ērglis,noun,___ lido augstu.,Ērglis,Орел літає високо.,approved
+pūce,noun,___ medī naktī.,Pūce,Сова полює вночі.,approved
+gulbis,noun,Ezerā peld balts ___.,gulbis,На озері пливе білий лебідь.,approved
+stārķis,noun,___ dzīvo uz jumta.,Stārķis,Лелека живе на даху.,approved
+strazds,noun,Dārzā dzied ___.,strazds,У саду співає дрізд.,approved
+zvirbulis,noun,___ ir mazs putns.,Zvirbulis,Горобець — маленький птах.,approved
+vārna,noun,Uz koka sēž melna ___.,vārna,На дереві сидить чорна ворона.,approved
+dzenis,noun,___ dauza koku.,Dzenis,Дятел довбе дерево.,approved
+dzērve,noun,___ lido uz dienvidiem.,Dzērve,Журавель летить на південь.,approved
+gailis,noun,___ dzied no rīta.,Gailis,Півень співає зранку.,approved
+kukainis,noun,Bite ir ___.,kukainis,Бджола — комаха.,approved
+bite,noun,___ dod medu.,Bite,Бджола дає мед.,approved
+tauriņš,noun,Dārzā lido ___.,tauriņš,У саду літає метелик.,approved
+skudra,noun,___ ir ļoti strādīga.,Skudra,Мурашка дуже працьовита.,approved
+muša,noun,Virtuvē lido ___.,muša,На кухні літає муха.,approved
+ods,noun,Vasarā mežā ir daudz ___.,odu,Влітку в лісі багато комарів.,approved
+zirneklis,noun,Stūrī sēž ___.,zirneklis,У куті сидить павук.,approved
+odze,noun,Mežā ir ___.,odze,У лісі є гадюка.,approved
+čūska,noun,Es baidos no ___.,čūskām,Я боюся змій.,approved
+varde,noun,Dīķī lēkā ___.,varde,У ставку стрибає жаба.,approved
+krupis,noun,___ dzīvo dārzā.,Krupis,Ропуха живе в саду.,approved
+bruņurupucis,noun,___ iet ļoti lēni.,Bruņurupucis,Черепаха йде дуже повільно.,approved
+zilonis,noun,___ ir ļoti liels.,Zilonis,Слон дуже великий.,approved
+lauva,noun,___ ir ļoti bīstams zvērs.,Lauva,Лев — дуже небезпечний звір.,approved
+tīģeris,noun,___ dzīvo Āzijā.,Tīģeris,Тигр живе в Азії.,approved
+pērtiķis,noun,___ ēd banānus.,Pērtiķis,Мавпа їсть банани.,approved
+žirafe,noun,___ ir garš kakls.,Žirafei,У жирафи довга шия.,approved
+delfīns,noun,___ ir gudrs dzīvnieks.,Delfīns,Дельфін — розумна тварина.,approved
+valis,noun,___ ir lielākais dzīvnieks.,Valis,Кит — найбільша тварина.,approved
+haizivs,noun,___ ir bīstama zivs.,Haizivs,Акула — небезпечна риба.,approved
+ķengurs,noun,___ lēkā ļoti tālu.,Ķengurs,Кенгуру стрибає дуже далеко.,approved
+medīt,verb,Vilks ___ naktī.,medī,Вовк полює вночі.,approved
+rāpot,verb,Čūska ___.,rāpo,Змія повзе.,approved
+dzelt,verb,Bite var ___.,dzelt,Бджола може вжалити.,approved
+kost,verb,Suns var ___.,kost,Пес може вкусити.,approved
+mežonīgs,adj,Vilks ir ___ dzīvnieks.,mežonīgs,Вовк — дикий звір.,approved
+savvaļas,adj,Šeit dzīvo ___ dzīvnieki.,savvaļas,Тут живуть дикі тварини.,approved
+bīstams,adj,Šis suns ir ___.,bīstams,Цей пес небезпечний.,approved
+profesija,noun,Kāda ir jūsu ___?,profesija,Яка ваша професія?,approved
+skolotāja,noun,Mana mamma ir ___.,skolotāja,Моя мама — вчителька.,approved
+farmaceits,noun,___ aptiekā pārdod zāles.,Farmaceits,Фармацевт в аптеці продає ліки.,approved
+advokāts,noun,Viņš ir labs ___.,advokāts,Він хороший адвокат.,approved
+tiesnesis,noun,___ pieņem lēmumu.,Tiesnesis,Суддя ухвалює рішення.,approved
+policists,noun,___ pārbauda dokumentus.,Policists,Поліцейський перевіряє документи.,approved
+ugunsdzēsējs,noun,___ dzēš uguni.,Ugunsdzēsējs,Пожежник гасить вогонь.,approved
+kareivis,noun,___ dien armijā.,Kareivis,Солдат служить в армії.,approved
+kasieris,noun,___ veikalā pieņem naudu.,Kasieris,Касир у магазині приймає гроші.,approved
+frizieris,noun,___ griež matus.,Frizieris,Перукар стриже волосся.,approved
+pilots,noun,___ vada lidmašīnu.,Pilots,Пілот керує літаком.,approved
+stjuarte,noun,___ lidmašīnā nes ēdienu.,Stjuarte,Бортпровідниця в літаку несе їжу.,approved
+pavārs,noun,___ gatavo ēdienu restorānā.,Pavārs,Кухар готує їжу в ресторані.,approved
+bārmenis,noun,___ pagatavo dzērienu.,Bārmenis,Бармен готує напій.,approved
+celtnieks,noun,___ būvē māju.,Celtnieks,Будівельник будує будинок.,approved
+elektriķis,noun,___ salaboja lampu.,Elektriķis,Електрик полагодив лампу.,approved
+santehniķis,noun,___ salaboja krānu.,Santehniķis,Сантехнік полагодив кран.,approved
+mehāniķis,noun,___ labo automašīnu.,Mehāniķis,Механік ремонтує автомобіль.,approved
+inženieris,noun,Mans tēvs ir ___.,inženieris,Мій батько — інженер.,approved
+programmētājs,noun,___ raksta programmas.,Programmētājs,Програміст пише програми.,approved
+grāmatvedis,noun,___ strādā ar skaitļiem.,Grāmatvedis,Бухгалтер працює з числами.,approved
+sekretāre,noun,___ atbild uz zvaniem.,Sekretāre,Секретарка відповідає на дзвінки.,approved
+direktors,noun,Mūsu ___ ir ļoti stingrs.,direktors,Наш директор дуже суворий.,approved
+menedžeris,noun,___ vada komandu.,Menedžeris,Менеджер керує командою.,approved
+žurnālists,noun,___ raksta rakstus.,Žurnālists,Журналіст пише статті.,approved
+aktieris,noun,___ spēlē teātrī.,Aktieris,Актор грає в театрі.,approved
+mākslinieks,noun,___ glezno gleznas.,Mākslinieks,Художник малює картини.,approved
+mūziķis,noun,___ spēlē ģitāru.,Mūziķis,Музикант грає на гітарі.,approved
+rakstnieks,noun,___ raksta grāmatas.,Rakstnieks,Письменник пише книжки.,approved
+zinātnieks,noun,___ pēta dabu.,Zinātnieks,Науковець досліджує природу.,approved
+lauksaimnieks,noun,___ audzē kviešus.,Lauksaimnieks,Землероб вирощує пшеницю.,approved
+zvejnieks,noun,___ zvejo jūrā.,Zvejnieks,Рибалка ловить рибу в морі.,approved
+bibliotekārs,noun,___ strādā bibliotēkā.,Bibliotekārs,Бібліотекар працює в бібліотеці.,approved
+tulks,noun,___ tulko no angļu valodas.,Tulks,Перекладач перекладає з англійської мови.,approved
+arhitekts,noun,___ zīmē mājas.,Arhitekts,Архітектор проєктує будинки.,approved
+dizainers,noun,___ izdomā jaunu apģērbu.,Dizainers,Дизайнер вигадує новий одяг.,approved
+darba devējs,phrase,___ maksā algu.,Darba devējs,Роботодавець платить зарплату.,approved
+nodarboties,verb,Ar ko jūs ___?,nodarbojaties,Чим ви займаєтеся?,approved
+būvēt,verb,Viņi ___ jaunu māju.,būvē,Вони будують новий будинок.,approved
 tas,pron,___ ir mans suns.,Tas,Це мій пес.,pending
 kas,pron,___ tas ir?,Kas,Хто це?,pending
 kurš,pron,___ autobuss iet uz centru?,Kurš,Який автобус їде до центру?,pending
@@ -1327,69 +1443,69 @@ ne,part,"Tā ir ___ kafija, bet tēja.",ne,"Це не кава, а чай.",pend
 nu,part,"___, tad iesim!",Nu,"Ну, тоді ходімо!",pending
 arī,part,Es ___ gribu kafiju.,arī,Я теж хочу каву.,pending
 vai,part,___ jūs runājat latviski?,Vai,Чи розмовляєте ви латиською?,pending
-kāda,pron,___ jauka diena!,Kāda,Який чудовий день!,pending
-neko,pron,Es ___ nesaprotu.,neko,Я нічого не розумію.,pending
-nevienu,pron,Es šeit ___ nepazīstu.,nevienu,Я тут нікого не знаю.,pending
-dažs,pron,___ cilvēki nemīl kafiju.,Daži,Деякі люди не люблять каву.,pending
-abi,pron,Mēs ___ esam studenti.,abi,Ми обидва студенти.,pending
-pati,pron,Viņa visu dara ___.,pati,Вона все робить сама.,pending
-sevis,pron,Viņš domā tikai par ___.,sevi,Він думає лише про себе.,pending
-tāpat,pron,Es ___ došos uz Rīgu.,tāpat,Я все одно поїду до Риги.,pending
-dēļ,prep,Es kavēju lietus ___.,dēļ,Я запізнився через дощ.,pending
-caur,prep,Mēs ejam ___ parku.,caur,Ми йдемо через парк.,pending
-apkārt,prep,___ mājai ir dārzs.,Apkārt,Навколо будинку є сад.,pending
-priekš,prep,Šī dāvana ir ___ tevis.,priekš,Цей подарунок для тебе.,pending
-ārpus,prep,Mēs dzīvojam ___ pilsētas.,ārpus,Ми живемо за містом.,pending
-garām,prep,Autobuss brauc ___ mūsu mājai.,garām,Автобус проїжджає повз наш будинок.,pending
-pāri,prep,Tilts ir ___ upei.,pāri,Міст через річку.,pending
-cauri,prep,Gaisma spīd ___ logam.,cauri,Світло світить крізь вікно.,pending
-tomēr,conj,"Ir auksts, ___ mēs ejam pastaigāties.",tomēr,"Холодно, проте ми йдемо гуляти.",pending
-tātad,conj,"Tu esi slims, ___ paliec mājās.",tātad,"Ти хворий, отже залишайся вдома.",pending
-tāpēc,conj,"Es esmu noguris, ___ eju gulēt.",tāpēc,"Я втомлений, тому йду спати.",pending
-kamēr,conj,"___ es gatavoju, tu vari skatīties televizoru.",Kamēr,"Поки я готую, ти можеш дивитися телевізор.",pending
-nevis,conj,"Es dzeru tēju, ___ kafiju.",nevis,"Я п'ю чай, а не каву.",pending
-taču,conj,"Viņš ir mazs, ___ ļoti gudrs.",taču,"Він маленький, але дуже розумний.",pending
-gan,conj,"Man garšo ___ tēja, gan kafija.",gan,"Мені смакує і чай, і кава.",pending
-nekā,conj,Šodien ir siltāks ___ vakar.,nekā,"Сьогодні тепліше, ніж учора.",pending
-prom,adv,Viņš aizbrauca ___.,prom,Він поїхав геть.,pending
-ilgi,adv,Es ___ gaidīju autobusu.,ilgi,Я довго чекав автобус.,pending
-vienkārši,adv,Tas ir ___.,vienkārši,Це просто.,pending
-joprojām,adv,Viņš ___ strādā.,joprojām,Він досі працює.,pending
-tikko,adv,Es ___ atnācu.,tikko,Я щойно прийшов.,pending
-līdzi,adv,Neaizmirstiet paņemt ___ pasi.,līdzi,Не забудьте взяти з собою паспорт.,pending
-žēl,adv,"Man ir ___, ka tu aizbrauc.",žēl,"Мені шкода, що ти їдеш.",pending
-diezgan,adv,Šodien ir ___ auksts.,diezgan,Сьогодні досить холодно.,pending
-pārāk,adv,Šī kafija ir ___ karsta.,pārāk,Ця кава занадто гаряча.,pending
-nedaudz,adv,Es runāju latviski ___.,nedaudz,Я трохи розмовляю латиською.,pending
-vēlreiz,adv,"Lūdzu, pasakiet ___.",vēlreiz,"Будь ласка, скажіть ще раз.",pending
-vienalga,adv,Man ir ___.,vienalga,Мені все одно.,pending
-vispār,adv,Es ___ neēdu gaļu.,vispār,Я взагалі не їм м'яса.,pending
-nemaz,adv,Es to ___ nezināju.,nemaz,Я цього зовсім не знав.,pending
-pavisam,adv,Tas ir ___ cits jautājums.,pavisam,Це зовсім інше питання.,pending
-pilnīgi,adv,Es ___ piekrītu.,pilnīgi,Я повністю згоден.,pending
-kādreiz,adv,___ es dzīvoju laukos.,Kādreiz,Колись я жив на селі.,pending
-šobrīd,adv,___ es esmu aizņemts.,Šobrīd,Зараз я зайнятий.,pending
-klāt,adv,Viņš jau ir ___.,klāt,Він уже тут.,pending
-nost,adv,Ejiet ___ no loga!,nost,Відійдіть від вікна!,pending
-vismaz,adv,Ēdiet ___ nedaudz.,vismaz,Їжте принаймні трохи.,pending
-gandrīz,adv,Es ___ nokavēju vilcienu.,gandrīz,Я майже запізнився на поїзд.,pending
-vairs,adv,Es ___ nevaru.,vairs,Я вже не можу.,pending
-tieši,adv,"Tas ir ___ tas, ko vajag.",tieši,"Це саме те, що потрібно.",pending
-kādēļ,adv,___ jūs nenācāt?,Kādēļ,Чому ви не прийшли?,pending
-pēkšņi,adv,___ sāka līt.,Pēkšņi,Раптом почався дощ.,pending
-galvenokārt,adv,Es ēdu ___ dārzeņus.,galvenokārt,Я їм переважно овочі.,pending
-īpaši,adv,Man ___ patīk šokolāde.,īpaši,Мені особливо подобається шоколад.,pending
-diemžēl,adv,___ es nevaru atnākt.,Diemžēl,"На жаль, я не можу прийти.",pending
-varbūt,part,___ rīt līs lietus.,Varbūt,"Можливо, завтра піде дощ.",pending
-protams,part,"___, es palīdzēšu.",Protams,"Звичайно, я допоможу.",pending
-tiešām,part,Vai tas ___ ir tiesa?,tiešām,Чи це справді правда?,pending
-tieši,part,___ šodien man ir dzimšanas diena.,Tieši,Саме сьогодні в мене день народження.,pending
-vien,part,Es ___ gribēju pajautāt.,vien,Я лише хотів запитати.,pending
-laikam,part,Viņš ___ ir slims.,laikam,"Він, певно, хворий.",pending
-pat,part,___ bērns to var.,Pat,Навіть дитина це може.,pending
-taču,part,Tu ___ zini!,taču,Ти ж знаєш!,pending
-tomēr,part,Es ___ gribu iet.,tomēr,Я все ж хочу піти.,pending
-patiešām,part,Tā ___ ir laba ideja.,patiešām,Це справді гарна ідея.,pending
+kāda,pron,___ jauka diena!,Kāda,Який чудовий день!,approved
+neko,pron,Es ___ nesaprotu.,neko,Я нічого не розумію.,approved
+nevienu,pron,Es šeit ___ nepazīstu.,nevienu,Я тут нікого не знаю.,approved
+dažs,pron,___ cilvēki nemīl kafiju.,Daži,Деякі люди не люблять каву.,approved
+abi,pron,Mēs ___ esam studenti.,abi,Ми обидва студенти.,approved
+pati,pron,Viņa visu dara ___.,pati,Вона все робить сама.,approved
+sevis,pron,Viņš domā tikai par ___.,sevi,Він думає лише про себе.,approved
+tāpat,pron,Es ___ došos uz Rīgu.,tāpat,Я все одно поїду до Риги.,approved
+dēļ,prep,Es kavēju lietus ___.,dēļ,Я запізнився через дощ.,approved
+caur,prep,Mēs ejam ___ parku.,caur,Ми йдемо через парк.,approved
+apkārt,prep,___ mājai ir dārzs.,Apkārt,Навколо будинку є сад.,approved
+priekš,prep,Šī dāvana ir ___ tevis.,priekš,Цей подарунок для тебе.,approved
+ārpus,prep,Mēs dzīvojam ___ pilsētas.,ārpus,Ми живемо за містом.,approved
+garām,prep,Autobuss brauc ___ mūsu mājai.,garām,Автобус проїжджає повз наш будинок.,approved
+pāri,prep,Tilts ir ___ upei.,pāri,Міст через річку.,approved
+cauri,prep,Gaisma spīd ___ logam.,cauri,Світло світить крізь вікно.,approved
+tomēr,conj,"Ir auksts, ___ mēs ejam pastaigāties.",tomēr,"Холодно, проте ми йдемо гуляти.",approved
+tātad,conj,"Tu esi slims, ___ paliec mājās.",tātad,"Ти хворий, отже залишайся вдома.",approved
+tāpēc,conj,"Es esmu noguris, ___ eju gulēt.",tāpēc,"Я втомлений, тому йду спати.",approved
+kamēr,conj,"___ es gatavoju, tu vari skatīties televizoru.",Kamēr,"Поки я готую, ти можеш дивитися телевізор.",approved
+nevis,conj,"Es dzeru tēju, ___ kafiju.",nevis,"Я п'ю чай, а не каву.",approved
+taču,conj,"Viņš ir mazs, ___ ļoti gudrs.",taču,"Він маленький, але дуже розумний.",approved
+gan,conj,"Man garšo ___ tēja, gan kafija.",gan,"Мені смакує і чай, і кава.",approved
+nekā,conj,Šodien ir siltāks ___ vakar.,nekā,"Сьогодні тепліше, ніж учора.",approved
+prom,adv,Viņš aizbrauca ___.,prom,Він поїхав геть.,approved
+ilgi,adv,Es ___ gaidīju autobusu.,ilgi,Я довго чекав автобус.,approved
+vienkārši,adv,Tas ir ___.,vienkārši,Це просто.,approved
+joprojām,adv,Viņš ___ strādā.,joprojām,Він досі працює.,approved
+tikko,adv,Es ___ atnācu.,tikko,Я щойно прийшов.,approved
+līdzi,adv,Neaizmirstiet paņemt ___ pasi.,līdzi,Не забудьте взяти з собою паспорт.,approved
+žēl,adv,"Man ir ___, ka tu aizbrauc.",žēl,"Мені шкода, що ти їдеш.",approved
+diezgan,adv,Šodien ir ___ auksts.,diezgan,Сьогодні досить холодно.,approved
+pārāk,adv,Šī kafija ir ___ karsta.,pārāk,Ця кава занадто гаряча.,approved
+nedaudz,adv,Es runāju latviski ___.,nedaudz,Я трохи розмовляю латиською.,approved
+vēlreiz,adv,"Lūdzu, pasakiet ___.",vēlreiz,"Будь ласка, скажіть ще раз.",approved
+vienalga,adv,Man ir ___.,vienalga,Мені все одно.,approved
+vispār,adv,Es ___ neēdu gaļu.,vispār,Я взагалі не їм м'яса.,approved
+nemaz,adv,Es to ___ nezināju.,nemaz,Я цього зовсім не знав.,approved
+pavisam,adv,Tas ir ___ cits jautājums.,pavisam,Це зовсім інше питання.,approved
+pilnīgi,adv,Es ___ piekrītu.,pilnīgi,Я повністю згоден.,approved
+kādreiz,adv,___ es dzīvoju laukos.,Kādreiz,Колись я жив на селі.,approved
+šobrīd,adv,___ es esmu aizņemts.,Šobrīd,Зараз я зайнятий.,approved
+klāt,adv,Viņš jau ir ___.,klāt,Він уже тут.,approved
+nost,adv,Ejiet ___ no loga!,nost,Відійдіть від вікна!,approved
+vismaz,adv,Ēdiet ___ nedaudz.,vismaz,Їжте принаймні трохи.,approved
+gandrīz,adv,Es ___ nokavēju vilcienu.,gandrīz,Я майже запізнився на поїзд.,approved
+vairs,adv,Es ___ nevaru.,vairs,Я вже не можу.,approved
+tieši,adv,"Tas ir ___ tas, ko vajag.",tieši,"Це саме те, що потрібно.",approved
+kādēļ,adv,___ jūs nenācāt?,Kādēļ,Чому ви не прийшли?,approved
+pēkšņi,adv,___ sāka līt.,Pēkšņi,Раптом почався дощ.,approved
+galvenokārt,adv,Es ēdu ___ dārzeņus.,galvenokārt,Я їм переважно овочі.,approved
+īpaši,adv,Man ___ patīk šokolāde.,īpaši,Мені особливо подобається шоколад.,approved
+diemžēl,adv,___ es nevaru atnākt.,Diemžēl,"На жаль, я не можу прийти.",approved
+varbūt,part,___ rīt līs lietus.,Varbūt,"Можливо, завтра піде дощ.",approved
+protams,part,"___, es palīdzēšu.",Protams,"Звичайно, я допоможу.",approved
+tiešām,part,Vai tas ___ ir tiesa?,tiešām,Чи це справді правда?,approved
+tieši,part,___ šodien man ir dzimšanas diena.,Tieši,Саме сьогодні в мене день народження.,approved
+vien,part,Es ___ gribēju pajautāt.,vien,Я лише хотів запитати.,approved
+laikam,part,Viņš ___ ir slims.,laikam,"Він, певно, хворий.",approved
+pat,part,___ bērns to var.,Pat,Навіть дитина це може.,approved
+taču,part,Tu ___ zini!,taču,Ти ж знаєш!,approved
+tomēr,part,Es ___ gribu iet.,tomēr,Я все ж хочу піти.,approved
+patiešām,part,Tā ___ ir laba ideja.,patiešām,Це справді гарна ідея.,approved
 varēt,verb,Es ___ jums palīdzēt.,varu,Я можу вам допомогти.,pending
 darīt,verb,Ko tu šodien ___?,dari,Що ти сьогодні робиш?,pending
 domāt,verb,"Es ___, ka tas ir labi.",domāju,"Я думаю, що це добре.",pending
@@ -1419,52 +1535,52 @@ tikt,verb,Vai jūs varat ___ līdz stacijai?,tikt,Чи можете ви діс�
 mēģināt,verb,Es ___ runāt latviski.,mēģinu,Я намагаюся говорити латиською.,pending
 izmantot,verb,Es ___ vārdnīcu.,izmantoju,Я користуюся словником.,pending
 drīkstēt,verb,Vai es ___ ieiet?,drīkstu,Чи можна мені зайти?,pending
-sacīt,verb,Viņš ___ patiesību.,sacīja,Він сказав правду.,pending
-nozīmēt,verb,Ko šis vārds ___?,nozīmē,Що означає це слово?,pending
-ticēt,verb,Es tev ___.,ticu,Я тобі вірю.,pending
-censties,verb,Es ļoti ___.,cenšos,Я дуже стараюся.,pending
-izdoties,verb,Man ___ nokārtot eksāmenu.,izdevās,Мені вдалося скласти іспит.,pending
-cerēt,verb,"Es ___, ka tu atnāksi.",ceru,"Я сподіваюся, що ти прийдеш.",pending
-ierasties,verb,Vilciens ___ laikā.,ierodas,Поїзд прибуває вчасно.,pending
-atstāt,verb,Es ___ somu mājās.,atstāju,Я залишив сумку вдома.,pending
-turpināt,verb,Mēs ___ mācīties.,turpinām,Ми продовжуємо вчитися.,pending
-likties,verb,"Man ___, ka tas ir labi.",liekas,"Мені здається, що це добре.",pending
-pieņemt,verb,Es ___ jūsu piedāvājumu.,pieņemu,Я приймаю вашу пропозицію.,pending
-pārliecināt,verb,Es gribu viņu ___.,pārliecināt,Я хочу його переконати.,pending
-apsolīt,verb,Es ___ atnākt.,apsolu,Я обіцяю прийти.,pending
-pastāstīt,verb,Vai varat man ___ par Rīgu?,pastāstīt,Чи можете ви розповісти мені про Ригу?,pending
-stāstīt,verb,Vecmāmiņa mums ___ pasakas.,stāsta,Бабуся розповідає нам казки.,pending
-uzskatīt,verb,Es ___ to par labu ideju.,uzskatu,Я вважаю це гарною ідеєю.,pending
-sekot,verb,"Lūdzu, ___ man.",sekojiet,"Будь ласка, йдіть за мною.",pending
-piederēt,verb,Šī grāmata ___ man.,pieder,Ця книжка належить мені.,pending
-baidīties,verb,Es ___ no suņiem.,baidos,Я боюся собак.,pending
-iedomāties,verb,"Es nevaru ___, ka tas ir tiesa.",iedomāties,"Я не можу уявити, що це правда.",pending
-aprunāties,verb,Es gribu ar jums ___.,aprunāties,Я хочу з вами поговорити.,pending
-parunāt,verb,Vai varam ___?,parunāt,Чи можемо ми поговорити?,pending
-pamest,verb,Viņš gribēja ___ darbu.,pamest,Він хотів покинути роботу.,pending
-pazust,verb,Mana atslēga ir ___.,pazudusi,Мій ключ зник.,pending
-darboties,verb,Lifts ___.,darbojas,Ліфт працює.,pending
-kustēties,verb,"Lūdzu, ___ lēnām.",kustieties,"Будь ласка, рухайтеся повільно.",pending
-izbeigt,verb,Es gribu ___ šo darbu.,izbeigt,Я хочу закінчити цю роботу.,pending
-aizvest,verb,Tētis mūs ___ uz staciju.,aizved,Тато відвозить нас на станцію.,pending
-paklausīties,verb,Es gribu ___ šo dziesmu.,paklausīties,Я хочу послухати цю пісню.,pending
-padomāt,verb,Es gribu mazliet ___.,padomāt,Я хочу трохи подумати.,pending
-izstāstīt,verb,Es varu jums visu ___.,izstāstīt,Я можу вам усе розповісти.,pending
-spēt,verb,Viņš ___ strādāt visu dienu.,spēj,Він здатний працювати цілий день.,pending
-piedot,verb,"Lūdzu, ___ man.",piedodiet,"Будь ласка, пробачте мені.",pending
-mirt,verb,Ziedi ___ bez ūdens.,mirst,Квіти вмирають без води.,pending
-nomirt,verb,Mans vectēvs ___ pērn.,nomira,Мій дідусь помер торік.,pending
-šķist,verb,"Man ___, ka tas ir pareizi.",šķiet,"Мені здається, що це правильно.",pending
-atvainot,verb,"Lūdzu, ___ mani.",atvainojiet,"Будь ласка, вибачте мене.",pending
-pazaudēt,verb,Es ___ savu maku.,pazaudēju,Я загубив свій гаманець.,pending
-sagaidīt,verb,Mēs ___ viesus pie durvīm.,sagaidām,Ми зустрічаємо гостей біля дверей.,pending
-atbalstīt,verb,Es ___ jūsu ideju.,atbalstu,Я підтримую вашу ідею.,pending
-pārliecināties,verb,"Es gribu ___, ka viss ir kārtībā.",pārliecināties,"Я хочу переконатися, що все гаразд.",pending
-nolemt,verb,Mēs ___ braukt uz jūru.,nolēmām,Ми вирішили поїхати до моря.,pending
-ierosināt,verb,Es ___ iet uz kino.,ierosinu,Я пропоную піти в кіно.,pending
-izlemt,verb,Vai jūs jau esat ___?,izlēmuši,Чи ви вже вирішили?,pending
-izskaidrot,verb,"Lūdzu, ___ man šo vārdu.",izskaidrojiet,"Будь ласка, поясніть мені це слово.",pending
-apsvērt,verb,Es gribu to ___.,apsvērt,Я хочу це обміркувати.,pending
+sacīt,verb,Viņš ___ patiesību.,sacīja,Він сказав правду.,approved
+nozīmēt,verb,Ko šis vārds ___?,nozīmē,Що означає це слово?,approved
+ticēt,verb,Es tev ___.,ticu,Я тобі вірю.,approved
+censties,verb,Es ļoti ___.,cenšos,Я дуже стараюся.,approved
+izdoties,verb,Man ___ nokārtot eksāmenu.,izdevās,Мені вдалося скласти іспит.,approved
+cerēt,verb,"Es ___, ka tu atnāksi.",ceru,"Я сподіваюся, що ти прийдеш.",approved
+ierasties,verb,Vilciens ___ laikā.,ierodas,Поїзд прибуває вчасно.,approved
+atstāt,verb,Es ___ somu mājās.,atstāju,Я залишив сумку вдома.,approved
+turpināt,verb,Mēs ___ mācīties.,turpinām,Ми продовжуємо вчитися.,approved
+likties,verb,"Man ___, ka tas ir labi.",liekas,"Мені здається, що це добре.",approved
+pieņemt,verb,Es ___ jūsu piedāvājumu.,pieņemu,Я приймаю вашу пропозицію.,approved
+pārliecināt,verb,Es gribu viņu ___.,pārliecināt,Я хочу його переконати.,approved
+apsolīt,verb,Es ___ atnākt.,apsolu,Я обіцяю прийти.,approved
+pastāstīt,verb,Vai varat man ___ par Rīgu?,pastāstīt,Чи можете ви розповісти мені про Ригу?,approved
+stāstīt,verb,Vecmāmiņa mums ___ pasakas.,stāsta,Бабуся розповідає нам казки.,approved
+uzskatīt,verb,Es ___ to par labu ideju.,uzskatu,Я вважаю це гарною ідеєю.,approved
+sekot,verb,"Lūdzu, ___ man.",sekojiet,"Будь ласка, йдіть за мною.",approved
+piederēt,verb,Šī grāmata ___ man.,pieder,Ця книжка належить мені.,approved
+baidīties,verb,Es ___ no suņiem.,baidos,Я боюся собак.,approved
+iedomāties,verb,"Es nevaru ___, ka tas ir tiesa.",iedomāties,"Я не можу уявити, що це правда.",approved
+aprunāties,verb,Es gribu ar jums ___.,aprunāties,Я хочу з вами поговорити.,approved
+parunāt,verb,Vai varam ___?,parunāt,Чи можемо ми поговорити?,approved
+pamest,verb,Viņš gribēja ___ darbu.,pamest,Він хотів покинути роботу.,approved
+pazust,verb,Mana atslēga ir ___.,pazudusi,Мій ключ зник.,approved
+darboties,verb,Lifts ___.,darbojas,Ліфт працює.,approved
+kustēties,verb,"Lūdzu, ___ lēnām.",kustieties,"Будь ласка, рухайтеся повільно.",approved
+izbeigt,verb,Es gribu ___ šo darbu.,izbeigt,Я хочу закінчити цю роботу.,approved
+aizvest,verb,Tētis mūs ___ uz staciju.,aizved,Тато відвозить нас на станцію.,approved
+paklausīties,verb,Es gribu ___ šo dziesmu.,paklausīties,Я хочу послухати цю пісню.,approved
+padomāt,verb,Es gribu mazliet ___.,padomāt,Я хочу трохи подумати.,approved
+izstāstīt,verb,Es varu jums visu ___.,izstāstīt,Я можу вам усе розповісти.,approved
+spēt,verb,Viņš ___ strādāt visu dienu.,spēj,Він здатний працювати цілий день.,approved
+piedot,verb,"Lūdzu, ___ man.",piedodiet,"Будь ласка, пробачте мені.",approved
+mirt,verb,Ziedi ___ bez ūdens.,mirst,Квіти вмирають без води.,approved
+nomirt,verb,Mans vectēvs ___ pērn.,nomira,Мій дідусь помер торік.,approved
+šķist,verb,"Man ___, ka tas ir pareizi.",šķiet,"Мені здається, що це правильно.",approved
+atvainot,verb,"Lūdzu, ___ mani.",atvainojiet,"Будь ласка, вибачте мене.",approved
+pazaudēt,verb,Es ___ savu maku.,pazaudēju,Я загубив свій гаманець.,approved
+sagaidīt,verb,Mēs ___ viesus pie durvīm.,sagaidām,Ми зустрічаємо гостей біля дверей.,approved
+atbalstīt,verb,Es ___ jūsu ideju.,atbalstu,Я підтримую вашу ідею.,approved
+pārliecināties,verb,"Es gribu ___, ka viss ir kārtībā.",pārliecināties,"Я хочу переконатися, що все гаразд.",approved
+nolemt,verb,Mēs ___ braukt uz jūru.,nolēmām,Ми вирішили поїхати до моря.,approved
+ierosināt,verb,Es ___ iet uz kino.,ierosinu,Я пропоную піти в кіно.,approved
+izlemt,verb,Vai jūs jau esat ___?,izlēmuši,Чи ви вже вирішили?,approved
+izskaidrot,verb,"Lūdzu, ___ man šo vārdu.",izskaidrojiet,"Будь ласка, поясніть мені це слово.",approved
+apsvērt,verb,Es gribu to ___.,apsvērt,Я хочу це обміркувати.,approved
 labs,adj,Šī ir ___ ideja.,laba,Це гарна ідея.,pending
 ātrs,adj,Šis auto ir ļoti ___.,ātrs,Ця машина дуже швидка.,pending
 lēns,adj,Bruņurupucis ir ļoti ___.,lēns,Черепаха дуже повільна.,pending
@@ -1489,39 +1605,39 @@ laipni,adv,Pārdevēja ___ pasmaidīja.,laipni,Продавчиня привіт
 uzmanīgi,adv,Brauciet ___!,uzmanīgi,Їдьте обережно!,pending
 viegli,adv,Man ir ___ to izdarīt.,viegli,Мені легко це зробити.,pending
 grūti,adv,Man ir ___ saprast.,grūti,Мені важко зрозуміти.,pending
-lielisks,adj,Tas ir ___ piedāvājums.,lielisks,Це чудова пропозиція.,pending
-laimīgs,adj,Es esmu ļoti ___.,laimīgs,Я дуже щасливий.,pending
-vienīgs,adj,Tā ir mana ___ iespēja.,vienīgā,Це мій єдиний шанс.,pending
-iespējams,adj,Tas ir ___.,iespējams,Це можливо.,pending
-galvenais,adj,Tā ir ___ iela.,galvenā,Це головна вулиця.,pending
-pārējais,adj,___ laiku es strādāju.,Pārējo,Решту часу я працюю.,pending
-traks,adj,Tā ir ___ ideja.,trakā,Це божевільна ідея.,pending
-pilnīgs,adj,Tā ir ___ patiesība.,pilnīga,Це цілковита правда.,pending
-patiess,adj,Viņš ir ļoti ___ cilvēks.,patiess,Він дуже щира людина.,pending
-noteikts,adj,Mums ir ___ laiks.,noteikts,У нас є визначений час.,pending
-svešs,adj,Šis cilvēks man ir ___.,svešs,Ця людина мені чужа.,pending
-spēcīgs,adj,Viņam ir ___ rokas.,spēcīgas,У нього сильні руки.,pending
-bagāts,adj,Šis cilvēks ir ļoti ___.,bagāts,Ця людина дуже багата.,pending
-nabadzīgs,adj,Viņa ģimene bija ___.,nabadzīga,Її родина була бідною.,pending
-vispārējs,adj,Tas ir ___ noteikums.,vispārējs,Це загальне правило.,pending
-tipisks,adj,Tas ir ___ latviešu ēdiens.,tipisks,Це типова латиська страва.,pending
-parasts,adj,Šodien ir ___ diena.,parasta,Сьогодні звичайний день.,pending
-neparasts,adj,Tas ir ___ gadījums.,neparasts,Це незвичайний випадок.,pending
-dīvains,adj,Šī ir ___ vieta.,dīvaina,Це дивне місце.,pending
-vienkāršs,adj,Receptes ir ļoti ___.,vienkāršas,Рецепти дуже прості.,pending
-sarežģīts,adj,Šis jautājums ir ļoti ___.,sarežģīts,Це питання дуже складне.,pending
-atbildīgs,adj,Viņš ir ļoti ___ cilvēks.,atbildīgs,Він дуже відповідальна людина.,pending
-noslēgts,adj,Šīs durvis ir ___.,noslēgtas,Ці двері зачинені.,pending
-zems,adj,Šī māja ir ļoti ___.,zema,Цей будинок дуже низький.,pending
-augsts,adj,Šis koks ir ļoti ___.,augsts,Це дерево дуже високе.,pending
-dziļš,adj,Šis ezers ir ļoti ___.,dziļš,Це озеро дуже глибоке.,pending
-sekls,adj,Upe šeit ir ___.,sekla,Тут річка мілка.,pending
-ciets,adj,Akmens ir ___.,ciets,Камінь твердий.,pending
-mīksts,adj,Šis dīvāns ir ļoti ___.,mīksts,Цей диван дуже м'який.,pending
-smags,adj,Mana soma ir ļoti ___.,smaga,Моя сумка дуже важка.,pending
-lieliski,adv,Viss ir ___!,lieliski,Усе чудово!,pending
-noteikti,adv,Es ___ atnākšu.,noteikti,Я обов'язково прийду.,pending
-smieklīgi,adv,Man ir ___.,smieklīgi,Мені смішно.,pending
-forši,adv,Tas ir ___!,forši,Це круто!,pending
-citādi,adv,Es to daru ___.,citādi,Я роблю це інакше.,pending
-tāli,adv,Viņš dzīvo ļoti ___.,tāli,Він живе дуже далеко.,pending
+lielisks,adj,Tas ir ___ piedāvājums.,lielisks,Це чудова пропозиція.,approved
+laimīgs,adj,Es esmu ļoti ___.,laimīgs,Я дуже щасливий.,approved
+vienīgs,adj,Tā ir mana ___ iespēja.,vienīgā,Це мій єдиний шанс.,approved
+iespējams,adj,Tas ir ___.,iespējams,Це можливо.,approved
+galvenais,adj,Tā ir ___ iela.,galvenā,Це головна вулиця.,approved
+pārējais,adj,___ laiku es strādāju.,Pārējo,Решту часу я працюю.,approved
+traks,adj,Tā ir ___ ideja.,trakā,Це божевільна ідея.,approved
+pilnīgs,adj,Tā ir ___ patiesība.,pilnīga,Це цілковита правда.,approved
+patiess,adj,Viņš ir ļoti ___ cilvēks.,patiess,Він дуже щира людина.,approved
+noteikts,adj,Mums ir ___ laiks.,noteikts,У нас є визначений час.,approved
+svešs,adj,Šis cilvēks man ir ___.,svešs,Ця людина мені чужа.,approved
+spēcīgs,adj,Viņam ir ___ rokas.,spēcīgas,У нього сильні руки.,approved
+bagāts,adj,Šis cilvēks ir ļoti ___.,bagāts,Ця людина дуже багата.,approved
+nabadzīgs,adj,Viņa ģimene bija ___.,nabadzīga,Її родина була бідною.,approved
+vispārējs,adj,Tas ir ___ noteikums.,vispārējs,Це загальне правило.,approved
+tipisks,adj,Tas ir ___ latviešu ēdiens.,tipisks,Це типова латиська страва.,approved
+parasts,adj,Šodien ir ___ diena.,parasta,Сьогодні звичайний день.,approved
+neparasts,adj,Tas ir ___ gadījums.,neparasts,Це незвичайний випадок.,approved
+dīvains,adj,Šī ir ___ vieta.,dīvaina,Це дивне місце.,approved
+vienkāršs,adj,Receptes ir ļoti ___.,vienkāršas,Рецепти дуже прості.,approved
+sarežģīts,adj,Šis jautājums ir ļoti ___.,sarežģīts,Це питання дуже складне.,approved
+atbildīgs,adj,Viņš ir ļoti ___ cilvēks.,atbildīgs,Він дуже відповідальна людина.,approved
+noslēgts,adj,Šīs durvis ir ___.,noslēgtas,Ці двері зачинені.,approved
+zems,adj,Šī māja ir ļoti ___.,zema,Цей будинок дуже низький.,approved
+augsts,adj,Šis koks ir ļoti ___.,augsts,Це дерево дуже високе.,approved
+dziļš,adj,Šis ezers ir ļoti ___.,dziļš,Це озеро дуже глибоке.,approved
+sekls,adj,Upe šeit ir ___.,sekla,Тут річка мілка.,approved
+ciets,adj,Akmens ir ___.,ciets,Камінь твердий.,approved
+mīksts,adj,Šis dīvāns ir ļoti ___.,mīksts,Цей диван дуже м'який.,approved
+smags,adj,Mana soma ir ļoti ___.,smaga,Моя сумка дуже важка.,approved
+lieliski,adv,Viss ir ___!,lieliski,Усе чудово!,approved
+noteikti,adv,Es ___ atnākšu.,noteikti,Я обов'язково прийду.,approved
+smieklīgi,adv,Man ir ___.,smieklīgi,Мені смішно.,approved
+forši,adv,Tas ir ___!,forši,Це круто!,approved
+citādi,adv,Es to daru ___.,citādi,Я роблю це інакше.,approved
+tāli,adv,Viņš dzīvo ļoti ___.,tāli,Він живе дуже далеко.,approved
