@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { grammarLine } from './grammar';
+import { grammarLine } from './line';
 
 describe('grammarLine', () => {
   it('shows gender and declension for nouns', () => {

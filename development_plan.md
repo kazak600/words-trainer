@@ -102,7 +102,7 @@ Rules for the code, so adding English later is data plus a small UI change:
 
 - Every API call that deals with words takes a `deck` (slug) parameter. In v1 the frontend always sends `lv-uk`.
 - The writing checker takes the word's language and uses a per-language normalisation table (Latvian: diacritics are checked and a miss is a typo; English: none). It never assumes Latvian.
-- Grammar panels are rendered from `grammar_json` by a per-language component (Latvian: gender, plural, verb forms; English: nothing at first).
+- Grammar panels are rendered from `grammar_json` by a per-language component (Latvian: gender, declension, noun case table, verb tenses from `forms_json`; English: nothing at first).
 - UI strings about the language ("Latvian word") come from the deck's metadata, not hard-coded.
 - Decks are separate flows: the Review queue, Home, Add, Stats, the leech list and the daily cap are all scoped to the current deck, and nothing is mixed across decks. The current deck is app state (default `lv-uk`), remembered on the device. The language is switched in the Settings tab; with one deck it lists only Latvian.
 - Stats and the daily new-word cap are per deck. There is no streak.

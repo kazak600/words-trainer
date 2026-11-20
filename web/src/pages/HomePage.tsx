@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import {
+  discardSession,
   fetchCurrentSession,
   fetchReview,
   fetchTopics,
@@ -12,11 +13,34 @@ import {
 import { useDeck } from '../decks/DeckContext';
 import { useStartSession } from './startSession';
 
+const STALE_AFTER_SECONDS = 86_400;
+
+type Resume = {
+  startedOn: string;
+  stale: boolean;
+  topicId: number | null;
+};
+
+function describeResume(
+  updatedAt: number | undefined,
+  topicId: number | null,
+): Resume {
+  const now = Date.now() / 1000;
+  const offsetMs = -new Date().getTimezoneOffset() * 60_000;
+  return {
+    topicId,
+    stale: updatedAt !== undefined && now - updatedAt > STALE_AFTER_SECONDS,
+    startedOn: new Date((updatedAt ?? now) * 1000 + offsetMs)
+      .toISOString()
+      .slice(0, 10),
+  };
+}
+
 export function HomePage() {
   const { deck } = useDeck();
   const [topics, setTopics] = useState<Topic[] | null>(null);
   const [review, setReview] = useState<ReviewSummary | null>(null);
-  const [hasSession, setHasSession] = useState(false);
+  const [resume, setResume] = useState<Resume | null>(null);
   const [loadError, setLoadError] = useState<string | null>(null);
   const { start, starting, error } = useStartSession();
 
@@ -28,19 +52,48 @@ export function HomePage() {
       .then(setReview)
       .catch(() => setLoadError('Could not load topics.'));
     fetchCurrentSession(deck.slug)
-      .then(() => setHasSession(true))
-      .catch(() => setHasSession(false));
+      .then((session) =>
+        setResume(describeResume(session.updatedAt, session.topicId)),
+      )
+      .catch(() => setResume(null));
   }, [deck.slug]);
+
+  async function startOver() {
+    try {
+      await discardSession(deck.slug);
+      setResume(null);
+    } catch {
+      setLoadError('Could not discard the session. Try again.');
+      return;
+    }
+    const topicId = resume?.topicId ?? null;
+    await start(() =>
+      topicId === null
+        ? startReviewSession(deck.slug)
+        : startTopicSession(deck.slug, topicId),
+    );
+  }
 
   const message = error ?? loadError;
 
   return (
     <section>
       <h1>Topics</h1>
-      {hasSession && (
+      {resume && !resume.stale && (
         <Link to="/session" className="continue">
           Continue your session
         </Link>
+      )}
+      {resume?.stale && (
+        <div className="card">
+          <p>Your session from {resume.startedOn} is still open.</p>
+          <Link to="/session" className="continue">
+            Continue
+          </Link>
+          <button type="button" onClick={startOver}>
+            Start over
+          </button>
+        </div>
       )}
       {review && review.leeches > 0 && (
         <Link to="/stats/leeches" className="continue">

@@ -1,6 +1,6 @@
 # Development Stages
 
-Companion to `development_plan.md`. The plan says what the app is; this file lists what is still to build. Finished stages (1–14 and 19–25: skeleton, schema, dataset pipeline, auth, study sessions, FSRS cards, fuzzy checker, review queue and daily cap, cloze cards, leech workshop, quick add, the web app) are removed from this file; the code and `git log` are their record.
+Companion to `development_plan.md`. The plan says what the app is; this file lists what is still to build. Finished stages (1–16 and 19–25: skeleton, schema, dataset pipeline, auth, study sessions, FSRS cards, fuzzy checker, review queue and daily cap, cloze cards, leech workshop, quick add, stats and resume polish, grammar panels, the web app) are removed from this file; the code and `git log` are their record.
 
 Decisions that still shape the work:
 
@@ -17,32 +17,9 @@ Rules for every stage:
 
 ## Open stages
 
-15 (stats and resume polish), 16 (grammar panels), 17 (finish the dataset, ongoing), 18 (English deck, not scheduled). Not a stage but still open: apply migrations 0006–0009 to the remote database and deploy the new Worker and web app (they run only locally so far).
+17 (finish the dataset, ongoing), 18 (English deck, not scheduled). Not a stage but still open: apply migrations 0006–0009 to the remote database and deploy the new Worker and web app (they run only locally so far).
 
 ---
-
-## Stage 15. Stats and resume polish
-
-**Goal:** the user can see progress.
-
-Tasks:
-
-- Stats page: words by state (new / learning / review / learned), learned count per level and per topic, a calendar of study days, reviews per day. No streak.
-- Stats endpoints built from `review_log` and `cards`, per deck.
-- Resume edge cases: a session older than a day is offered as "continue or start over".
-
-**Done when:** the stats match a hand count from a test database.
-
-## Stage 16. Grammar panels
-
-**Goal:** grammar next to each word.
-
-Tasks:
-
-- Gap sentences are covered by the cloze cards (built); this stage is only the grammar panel.
-- Grammar panel rendered from `grammar_json` and `forms_json` by a per-language component: nouns (gender, plural, key cases), verbs (*es / tu / viņš*) only if the Wiktionary coverage report (`data/pipeline/enrich_wiktionary.py`) shows enough data, otherwise verbs are skipped and this is written down.
-
-**Done when:** the grammar panel shows for nouns, and for verbs if covered.
 
 ## Stage 17. Finish the dataset (data track, ongoing)
 

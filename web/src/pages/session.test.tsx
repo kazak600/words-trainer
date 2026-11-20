@@ -119,6 +119,24 @@ describe('recognition card', () => {
     expect(screen.queryByText('Not quite')).not.toBeInTheDocument();
   });
 
+  it('shows the forms panel under the revealed card, when the word has forms', async () => {
+    const forms = {
+      singular: { nominative: 'maize', genitive: 'maizes' },
+      plural: { nominative: 'maizes', genitive: 'maižu' },
+    };
+    setup({ ...recognition, forms }, () => ({ body: reply() }));
+    const user = userEvent.setup();
+
+    await user.click(await screen.findByRole('button', { name: /maize/ }));
+
+    expect(screen.getByText('Forms')).toBeInTheDocument();
+    expect(screen.getByText('maižu')).toBeInTheDocument();
+    expect(screen.getAllByText('feminine · 5th declension')).toHaveLength(1);
+    expect(screen.getByText('Forms').closest('details')).not.toHaveAttribute(
+      'open',
+    );
+  });
+
   it('shows no multiple-choice options anywhere', async () => {
     setup(recognition, () => ({ body: reply() }));
 
@@ -216,6 +234,18 @@ describe('production card', () => {
     expect(
       screen.queryByRole('button', { name: 'Mark as easy' }),
     ).not.toBeInTheDocument();
+  });
+
+  it('shows the forms panel with the feedback after a typed answer', async () => {
+    const forms = { singular: { nominative: 'maize', genitive: 'maizes' } };
+    setup(production, () => ({
+      body: reply({ pos: 'noun', grammar: { gender: 'f' }, forms }),
+    }));
+
+    await typeAndCheck('maize');
+
+    expect(await screen.findByText('Forms')).toBeInTheDocument();
+    expect(screen.getByText('maizes')).toBeInTheDocument();
   });
 
   it('shows a typo as a pass with the diff, without the Easy option', async () => {

@@ -5,6 +5,7 @@ import type { AuthEnv } from '../middleware/auth';
 import { getReviewSummary } from '../services/review';
 import {
   answerCard,
+  discardCurrentSession,
   getCurrentSession,
   raiseToEasy,
   startSession,
@@ -73,6 +74,11 @@ studyRoutes.get('/decks/:deck/sessions/current', async (c) =>
     await getCurrentSession(c.env.DB, c.get('user').id, c.req.param('deck')),
   ),
 );
+
+studyRoutes.delete('/decks/:deck/sessions/current', async (c) => {
+  await discardCurrentSession(c.env.DB, c.get('user').id, c.req.param('deck'));
+  return c.body(null, 204);
+});
 
 studyRoutes.post('/sessions/:id/answer', async (c) => {
   const body = await c.req.json().catch(() => null);

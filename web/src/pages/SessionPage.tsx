@@ -170,6 +170,7 @@ export function SessionPage() {
         <RecognitionCard
           key={card.index}
           card={card}
+          lang={deck.sourceLang}
           busy={busy}
           onGrade={grade}
         />
@@ -191,6 +192,7 @@ export function SessionPage() {
       )}
       {checked && (
         <Feedback
+          lang={deck.sourceLang}
           reply={checked.reply}
           typed={checked.typed}
           onRaise={raise}

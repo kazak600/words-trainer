@@ -1,4 +1,4 @@
-import { render, screen, within } from '@testing-library/react';
+import { render, screen, waitFor, within } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import { MemoryRouter } from 'react-router-dom';
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
@@ -163,6 +163,82 @@ describe('Home', () => {
     expect(
       await screen.findByRole('link', { name: 'Continue your session' }),
     ).toHaveAttribute('href', '/session');
+  });
+
+  describe('a session left for more than a day', () => {
+    const NOW = Date.parse('2026-11-20T12:00:00Z');
+    const aged = (hours: number) => ({
+      body: {
+        ...session(1).body,
+        updatedAt: Math.floor(NOW / 1000) - hours * 3600,
+      },
+    });
+    beforeEach(() => {
+      vi.useFakeTimers({ toFake: ['Date'] });
+      vi.setSystemTime(NOW);
+    });
+    afterEach(() => vi.useRealTimers());
+
+    it('keeps the plain continue link for a session from today', async () => {
+      setup({ 'GET /api/decks/lv-uk/sessions/current': () => aged(5) });
+
+      expect(
+        await screen.findByRole('link', { name: 'Continue your session' }),
+      ).toBeInTheDocument();
+      expect(screen.queryByRole('button', { name: 'Start over' })).toBeNull();
+    });
+
+    it('asks whether to continue or start over', async () => {
+      setup({ 'GET /api/decks/lv-uk/sessions/current': () => aged(30) });
+
+      expect(await screen.findByText(/session from/i)).toHaveTextContent(
+        '2026-11-19',
+      );
+      expect(screen.getByRole('link', { name: 'Continue' })).toHaveAttribute(
+        'href',
+        '/session',
+      );
+      expect(
+        screen.getByRole('button', { name: 'Start over' }),
+      ).toBeInTheDocument();
+    });
+
+    it('restarts the same topic on Start over, so the choice is not lost', async () => {
+      const { calls } = setup({
+        'GET /api/decks/lv-uk/sessions/current': () => aged(30),
+        'DELETE /api/decks/lv-uk/sessions/current': () => ({ status: 204 }),
+        'POST /api/decks/lv-uk/sessions': () => session(1),
+      });
+      const user = userEvent.setup({ advanceTimers: () => {} });
+
+      await user.click(
+        await screen.findByRole('button', { name: 'Start over' }),
+      );
+
+      await waitFor(() =>
+        expect(calls).toContain('POST /api/decks/lv-uk/sessions'),
+      );
+      expect(
+        calls.indexOf('DELETE /api/decks/lv-uk/sessions/current'),
+      ).toBeLessThan(calls.indexOf('POST /api/decks/lv-uk/sessions'));
+    });
+
+    it('drops the session on Start over and removes the prompt', async () => {
+      const { calls } = setup({
+        'GET /api/decks/lv-uk/sessions/current': () => aged(30),
+        'DELETE /api/decks/lv-uk/sessions/current': () => ({ status: 204 }),
+      });
+      const user = userEvent.setup({ advanceTimers: () => {} });
+
+      await user.click(
+        await screen.findByRole('button', { name: 'Start over' }),
+      );
+
+      expect(calls).toContain('DELETE /api/decks/lv-uk/sessions/current');
+      await waitFor(() =>
+        expect(screen.queryByText(/session from/i)).toBeNull(),
+      );
+    });
   });
 
   it('reads everything from the stored deck, not a hard-coded one', async () => {

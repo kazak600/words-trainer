@@ -37,6 +37,7 @@ type CardView = {
   wordId: number;
   translation: string;
   lemma?: string;
+  forms?: unknown;
   textWithGap?: string;
   hint?: string;
 };
@@ -47,6 +48,9 @@ type AnswerView = {
   correct: boolean;
   leech: boolean;
   expected: string;
+  pos?: string;
+  grammar?: unknown;
+  forms?: unknown;
   diff?: { kind: string }[];
   learned: boolean;
   canRaise: boolean;
@@ -612,6 +616,84 @@ describe('session flow', () => {
     expect(res.status).toBe(200);
     expect(current).toMatchObject({ id: s.id, total: 3, index: 1 });
     expect(current.card.wordId).toBe(words[1]);
+  });
+
+  it('reports when the current session was last touched', async () => {
+    await seedMany(2);
+    vi.useFakeTimers({ toFake: ['Date'] });
+    vi.setSystemTime(1_800_000_000_000);
+    const s = (await start()).body;
+    vi.setSystemTime(1_800_000_500_000);
+    await answer(s.id, 0, { grade: 'good' });
+
+    const current = (await (
+      await call('/api/decks/lv-uk/sessions/current')
+    ).json()) as SessionView & { updatedAt: number };
+
+    expect(current.updatedAt).toBe(1_800_000_500);
+  });
+
+  it('drops the current session on start over, for the caller only', async () => {
+    await seedMany(2);
+    await start();
+    const other = await seedUser(t.db, 'other', 'secret');
+    await t.db
+      .prepare(
+        "INSERT INTO session_state (user_id, deck_id, payload_json) VALUES (?, 1, '{}')",
+      )
+      .bind(other)
+      .run();
+
+    const res = await call('/api/decks/lv-uk/sessions/current', {
+      method: 'DELETE',
+    });
+
+    expect(res.status).toBe(204);
+    expect((await call('/api/decks/lv-uk/sessions/current')).status).toBe(404);
+    const rows = await t.db
+      .prepare('SELECT user_id FROM session_state')
+      .all<{ user_id: number }>();
+    expect(rows.results).toEqual([{ user_id: other }]);
+  });
+
+  it('sends the forms with a recognition card', async () => {
+    const forms = { singular: { nominative: 'maize' } };
+    const grammar = { gender: 'f', declension: 4 };
+    await seedWord(t.db, {
+      lemma: 'maize',
+      topic: 'home',
+      level: 'A1',
+      grammar,
+      forms,
+    });
+    const first = (await start()).body;
+    expect(first.card).toMatchObject({ kind: 'recognition', forms });
+  });
+
+  it('puts the word grammar and forms on the reply to a typed answer', async () => {
+    const forms = { singular: { nominative: 'maize' } };
+    const grammar = { gender: 'f', declension: 4 };
+    const id = await seedWord(t.db, {
+      lemma: 'maize',
+      topic: 'home',
+      level: 'A1',
+      grammar,
+      forms,
+    });
+    await seedCard(t.db, {
+      userId,
+      wordId: id,
+      kind: 'production',
+      dueAt: 1,
+      state: 2,
+      stability: 5,
+      reps: 3,
+    });
+    const s = (await start({ review: true })).body;
+
+    const { body } = await answer(s.id, 0, { typed: 'maize' });
+
+    expect(body).toMatchObject({ pos: 'noun', grammar, forms });
   });
 
   it('has no current session before one is started or after it finishes', async () => {

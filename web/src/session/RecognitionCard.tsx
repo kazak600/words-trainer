@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import type { Card, Grade } from '../api/study';
-import { grammarLine } from '../grammar';
+import { GrammarPanel } from '../grammar/GrammarPanel';
+import { grammarLine } from '../grammar/line';
 
 const GRADES: { grade: Grade; label: string }[] = [
   { grade: 'again', label: 'Again' },
@@ -9,9 +10,14 @@ const GRADES: { grade: Grade; label: string }[] = [
   { grade: 'easy', label: 'Easy' },
 ];
 
-type Props = { card: Card; busy: boolean; onGrade: (grade: Grade) => void };
+type Props = {
+  card: Card;
+  lang: string;
+  busy: boolean;
+  onGrade: (grade: Grade) => void;
+};
 
-export function RecognitionCard({ card, busy, onGrade }: Props) {
+export function RecognitionCard({ card, lang, busy, onGrade }: Props) {
   const [revealed, setRevealed] = useState(false);
   const grammar = revealed ? grammarLine(card.pos, card.grammar) : null;
   return (
@@ -35,6 +41,15 @@ export function RecognitionCard({ card, busy, onGrade }: Props) {
           <span className="muted">Tap to reveal</span>
         )}
       </button>
+      {revealed && (
+        <GrammarPanel
+          lang={lang}
+          pos={card.pos}
+          grammar={card.grammar}
+          forms={card.forms}
+          showLine={false}
+        />
+      )}
       {revealed && (
         <div className="grades">
           {GRADES.map(({ grade, label }) => (

@@ -18,6 +18,7 @@ export type Card = {
   translation: string;
   lemma?: string;
   grammar?: Record<string, unknown> | null;
+  forms?: unknown;
   textWithGap?: string;
   hint?: string;
 };
@@ -27,6 +28,7 @@ export type SessionView = {
   topicId: number | null;
   total: number;
   index: number;
+  updatedAt?: number;
   card: Card;
 };
 
@@ -46,6 +48,9 @@ export type AnswerView = {
   verdict?: Verdict;
   correct: boolean;
   expected: string;
+  pos?: string;
+  grammar?: Record<string, unknown> | null;
+  forms?: unknown;
   diff?: DiffItem[];
   learned: boolean;
   canRaise: boolean;
@@ -96,3 +101,5 @@ export const raiseToEasy = (sessionId: string, cardIndex: number) =>
     method: 'POST',
     body: { cardIndex },
   });
+export const discardSession = (deck: string) =>
+  api<null>(`/api/decks/${deck}/sessions/current`, { method: 'DELETE' });

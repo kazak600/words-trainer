@@ -7,7 +7,7 @@ type Grammar = Record<string, unknown> | null | undefined;
 export function grammarLine(pos: string, grammar: Grammar): string | null {
   if (!grammar) return null;
   const parts: string[] = [];
-  if (pos === 'noun') {
+  if (pos === 'noun' || pos === 'propn' || pos === 'phrase') {
     const gender = GENDERS[String(grammar.gender)];
     const declension = ORDINALS[Number(grammar.declension)];
     if (gender) parts.push(gender);

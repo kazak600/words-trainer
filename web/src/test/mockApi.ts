@@ -16,10 +16,14 @@ export function mockApi(routes: Record<string, MockHandler>) {
             body: init?.body ? JSON.parse(String(init.body)) : undefined,
           })
         : { status: 404, body: { error: 'not mocked' } };
-      return new Response(JSON.stringify(reply.body ?? {}), {
-        status: reply.status ?? 200,
-        headers: { 'content-type': 'application/json' },
-      });
+      const status = reply.status ?? 200;
+      return new Response(
+        status === 204 ? null : JSON.stringify(reply.body ?? {}),
+        {
+          status,
+          headers: { 'content-type': 'application/json' },
+        },
+      );
     },
   );
   vi.stubGlobal('fetch', fetchMock);

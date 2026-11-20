@@ -30,7 +30,11 @@ export function insertReviewLogStatement(
     );
 }
 
-export type SessionStateRow = { deck_id: number; payload_json: string };
+export type SessionStateRow = {
+  deck_id: number;
+  payload_json: string;
+  updated_at: number;
+};
 
 export function findSessionByDeck(
   db: D1Database,
@@ -39,7 +43,7 @@ export function findSessionByDeck(
 ): Promise<SessionStateRow | null> {
   return db
     .prepare(
-      'SELECT deck_id, payload_json FROM session_state WHERE user_id = ? AND deck_id = ?',
+      'SELECT deck_id, payload_json, updated_at FROM session_state WHERE user_id = ? AND deck_id = ?',
     )
     .bind(userId, deckId)
     .first<SessionStateRow>();
@@ -52,7 +56,7 @@ export function findSessionById(
 ): Promise<SessionStateRow | null> {
   return db
     .prepare(
-      `SELECT deck_id, payload_json FROM session_state
+      `SELECT deck_id, payload_json, updated_at FROM session_state
        WHERE user_id = ? AND json_extract(payload_json, '$.id') = ?`,
     )
     .bind(userId, sessionId)

@@ -1,15 +1,17 @@
 import { useState } from 'react';
 import type { AnswerView } from '../api/study';
+import { GrammarPanel } from '../grammar/GrammarPanel';
 import { DiffWord } from './DiffWord';
 
 type Props = {
+  lang: string;
   reply: AnswerView;
   typed?: string;
   onRaise: () => Promise<{ learned: boolean } | null>;
   onContinue: () => void;
 };
 
-export function Feedback({ reply, typed, onRaise, onContinue }: Props) {
+export function Feedback({ lang, reply, typed, onRaise, onContinue }: Props) {
   const [raised, setRaised] = useState(false);
   const [raising, setRaising] = useState(false);
   const [learnedByRaise, setLearnedByRaise] = useState(false);
@@ -57,6 +59,12 @@ export function Feedback({ reply, typed, onRaise, onContinue }: Props) {
           <span className="muted">Short interval, no promotion.</span>
         )}
       </div>
+      <GrammarPanel
+        lang={lang}
+        pos={reply.pos ?? ''}
+        grammar={reply.grammar}
+        forms={reply.forms}
+      />
       {reply.canRaise &&
         (raised ? (
           <p className="muted center">Marked as easy</p>

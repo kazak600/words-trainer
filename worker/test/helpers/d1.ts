@@ -39,6 +39,7 @@ export type WordSeed = {
   ukrainian?: string;
   status?: 'pending' | 'approved' | 'edited';
   grammar?: object;
+  forms?: object;
   sentence?: { gap: string; answer: string; hint: string };
 };
 
@@ -46,8 +47,8 @@ export async function seedWord(db: D1Database, w: WordSeed): Promise<number> {
   const pos = w.pos ?? 'noun';
   const word = await db
     .prepare(
-      `INSERT INTO words (lang, lemma, pos, topic_id, level, grammar_json)
-       VALUES ('lv', ?, ?, (SELECT id FROM topics WHERE lang = 'lv' AND slug = ?), ?, ?)
+      `INSERT INTO words (lang, lemma, pos, topic_id, level, grammar_json, forms_json)
+       VALUES ('lv', ?, ?, (SELECT id FROM topics WHERE lang = 'lv' AND slug = ?), ?, ?, ?)
        RETURNING id`,
     )
     .bind(
@@ -56,6 +57,7 @@ export async function seedWord(db: D1Database, w: WordSeed): Promise<number> {
       w.topic,
       w.level,
       w.grammar ? JSON.stringify(w.grammar) : null,
+      w.forms ? JSON.stringify(w.forms) : null,
     )
     .first<{ id: number }>();
   const id = word!.id;

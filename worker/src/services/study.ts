@@ -87,6 +87,7 @@ export type CardView = {
   translation: string;
   lemma?: string;
   grammar?: unknown;
+  forms?: unknown;
   textWithGap?: string;
   hint?: string;
 };
@@ -95,6 +96,7 @@ export type SessionView = {
   topicId: number | null;
   total: number;
   index: number;
+  updatedAt?: number;
   card: CardView;
 };
 export type AnswerInput = {
@@ -108,6 +110,9 @@ export type AnswerView = {
   correct: boolean;
   leech: boolean;
   expected: string;
+  pos: string;
+  grammar: unknown;
+  forms: unknown;
   diff?: DiffItem[];
   learned: boolean;
   canRaise: boolean;
@@ -182,6 +187,7 @@ async function toCardView(
   if (card.kind === 'recognition') {
     view.lemma = word.lemma;
     view.grammar = word.grammar_json ? JSON.parse(word.grammar_json) : null;
+    view.forms = word.forms_json ? JSON.parse(word.forms_json) : null;
   }
   if (card.kind === 'cloze') {
     const sentence = card.sentenceId
@@ -300,7 +306,19 @@ export async function getCurrentSession(
   const row = await findSessionByDeck(db, userId, deck.id);
   const payload = row ? parsePayload(row.payload_json) : null;
   if (!payload) throw new StudyError('session_not_found');
-  return toSessionView(db, deck, payload);
+  return {
+    ...(await toSessionView(db, deck, payload)),
+    updatedAt: row!.updated_at,
+  };
+}
+
+export async function discardCurrentSession(
+  db: D1Database,
+  userId: number,
+  deckSlug: string,
+): Promise<void> {
+  const deck = await requireDeck(db, deckSlug);
+  await deleteSessionStatement(db, userId, deck.id).run();
 }
 
 type Judgement = {
@@ -464,6 +482,9 @@ export async function answerCard(
     correct,
     leech: becameLeech,
     expected,
+    pos: word.pos,
+    grammar: word.grammar_json ? JSON.parse(word.grammar_json) : null,
+    forms: word.forms_json ? JSON.parse(word.forms_json) : null,
     diff: judgement.diff,
     learned: isLearned(production),
     canRaise: judgement.verdict === 'exact',
