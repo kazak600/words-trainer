@@ -1,0 +1,4 @@
+phrase: mens rea
+noun: recidivism, subpoena, collusion, malfeasance, extortion, impunity, ordinance, fiduciary, vagrancy, culprit, precursor, culpability, mendacity, lacuna, peccadillo
+adj: nefarious, pernicious, culpable, malfeasant, malevolent
+verb: perpetrate, abscond, exonerate, connive, indemnify, expunge, disbar, adjudicate, absolve, transgress

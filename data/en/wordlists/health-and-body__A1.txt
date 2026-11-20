@@ -1,3 +1,0 @@
-noun: body, head, face, eye, ear, nose, mouth, tooth, hand, arm, leg, foot, back, doctor, hospital, medicine, pain, cold
-adj: ill, healthy, tired
-verb: hurt

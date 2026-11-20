@@ -1,0 +1,3 @@
+noun: aetiology, prodrome, sequela, catatonia, edema, ischaemia, sepsis, morbidity, mortality, prophylaxis, pathology, analgesic, lesion, cachexia, antipyretic, dyspnoea, neuropathy, oedema, pyrexia, tachycardia, vertigo
+adj: iatrogenic, nosocomial, hepatic, endemic, emaciated, febrile, insidious, latent, myocardial, nephrotic
+verb: atrophy, debilitate

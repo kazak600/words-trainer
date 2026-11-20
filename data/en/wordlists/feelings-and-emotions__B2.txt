@@ -1,0 +1,3 @@
+adj: anxious, frustrated, delighted, embarrassed, jealous, relieved, overwhelmed, nervous, cheerful, gloomy, miserable, proud, upset, annoyed, satisfied, guilty, lonely, confident, worried, surprised, amused, excited, hopeful, bored, disgusted, thrilled, homesick, irritated, uneasy, grateful, confused
+noun: grief, envy, enthusiasm, hostility, shock, fear
+verb: regret, panic, calm, hope

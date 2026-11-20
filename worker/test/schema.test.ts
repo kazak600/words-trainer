@@ -112,7 +112,7 @@ describe('database schema', () => {
     });
 
     it('rejects an unknown level', () => {
-      expect(() => insertWord(1, 'C2')).toThrow(/CHECK/);
+      expect(() => insertWord(1, 'C3')).toThrow(/CHECK/);
     });
 
     it('rejects a duplicate lemma and part of speech', () => {

@@ -113,7 +113,7 @@ export function upsertCardStatement(
 }
 
 const VISIBLE = `tr.review_status IN ('approved', 'edited')`;
-const LEVEL_ORDER = `CASE w.level WHEN 'A1' THEN 1 WHEN 'A2' THEN 2 WHEN 'B1' THEN 3 ELSE 4 END`;
+const LEVEL_ORDER = `CASE w.level WHEN 'A1' THEN 1 WHEN 'A2' THEN 2 WHEN 'B1' THEN 3 WHEN 'B2' THEN 4 WHEN 'C1' THEN 5 WHEN 'C2' THEN 6 ELSE 7 END`;
 
 export type DueCardRow = {
   cardId: number;

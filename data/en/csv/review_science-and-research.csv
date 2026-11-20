@@ -1,0 +1,100 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+hypothesis,noun,B2,,гіпотеза,The team tested their ___ in the laboratory.,hypothesis,Команда перевірила свою гіпотезу в лабораторії.,approved
+experiment,noun,B2,,експеримент,The ___ failed on the first attempt.,experiment,Експеримент провалився з першої спроби.,approved
+theory,noun,B2,,теорія,Darwin's ___ of evolution changed biology.,theory,Теорія еволюції Дарвіна змінила біологію.,approved
+analysis,noun,B2,,аналіз,The ___ of the samples took a week.,analysis,Аналіз зразків зайняв тиждень.,approved
+result,noun,B2,,результат,The ___s of the study were surprising.,results,Результати дослідження були несподіваними.,approved
+discovery,noun,B2,,відкриття,The ___ of penicillin saved millions of lives.,discovery,Відкриття пеніциліну врятувало мільйони життів.,approved
+scientist,noun,B2,,науковець,The ___ won a prize for her research.,scientist,Науковиця отримала премію за свої дослідження.,approved
+laboratory,noun,B2,,лабораторія,The ___ is equipped with modern machines.,laboratory,Лабораторія обладнана сучасними приладами.,approved
+microscope,noun,B2,,мікроскоп,Put the sample under the ___.,microscope,Помістіть зразок під мікроскоп.,approved
+chemical,noun,B2,,хімічна речовина,Be careful with these ___s.,chemicals,Будьте обережні з цими хімічними речовинами.,approved
+molecule,noun,B2,,молекула,Water is made of ___s of hydrogen and oxygen.,molecules,Вода складається з молекул водню та кисню.,approved
+gravity,noun,B2,,гравітація,___ keeps the planets in orbit.,Gravity,Гравітація утримує планети на орбіті.,approved
+energy,noun,B2,,енергія,Solar panels convert light into ___.,energy,Сонячні панелі перетворюють світло на енергію.,approved
+species,noun,B2,,вид (біол.),Many ___ are endangered today.,species,Багато видів сьогодні перебувають під загрозою.,approved
+evolution,noun,B2,,еволюція,The ___ of birds took millions of years.,evolution,Еволюція птахів тривала мільйони років.,approved
+fossil,noun,B2,,скам'янілість,The ___ was found in a limestone cave.,fossil,Скам'янілість знайшли в вапняковій печері.,approved
+universe,noun,B2,,Всесвіт,Astronomers study the ___ far beyond our galaxy.,universe,Астрономи вивчають Всесвіт далеко за межами нашої галактики.,approved
+dna,noun,B2,,ДНК,The ___ contains genetic instructions.,DNA,ДНК містить генетичні інструкції.,approved
+vaccine,noun,B2,,вакцина,The ___ was tested on thousands of volunteers.,vaccine,Вакцину випробували на тисячах волонтерів.,approved
+variable,noun,B2,,змінна,Keep all other ___s constant.,variables,Тримайте всі інші змінні незмінними.,approved
+sample,noun,B2,,зразок,The ___ was sent to the lab for testing.,sample,Зразок відправили в лабораторію для аналізу.,approved
+observation,noun,B2,,спостереження,Careful ___ revealed a new pattern.,observation,Уважне спостереження виявило нову закономірність.,approved
+conclusion,noun,B2,,висновок,The study reached a clear ___.,conclusion,Дослідження дійшло чіткого висновку.,approved
+measurement,noun,B2,,вимірювання,The ___s must be repeated twice.,measurements,Вимірювання треба повторити двічі.,approved
+technique,noun,B2,,метод,The team developed a new ___ for testing.,technique,Команда розробила новий метод тестування.,approved
+funding,noun,B2,,фінансування,The project lost its ___ last year.,funding,Проєкт втратив фінансування минулого року.,approved
+equation,noun,B2,,рівняння,The physicist solved the complex ___.,equation,Фізик розв'язав складне рівняння.,approved
+observatory,noun,B2,,обсерваторія,The team works at the mountain ___.,observatory,Команда працює в гірській обсерваторії.,approved
+evidence,verb,B2,,підтверджувати,The data ___s the theory.,evidences,Дані підтверджують теорію.,approved
+observe,verb,B2,,спостерігати,Scientists ___ the stars every night.,observe,Учені щоночі спостерігають за зірками.,approved
+measure,verb,B2,,вимірювати,We need to ___ the temperature every hour.,measure,Нам потрібно вимірювати температуру щогодини.,approved
+calculate,verb,B2,,обчислювати,Engineers ___ the load on the bridge.,calculate,Інженери обчислюють навантаження на міст.,approved
+replicate,verb,B2,,відтворювати,Other scientists could not ___ the results.,replicate,Інші науковці не змогли відтворити результати.,approved
+conclude,verb,B2,,робити висновок,The researchers ___d that the drug was safe.,concluded,"Дослідники дійшли висновку, що препарат безпечний.",approved
+sample,verb,B2,,брати зразки,The team will ___ water from the lake.,sample,Команда братиме зразки води з озера.,approved
+accurate,adj,B2,,точний,The measurements must be ___.,accurate,Вимірювання мають бути точними.,approved
+precise,adj,B2,,точний,He gave a very ___ description of the process.,precise,Він дав дуже точний опис процесу.,approved
+theoretical,adj,B2,,теоретичний,The ___ model predicts the outcome.,theoretical,Теоретична модель передбачає результат.,approved
+empirical,adj,B2,,емпіричний,The study provides ___ evidence.,empirical,Дослідження надає емпіричні докази.,approved
+methodology,noun,C1,,методологія,The ___ of the study was criticized by peers.,methodology,Методологію дослідження розкритикували колеги.,approved
+correlation,noun,C1,,кореляція,There is a strong ___ between the two variables.,correlation,Між цими двома змінними є сильна кореляція.,approved
+anomaly,noun,C1,,аномалія,The data showed an unexpected ___.,anomaly,Дані показали несподівану аномалію.,approved
+phenomenon,noun,C1,,явище,The northern lights are a natural ___.,phenomenon,Північне сяйво — природне явище.,approved
+inference,noun,C1,,висновок (логічний),The ___ was drawn from limited data.,inference,Висновок зробили з обмежених даних.,approved
+replication,noun,C1,,відтворення (експерименту),___ of the study failed.,Replication,Відтворення дослідження не вдалося.,approved
+spectrum,noun,C1,,спектр,The light was split into a ___.,spectrum,Світло розклали на спектр.,approved
+isotope,noun,C1,,ізотоп,Carbon ___ can be used to date fossils.,isotopes,Ізотопи вуглецю можна використовувати для датування скам'янілостей.,approved
+catalyst,noun,C1,,каталізатор,The enzyme acts as a ___.,catalyst,Фермент діє як каталізатор.,approved
+synthesis,noun,C1,,синтез,The ___ of the compound took several steps.,synthesis,Синтез сполуки складався з кількох етапів.,approved
+serendipity,noun,C1,,щасливий випадок,Many discoveries happened by ___.,serendipity,Багато відкриттів сталися завдяки щасливому випадку.,approved
+paradigm,noun,C1,,парадигма,The discovery shifted the scientific ___.,paradigm,Відкриття змінило наукову парадигму.,approved
+empiricism,noun,C1,,емпіризм,The school of ___ relies on observation.,empiricism,Школа емпіризму спирається на спостереження.,approved
+quantum,noun,C1,,квант,The ___ theory describes tiny particles.,quantum,Квантова теорія описує найдрібніші частинки.,approved
+genome,noun,C1,,геном,Scientists sequenced the human ___.,genome,Учені розшифрували геном людини.,approved
+ecosystem,noun,C1,,екосистема,The lake is a fragile ___.,ecosystem,Озеро — крихка екосистема.,approved
+mutation,noun,C1,,мутація,The virus developed a new ___.,mutation,Вірус розвинув нову мутацію.,approved
+prototype,noun,C1,,прототип,The engineers built a working ___.,prototype,Інженери створили робочий прототип.,approved
+convergence,noun,C1,,збіг,The ___ of evidence from three studies is striking.,convergence,Збіг доказів з трьох досліджень вражає.,approved
+radioactivity,noun,C1,,радіоактивність,The lab measured the level of ___.,radioactivity,Лабораторія виміряла рівень радіоактивності.,approved
+hypothesize,verb,C1,,висувати гіпотезу,The scientists ___d that the virus mutates quickly.,hypothesized,"Учені висунули гіпотезу, що вірус швидко мутує.",approved
+quantify,verb,C1,,кількісно вимірювати,It is hard to ___ the effects of stress.,quantify,Важко кількісно виміряти ефекти стресу.,approved
+extrapolate,verb,C1,,екстраполювати,You cannot ___ these results to the whole population.,extrapolate,Ці результати не можна екстраполювати на всю популяцію.,approved
+falsify,verb,C1,,фальсифікувати,The researcher was accused of ___ing the data.,falsifying,Дослідника звинуватили у фальсифікації даних.,approved
+rigorous,adj,C1,,ретельний,The study followed a ___ protocol.,rigorous,Дослідження дотримувалося ретельного протоколу.,approved
+plausible,adj,C1,,правдоподібний,The explanation sounded ___ but was not tested.,plausible,"Пояснення звучало правдоподібно, але не було перевірене.",approved
+reproducible,adj,C1,,відтворюваний,Results must be ___ to be trusted.,reproducible,"Результати мають бути відтворюваними, щоб їм довіряли.",approved
+hypothesis-driven,adj,C1,,керований гіпотезою,The project followed a ___ approach.,hypothesis-driven,"Проєкт дотримувався підходу, керованого гіпотезою.",approved
+heterogeneous,adj,C1,,неоднорідний,The sample was ___ in age and background.,heterogeneous,Вибірка була неоднорідною за віком і походженням.,approved
+homogeneous,adj,C1,,однорідний,The mixture must be ___ before testing.,homogeneous,Суміш має бути однорідною перед перевіркою.,approved
+sedimentary,adj,C1,,осадовий,The rocks are ___ and contain fossils.,sedimentary,Породи осадові та містять скам'янілості.,approved
+heterodox,adj,C1,,неортодоксальний,His ___ theory challenged the consensus.,heterodox,Його неортодоксальна теорія кинула виклик консенсусу.,approved
+interdisciplinary,adj,C1,,міждисциплінарний,The project is highly ___.,interdisciplinary,Проєкт є високо міждисциплінарним.,approved
+provisional,adj,C1,,тимчасовий,The results are only ___ until verified.,provisional,"Результати є лише тимчасовими, доки їх не перевірять.",approved
+methodical,adj,C1,,методичний,She is ___ in her approach to experiments.,methodical,Вона методична у своєму підході до експериментів.,approved
+phenomenal,adj,C1,,феноменальний,The results were ___.,phenomenal,Результати були феноменальними.,approved
+ontological,adj,C2,,онтологічний,The debate had an ___ dimension.,ontological,Дебати мали онтологічний вимір.,approved
+inveterate,adj,C2,,закоренілий,He was an ___ sceptic of new theories.,inveterate,Він був закоренілим скептиком щодо нових теорій.,approved
+abstruse,adj,C2,,незрозумілий,The paper was too ___ for most readers.,abstruse,Стаття була надто незрозумілою для більшості читачів.,approved
+esoteric,adj,C2,,вузькоспеціалізований,The article discussed an ___ branch of mathematics.,esoteric,Стаття розглядала вузькоспеціалізовану галузь математики.,approved
+intricate,adj,C2,,складний,The molecule has an ___ structure.,intricate,Молекула має складну структуру.,approved
+tangential,adj,C2,,другорядний,The comment was ___ to the main question.,tangential,Коментар був другорядним до головного питання.,approved
+serendipitous,adj,C2,,випадковий (щасливий),The discovery was entirely ___.,serendipitous,Відкриття було цілком випадковим і щасливим.,approved
+stochastic,adj,C2,,стохастичний,The model includes a ___ component.,stochastic,Модель містить стохастичний компонент.,approved
+apodictic,adj,C2,,доказовий,The result was not ___ proof of anything.,apodictic,Результат не був доказовим доказом чогось.,approved
+ineluctable,adj,C2,,неминучий,The conclusion seemed ___ after the data.,ineluctable,Висновок здавався неминучим після цих даних.,approved
+perspicuous,adj,C2,,ясний,Her explanation was ___ and clear.,perspicuous,Її пояснення було ясним і зрозумілим.,approved
+spurious,adj,C2,,хибний,The correlation proved to be ___.,spurious,Кореляція виявилася хибною.,approved
+reductionism,noun,C2,,редукціонізм,The critics accused the study of ___.,reductionism,Критики звинуватили дослідження в редукціонізмі.,approved
+falsifiability,noun,C2,,фальсифікованість,A theory needs ___ to be scientific.,falsifiability,"Теорія має бути фальсифікованою, щоб бути науковою.",approved
+conjecture,noun,C2,,припущення,The paper offers a bold ___ about the origins of life.,conjecture,Стаття пропонує сміливе припущення щодо походження життя.,approved
+axiom,noun,C2,,аксіома,The argument rests on an unproven ___.,axiom,Аргумент спирається на недоведену аксіому.,approved
+ratiocination,noun,C2,,логічне міркування,His ___ was precise and unhurried.,ratiocination,Його логічні міркування були точними і неквапливими.,approved
+corroboration,noun,C2,,підтвердження,The study needs independent ___.,corroboration,Дослідженню потрібне незалежне підтвердження.,approved
+reification,noun,C2,,реіфікація,The critic warned of ___ in the model.,reification,Критик попередив про реіфікацію в моделі.,approved
+falsification,noun,C2,,фальсифікація,___ is a key criterion of scientific theories.,Falsification,Фальсифікація — ключовий критерій наукових теорій.,approved
+corroborate,verb,C2,,підтверджувати,Later studies ___d the original findings.,corroborated,Пізніші дослідження підтвердили початкові висновки.,approved
+refute,verb,C2,,спростовувати,The new evidence ___d the claim.,refuted,Нові докази спростували твердження.,approved
+ascertain,verb,C2,,з'ясовувати,The team tried to ___ the cause of the error.,ascertain,Команда намагалася з'ясувати причину помилки.,approved
+heuristically,adv,C2,,евристично,The problem was approached ___.,heuristically,До проблеми підійшли евристично.,approved

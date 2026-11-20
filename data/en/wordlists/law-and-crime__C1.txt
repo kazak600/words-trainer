@@ -1,0 +1,4 @@
+noun: perjury, plaintiff, defendant, precedent, statute, misdemeanour, embezzlement, racketeering, conspiracy, acquittal, indictment, testimony, deposition, sentencing, parole, vandalism, forgery, perpetrator, accomplice, custody, injunction, arbitration, affidavit, litigation, subornation, jurisprudence, warrant, incarceration, fraudster
+verb: extradite, verdict, stipulate, exculpate
+phrase: due process
+adj: extenuating

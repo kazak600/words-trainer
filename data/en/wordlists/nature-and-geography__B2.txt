@@ -1,0 +1,3 @@
+noun: landscape, valley, peninsula, glacier, volcano, earthquake, season, shore, meadow, swamp, waterfall, cliff, island, desert, harbour, storm, horizon, sediment, tundra, pebble, stream, shrub, crater, lake, reef, grassland
+adj: rural, steep, vast, fertile, barren, dense
+verb: erode, flow, rise, sink, bloom, freeze, migrate, hibernate

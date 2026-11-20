@@ -1,0 +1,97 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+apartment,noun,B2,,квартира,They rented a small ___ near the centre.,apartment,Вони орендували невелику квартиру біля центру.,approved
+rent,noun,B2,,орендна плата,The ___ has gone up again this year.,rent,Орендна плата знову зросла цього року.,approved
+landlord,noun,B2,,орендодавець,Our ___ fixed the heating quickly.,landlord,Наш орендодавець швидко полагодив опалення.,approved
+tenant,noun,B2,,орендар,The ___ must pay the bills on time.,tenant,Орендар має вчасно сплачувати рахунки.,approved
+deposit,noun,B2,,завдаток; застава,You have to pay a ___ before moving in.,deposit,Перед заселенням треба внести завдаток.,approved
+property,noun,B2,,нерухомість,The ___ prices in the city are very high.,property,Ціни на нерухомість у місті дуже високі.,approved
+suburb,noun,B2,,передмістя,They moved to a quiet ___ outside the city.,suburb,Вони переїхали в тихе передмістя за містом.,approved
+downtown,noun,B2,,центр міста,The office is located in the ___ area.,downtown,Офіс розташований у центральній частині міста.,approved
+infrastructure,noun,B2,,інфраструктура,The city invested in new roads and ___.,infrastructure,Місто інвестувало в нові дороги та інфраструктуру.,approved
+pavement,noun,B2,,тротуар,Please keep off the ___.,pavement,"Будь ласка, не ходіть по тротуару.",approved
+pollution,noun,B2,,забруднення,Traffic causes serious air ___.,pollution,Транспорт спричиняє серйозне забруднення повітря.,approved
+noise,noun,B2,,шум,The ___ from the construction site is terrible.,noise,Шум з будівельного майданчика жахливий.,approved
+gentrification,noun,B2,,джентрифікація,___ has changed the neighbourhood completely.,Gentrification,Джентрифікація повністю змінила район.,approved
+skyline,noun,B2,,обрис міста,The city's ___ changed after the new towers were built.,skyline,Обрис міста змінився після будівництва нових веж.,approved
+landmark,noun,B2,,пам'ятка,The old clock tower is a famous ___.,landmark,Стара вежа з годинником — відома пам'ятка.,approved
+boulevard,noun,B2,,бульвар,The café sits on a wide tree-lined ___.,boulevard,"Кафе розташоване на широкому бульварі, обсадженому деревами.",approved
+block,noun,B2,,квартал,We live on the same ___ as the school.,block,"Ми живемо в тому ж кварталі, що й школа.",approved
+balcony,noun,B2,,балкон,They drink coffee on the ___ every morning.,balcony,Вони щоранку п'ють каву на балконі.,approved
+basement,noun,B2,,підвал,The bike is stored in the ___.,basement,Велосипед зберігається в підвалі.,approved
+mortgage,noun,B2,,іпотека,They are still paying off their ___.,mortgage,Вони досі виплачують іпотеку.,approved
+resident,noun,B2,,мешканець,The ___s signed a petition against the new road.,residents,Мешканці підписали петицію проти нової дороги.,approved
+district,noun,B2,,округ,The old ___ has a lot of charm.,district,Старий район має багато шарму.,approved
+estate,noun,B2,,житловий масив,They grew up on a large housing ___.,estate,Вони виросли у великому житловому масиві.,approved
+hallway,noun,B2,,коридор,Shoes are kept in the ___.,hallway,Взуття зберігають у коридорі.,approved
+crowded,adj,B2,,переповнений,The city centre is very ___ at rush hour.,crowded,Центр міста дуже переповнений у час пік.,approved
+spacious,adj,B2,,просторий,The flat is ___ and bright.,spacious,Квартира просторна і світла.,approved
+cosy,adj,B2,,затишний,The cafe is small and ___.,cosy,Кафе маленьке і затишне.,approved
+modern,adj,B2,,сучасний,They live in a ___ building with a lift.,modern,Вони живуть у сучасному будинку з ліфтом.,approved
+run-down,adj,B2,,занедбаний,The old district looks ___.,run-down,Старий район виглядає занедбаним.,approved
+furnished,adj,B2,,мебльований,The flat is ___ and ready to move into.,furnished,Квартира мебльована і готова до заселення.,approved
+renovate,verb,B2,,ремонтувати,They plan to ___ the old house.,renovate,Вони планують відремонтувати старий будинок.,approved
+demolish,verb,B2,,зносити,The council decided to ___ the factory.,demolish,Рада вирішила знести фабрику.,approved
+construct,verb,B2,,будувати,The company will ___ a new bridge.,construct,Компанія збудує новий міст.,approved
+commute,verb,B2,,їздити на роботу,Many people ___ from the suburbs.,commute,Багато людей їздять на роботу з передмість.,approved
+move,verb,B2,,переїжджати,We are going to ___ to a new flat next month.,move,Наступного місяця ми переїжджаємо в нову квартиру.,approved
+settle,verb,B2,,оселятися,The family decided to ___ in the countryside.,settle,Родина вирішила оселитися в сільській місцевості.,approved
+public transport,phrase,B2,,громадський транспорт,The city has excellent ___.,public transport,У місті відмінний громадський транспорт.,approved
+urbanization,noun,C1,,урбанізація,Rapid ___ has changed the region.,urbanization,Стрімка урбанізація змінила регіон.,approved
+metropolis,noun,C1,,мегаполіс,London is a huge ___.,metropolis,Лондон — величезний мегаполіс.,approved
+hamlet,noun,C1,,хутір,The ___ has only twenty houses.,hamlet,У хуторі лише двадцять будинків.,approved
+conurbation,noun,C1,,конурбація,The city is part of a large ___.,conurbation,Місто є частиною великої конурбації.,approved
+brownfield,noun,C1,,промислова зона (забудована),The council plans to build homes on a ___ site.,brownfield,Рада планує будувати житло на забудованій промисловій ділянці.,approved
+zoning,noun,C1,,зонування,New ___ rules limit building heights.,zoning,Нові правила зонування обмежують висоту будівель.,approved
+amenity,noun,C1,,зручність,The building has a gym and other ___s.,amenities,У будинку є спортзал та інші зручності.,approved
+tenement,noun,C1,,багатоквартирний будинок,They lived in a crowded old ___.,tenement,Вони жили в переповненому старому багатоквартирному будинку.,approved
+bungalow,noun,C1,,бунгало,Her parents retired to a small ___.,bungalow,Її батьки вийшли на пенсію і переїхали в маленьке бунгало.,approved
+penthouse,noun,C1,,пентхаус,The ___ has a view of the whole city.,penthouse,З пентхаусу видно все місто.,approved
+insulation,noun,C1,,ізоляція,Good ___ keeps the flat warm in winter.,insulation,Гарна ізоляція тримає квартиру теплою взимку.,approved
+ventilation,noun,C1,,вентиляція,The room has poor ___.,ventilation,У кімнаті погана вентиляція.,approved
+plumbing,noun,C1,,сантехніка,The ___ in the old building needs replacing.,plumbing,Сантехніку в старому будинку треба замінити.,approved
+eyesore,noun,C1,,потворна споруда,The derelict factory is an ___.,eyesore,Занедбана фабрика — потворна споруда.,approved
+cul-de-sac,noun,C1,,глухий кут (вулиця),Their house is at the end of a quiet ___.,cul-de-sac,Їхній будинок розташований у кінці тихої глухої вулиці.,approved
+commuter,noun,C1,,приміський пасажир,Thousands of ___s cross the bridge each morning.,commuters,Тисячі приміських пасажирів щоранку перетинають міст.,approved
+brownstone,noun,C1,,бурштиновий будинок,The street is lined with old ___s.,brownstones,Вулицю обрамляють старі будинки з бурого каменю.,approved
+renovation,noun,C1,,реновація,The ___ of the market took three years.,renovation,Реновація ринку тривала три роки.,approved
+apartheid,noun,C1,,сегрегація,Urban ___ left deep scars on the city.,apartheid,Міська сегрегація залишила глибокі рани в місті.,approved
+blight,noun,C1,,занепад,The empty factories were a sign of urban ___.,blight,Порожні фабрики були ознакою міського занепаду.,approved
+inhabitant,noun,C1,,житель,The city's ___s are proud of their park.,inhabitants,Жителі міста пишаються своїм парком.,approved
+thoroughfare,noun,C1,,магістраль,The main ___ is closed for repairs.,thoroughfare,Головна магістраль закрита на ремонт.,approved
+dilapidated,adj,C1,,занедбаний,The ___ building was closed for safety.,dilapidated,Занедбану будівлю закрили через безпеку.,approved
+congested,adj,C1,,перевантажений,The roads were badly ___ after the accident.,congested,Після аварії дороги були сильно перевантажені.,approved
+overcrowded,adj,C1,,переповнений,The school is ___ this year.,overcrowded,Школа цього року переповнена.,approved
+cosmopolitan,adj,C1,,космополітичний,The city has a ___ population.,cosmopolitan,Місто має космополітичне населення.,approved
+vibrant,adj,C1,,жвавий,The district is ___ and full of life.,vibrant,Район жвавий і повний життя.,approved
+sprawling,adj,C1,,розростаючийся,The city has a ___ suburban area.,sprawling,Місто має розростаючийся приміський район.,approved
+infrastructural,adj,C1,,інфраструктурний,The project needs ___ investment.,infrastructural,Проєкт потребує інфраструктурних інвестицій.,approved
+urban,adj,C1,,міський,The ___ population has doubled since 1980.,urban,Міське населення подвоїлося з 1980 року.,approved
+gentrified,adj,C1,,джентрифікований,The ___ streets now have expensive cafés.,gentrified,Джентрифіковані вулиці тепер мають дорогі кафе.,approved
+pedestrianize,verb,C1,,зробити пішохідною,The council wants to ___ the main square.,pedestrianize,Рада хоче зробити головну площу пішохідною.,approved
+gentrify,verb,C1,,джентрифікувати,Rising prices began to ___ the district.,gentrify,Зростання цін почало джентрифікувати район.,approved
+revitalize,verb,C1,,відроджувати,The new park helped to ___ the area.,revitalize,Новий парк допоміг відродити район.,approved
+conurbate,verb,C2,,зливатися у конурбацію,The villages ___d into one large urban area.,conurbated,Села злилися в одну велику міську агломерацію.,approved
+brutalism,noun,C2,,брутализм,The estate is an example of 1960s ___.,brutalism,Цей житловий комплекс — приклад бруталізму 1960-х.,approved
+dormitory,noun,C2,,гуртожиток,The students live in a large ___.,dormitory,Студенти живуть у великому гуртожитку.,approved
+tenancy,noun,C2,,оренда,The ___ agreement lasts six months.,tenancy,Договір оренди триває шість місяців.,approved
+bailiwick,noun,C2,,сфера впливу,The old district is her local ___.,bailiwick,Старий район — її місцева сфера впливу.,approved
+cityscape,noun,C2,,міський пейзаж,The painting shows a dusky ___.,cityscape,На картині зображено сутінковий міський пейзаж.,approved
+exurb,noun,C2,,екзурбія,The ___s are growing fast beyond the commuter belt.,exurbs,Екзурбії швидко ростуть за межами зони щоденних поїздок на роботу.,approved
+gentry,noun,C2,,дворянство (нижче),The old ___ still owns many houses here.,gentry,Старе дрібне дворянство досі володіє тут багатьма будинками.,approved
+exurbia,noun,C2,,екзурбія,Families are moving out to ___.,exurbia,Родини переїжджають до екзурбії.,approved
+arcade,noun,C2,,аркада,Shops line the old stone ___.,arcade,Магазини вишикувалися вздовж старої кам'яної аркади.,approved
+hovel,noun,C2,,халупа,The poor family lived in a damp ___.,hovel,Бідна родина жила у вогкій халупі.,approved
+villa,noun,C2,,вілла,They rented a seaside ___ for the summer.,villa,Вони орендували приморську віллу на літо.,approved
+lodging,noun,C2,,житло,Student ___ near the campus are scarce.,lodging,Студентського житла біля кампусу бракує.,approved
+caravanserai,noun,C2,,караван-сарай,The old ___ is now a museum.,caravanserai,Старий караван-сарай тепер музей.,approved
+palatial,adj,C2,,палацовий,The mansion had ___ halls.,palatial,Особняк мав палацові зали.,approved
+antediluvian,adj,C2,,допотопний,The heating system was ___.,antediluvian,Система опалення була допотопною.,approved
+ramshackle,adj,C2,,ветхий,They lived in a ___ hut by the river.,ramshackle,Вони жили в ветхій хатині біля річки.,approved
+ornamental,adj,C2,,декоративний,The gate has ___ ironwork.,ornamental,Ворота мають декоративне кування.,approved
+utilitarian,adj,C2,,практичний,The flats are plain and ___.,utilitarian,Квартири прості й практичні.,approved
+genteel,adj,C2,,пристойний,The neighbourhood has a ___ atmosphere.,genteel,У районі пристойна атмосфера.,approved
+urbane,adj,C2,,витончений,The hotel manager was calm and ___.,urbane,Менеджер готелю був спокійним і витонченим.,approved
+bijou,adj,C2,,мініатюрний,The cafe is a ___ place with four tables.,bijou,Кафе — мініатюрне місце з чотирма столиками.,approved
+crepuscular,adj,C2,,сутінковий,The streets look magical in the ___ light.,crepuscular,Вулиці виглядають чарівними в сутінковому світлі.,approved
+brownfield,adj,C2,,забудований,The ___ site was cleaned and sold.,brownfield,Забудовану ділянку очистили і продали.,approved
+brutalist,adj,C2,,брутальний,The ___ tower block divided opinion.,brutalist,Брутальна висотка розділила думки.,approved

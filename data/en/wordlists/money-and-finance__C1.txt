@@ -1,0 +1,4 @@
+noun: solvency, arrears, collateral, annuity, equity, bond, portfolio, premium, frugality, ledger, surcharge, thrift, mortgagee, accountability, foreclosure, dispersal
+adj: deductible, extravagant, prudent, exempt, rewarding, creditworthy, extortionate, prudential
+verb: reimburse, defraud, embezzle, forfeit, levy, audit, liquidate
+phrase: tax haven

@@ -1,0 +1,101 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+novel,noun,B2,,роман,She is reading a long historical ___.,novel,Вона читає довгий історичний роман.,approved
+poem,noun,B2,,вірш,He wrote a ___ for her birthday.,poem,Він написав вірш на її день народження.,approved
+author,noun,B2,,автор,The ___ won the prize for her debut novel.,author,Авторка отримала премію за свій дебютний роман.,approved
+character,noun,B2,,персонаж,The main ___ is a young detective.,character,Головний персонаж — молодий детектив.,approved
+plot,noun,B2,,сюжет,The ___ of the film was hard to follow.,plot,Сюжет фільму було важко простежити.,approved
+theme,noun,B2,,тема,The ___ of the book is friendship.,theme,Тема книги — дружба.,approved
+narrator,noun,B2,,оповідач,The ___ tells the story from her point of view.,narrator,Оповідачка розповідає історію з власної точки зору.,approved
+sculpture,noun,B2,,скульптура,The museum displays a famous bronze ___.,sculpture,Музей експонує відому бронзову скульптуру.,approved
+painting,noun,B2,,картина,This ___ hangs in the main gallery.,painting,Ця картина висить у головній галереї.,approved
+exhibition,noun,B2,,виставка,We visited an art ___ on Sunday.,exhibition,У неділю ми відвідали художню виставку.,approved
+performance,noun,B2,,вистава; виступ,The ___ lasted three hours.,performance,Вистава тривала три години.,approved
+audience,noun,B2,,глядачі,The ___ gave the actors a standing ovation.,audience,Глядачі влаштували акторам овацію стоячи.,approved
+critic,noun,B2,,критик,The ___ praised the new novel.,critic,Критик похвалив новий роман.,approved
+review,noun,B2,,рецензія,I read a positive ___ of the film.,review,Я прочитав позитивну рецензію на фільм.,approved
+comedy,noun,B2,,комедія,We watched a funny ___ last night.,comedy,Минулого вечора ми дивилися смішну комедію.,approved
+tragedy,noun,B2,,трагедія,Shakespeare wrote many famous ___ies.,tragedies,Шекспір написав багато відомих трагедій.,approved
+fiction,noun,B2,,художня література,She reads mostly science ___.,fiction,Вона читає переважно наукову фантастику.,approved
+biography,noun,B2,,біографія,He is writing a ___ of his grandfather.,biography,Він пише біографію свого діда.,approved
+translation,noun,B2,,переклад,The ___ of the novel was published last year.,translation,Переклад роману опублікували минулого року.,approved
+sculptor,noun,B2,,скульптор,The ___ spent years carving the statue.,sculptor,Скульптор витратив роки на вирізьблення статуї.,approved
+musician,noun,B2,,музикант,The ___ played at the festival.,musician,Музикант грав на фестивалі.,approved
+gallery,noun,B2,,галерея,The ___ opened a new wing.,gallery,Галерея відкрила нове крило.,approved
+fable,noun,B2,,байка,The old ___ teaches a lesson about honesty.,fable,Стара байка вчить урокам чесності.,approved
+sonnet,noun,B2,,сонет,Shakespeare wrote more than a hundred ___s.,sonnets,Шекспір написав понад сто сонетів.,approved
+chapter,noun,B2,,розділ,Each ___ begins with a short quotation.,chapter,Кожен розділ починається з короткої цитати.,approved
+essay,noun,B2,,есе,Her ___ on freedom was published in a journal.,essay,Її есе про свободу опублікували в журналі.,approved
+hero,noun,B2,,герой,The ___ of the novel faces many dangers.,hero,Герой роману стикається з багатьма небезпеками.,approved
+sketch,noun,B2,,ескіз,The artist drew a quick ___ of the harbour.,sketch,Художник швидко намалював ескіз гавані.,approved
+portrait,noun,B2,,портрет,The gallery has a famous ___ of the queen.,portrait,У галереї є відомий портрет королеви.,approved
+drama,noun,B2,,драма,The theatre group staged a modern ___.,drama,Театральна трупа поставила сучасну драму.,approved
+publish,verb,B2,,видавати,The company will ___ her second book.,publish,Видавництво видасть її другу книгу.,approved
+imagine,verb,B2,,уявляти,Writers must ___ worlds that do not exist.,imagine,"Письменники мають уявляти світи, яких не існує.",approved
+describe,verb,B2,,описувати,The poet ___s the sea at sunset.,describes,Поет описує море на заході сонця.,approved
+inspire,verb,B2,,надихати,Nature often ___s painters.,inspires,Природа часто надихає художників.,approved
+creative,adj,B2,,творчий,She has a very ___ approach to design.,creative,Вона має дуже творчий підхід до дизайну.,approved
+famous,adj,B2,,відомий,The gallery has a ___ collection of paintings.,famous,Галерея має відому колекцію картин.,approved
+classic,adj,B2,,класичний,It is a ___ film from the seventies.,classic,Це класичний фільм сімдесятих.,approved
+popular,adj,B2,,популярний,This song is very ___ with young people.,popular,Ця пісня дуже популярна серед молодих людей.,approved
+dramatic,adj,B2,,драматичний,The ending of the play was very ___.,dramatic,Кінцівка вистави була дуже драматичною.,approved
+allegory,noun,C1,,алегорія,The novel is an ___ of political power.,allegory,Роман є алегорією політичної влади.,approved
+motif,noun,C1,,мотив,The recurring ___ of the sea runs through the book.,motif,Повторюваний мотив моря проходить крізь всю книгу.,approved
+prose,noun,C1,,проза,Her ___ is precise and elegant.,prose,Її проза точна і елегантна.,approved
+satire,noun,C1,,сатира,The film is a sharp ___ of consumer culture.,satire,Фільм — гостра сатира на споживацьку культуру.,approved
+protagonist,noun,C1,,протагоніст,The ___ struggles with guilt throughout the book.,protagonist,Протагоніст упродовж усієї книги бореться з почуттям провини.,approved
+vernacular,noun,C1,,народна мова,The poems were written in the local ___.,vernacular,Вірші написані місцевою народною мовою.,approved
+canon,noun,C1,,канон,The novel is now part of the literary ___.,canon,Роман тепер є частиною літературного канону.,approved
+impressionism,noun,C1,,імпресіонізм,Monet is a famous figure of ___.,impressionism,Моне — відома постать імпресіонізму.,approved
+modernism,noun,C1,,модернізм,The writer belongs to the period of ___.,modernism,Письменник належить до періоду модернізму.,approved
+ambiguity,noun,C1,,двозначність,The ending of the novel leaves much ___.,ambiguity,Кінцівка роману залишає багато двозначності.,approved
+metaphor,noun,C1,,метафора,The poem uses a powerful ___ for grief.,metaphor,У вірші використовується потужна метафора для горя.,approved
+stanza,noun,C1,,строфа,Each ___ of the poem has four lines.,stanzas,Кожна строфа вірша має чотири рядки.,approved
+choreography,noun,C1,,хореографія,The ___ was breathtaking.,choreography,Хореографія була захоплюючою.,approved
+oeuvre,noun,C1,,творчий доробок,His ___ includes over thirty novels.,oeuvre,Його творчий доробок включає понад тридцять романів.,approved
+parody,noun,C1,,пародія,The sketch was a clever ___ of the old drama.,parody,Скетч був дотепною пародією на стару драму.,approved
+epic,noun,C1,,епос,The ___ tells the story of a great war.,epic,Епос розповідає історію великої війни.,approved
+elegy,noun,C1,,елегія,He wrote an ___ for his late friend.,elegy,Він написав елегію для свого покійного друга.,approved
+allusion,noun,C1,,алюзія,The poem contains a subtle ___ to classical myth.,allusion,Вірш містить тонку алюзію на класичний міф.,approved
+soliloquy,noun,C1,,монолог,The hero's ___ reveals his inner doubts.,soliloquy,Монолог героя розкриває його внутрішні сумніви.,approved
+novella,noun,C1,,новела,Her latest work is a short ___.,novella,Її останній твір — коротка новела.,approved
+iconography,noun,C1,,іконографія,The painting follows the traditional ___.,iconography,Картина дотримується традиційної іконографії.,approved
+anthology,noun,C1,,антологія,The ___ collects poems from five centuries.,anthology,Антологія збирає вірші з п'яти століть.,approved
+cubism,noun,C1,,кубізм,Picasso is associated with ___.,cubism,Пікассо асоціюється з кубізмом.,approved
+pastiche,noun,C1,,пастиш,The novel is a witty ___ of detective fiction.,pastiche,Роман — дотепний пастиш детективної прози.,approved
+avant-garde,adj,C1,,авангардний,The gallery shows ___ installations.,avant-garde,Галерея показує авангардні інсталяції.,approved
+surrealist,adj,C1,,сюрреалістичний,"The film has a dreamlike, ___ style.",surrealist,"Фільм має мрійливий, сюрреалістичний стиль.",approved
+pastoral,adj,C1,,пастораль,The painting shows a calm ___ scene.,pastoral,На картині зображено спокійну пасторальну сцену.,approved
+lyrical,adj,C1,,ліричний,The author's language is deeply ___.,lyrical,Мова автора глибоко лірична.,approved
+ornate,adj,C1,,вишуканий,The cathedral has ___ decorations.,ornate,Собор має вишукані прикраси.,approved
+sombre,adj,C1,,похмурий,The film has a ___ tone.,sombre,Фільм має похмурий тон.,approved
+evocative,adj,C1,,виразний,The novel's descriptions are highly ___.,evocative,Описи в романі дуже виразні.,approved
+didactic,adj,C1,,повчальний,The play is too ___ for my taste.,didactic,Вистава надто повчальна на мій смак.,approved
+curate,verb,C1,,курувати,She was asked to ___ the autumn exhibition.,curate,Її попросили курувати осінню виставку.,approved
+dramatize,verb,C1,,драматизувати,The writer ___d the events for the stage.,dramatized,Письменник драматизував події для сцени.,approved
+chiaroscuro,noun,C2,,світлотінь,The painter mastered dramatic ___.,chiaroscuro,Художник досконало опанував драматичну світлотінь.,approved
+polyphony,noun,C2,,поліфонія,The novel is a ___ of many voices.,polyphony,Роман — поліфонія багатьох голосів.,approved
+diegesis,noun,C2,,діегезис,The film's ___ is notably complex.,diegesis,Діегезис фільму надзвичайно складний.,approved
+ekphrasis,noun,C2,,екфраза,The poem is a famous ___ of a painting.,ekphrasis,Вірш — відома екфраза картини.,approved
+bildungsroman,noun,C2,,роман виховання,The novel is a classic ___.,bildungsroman,Роман є класичним романом виховання.,approved
+palimpsest,noun,C2,,палімпсест,The city's streets are a ___ of history.,palimpsest,Вулиці міста — палімпсест історії.,approved
+leitmotif,noun,C2,,лейтмотив,The melody is a recurring ___ in the opera.,leitmotif,Мелодія — повторюваний лейтмотив опери.,approved
+mannerism,noun,C2,,манієризм,The painter's style reflects late ___.,mannerism,Стиль художника відображає пізній манієризм.,approved
+verisimilitude,noun,C2,,правдоподібність,The novel achieves remarkable ___.,verisimilitude,Роман досягає напрочуд високої правдоподібності.,approved
+bathos,noun,C2,,банальність,The poem's ending slipped into ___.,bathos,Кінцівка вірша сповзла в банальність.,approved
+palinode,noun,C2,,палінодія,The poet's ___ reversed his earlier praise.,palinode,Палінодія поета відкликала його попередню похвалу.,approved
+catachresis,noun,C2,,катахреза,"""Mouth of the river"" is a ___ in some contexts.",catachresis,«Устя річки» — катахреза в деяких контекстах.,approved
+sprezzatura,noun,C2,,спреццатура,The painter's ___ made the work look effortless.,sprezzatura,Спрецзатура художника зробила роботу здаватися легкою.,approved
+mise-en-abyme,noun,C2,,мізанабім,The novel uses a ___ to reflect its own story.,mise-en-abyme,"Роман використовує мізанабім, щоб відображати власну історію.",approved
+tableau,noun,C2,,живописна сцена,The final scene forms a striking ___.,tableau,Фінальна сцена складає разючу живописну сцену.,approved
+ekphrastic,noun,C2,,екфраза,The poem is an ___ of a famous painting.,ekphrastic,Вірш — екфраза відомої картини.,approved
+frontispiece,noun,C2,,фронтиспіс,The book opens with an engraved ___.,frontispiece,Книга відкривається гравірованим фронтисписом.,approved
+trompe-l'oeil,noun,C2,,трюмплой,The mural is a clever ___.,trompe-l'oeil,Розпис — вправний трюмплой.,approved
+ekphrastic,adj,C2,,екфрастичний,The poem is ___ and describes a sculpture.,ekphrastic,Вірш екфрастичний і описує скульптуру.,approved
+hermetic,adj,C2,,герметичний; замкнутий,The poet's work is ___ and hard to decode.,hermetic,Творчість поета замкнута і важка для розшифрування.,approved
+sublime,adj,C2,,піднесений,The view from the summit was ___.,sublime,Вид з вершини був піднесеним.,approved
+baroque,adj,C2,,бароковий,The church is decorated in ___ style.,baroque,Церква прикрашена в бароковому стилі.,approved
+elegiac,adj,C2,,елегійний,The poem has an ___ tone of loss.,elegiac,Вірш має елегійний тон втрати.,approved
+gothic,adj,C2,,готичний,The novel is full of ___ atmosphere.,gothic,Роман сповнений готичної атмосфери.,approved
+recondite,adj,C2,,маловідомий,The critic's references were ___.,recondite,Посилання критика були маловідомими.,approved
+chthonic,adj,C2,,хтонічний,The myth describes a ___ deity.,chthonic,Міф описує хтонічне божество.,approved
+pastiche,verb,C2,,наслідувати (стиль),The author ___d Victorian prose.,pastiched,Автор наслідував вікторіанську прозу.,approved

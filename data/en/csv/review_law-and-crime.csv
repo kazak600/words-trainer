@@ -1,0 +1,105 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+verdict,noun,B2,,вирок; вердикт,The jury reached a ___ after two days.,verdict,Присяжні винесли вердикт через два дні.,approved
+lawyer,noun,B2,,юрист; адвокат,She hired a good ___ to defend her case.,lawyer,Вона найняла хорошого адвоката для захисту своєї справи.,approved
+evidence,noun,B2,,докази,The police found new ___ at the scene.,evidence,Поліція знайшла нові докази на місці злочину.,approved
+witness,noun,B2,,свідок,A ___ saw the car leave the parking lot.,witness,"Свідок бачив, як машина виїжджала з парковки.",approved
+suspect,noun,B2,,підозрюваний,The ___ was arrested at the airport.,suspect,Підозрюваного заарештували в аеропорту.,approved
+court,noun,B2,,суд,The case will go to ___ next month.,court,Справа піде до суду наступного місяця.,approved
+penalty,noun,B2,,покарання; штраф,The ___ for speeding is a heavy fine.,penalty,Покаранням за перевищення швидкості є великий штраф.,approved
+theft,noun,B2,,крадіжка,The ___ of the painting shocked the city.,theft,Крадіжка картини шокувала місто.,approved
+fraud,noun,B2,,шахрайство,The company was accused of ___.,fraud,Компанію звинуватили у шахрайстві.,approved
+assault,noun,B2,,напад,The victim described the ___ in detail.,assault,Потерпіла детально описала напад.,approved
+prison,noun,B2,,в'язниця,He spent five years in ___.,prison,Він провів п'ять років у в'язниці.,approved
+appeal,noun,B2,,апеляція,They decided to file an ___ against the ruling.,appeal,Вони вирішили подати апеляцію на рішення.,approved
+bail,noun,B2,,застава,He was released on ___ until the trial.,bail,Його відпустили під заставу до суду.,approved
+crime,noun,B2,,злочин,Robbery is a serious ___.,crime,Грабіж — серйозний злочин.,approved
+offence,noun,B2,,правопорушення,Speeding is a minor traffic ___.,offence,Перевищення швидкості — незначне дорожнє правопорушення.,approved
+burglary,noun,B2,,пограбування (зі зломом),The house was broken into during a ___.,burglary,Під час пограбування до будинку вдерлися.,approved
+violence,noun,B2,,насильство,Domestic ___ is a serious problem.,violence,Домашнє насильство — серйозна проблема.,approved
+contract,noun,B2,,договір,The ___ must be signed by both parties.,contract,Договір має підписати обидві сторони.,approved
+liability,noun,B2,,відповідальність,The company accepted ___ for the damage.,liability,Компанія визнала відповідальність за збитки.,approved
+rights,noun,B2,,права,Everyone has basic human ___.,rights,Кожен має основні людські права.,approved
+jury,noun,B2,,присяжні,The ___ listened to all the evidence.,jury,Присяжні вислухали всі докази.,approved
+judge,noun,B2,,суддя,The ___ ordered a new trial.,judge,Суддя призначив новий розгляд справи.,approved
+defence,noun,B2,,захист,The ___ argued that the evidence was unreliable.,defence,"Захист стверджував, що докази ненадійні.",approved
+prosecutor,noun,B2,,прокурор,The ___ asked for a ten-year sentence.,prosecutor,Прокурор попросив десять років ув'язнення.,approved
+criminal,noun,B2,,злочинець,The ___ was caught after a long chase.,criminal,Злочинця спіймали після довгої погоні.,approved
+hearing,noun,B2,,слухання,The court's ___ lasted all morning.,hearing,Судове слухання тривало весь ранок.,approved
+guilt,noun,B2,,провина,He admitted his ___ in front of the judge.,guilt,Він визнав свою провину перед суддею.,approved
+sentence,verb,B2,,засуджувати,The judge will ___ him next week.,sentence,Суддя засудить його наступного тижня.,approved
+investigate,verb,B2,,розслідувати,The police are trying to ___ the accident.,investigate,Поліція намагається розслідувати аварію.,approved
+testify,verb,B2,,давати свідчення,The doctor agreed to ___ in court.,testify,Лікар погодився дати свідчення в суді.,approved
+accuse,verb,B2,,звинувачувати,They ___ him of stealing money.,accused,Його звинуватили у крадіжці грошей.,approved
+acquit,verb,B2,,виправдовувати,The court decided to ___ the defendant.,acquit,Суд вирішив виправдати обвинуваченого.,approved
+fine,verb,B2,,штрафувати,The company was ___d for pollution.,fined,Компанію оштрафували за забруднення.,approved
+arrest,verb,B2,,арештувати,The police will ___ the suspect at dawn.,arrest,Поліція арештує підозрюваного на світанку.,approved
+witness,verb,B2,,бути свідком,Several neighbours ___ed the accident.,witnessed,Кілька сусідів були свідками аварії.,approved
+innocent,adj,B2,,невинний,She was found ___ of all charges.,innocent,Її визнали невинною за всіма звинуваченнями.,approved
+legal,adj,B2,,легальний; юридичний,You need ___ advice before signing.,legal,Перед підписанням вам потрібна юридична консультація.,approved
+illegal,adj,B2,,незаконний,Parking here is ___.,illegal,Паркування тут незаконне.,approved
+perjury,noun,C1,,лжесвідчення,He was charged with ___ after lying under oath.,perjury,Його звинуватили у лжесвідченні після брехні під присягою.,approved
+plaintiff,noun,C1,,позивач,The ___ demanded compensation for the damage.,plaintiff,Позивач вимагав компенсації за збитки.,approved
+defendant,noun,C1,,відповідач; обвинувачений,The ___ denied all charges.,defendant,Обвинувачений заперечував усі звинувачення.,approved
+precedent,noun,C1,,прецедент,The ruling set an important ___ for future cases.,precedent,Рішення створило важливий прецедент для майбутніх справ.,approved
+statute,noun,C1,,статут; закон,The ___ of limitations has expired.,statute,Строк давності за статутом минув.,approved
+misdemeanour,noun,C1,,правопорушення,Shoplifting is treated as a ___ in this state.,misdemeanour,У цьому штаті крадіжку з магазину розглядають як правопорушення.,approved
+embezzlement,noun,C1,,розкрадання,The manager was convicted of ___.,embezzlement,Менеджера засудили за розкрадання.,approved
+racketeering,noun,C1,,рекет,The gang was charged with ___.,racketeering,Банду звинуватили у рекеті.,approved
+conspiracy,noun,C1,,змова,The police uncovered a ___ to smuggle drugs.,conspiracy,Поліція розкрила змову з контрабанди наркотиків.,approved
+acquittal,noun,C1,,виправдання,The ___ surprised many observers.,acquittal,Виправдання здивувало багатьох спостерігачів.,approved
+indictment,noun,C1,,обвинувальний акт,The prosecutor filed an ___ against the banker.,indictment,Прокурор подав обвинувальний акт проти банкіра.,approved
+testimony,noun,C1,,свідчення,Her ___ was crucial to the case.,testimony,Її свідчення були вирішальними у справі.,approved
+deposition,noun,C1,,письмові свідчення,The lawyer read the witness's ___ aloud.,deposition,Адвокат зачитав вголос письмові свідчення свідка.,approved
+sentencing,noun,C1,,винесення вироку,The ___ was postponed until next month.,sentencing,Винесення вироку відклали на наступний місяць.,approved
+parole,noun,C1,,умовно-дострокове звільнення,He was released on ___ after eight years.,parole,Його звільнили умовно-достроково після восьми років.,approved
+vandalism,noun,C1,,вандалізм,The park suffered serious ___ last week.,vandalism,Минулого тижня парк зазнав серйозного вандалізму.,approved
+forgery,noun,C1,,підробка,The painting turned out to be a ___.,forgery,Картина виявилася підробкою.,approved
+perpetrator,noun,C1,,злочинець; виконавець злочину,The police identified the ___ within a day.,perpetrator,Поліція встановила злочинця протягом доби.,approved
+accomplice,noun,C1,,співучасник,The ___ testified against the gang leader.,accomplice,Співучасник дав свідчення проти ватажка банди.,approved
+custody,noun,C1,,опіка; утримання під вартою,The mother was granted ___ of the children.,custody,Матері присудили опіку над дітьми.,approved
+injunction,noun,C1,,судова заборона,The court issued an ___ against the publication.,injunction,Суд видав судову заборону на публікацію.,approved
+arbitration,noun,C1,,арбітраж,The two companies agreed to ___.,arbitration,Дві компанії погодилися на арбітраж.,approved
+affidavit,noun,C1,,письмова присяга,The witness signed a sworn ___.,affidavit,Свідок підписав письмову присягу.,approved
+litigation,noun,C1,,судовий процес,The dispute ended in lengthy ___.,litigation,Суперечка закінчилася тривалим судовим процесом.,approved
+subornation,noun,C1,,підкуп свідків,The lawyer was accused of ___.,subornation,Адвоката звинуватили у підкупі свідків.,approved
+jurisprudence,noun,C1,,юриспруденція,The case set a new ___ on digital privacy.,jurisprudence,Справа створила нову юриспруденцію щодо цифрової приватності.,approved
+warrant,noun,C1,,ордер,Police needed a ___ to search the house.,warrant,"Поліції потрібен був ордер, щоб обшукати будинок.",approved
+incarceration,noun,C1,,ув'язнення,Long ___ rarely deters crime.,incarceration,Тривале ув'язнення рідко стримує злочинність.,approved
+fraudster,noun,C1,,шахрай,The ___ was caught stealing online accounts.,fraudster,Шахрая спіймали на крадіжці онлайн-облікових записів.,approved
+extradite,verb,C1,,екстрадувати,The government agreed to ___ the suspect.,extradite,Уряд погодився екстрадувати підозрюваного.,approved
+verdict,verb,C1,,вирішувати,The panel was asked to ___ on the complaint.,verdict,Комісію попросили винести рішення щодо скарги.,approved
+stipulate,verb,C1,,обумовлювати,The contract ___s the conditions of payment.,stipulates,Контракт обумовлює умови оплати.,approved
+exculpate,verb,C1,,виправдовувати,New evidence helped to ___ the suspect.,exculpate,Нові докази допомогли виправдати підозрюваного.,approved
+due process,phrase,C1,,належна правова процедура,Everyone deserves ___ under the law.,due process,Кожен заслуговує на належну правову процедуру за законом.,approved
+extenuating,adj,C1,,пом'якшувальний,The judge considered ___ circumstances.,extenuating,Суддя розглянув пом'якшувальні обставини.,approved
+mens rea,phrase,C2,,умисел (юр.),The prosecution had to prove ___ beyond doubt.,mens rea,Обвинувачення мало довести умисел поза розумним сумнівом.,approved
+recidivism,noun,C2,,рецидивізм,The programme aims to reduce ___ among young offenders.,recidivism,Програма спрямована на зниження рецидивізму серед молодих правопорушників.,approved
+subpoena,noun,C2,,повістка до суду,She received a ___ to appear in court.,subpoena,Вона отримала повістку з викликом до суду.,approved
+collusion,noun,C2,,змова,The auditors found evidence of ___ between the directors.,collusion,Аудитори знайшли докази змови між директорами.,approved
+malfeasance,noun,C2,,службове зловживання,The official was removed for ___.,malfeasance,Посадовця усунули за службове зловживання.,approved
+extortion,noun,C2,,вимагання,He was charged with ___ and blackmail.,extortion,Йому висунули звинувачення у вимаганні та шантажі.,approved
+impunity,noun,C2,,безкарність,Corrupt officials acted with complete ___.,impunity,Корумповані посадовці діяли з повною безкарністю.,approved
+ordinance,noun,C2,,муніципальний припис,The city passed a new noise ___.,ordinance,Місто ухвалило новий припис щодо шуму.,approved
+fiduciary,noun,C2,,довірена особа,The ___ must act in the client's best interest.,fiduciary,Довірена особа має діяти в інтересах клієнта.,approved
+vagrancy,noun,C2,,бродяжництво,The city passed a law against ___.,vagrancy,Місто ухвалило закон проти бродяжництва.,approved
+culprit,noun,C2,,винуватець,The ___ confessed on the second day.,culprit,Винуватець зізнався на другий день.,approved
+precursor,noun,C2,,попередник; ознака,The arrest was a ___ to a larger investigation.,precursor,Арешт був попередником ширшого розслідування.,approved
+culpability,noun,C2,,винуватість,The jury debated his ___ for two days.,culpability,Присяжні два дні обговорювали його винуватість.,approved
+mendacity,noun,C2,,брехливість,The court exposed the ___ of the witness.,mendacity,Суд викрив брехливість свідка.,approved
+lacuna,noun,C2,,прогалина (в законі),The law has a serious ___ on digital crime.,lacuna,Закон має серйозну прогалину щодо цифрових злочинів.,approved
+peccadillo,noun,C2,,дрібний проступок,The judge dismissed the case as a ___.,peccadillo,Суддя відхилив справу як дрібний проступок.,approved
+nefarious,adj,C2,,злочинний,The villain planned a ___ scheme.,nefarious,Лиходій планував злочинну схему.,approved
+pernicious,adj,C2,,шкідливий,The ___ influence of the cartel affected the whole region.,pernicious,Згубний вплив картелю зачепив увесь регіон.,approved
+culpable,adj,C2,,винний,The court found the manager ___ of negligence.,culpable,Суд визнав менеджера винним у недбалості.,approved
+malfeasant,adj,C2,,зловживаючий посадою,The ___ officer was dismissed.,malfeasant,"Посадовця, що зловживав посадою, звільнили.",approved
+malevolent,adj,C2,,злобний,The ___ gang terrorised the district.,malevolent,Злобна банда тероризувала район.,approved
+perpetrate,verb,C2,,скоювати,The gang ___d a series of robberies.,perpetrated,Банда скоїла серію пограбувань.,approved
+abscond,verb,C2,,втекти (від правосуддя),The accountant tried to ___ with the funds.,abscond,Бухгалтер намагався втекти з коштами.,approved
+exonerate,verb,C2,,виправдати,The new evidence ___d the prisoner.,exonerated,Нові докази виправдали ув'язненого.,approved
+connive,verb,C2,,потурати; змовлятися,The guard ___d with the thieves.,connived,Охоронець змовився із злодіями.,approved
+indemnify,verb,C2,,відшкодовувати збитки,The insurer agreed to ___ the owner.,indemnify,Страховик погодився відшкодувати збитки власнику.,approved
+expunge,verb,C2,,стерти (запис про судимість),The record of the minor offence was ___d.,expunged,Запис про незначне правопорушення стерли.,approved
+disbar,verb,C2,,позбавити права на адвокатську практику,The lawyer was ___ed for fraud.,disbarred,Адвоката позбавили права на адвокатську практику за шахрайство.,approved
+adjudicate,verb,C2,,виносити рішення,The court will ___ the dispute next month.,adjudicate,Суд винесе рішення у спорі наступного місяця.,approved
+absolve,verb,C2,,звільняти від провини,The inquiry ___d the officer of any wrongdoing.,absolved,Розслідування звільнило офіцера від будь-якої провини.,approved
+transgress,verb,C2,,порушувати (закон),He ___ed the rules of the contract.,transgressed,Він порушив умови контракту.,approved

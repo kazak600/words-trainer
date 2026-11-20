@@ -1,0 +1,3 @@
+noun: behaviour, memory, perception, motivation, instinct, anxiety, trauma, therapy, depression, personality, habit, belief, emotion, attention, doubt, self-esteem, insomnia, attitude, insight, reflex, trigger, hallucination
+adj: subconscious, optimistic, aware, stressed, logical, irrational, emotional
+verb: focus, remember, forget, stress, fear

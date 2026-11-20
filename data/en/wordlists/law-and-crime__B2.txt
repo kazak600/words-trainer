@@ -1,0 +1,3 @@
+noun: verdict, lawyer, evidence, witness, suspect, court, penalty, theft, fraud, assault, prison, appeal, bail, crime, offence, burglary, violence, contract, liability, rights, jury, judge, defence, prosecutor, criminal, hearing, guilt
+verb: sentence, investigate, testify, accuse, acquit, fine, arrest, witness
+adj: innocent, legal, illegal

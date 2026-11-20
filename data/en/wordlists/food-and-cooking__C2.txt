@@ -1,0 +1,3 @@
+noun: umami, mouthfeel, piquancy, caramel, brine, molasses, mirepoix, bouillabaisse, gastronome, bistro, offal, bouquet, frangipane
+adj: astringent, unctuous, viscous, nuanced, fragrant, gustatory, epicurean, gastronomic, edible, glutinous, sapid
+verb: parboil, braise, emulsify, julienne, decant, curdle

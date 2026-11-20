@@ -1,0 +1,3 @@
+adj: disconsolate, lachrymose, sanguine, exultant, mortified, morose, sullen, buoyant, aggrieved, forlorn, dolorous, pensive, stoic, dejected, enervated, lugubrious, blithe, incensed, rapturous, querulous
+noun: rancour, spleen, ennui, wrath, equanimity, chagrin, hubris, elation, pathos, languor, gratification, disquiet, melancholia
+verb: exasperate

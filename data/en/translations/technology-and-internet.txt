@@ -1,0 +1,95 @@
+# B2
+software | noun | програмне забезпечення | The company released new ___ for its customers. | software | Компанія випустила нове програмне забезпечення для клієнтів.
+algorithm | noun | алгоритм | The ___ recommends videos based on your history. | algorithm | Алгоритм рекомендує відео на основі вашої історії.
+database | noun | база даних | All customer data is stored in one ___. | database | Усі дані клієнтів зберігаються в одній базі даних.
+password | noun | пароль | Never share your ___ with anyone. | password | Ніколи не діліться своїм паролем з іншими.
+glitch | noun | збій | There was a small ___ in the system. | glitch | У системі стався невеликий збій.
+update | noun | оновлення | Install the latest ___ to fix the bug. | update | Встановіть останнє оновлення, щоб виправити помилку.
+device | noun | пристрій | Each ___ must be registered online. | device | Кожен пристрій потрібно зареєструвати онлайн.
+gadget | noun | гаджет | He buys every new ___ that comes out. | gadget | Він купує кожен новий гаджет, що виходить.
+network | noun | мережа | Our office ___ went down this morning. | network | Офісна мережа сьогодні вранці впала.
+virus | noun | вірус | My laptop caught a ___ from an email. | virus | Мій ноутбук підхопив вірус з листа.
+hacker | noun | хакер | The ___ stole thousands of accounts. | hacker | Хакер викрав тисячі облікових записів.
+interface | noun | інтерфейс | The new ___ is simple and clear. | interface | Новий інтерфейс простий і зрозумілий.
+sensor | noun | датчик | The car has a rain ___ on the windscreen. | sensor | На лобовому склі автомобіля є датчик дощу.
+module | noun | модуль | The course has five ___s. | modules | Курс має п'ять модулів.
+startup | noun | стартап | The ___ builds apps for small businesses. | startup | Стартап створює застосунки для малого бізнесу.
+browser | noun | браузер | Close the ___ tabs before restarting. | browser | Закрийте вкладки браузера перед перезапуском.
+streaming | noun | стрімінг | ___ has replaced most DVD rentals. | Streaming | Стрімінг замінив більшість прокатів DVD.
+upload | verb | завантажувати | Please ___ your photo to the website. | upload | Будь ласка, завантажте своє фото на сайт.
+download | verb | завантажувати (на пристрій) | You can ___ the app for free. | download | Ви можете завантажити застосунок безкоштовно.
+encrypt | verb | шифрувати | The messages are ___ed before sending. | encrypted | Повідомлення шифруються перед відправленням.
+browse | verb | переглядати | She likes to ___ the internet in the evening. | browse | Вона любить переглядати інтернет ввечері.
+install | verb | встановлювати | I need to ___ a new printer driver. | install | Мені потрібно встановити новий драйвер принтера.
+crash | verb | завершуватися аварійно | The app keeps ___ing on my phone. | crashing | Застосунок постійно вилітає на моєму телефоні.
+artificial intelligence | phrase | штучний інтелект | ___ is changing many industries. | Artificial intelligence | Штучний інтелект змінює багато галузей.
+online | adj | онлайн | Most of my shopping is done ___. | online | Більшість моїх покупок я роблю онлайн.
+digital | adj | цифровий | We received a ___ copy of the book. | digital | Ми отримали цифрову копію книги.
+wireless | adj | бездротовий | The speakers are ___ and easy to set up. | wireless | Колонки бездротові і легкі в налаштуванні.
+automated | adj | автоматизований | The factory uses ___ systems. | automated | Фабрика використовує автоматизовані системи.
+compatible | adj | сумісний | Is this charger ___ with my phone? | compatible | Чи сумісна ця зарядка з моїм телефоном?
+notification | noun | сповіщення | I turned off all app ___s. | notifications | Я вимкнув усі сповіщення застосунків.
+feature | noun | функція | The new phone has a better camera ___. | feature | У новому телефоні краща функція камери.
+password | verb | захищати паролем | Make sure the file is ___. | password-protected | Переконайтеся, що файл захищений паролем.
+connectivity | noun | зв'язок | Poor ___ slows down the video call. | connectivity | Слабкий зв'язок уповільнює відеодзвінок.
+prototype | verb | створювати прототип | The engineers ___d the device in a week. | prototyped | Інженери створили прототип пристрою за тиждень.
+subscription | noun | підписка | The software requires a monthly ___. | subscription | Програмне забезпечення потребує щомісячної підписки.
+spreadsheet | noun | таблиця | Enter the figures in the ___. | spreadsheet | Внесіть цифри в таблицю.
+glitch | verb | давати збій | The screen began to ___ during the update. | glitch | Екран почав давати збої під час оновлення.
+download | noun | завантаження | The ___ took only a minute. | download | Завантаження тривало лише хвилину.
+# C1
+bandwidth | noun | пропускна здатність | The video call needs more ___. | bandwidth | Відеодзвінку потрібно більше пропускної здатності.
+latency | noun | затримка | Low ___ is essential for online gaming. | latency | Для онлайн-ігор важлива низька затримка.
+protocol | noun | протокол | The two devices communicate using a standard ___. | protocol | Обидва пристрої спілкуються за стандартним протоколом.
+firewall | noun | брандмауер | The ___ blocks suspicious traffic. | firewall | Брандмауер блокує підозрілий трафік.
+phishing | noun | фішинг | The email was an obvious ___ attempt. | phishing | Лист був очевидною спробою фішингу.
+interoperability | noun | сумісність (систем) | The new standard improves ___ between devices. | interoperability | Новий стандарт покращує сумісність між пристроями.
+pixel | noun | піксель | The screen has a high ___ density. | pixel | Екран має високу щільність пікселів.
+encryption | noun | шифрування | Strong ___ protects your data. | encryption | Сильне шифрування захищає ваші дані.
+broadband | noun | широкосмуговий інтернет | Rural areas still lack fast ___. | broadband | У сільській місцевості досі бракує швидкого широкосмугового інтернету.
+robotics | noun | робототехніка | She studies ___ at the university. | robotics | Вона вивчає робототехніку в університеті.
+spam | noun | спам | My inbox is full of ___. | spam | Моя поштова скринька повна спаму.
+cache | noun | кеш | Clear the ___ if the page loads slowly. | cache | Очистіть кеш, якщо сторінка завантажується повільно.
+scalable | adj | масштабований | The system must be ___ as the user base grows. | scalable | Система має бути масштабованою, коли зростає кількість користувачів.
+obsolete | adj | застарілий | Floppy disks are now ___. | obsolete | Дискети тепер застарілі.
+immersive | adj | захоплюючий (віртуально) | Virtual reality creates an ___ experience. | immersive | Віртуальна реальність створює захоплюючий досвід.
+ubiquitous | adj | вездесущий | Mobile phones have become ___. | ubiquitous | Мобільні телефони стали вездесущими.
+algorithmic | adj | алгоритмічний | The bank uses ___ trading. | algorithmic | Банк використовує алгоритмічну торгівлю.
+open-source | adj | з відкритим кодом | The project is ___ and free to use. | open-source | Проєкт має відкритий код і безкоштовний для використання.
+pseudonymous | adj | псевдонімний | The forum allows ___ accounts. | pseudonymous | Форум дозволяє псевдонімні облікові записи.
+legacy | adj | застарілий (про систему) | The company still runs a ___ system. | legacy | Компанія досі користується застарілою системою.
+authenticate | verb | автентифікувати | Users must ___ before accessing the account. | authenticate | Користувачі мають автентифікуватися, перш ніж отримати доступ до облікового запису.
+optimise | verb | оптимізувати | The team worked to ___ the code. | optimise | Команда працювала над оптимізацією коду.
+debug | verb | налагоджувати | It took hours to ___ the program. | debug | Налагодження програми зайняло години.
+deploy | verb | розгортати | The company will ___ the update next week. | deploy | Компанія розгорне оновлення наступного тижня.
+iterate | verb | ітерувати; вдосконалювати | The designers ___d the prototype several times. | iterated | Дизайнери кілька разів вдосконалювали прототип.
+data mining | phrase | інтелектуальний аналіз даних | ___ helps companies predict customer behaviour. | Data mining | Інтелектуальний аналіз даних допомагає компаніям передбачати поведінку клієнтів.
+sandbox | noun | пісочниця | Test new code in a ___ before release. | sandbox | Тестуйте новий код у пісочниці перед випуском.
+hashing | noun | хешування | ___ turns passwords into fixed strings. | Hashing | Хешування перетворює паролі на фіксовані рядки.
+roll out | phrase | поетапно запровадити | The company will ___ the new app next month. | roll out | Компанія наступного місяця поетапно запровадить новий застосунок.
+deprecate | verb | позначати як застарілий | The team decided to ___ the old API. | deprecate | Команда вирішила позначити старий API як застарілий.
+throughput | noun | пропускна здатність | The server's ___ doubled after the upgrade. | throughput | Пропускна здатність сервера подвоїлася після оновлення.
+interoperable | adj | сумісний | The systems must be fully ___. | interoperable | Системи мають бути повністю сумісними.
+scalability | noun | масштабованість | ___ is a key concern for the platform. | Scalability | Масштабованість — ключове питання для платформи.
+# C2
+decentralized | adj | децентралізований | The network is ___ and has no central server. | decentralized | Мережа децентралізована і не має центрального сервера.
+idempotent | adj | ідемпотентний | The operation must be ___ to be safe to retry. | idempotent | Операція має бути ідемпотентною, щоб її було безпечно повторювати.
+monolithic | adj | монолітний | The old system was ___ and hard to change. | monolithic | Стара система була монолітною і її важко було змінити.
+impeccable | adj | бездоганний | The security record is ___. | impeccable | Бездоганний послужний список безпеки.
+granular | adj | гранулярний | The data offers a ___ breakdown by region. | granular | Дані пропонують гранулярну розбивку за регіонами.
+asynchronous | adj | асинхронний | The service uses ___ requests. | asynchronous | Сервіс використовує асинхронні запити.
+polymorphism | noun | поліморфізм | Object-oriented design relies on ___. | polymorphism | Об'єктно-орієнтований дизайн спирається на поліморфізм.
+concurrency | noun | паралельність | Managing ___ is hard in distributed systems. | concurrency | Керувати паралельністю складно в розподілених системах.
+encapsulation | noun | інкапсуляція | Good design uses ___ to hide details. | encapsulation | Добрий дизайн використовує інкапсуляцію, щоб приховати деталі.
+recursion | noun | рекурсія | The function relies on ___ to traverse the tree. | recursion | Функція використовує рекурсію для обходу дерева.
+isomorphism | noun | ізоморфізм | The two systems share an ___. | isomorphism | Дві системи мають ізоморфізм.
+kludge | noun | костиль | The fix was a temporary ___. | kludge | Виправлення було тимчасовим костилем.
+exfiltrate | verb | викрасти (дані) | The malware tried to ___ the files. | exfiltrate | Шкідливе ПЗ намагалося викрасти файли.
+bifurcate | verb | роздвоюватися | The project ___d into two separate tools. | bifurcated | Проєкт роздвоївся на два окремі інструменти.
+polymorphic | adj | поліморфний | The function is ___ and accepts several types. | polymorphic | Функція поліморфна і приймає кілька типів.
+ontology | noun | онтологія | The database uses a formal ___ of products. | ontology | База даних використовує формальну онтологію продуктів.
+idempotence | noun | ідемпотентність | ___ ensures that retries do no harm. | Idempotence | Ідемпотентність гарантує, що повтори не шкодять.
+serialization | noun | серіалізація | The format supports efficient ___ of objects. | serialization | Формат підтримує ефективну серіалізацію об'єктів.
+virtualization | noun | віртуалізація | ___ lets several systems run on one machine. | Virtualization | Віртуалізація дозволяє кільком системам працювати на одній машині.
+exfiltration | noun | ексфільтрація | The attack ended in data ___. | exfiltration | Атака завершилася ексфільтрацією даних.
+ubiquity | noun | вездесущність | The ___ of sensors changed city life. | ubiquity | Вездесущність датчиків змінила життя міст.

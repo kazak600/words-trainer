@@ -1,0 +1,102 @@
+# B2
+community | noun | спільнота | The local ___ organized a clean-up day. | community | Місцева спільнота організувала день прибирання.
+tradition | noun | традиція | It is a ___ to celebrate the harvest in autumn. | tradition | Святкувати врожай восени — це традиція.
+neighbourhood | noun | район; сусідство | Our ___ is quiet and safe at night. | neighbourhood | Наш район тихий і безпечний вночі.
+commitment | noun | зобов'язання; відданість | Marriage is a serious ___. | commitment | Шлюб — серйозне зобов'язання.
+argument | noun | сварка | They had a big ___ about money. | argument | Вони посварилися через гроші.
+trust | noun | довіра | Building ___ takes time. | trust | Побудова довіри потребує часу.
+respect | noun | повага | Children should show ___ to their elders. | respect | Діти мають виявляти повагу до старших.
+divorce | noun | розлучення | Their ___ was finalized last spring. | divorce | Їхнє розлучення було оформлене минулої весни.
+engagement | noun | заручини | The couple announced their ___ at Christmas. | engagement | Пара оголосила про заручини на Різдво.
+loyalty | noun | вірність | Her ___ to her friends never wavered. | loyalty | Її вірність друзям ніколи не похитнулася.
+rivalry | noun | суперництво | There is a fierce ___ between the two brothers. | rivalry | Між двома братами існує жорстке суперництво.
+companion | noun | супутник; супутниця | My dog is my faithful ___. | companion | Мій пес — мій вірний супутник.
+sympathy | noun | співчуття | She expressed her ___ to the grieving family. | sympathy | Вона висловила співчуття родині, що сумує.
+tolerance | noun | терпимість | Schools should teach ___ and understanding. | tolerance | Школи мають навчати терпимості та розуміння.
+prejudice | noun | упередженість | Judging people by appearance is a form of ___. | prejudice | Судити про людей за зовнішністю — це форма упередженості.
+equality | noun | рівність | The movement fought for equal rights and ___. | equality | Рух боровся за рівні права і рівність.
+minority | noun | меншина | The town has a large ethnic ___. | minority | У місті велика етнічна меншина.
+immigrant | noun | іммігрант | Many ___s work in the restaurant industry. | immigrants | Багато іммігрантів працюють у ресторанній сфері.
+generation | noun | покоління | My grandparents belong to a different ___. | generation | Мої дідусь і бабуся належать до іншого покоління.
+conflict | noun | конфлікт | The ___ between the two families lasted for years. | conflict | Конфлікт між двома родинами тривав роками.
+reunion | noun | зустріч після розлуки | We had a family ___ after ten years. | reunion | Після десяти років розлуки в нас відбулася родинна зустріч.
+acquaintance | noun | знайомий | He is more of an ___ than a close friend. | acquaintance | Він скоріше знайомий, ніж близький друг.
+charity | noun | благодійність | She works for a children's ___. | charity | Вона працює в дитячій благодійній організації.
+volunteer | noun | волонтер | The shelter depends on ___s. | volunteers | Притулок залежить від волонтерів.
+hospitality | noun | гостинність | The villagers showed great ___ to the travellers. | hospitality | Жителі села виявили велику гостинність до мандрівників.
+gossip | verb | пліткувати | The women ___ about their neighbours all afternoon. | gossiped | Жінки пліткували про сусідів цілий день.
+rely | verb | покладатися | You can always ___ on your friends. | rely | На друзів завжди можна покластися.
+apologize | verb | вибачатися | He should ___ for being late. | apologize | Йому варто вибачитися за запізнення.
+forgive | verb | пробачати | It took her years to ___ her father. | forgive | Їй знадобилися роки, щоб пробачити батька.
+neglect | verb | нехтувати | Parents should not ___ their children's needs. | neglect | Батьки не повинні нехтувати потребами своїх дітей.
+mutual | adj | взаємний | The two friends have a ___ respect. | mutual | Двоє друзів мають взаємну повагу.
+loneliness | noun | самотність | Many elderly people suffer from ___. | loneliness | Багато літніх людей страждають від самотності.
+solidarity | noun | солідарність | The protest showed ___ with the workers. | solidarity | Протест показав солідарність із робітниками.
+encourage | verb | підбадьорювати | Teachers should ___ students to ask questions. | encourage | Вчителі мають підбадьорювати учнів ставити запитання.
+reproach | verb | дорікати | She did not ___ him for being late. | reproach | Вона не дорікала йому за запізнення.
+neighbourly | adj | по-сусідськи добрий | The village is friendly and ___. | neighbourly | Село дружнє і по-сусідськи добре.
+# C1
+alienate | verb | відштовхувати; відчужувати | His arrogant remarks ___ his colleagues. | alienated | Його зарозумілі зауваження відштовхнули колег.
+reconcile | verb | примиряти | After years apart, they finally ___ with each other. | reconciled | Після багатьох років розлуки вони нарешті помирилися.
+cohabit | verb | жити разом | Many young couples choose to ___ before marriage. | cohabit | Багато молодих пар вирішують жити разом до шлюбу.
+ostracize | verb | ізолювати; відвертатися | The group decided to ___ the member who lied. | ostracize | Група вирішила відвернутися від члена, який збрехав.
+kinship | noun | родинні зв'язки | There is a strong sense of ___ among the villagers. | kinship | Між жителями села відчувається сильний зв'язок.
+nepotism | noun | кумівство | The company was criticized for ___ in hiring. | nepotism | Компанію критикували за кумівство при найманні.
+camaraderie | noun | товариськість | The soldiers developed strong ___. | camaraderie | Солдати розвинули міцну товариськість.
+mentorship | noun | наставництво | Her ___ helped many young artists. | mentorship | Її наставництво допомогло багатьом молодим митцям.
+estrangement | noun | відчуження | The ___ between father and son lasted decades. | estrangement | Відчуження між батьком і сином тривало десятиліття.
+affinity | noun | спорідненість; симпатія | She feels a special ___ with people from her region. | affinity | Вона відчуває особливу спорідненість із людьми зі свого регіону.
+reciprocity | noun | взаємність | Good friendships depend on ___. | reciprocity | Добрі дружні стосунки тримаються на взаємності.
+rapport | noun | взаєморозуміння | The teacher quickly built ___ with the class. | rapport | Учитель швидко налагодив взаєморозуміння з класом.
+xenophobia | noun | ксенофобія | The campaign aimed to fight ___. | xenophobia | Кампанія мала на меті боротьбу з ксенофобією.
+diaspora | noun | діаспора | The ___ keeps strong ties with its homeland. | diaspora | Діаспора підтримує міцні зв'язки з батьківщиною.
+ethnicity | noun | етнічна приналежність | The census asks about ___ and language. | ethnicity | Перепис запитує про етнічну приналежність і мову.
+conformity | noun | конформізм | Teenagers often face pressure for ___. | conformity | Підлітки часто стикаються з тиском заради конформізму.
+dissent | noun | незгода | Public ___ grew after the new law. | dissent | Після нового закону зросла громадська незгода.
+ritual | noun | ритуал | The wedding followed an ancient ___. | ritual | Весілля відбулося за старовинним ритуалом.
+amicable | adj | дружній | They reached an ___ agreement after the divorce. | amicable | Після розлучення вони дійшли дружньої згоди.
+hostile | adj | ворожий | The new neighbours were ___ from the start. | hostile | Нові сусіди були ворожими від самого початку.
+affluent | adj | заможний | The ___ suburbs have excellent schools. | affluent | У заможних передмістях чудові школи.
+marginalized | adj | маргіналізований | The ___ groups had little access to services. | marginalized | Маргіналізовані групи мали мало доступу до послуг.
+egalitarian | adj | егалітарний | The club has an ___ structure with no bosses. | egalitarian | У клубі егалітарна структура без керівників.
+nostalgic | adj | ностальгійний | The reunion made everyone ___ about school days. | nostalgic | Зустріч змусила всіх згадувати шкільні роки з ностальгією.
+courteous | adj | ввічливий | The staff were ___ and helpful. | courteous | Персонал був ввічливим і доброзичливим.
+condescending | adj | поблажливий | His ___ tone annoyed everyone in the room. | condescending | Його поблажливий тон дратував усіх у кімнаті.
+collective | adj | колективний | The village made a ___ decision about the road. | collective | Село ухвалило колективне рішення щодо дороги.
+hierarchical | adj | ієрархічний | The family structure was very ___. | hierarchical | Структура родини була дуже ієрархічною.
+disparity | noun | нерівність | The ___ between rich and poor is growing. | disparity | Нерівність між багатими та бідними зростає.
+ostracism | noun | остракізм | Social ___ can be very painful. | ostracism | Соціальний остракізм може бути дуже болісним.
+altruistic | adj | альтруїстичний | Her ___ work helped hundreds of families. | altruistic | Її альтруїстична робота допомогла сотням родин.
+fraternal | adj | братерський | The ___ bond between the two men was strong. | fraternal | Братерський зв'язок між чоловіками був міцним.
+insularity | noun | замкненість | The village's ___ shocked the newcomers. | insularity | Замкненість села вразила новоприбулих.
+amiable | adj | привітний | The host was ___ and welcoming. | amiable | Господар був привітним і гостинним.
+reclusive | adj | відлюдний | The writer became ___ in his later years. | reclusive | Письменник у старості став відлюдником.
+alienation | noun | відчуження | Many young people feel a sense of ___. | alienation | Багато молодих людей відчувають відчуження.
+# C2
+rapprochement | noun | зближення | The two countries sought a ___ after the war. | rapprochement | Після війни дві країни шукали зближення.
+obsequiousness | noun | підлабузництво | His ___ embarrassed his friends. | obsequiousness | Його підлабузництво бентежило друзів.
+conviviality | noun | товариськість; весела атмосфера | The ___ of the evening made everyone happy. | conviviality | Весела атмосфера вечора зробила всіх щасливими.
+misanthrope | noun | мізантроп | The old ___ avoided all his neighbours. | misanthrope | Старий мізантроп уникав усіх своїх сусідів.
+beneficence | noun | доброчинність | His ___ funded three new schools. | beneficence | Його доброчинність профінансувала три нові школи.
+acrimony | noun | злість; роздратування | The divorce was full of ___. | acrimony | Розлучення було сповнене злості.
+bigotry | noun | фанатизм | Her speech was a shocking display of ___. | bigotry | Її промова була шокуючим проявом фанатизму.
+ingratitude | noun | невдячність | He was disappointed by the ___ of his former students. | ingratitude | Його розчарувала невдячність колишніх студентів.
+bereavement | noun | втрата близької людини | The office offers support after a ___. | bereavement | Офіс пропонує підтримку після втрати близької людини.
+pariah | noun | ізгой | After the scandal, he became a social ___. | pariah | Після скандалу він став соціальним ізгоєм.
+ostentatious | adj | показний | The ___ wedding cost more than the house. | ostentatious | Показне весілля коштувало більше, ніж будинок.
+clannish | adj | замкнений | The village was ___ and distrustful of outsiders. | clannish | Село було замкненим і недовірливим до чужих.
+sociable | adj | товариський | He is a ___ person who knows everyone. | sociable | Він товариська людина, яка знає всіх.
+parochial | adj | обмежений; провінційний | His ___ views made him unpopular in the city. | parochial | Його обмежені погляди зробили його непопулярним у місті.
+abstemious | adj | стриманий | The ___ monks lived on bread and water. | abstemious | Стримані ченці жили на хлібі та воді.
+paternalistic | adj | патерналістський | The company's ___ policies limited staff freedom. | paternalistic | Патерналістська політика компанії обмежувала свободу персоналу.
+ingratiate | verb | втертися в довіру | He tried to ___ himself with the new boss. | ingratiated | Він намагався втертися в довіру до нового начальника.
+commiserate | verb | співчувати | Friends gathered to ___ with the widow. | commiserate | Друзі зібралися, щоб співчувати вдові.
+vilify | verb | паплюжити | The tabloid tried to ___ the actor. | vilify | Таблоїд намагався паплюжити актора.
+castigate | verb | ганьбити | The minister ___ the journalists for their lies. | castigated | Міністр ганьбив журналістів за їхню брехню.
+fraternize | verb | товаришувати | Soldiers were forbidden to ___ with the locals. | fraternize | Солдатам заборонили товаришувати з місцевими.
+philanthropy | noun | філантропія | Her ___ funded a new hospital wing. | philanthropy | Її філантропія профінансувала нове крило лікарні.
+fractious | adj | сварливий | The ___ family argued at every meal. | fractious | Сварлива родина сварилася за кожною трапезою.
+clientelism | noun | клієнтелізм | Critics blamed the party for ___. | clientelism | Критики звинуватили партію в клієнтелізмі.
+gregariousness | noun | товариськість | His ___ made him popular at every party. | gregariousness | Його товариськість робила його популярним на кожній вечірці.
+bellwether | noun | показник настроїв | The town is a ___ for national politics. | bellwether | Місто — показник настроїв національної політики.
+consanguinity | noun | кровна спорідненість | The law forbids marriage between close ___. | consanguinity | Закон забороняє шлюб між близькими кровними родичами.

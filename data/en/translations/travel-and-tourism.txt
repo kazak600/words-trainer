@@ -1,0 +1,92 @@
+# B2
+itinerary | noun | маршрут | Our ___ included three museums in one day. | itinerary | Наш маршрут включав три музеї за один день.
+destination | noun | пункт призначення | Rome is a popular ___ for tourists. | destination | Рим — популярний пункт призначення для туристів.
+journey | noun | подорож | The ___ to the mountains took six hours. | journey | Подорож до гір тривала шість годин.
+excursion | noun | екскурсія | We booked a day ___ to the island. | excursion | Ми замовили одноденну екскурсію на острів.
+booking | noun | бронювання | I made a hotel ___ for next week. | booking | Я забронював готель на наступний тиждень.
+luggage | noun | багаж | Please keep your ___ with you at all times. | luggage | Будь ласка, тримайте багаж при собі весь час.
+departure | noun | відправлення | The ___ time is printed on the ticket. | departure | Час відправлення вказаний на квитку.
+arrival | noun | прибуття | The ___ of the train was delayed. | arrival | Прибуття поїзда затрималося.
+passport | noun | паспорт | Don't forget your ___ at the airport. | passport | Не забудьте паспорт в аеропорту.
+souvenir | noun | сувенір | I bought a small ___ from the market. | souvenir | Я купив невеликий сувенір на ринку.
+guidebook | noun | путівник | She read a ___ before visiting the castle. | guidebook | Вона прочитала путівник перед відвідуванням замку.
+scenery | noun | краєвид | The ___ on the coast road was stunning. | scenery | Краєвид на прибережній дорозі був приголомшливим.
+accommodation | noun | житло | Finding ___ in the city centre was difficult. | accommodation | Знайти житло в центрі міста було важко.
+delay | noun | затримка | There was a long ___ at the border. | delay | На кордоні була довга затримка.
+hostel | noun | хостел | We stayed in a cheap ___ near the station. | hostel | Ми зупинилися в дешевому хостелі біля вокзалу.
+tourism | noun | туризм | ___ is the main income of the island. | Tourism | Туризм — головне джерело доходів острова.
+expedition | noun | експедиція | The ___ reached the summit in May. | expedition | Експедиція досягла вершини в травні.
+pilgrimage | noun | паломництво | Thousands make a ___ to the holy city every year. | pilgrimage | Тисячі людей щороку здійснюють паломництво до священного міста.
+tour | verb | подорожувати (оглядати) | We ___ed the old town on foot. | toured | Ми оглянули старе місто пішки.
+explore | verb | досліджувати | Let's ___ the narrow streets of the old city. | explore | Давайте дослідимо вузькі вулички старого міста.
+book | verb | бронювати | You should ___ the tickets in advance. | book | Квитки варто бронювати заздалегідь.
+cancel | verb | скасовувати | The airline had to ___ several flights. | cancel | Авіакомпанії довелося скасувати кілька рейсів.
+local | adj | місцевий | Try the ___ food in every village. | local | Спробуйте місцеву їжу в кожному селі.
+scenic | adj | мальовничий | We took the ___ route along the lake. | scenic | Ми поїхали мальовничим маршрутом уздовж озера.
+remote | adj | віддалений | The village is in a very ___ area. | remote | Село розташоване у дуже віддаленому районі.
+authentic | adj | автентичний | The restaurant serves ___ Thai dishes. | authentic | Ресторан подає автентичні тайські страви.
+brochure | noun | буклет | The travel agency gave us a colourful ___. | brochure | Турагенція дала нам яскравий буклет.
+cruise | noun | круїз | We went on a week-long ___ in the Mediterranean. | cruise | Ми відправилися на тижневий круїз Середземним морем.
+transit | noun | транзит | The goods were held in ___ for a week. | transit | Товари тримали в транзиті тиждень.
+visa | verb | візувати | The embassy will ___ the document tomorrow. | visa | Посольство завтра проставить візу в документі.
+souvenir | verb | сувенір | He wanted something to ___ the trip. | souvenir | Він хотів щось на згадку про подорож.
+accommodate | verb | розміщувати | The hotel can ___ two hundred guests. | accommodate | Готель може розмістити двісті гостей.
+passenger | noun | пасажир | The ___s boarded the train quickly. | passengers | Пасажири швидко сіли в потяг.
+# C1
+wanderlust | noun | жага до подорожей | Her ___ took her across five continents. | wanderlust | Її жага до подорожей привела її на п'ять континентів.
+sojourn | noun | перебування | Her ___ in Paris lasted a year. | sojourn | Її перебування в Парижі тривало рік.
+stopover | noun | зупинка (в дорозі) | Our flight had a long ___ in Istanbul. | stopover | У нашому рейсі була довга зупинка в Стамбулі.
+layover | noun | пересадка | The ___ was over six hours. | layover | Пересадка тривала понад шість годин.
+hinterland | noun | глибинка | We explored the ___ far from the coast. | hinterland | Ми дослідили глибинку далеко від узбережжя.
+fare | noun | плата за проїзд | The taxi ___ was higher than expected. | fare | Плата за таксі була вищою, ніж очікувалося.
+visa | noun | віза | I need a ___ to enter the country. | visa | Мені потрібна віза, щоб в'їхати в країну.
+customs | noun | митниця | We waited an hour at ___. | customs | Ми чекали годину на митниці.
+jaunt | noun | коротка подорож | We took a short ___ to the coast. | jaunt | Ми зробили коротку подорож до узбережжя.
+globetrotter | noun | мандрівник | He is a true ___ who has visited every continent. | globetrotter | Він справжній мандрівник, який відвідав кожен континент.
+concierge | noun | консьєрж | The hotel ___ booked our table. | concierge | Консьєрж готелю замовив нам столик.
+itinerant | adj | мандрівний | An ___ musician played in the square. | itinerant | Мандрівний музикант грав на площі.
+bespoke | adj | індивідуальний | They arranged a ___ tour for the group. | bespoke | Вони організували індивідуальний тур для групи.
+off-beat | adj | незвичний | The guide suggested an ___ route through the hills. | off-beat | Гід запропонував незвичний маршрут через пагорби.
+picturesque | adj | живописний | The village is ___ and very quiet. | picturesque | Село живописне і дуже тихе.
+exorbitant | adj | непомірний | Hotel prices in the resort were ___. | exorbitant | Ціни на готель у курорті були непомірними.
+inaccessible | adj | недоступний | The monastery is ___ in winter. | inaccessible | Монастир недоступний взимку.
+itinerary | adj | подорожній | The ___ notes were very detailed. | itinerary | Подорожні нотатки були дуже детальними.
+embark | verb | сідати (на борт) | Passengers will ___ in ten minutes. | embark | Пасажири сядуть на борт через десять хвилин.
+disembark | verb | зійти (з борту) | The travellers ___ed at the port. | disembarked | Мандрівники зійшли в порту.
+reroute | verb | змінити маршрут | The storm forced us to ___ the flight. | reroute | Буря змусила нас змінити маршрут польоту.
+trek | verb | йти в похід | We ___ed across the mountains for a week. | trekked | Ми йшли через гори цілий тиждень.
+hospitality industry | phrase | сфера гостинності | She works in the ___. | hospitality industry | Вона працює в сфері гостинності.
+gratuity | noun | чайові | A small ___ is usual in restaurants. | gratuity | Невеликі чайові в ресторанах — це звичайна річ.
+overbook | verb | перебронювати | The airline tends to ___ its flights. | overbook | Авіакомпанія має звичку перебронювати рейси.
+hitchhike | verb | подорожувати автостопом | They ___d across the country for a summer. | hitchhiked | Вони подорожували країною автостопом протягом літа.
+immigration | noun | імміграційний контроль | The ___ queue was very long. | immigration | Черга на імміграційний контроль була дуже довгою.
+boardwalk | noun | дерев'яний настил | We walked along the seafront ___. | boardwalk | Ми гуляли вздовж набережної по дерев'яному настилу.
+sightseeing | noun | огляд визначних місць | Our ___ took the whole afternoon. | sightseeing | Наш огляд визначних місць зайняв цілий день.
+itinerant | noun | мандрівник | The ___ played music for coins in the square. | itinerant | Мандрівник грав музику за монети на площі.
+# C2
+peregrination | noun | мандрівка | His ___ through Asia lasted a decade. | peregrination | Його мандрівка Азією тривала десятиліття.
+vagabond | noun | волоцюга | The ___ slept under the bridge. | vagabond | Волоцюга спав під мостом.
+sybarite | noun | гедоніст | The hotel attracts wealthy ___s. | sybarites | Готель приваблює заможних гедоністів.
+exoticism | noun | екзотика | The brochure relied on ___ to sell the trip. | exoticism | Буклет покладався на екзотику, щоб продати поїздку.
+odyssey | noun | одіссея | Their trip became a long ___ across the desert. | odyssey | Їхня подорож перетворилася на довгу одіссею пустелею.
+interstice | noun | проміжок | The town lies in an ___ between two rivers. | interstice | Місто розташоване в проміжку між двома річками.
+pilgrim | noun | паломник | Each ___ carried a wooden staff. | pilgrim | Кожен паломник ніс дерев'яний посох.
+transhumance | noun | відгінне скотарство | The shepherds practise ___ each spring. | transhumance | Пастухи щовесни практикують відгінне скотарство.
+hegira | noun | втеча; переселення | The family's ___ to the coast changed their lives. | hegira | Переселення родини на узбережжя змінило їхнє життя.
+wayfarer | noun | мандрівник | The old ___ shared stories around the fire. | wayfarer | Старий мандрівник ділився історіями біля вогню.
+emissary | noun | посланець | The ___ carried a message from the island. | emissary | Посланець приніс повідомлення з острова.
+nomad | noun | кочівник | The ___s moved with their herds each season. | nomads | Кочівники переміщувалися зі своїми стадами щосезону.
+wanderer | noun | мандрівник | The ___ rested in the shade of an old oak. | wanderer | Мандрівник відпочивав у тіні старого дуба.
+bucolic | adj | буколічний | The valley had a ___ charm. | bucolic | Долина мала буколічну чарівність.
+halcyon | adj | безтурботний | They remembered those ___ summers by the sea. | halcyon | Вони згадували ті безтурботні літа біля моря.
+vertiginous | adj | паморочливий | The path was steep and ___. | vertiginous | Стежка була крутою і паморочливою.
+insular | adj | замкнений | The island community was quite ___. | insular | Спільнота острова була досить замкненою.
+tourist trap | phrase | туристична пастка | The square is a ___ with overpriced cafés. | tourist trap | Площа — туристична пастка з переоціненими кафе.
+terra incognita | phrase | невідома територія | The explorers entered ___. | terra incognita | Дослідники увійшли в невідому територію.
+wayfaring | adj | мандрівний | The ___ monks walked from village to village. | wayfaring | Мандрівні ченці ходили від села до села.
+peregrinate | verb | мандрувати | The pilgrims ___d across the continent. | peregrinated | Паломники мандрували по всьому континенту.
+viatic | adj | дорожній | The ___ allowance covered the journey. | viatic | Дорожня допомога покривала подорож.
+roaming | noun | роумінг | ___ charges can be very expensive. | Roaming | Плата за роумінг може бути дуже дорогою.
+excursionist | noun | екскурсант | The ___s gathered at the harbour. | excursionists | Екскурсанти зібралися в гавані.
+ecotourism | noun | екотуризм | The region is growing as a centre of ___. | ecotourism | Регіон розвивається як центр екотуризму.
+tramp | noun | мандрівник пішки | The ___ slept under the stars for weeks. | tramp | Мандрівник тижнями спав під зорями.

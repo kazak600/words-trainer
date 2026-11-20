@@ -1,0 +1,106 @@
+# B2
+recipe | noun | рецепт | This ___ needs only four ingredients. | recipe | Для цього рецепта потрібні лише чотири інгредієнти.
+ingredient | noun | інгредієнт | Fresh basil is the key ___. | ingredient | Свіжий базилік — ключовий інгредієнт.
+portion | noun | порція | The ___ was too big to finish. | portion | Порція була занадто великою, щоб її з'їсти.
+flavour | noun | смак | The soup had a rich, spicy ___. | flavour | Суп мав багатий, гострий смак.
+seasoning | noun | приправа | Add a pinch of ___ to the sauce. | seasoning | Додайте щіпку приправ до соусу.
+dessert | noun | десерт | We ordered chocolate cake for ___. | dessert | На десерт ми замовили шоколадний торт.
+appetite | noun | апетит | The long walk gave me a big ___. | appetite | Довга прогулянка розбудила в мене великий апетит.
+menu | noun | меню | The ___ changes with the seasons. | menu | Меню змінюється з порами року.
+waiter | noun | офіціант | The ___ brought us the bill. | waiter | Офіціант приніс нам рахунок.
+leftovers | noun | залишки їжі | We ate the ___ for lunch. | leftovers | На обід ми з'їли залишки їжі.
+canteen | noun | їдальня | The students eat lunch in the school ___. | canteen | Студенти обідають у шкільній їдальні.
+buffet | noun | шведський стіл | The hotel offers a large ___. | buffet | Готель пропонує великий шведський стіл.
+crispy | adj | хрусткий | The bread was warm and ___. | crispy | Хліб був теплим і хрустким.
+tender | adj | ніжний | The beef was so ___ that it fell apart. | tender | Яловичина була такою ніжною, що розвалювалася.
+spicy | adj | гострий | I don't like very ___ food. | spicy | Я не люблю дуже гострої їжі.
+sour | adj | кислий | The lemon tasted very ___. | sour | Лимон мав дуже кислий смак.
+bitter | adj | гіркий | Dark chocolate can taste slightly ___. | bitter | Чорний шоколад може мати трохи гіркий смак.
+fresh | adj | свіжий | Always buy ___ vegetables when you can. | fresh | Завжди купуйте свіжі овочі, коли можете.
+frozen | adj | заморожений | I used ___ peas for the soup. | frozen | Для супу я використав заморожений горох.
+homemade | adj | домашній | Her ___ jam is the best in the village. | homemade | Її домашнє варення — найкраще в селі.
+raw | adj | сирий | Some people eat fish ___. | raw | Деякі люди їдять сиру рибу.
+bland | adj | прісний | The soup was ___ and needed salt. | bland | Суп був прісним і потребував солі.
+mild | adj | м'який (на смак) | The cheese has a ___ flavour. | mild | Сир має м'який смак.
+roast | verb | смажити | We ___ed the chicken in the oven. | roasted | Ми запекли курку в духовці.
+chop | verb | нарізати | Please ___ the onions finely. | chop | Будь ласка, дрібно наріжте цибулю.
+stir | verb | мішати | ___ the sauce slowly while it simmers. | Stir | Повільно мішайте соус, поки він вариться.
+boil | verb | кип'ятити | Let the water ___ before adding the pasta. | boil | Дайте воді закипіти, перш ніж додати макарони.
+fry | verb | смажити (на сковороді) | She ___ied the fish in olive oil. | fried | Вона смажила рибу на оливковій олії.
+bake | verb | випікати | I want to ___ a loaf of bread. | bake | Я хочу випекти буханець хліба.
+serve | verb | подавати | The restaurant ___s breakfast until noon. | serves | Ресторан подає сніданок до полудня.
+taste | verb | куштувати | Could you ___ the soup and tell me if it's salty? | taste | Чи не могли б ви скуштувати суп і сказати, чи він солоний?
+cuisine | noun | кухня | Mexican ___ is known for its spices. | cuisine | Мексиканська кухня відома своїми спеціями.
+sauce | noun | соус | The pasta is served with a tomato ___. | sauce | Пасту подають з томатним соусом.
+pastry | noun | випічка | She bought a sweet ___ at the bakery. | pastry | Вона купила солодку випічку в пекарні.
+crust | noun | скоринка | The pie has a thin, golden ___. | crust | Пиріг має тонку золотисту скоринку.
+spoonful | noun | ложка | Add one ___ of sugar to the mixture. | spoonful | Додайте одну ложку цукру до суміші.
+slice | verb | нарізати скибочками | Please ___ the bread thinly. | slice | Будь ласка, наріжте хліб тонкими скибочками.
+grill | verb | гріли | We ___ed fish on the barbecue. | grilled | Ми смажили рибу на грилі.
+whisk | verb | збивати | ___ the eggs until they are fluffy. | Whisk | Збийте яйця до пишності.
+dough | noun | тісто | Knead the ___ for ten minutes. | dough | Місіть тісто десять хвилин.
+# C1
+gastronomy | noun | гастрономія | The city is famous for its ___. | gastronomy | Місто відоме своєю гастрономією.
+garnish | noun | гарнір; прикраса | The dish was served with a fresh herb ___. | garnish | Страву подали з свіжою зеленню як прикрасою.
+condiment | noun | приправа | Mustard is a popular ___ in this region. | condiment | Гірчиця — популярна приправа в цьому регіоні.
+broth | noun | бульйон | The chicken ___ was clear and light. | broth | Курячий бульйон був прозорим і легким.
+palate | noun | смакові відчуття | The wine pleased my ___. | palate | Вино сподобалося моєму смаку.
+texture | noun | текстура | The cake has a light, airy ___. | texture | Торт має легку, повітряну текстуру.
+aftertaste | noun | післясмак | The coffee left a bitter ___. | aftertaste | Кава залишила гіркий післясмак.
+epicure | noun | гурман | The old ___ knew every wine by heart. | epicure | Старий гурман знав кожне вино напам'ять.
+sommelier | noun | сомельє | The ___ recommended a red wine. | sommelier | Сомельє порадив червоне вино.
+culinary | adj | кулінарний | She has a real ___ talent. | culinary | Вона має справжній кулінарний талант.
+savoury | adj | солоний (несолодкий) | I prefer ___ snacks to sweet ones. | savoury | Я віддаю перевагу солоним закускам над солодкими.
+piquant | adj | пікантний | The sauce had a ___ taste. | piquant | Соус мав пікантний смак.
+aromatic | adj | ароматний | The kitchen filled with ___ smells. | aromatic | Кухня наповнилася ароматними запахами.
+succulent | adj | соковитий | The lamb was ___ and tender. | succulent | Ягня було соковитим і ніжним.
+rustic | adj | простий (домашній) | We ate a ___ meal of bread and cheese. | rustic | Ми поїли простої домашньої їжі: хліба і сиру.
+gourmet | adj | гурманський | The restaurant serves ___ dishes. | gourmet | Ресторан подає гурманські страви.
+cordon bleu | adj | першокласний (про кухню) | She trained at a ___ cooking school. | cordon bleu | Вона навчалася в першокласній школі кулінарії.
+marinate | verb | маринувати | Leave the meat to ___ overnight. | marinate | Залиште м'ясо мариноватися на ніч.
+blanch | verb | бланшувати | ___ the beans for two minutes. | Blanch | Бланшуйте квасолю дві хвилини.
+simmer | verb | томити на слабкому вогні | The stew should ___ for an hour. | simmer | Рагу має томитися годину на слабкому вогні.
+caramelize | verb | карамелізувати | Cook the onions until they ___. | caramelize | Смажте цибулю, доки вона не карамелізується.
+ferment | verb | бродити | The cabbage must ___ for two weeks. | ferment | Капуста має бродити два тижні.
+infuse | verb | настоювати | Let the tea ___ for five minutes. | infuse | Дайте чаю настоятися п'ять хвилин.
+sauté | verb | смажити на сильному вогні | ___ the garlic in butter for a minute. | Sauté | Обсмажте часник на маслі протягом хвилини.
+palatable | adj | смачний | The soup was surprisingly ___. | palatable | Суп був несподівано смачним.
+viand | noun | страва | The banquet offered a range of exotic ___s. | viands | На банкеті подавали низку екзотичних страв.
+sumptuous | adj | розкішний | The table was laden with a ___ feast. | sumptuous | Стіл ломився від розкішного бенкету.
+bitters | noun | гіркі настоянки | He added a few drops of ___ to the cocktail. | bitters | Він додав кілька крапель гірких настоянок у коктейль.
+confit | noun | конфі | The duck ___ was crispy and tender. | confit | Качиний конфі був хрустким і ніжним.
+reduction | noun | редукція (соусу) | The chef prepared a rich wine ___. | reduction | Шеф-кухар приготував багатий винний редукційний соус.
+julienne | noun | соломка | The salad was made with carrot ___. | julienne | Салат приготували з морквяної соломки.
+brioche | noun | бріош | The bakery sold fresh ___ every morning. | brioche | Пекарня щоранку продавала свіжий бріош.
+emulsion | noun | емульсія | The sauce is a stable ___. | emulsion | Соус — стійка емульсія.
+# C2
+umami | noun | умамі | The mushroom broth has a deep ___. | umami | Грибний бульйон має глибокий смак умамі.
+mouthfeel | noun | відчуття в роті | The sauce had a velvety ___. | mouthfeel | Соус мав оксамитове відчуття в роті.
+piquancy | noun | пікантність | The dish had a pleasant ___. | piquancy | Страва мала приємну пікантність.
+caramel | noun | карамель | The sauce was made with burnt sugar and ___. | caramel | Соус зробили з карамелізованого цукру та карамелі.
+brine | noun | розсіл | Pickles are soaked in salt ___. | brine | Огірки мочать у розсолі.
+molasses | noun | патока | The cookies were sweetened with ___. | molasses | Печиво підсолодили патокою.
+mirepoix | noun | мирпуа | The base of the stew is a ___ of vegetables. | mirepoix | Основа рагу — мирпуа з овочів.
+bouillabaisse | noun | буйабес | The fisherman's stew is called ___. | bouillabaisse | Рибне рагу рибалки називається буйабесом.
+gastronome | noun | гастроном | The ___ wrote about every new restaurant. | gastronome | Гастроном писав про кожен новий ресторан.
+bistro | noun | бістро | We ate a simple lunch in a small ___. | bistro | Ми пообідали простим обідом у маленькому бістро.
+offal | noun | субпродукти | Some traditional dishes use ___. | offal | Деякі традиційні страви використовують субпродукти.
+astringent | adj | в'язкий (на смак) | The tea was rather ___. | astringent | Чай був досить в'язким на смак.
+unctuous | adj | маслянистий | The sauce was rich and ___. | unctuous | Соус був багатим і маслянистим.
+viscous | adj | в'язкий | The honey was thick and ___. | viscous | Мед був густим і в'язким.
+nuanced | adj | тонкий (про смак) | The wine has a ___ flavour profile. | nuanced | Вино має тонкий профіль смаку.
+fragrant | adj | духмяний | The ___ basil filled the kitchen. | fragrant | Духмяний базилік наповнив кухню.
+gustatory | adj | смаковий | The critic described the ___ experience in detail. | gustatory | Критик детально описав смакові відчуття.
+epicurean | adj | гедоністичний | They enjoyed an ___ dinner of many courses. | epicurean | Вони насолоджувалися гедоністичною вечерею з багатьох страв.
+parboil | verb | відварити частково | ___ the potatoes before roasting them. | Parboil | Частково відваріть картоплю перед запіканням.
+braise | verb | тушкувати | The chef ___d the beef slowly for hours. | braised | Шеф-кухар годинами тушкував яловичину на повільному вогні.
+emulsify | verb | емульгувати | Whisk the oil to ___ the dressing. | emulsify | Збивайте олію, щоб емульгувати заправку.
+julienne | verb | нарізати соломкою | She ___d the carrots into thin strips. | julienned | Вона нарізала моркву тонкою соломкою.
+decant | verb | переливати (вино) | Let the wine ___ before serving. | decant | Перелийте вино перед подачею.
+curdle | verb | згортатися | The milk began to ___ in the heat. | curdle | Молоко почало згортатися від спеки.
+gastronomic | adj | гастрономічний | The festival celebrated the region's ___ traditions. | gastronomic | Фестиваль святкував гастрономічні традиції регіону.
+bouquet | noun | букет (аромат) | The wine has a delicate ___. | bouquet | Вино має делікатний букет.
+edible | adj | їстівний | Not every mushroom is ___. | edible | Не кожен гриб їстівний.
+frangipane | noun | франжипан | The tart was filled with almond ___. | frangipane | Тарт був наповнений мигдальним франжипаном.
+glutinous | adj | клейкий | The rice became ___ after long cooking. | glutinous | Рис став клейким після тривалого варіння.
+sapid | adj | смачний | The broth was pleasantly ___. | sapid | Бульйон був приємно смачним.

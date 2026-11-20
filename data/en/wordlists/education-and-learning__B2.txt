@@ -1,0 +1,4 @@
+noun: curriculum, semester, scholarship, assignment, lecture, degree, research, literacy, pupil, tutor, diploma, library, lecturer, assessment, graduation, coursework, educator, tutorial
+verb: graduate, enrol, revise, attend, assess, memorize, analyse, improve, degree
+adj: motivated, gifted, ignorant, curious, academic, optional, compulsory
+phrase: boarding school, term paper, drop out

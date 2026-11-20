@@ -1,0 +1,102 @@
+# B2
+savings | noun | заощадження | She put her ___ into a special account. | savings | Вона відклала заощадження на спеціальний рахунок.
+interest | noun | відсоток | The bank pays a low ___ on savings accounts. | interest | Банк платить низький відсоток за ощадними рахунками.
+overdraft | noun | овердрафт | My account went into ___ after the rent was paid. | overdraft | Після оплати оренди мій рахунок пішов у мінус.
+insurance | noun | страхування | Car ___ is compulsory in this country. | insurance | Страхування автомобіля в цій країні обов'язкове.
+pension | noun | пенсія | She pays into a private ___ every month. | pension | Вона щомісяця відраховує на приватну пенсію.
+refund | noun | повернення коштів | You will get a full ___ if the item is faulty. | refund | Ви отримаєте повне повернення коштів, якщо товар несправний.
+receipt | noun | чек; квитанція | Always keep the ___ in case you need to return the goods. | receipt | Завжди зберігайте чек, якщо доведеться повернути товар.
+bill | noun | рахунок | Could we have the ___, please? | bill | Можна нам рахунок, будь ласка?
+cash | noun | готівка | Do you accept ___ or only cards? | cash | Ви приймаєте готівку чи лише картки?
+invoice | noun | рахунок-фактура | The company sent us an ___ for the repairs. | invoice | Компанія надіслала нам рахунок-фактуру за ремонт.
+fee | noun | плата; збір | There is a small ___ for using the service. | fee | За користування послугою стягується невелика плата.
+discount | noun | знижка | The shop offers a ten percent ___ for students. | discount | Магазин пропонує студентам знижку десять відсотків.
+bargain | noun | вигідна покупка | I found a real ___ in the sale. | bargain | Я знайшов справжню вигідну покупку на розпродажі.
+expense | noun | витрата | Travel is a major ___ for our business. | expense | Подорожі — важлива витрата для нашого бізнесу.
+income | noun | дохід | Her monthly ___ is lower than her costs. | income | Її щомісячний дохід нижчий за витрати.
+tuition | noun | плата за навчання | The ___ at the university is high. | tuition | Плата за навчання в університеті висока.
+debit | noun | дебет; списання | The bank shows a ___ of fifty pounds. | debit | Банк показує списання п'ятдесяти фунтів.
+bonus | noun | премія; бонус | Staff received a year-end ___. | bonus | Персонал отримав новорічну премію.
+tip | noun | чайові | It is customary to leave a ___ in restaurants. | tip | У ресторанах прийнято залишати чайові.
+credit card | phrase | кредитна картка | Please pay with a ___. | credit card | Будь ласка, розплатіться кредитною карткою.
+spend | verb | витрачати | We ___ too much money on holidays. | spend | Ми витрачаємо занадто багато грошей на відпустки.
+afford | verb | дозволити собі | We cannot ___ a new car this year. | afford | Ми не можемо дозволити собі нову машину цього року.
+earn | verb | заробляти | He ___ a good salary as an engineer. | earns | Він заробляє добру зарплату як інженер.
+owe | verb | бути винним | I still ___ my brother two hundred euros. | owe | Я досі винен братові двісті євро.
+budget | verb | планувати бюджет | You need to ___ carefully when you are a student. | budget | Студенту потрібно уважно планувати бюджет.
+loan | verb | позичати | Could you ___ me some money until Friday? | loan | Чи можете ви позичити мені грошей до п'ятниці?
+inherit | verb | успадковувати | She ___ a small house from her aunt. | inherited | Вона успадкувала від тітки невеликий будинок.
+wealthy | adj | заможний | The ___ family owns a large estate. | wealthy | Заможна родина володіє великим маєтком.
+broke | adj | без грошей | I'm completely ___ until payday. | broke | До зарплати я зовсім без грошей.
+pricey | adj | дорогий | The restaurant is a bit ___ for students. | pricey | Ресторан трохи дорогуватий для студентів.
+thrifty | adj | ощадливий | My grandmother was very ___ and never wasted food. | thrifty | Моя бабуся була дуже ощадливою і ніколи не марнувала їжі.
+installment | noun | розстрочка; частковий платіж | We paid for the sofa in twelve monthly ___s. | installments | Ми оплатили диван дванадцятьма щомісячними платежами.
+interest rate | phrase | процентна ставка | The central bank raised the ___. | interest rate | Центральний банк підвищив процентну ставку.
+balance | noun | залишок (на рахунку) | Check your account ___ before you pay. | balance | Перевірте залишок на рахунку перед оплатою.
+withdraw | verb | знімати (гроші) | She went to the bank to ___ some cash. | withdraw | Вона пішла в банк, щоб зняти готівку.
+transfer | verb | переказувати | Please ___ the money to my account by Friday. | transfer | Будь ласка, переведіть гроші на мій рахунок до п'ятниці.
+affordable | adj | доступний | Good housing in the city is hard to find at an ___ price. | affordable | Хороше житло в місті важко знайти за доступною ціною.
+frugal | adj | ощадливий | They lived a ___ life to pay off the loan. | frugal | Вони жили ощадливо, щоб погасити кредит.
+deposit | verb | вносити (гроші) | I ___ed my salary into the savings account. | deposited | Я вніс зарплату на ощадний рахунок.
+# C1
+solvency | noun | платоспроможність | The bank's ___ was questioned after the scandal. | solvency | Після скандалу поставили під сумнів платоспроможність банку.
+arrears | noun | заборгованість | The company is three months in ___ on rent. | arrears | Компанія має три місяці заборгованості з оренди.
+collateral | noun | застава; забезпечення | The bank asked for property as ___. | collateral | Банк вимагав нерухомість як заставу.
+annuity | noun | ануїтет; щорічна виплата | He receives a fixed ___ after retirement. | annuity | Після виходу на пенсію він отримує фіксовану щорічну виплату.
+equity | noun | власний капітал; частка | She holds a small ___ stake in the startup. | equity | Вона володіє невеликою часткою капіталу в стартапі.
+bond | noun | облігація | Government ___ are considered low-risk investments. | bonds | Державні облігації вважаються малоризиковими інвестиціями.
+portfolio | noun | портфель (інвестицій) | Her investment ___ is spread across several sectors. | portfolio | Її інвестиційний портфель розподілений між кількома секторами.
+premium | noun | премія; страховий внесок | The insurance ___ rose after the accident. | premium | Страховий внесок зріс після аварії.
+frugality | noun | ощадливість | Years of ___ allowed them to buy a flat in cash. | frugality | Роки ощадливості дозволили їм купити квартиру готівкою.
+ledger | noun | бухгалтерська книга | Every transaction is recorded in the ___. | ledger | Кожна операція фіксується в бухгалтерській книзі.
+surcharge | noun | надбавка | There is a ten percent ___ on weekend bookings. | surcharge | На бронювання на вихідні діє надбавка десять відсотків.
+thrift | noun | ощадливість | ___ is a virtue in uncertain times. | Thrift | В непевні часи ощадливість — чеснота.
+mortgagee | noun | іпотекодержатель | The ___ can seize the house if payments stop. | mortgagee | Іпотекодержатель може вилучити будинок, якщо платежі припиняться.
+accountability | noun | підзвітність | The board demanded greater ___ for spending. | accountability | Правління вимагало більшої підзвітності за витрати.
+deductible | adj | що віднімається з податків | Some business costs are ___ from taxable income. | deductible | Деякі витрати бізнесу віднімаються з оподатковуваного доходу.
+extravagant | adj | марнотратний | Their ___ lifestyle drained their savings in a year. | extravagant | Їхній марнотратний спосіб життя за рік виснажив заощадження.
+prudent | adj | розважливий | It is ___ to keep an emergency fund. | prudent | Розважливо мати аварійний фонд.
+exempt | adj | звільнений | Small businesses are ___ from the new tax. | exempt | Малий бізнес звільнений від нового податку.
+rewarding | adj | вигідний; корисний | Selling insurance can be a ___ career. | lucrative | Продаж страхування може бути прибутковою кар'єрою.
+reimburse | verb | відшкодовувати | The company will ___ your travel costs. | reimburse | Компанія відшкодує ваші витрати на подорож.
+defraud | verb | ошукувати | He was charged with trying to ___ the bank. | defraud | Йому висунули звинувачення в спробі ошукати банк.
+embezzle | verb | привласнювати (кошти) | The accountant was jailed for ___ing company funds. | embezzling | Бухгалтера ув'язнили за привласнення коштів компанії.
+forfeit | verb | втрачати (право, гроші) | If you cancel late, you will ___ the deposit. | forfeit | Якщо скасуєте пізно, ви втратите завдаток.
+levy | verb | стягувати (податок) | The city council may ___ a new tax on hotels. | levy | Міська рада може стягувати новий податок з готелів.
+audit | verb | перевіряти (фінансову звітність) | External experts will ___ the accounts next month. | audit | Наступного місяця зовнішні експерти перевірять рахунки.
+tax haven | phrase | податковий притулок | The company moved its profits to a ___. | tax haven | Компанія перевела свої прибутки до податкового притулку.
+liquidate | verb | ліквідувати (активи) | The firm had to ___ its property to repay creditors. | liquidate | Фірмі довелося ліквідувати майно, щоб розрахуватися з кредиторами.
+creditworthy | adj | кредитоспроможний | Banks only lend to ___ customers. | creditworthy | Банки позичають лише кредитоспроможним клієнтам.
+extortionate | adj | грабіжницький | The landlord demanded an ___ rent. | extortionate | Орендодавець вимагав грабіжницької орендної плати.
+foreclosure | noun | стягнення майна за борг | The bank began ___ proceedings on the house. | foreclosure | Банк почав процедуру стягнення будинку за борг.
+dispersal | noun | розподіл (коштів) | The fund's ___ of grants was delayed. | dispersal | Розподіл грантів фонду затримався.
+prudential | adj | розсудливий | The regulator imposed ___ limits on lending. | prudential | Регулятор запровадив розсудливі обмеження на кредитування.
+# C2
+sovereign | noun | державна облігація | The country issued a new ___ to fund its debt. | sovereign | Країна випустила нові державні облігації для фінансування боргу.
+escrow | noun | ескроу; умовний депозит | The money is held in ___ until the contract is signed. | escrow | Гроші зберігаються на умовному депозиті до підписання контракту.
+bullion | noun | зливки (золота, срібла) | The vault contained gold ___. | bullion | У сховищі містилися золоті зливки.
+remittance | noun | грошовий переказ | Migrants send a large ___ home each month. | remittances | Мігранти щомісяця надсилають додому великі грошові перекази.
+indebtedness | noun | заборгованість; боргове зобов'язання | Their ___ to the bank grew each year. | indebtedness | Їхня заборгованість перед банком зростала щороку.
+spendthrift | noun | марнотратник | The ___ lost his fortune within a decade. | spendthrift | Марнотратник розтратив свій статок за десять років.
+solvent | noun | розчинник | The factory used a toxic ___ in production. | solvent | На фабриці у виробництві використовували токсичний розчинник.
+perquisite | noun | привілей; додаткова вигода | A company car is a common ___ for managers. | perquisite | Службовий автомобіль — звичайна додаткова вигода для керівників.
+impecuniosity | noun | злиденність | Her ___ forced her to sell most of her books. | impecuniosity | Її злиденність змусила продати більшість книжок.
+lien | noun | заставне право | The bank placed a ___ on the property. | lien | Банк наклав заставне право на нерухомість.
+usurp | verb | узурпувати | The bank tried to ___ the rights of the shareholders. | usurp | Банк намагався узурпувати права акціонерів.
+scrimp | verb | жити ощадливо | The family had to ___ to pay for school fees. | scrimp | Родині довелося жити ощадливо, щоб заплатити за навчання.
+squander | verb | розтринькувати | He ___ his inheritance on gambling. | squandered | Він розтринькав спадок на азартні ігри.
+bequeath | verb | заповідати | She ___ her library to the national museum. | bequeathed | Вона заповіла свою бібліотеку національному музею.
+soar | verb | різко зростати (про ціни) | Prices began to ___ again after the subsidy ended. | levitate | Ціни знову почали злітати після завершення субсидії.
+amass | verb | накопичувати | He ___ a fortune in just twenty years. | amassed | Він накопичив статок лише за двадцять років.
+disburse | verb | виплачувати | The fund will ___ the grants in March. | disburse | Фонд виплатить гранти в березні.
+miserly | adj | скупий | The ___ landlord refused to fix the heating. | miserly | Скупий орендодавець відмовився лагодити опалення.
+penurious | adj | злиденний | They lived in ___ conditions after the factory closed. | penurious | Після закриття фабрики вони жили в злиденних умовах.
+fiduciary | adj | довірчий | A financial adviser has a ___ duty to the client. | fiduciary | Фінансовий радник має довірчий обов'язок перед клієнтом.
+parsimonious | adj | скупий; ощадливий | The ___ employer paid the lowest wages possible. | parsimonious | Скупий роботодавець платив найнижчі можливі зарплати.
+peculation | noun | розкрадання | The treasurer was charged with ___. | peculation | Казначея звинуватили у розкраданні.
+pecuniarily | adv | матеріально | The family was ___ secure after the inheritance. | pecuniarily | Після спадщини родина була матеріально забезпечена.
+usurious | adj | лихварський | The loan carried ___ interest rates. | usurious | Позика мала лихварські відсоткові ставки.
+inveigle | verb | вмовляти (хитрощами) | He ___d the investors into a risky scheme. | inveigled | Він хитрощами вмовив інвесторів на ризиковану схему.
+plunder | verb | розграбовувати | The corrupt officials ___ed the public fund. | plundered | Корумповані посадовці розграбували державний фонд.
+fraudulent | adj | шахрайський | The ___ invoices were discovered by the auditors. | fraudulent | Шахрайські рахунки виявили аудитори.
+misappropriate | verb | привласнювати (кошти) | The treasurer ___d the donations. | misappropriated | Скарбник привласнив пожертви.

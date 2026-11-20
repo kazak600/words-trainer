@@ -1,0 +1,102 @@
+# B2
+curriculum | noun | навчальна програма | The new ___ includes more practical projects. | curriculum | Нова навчальна програма включає більше практичних проєктів.
+semester | noun | семестр | The ___ ends with final exams. | semester | Семестр закінчується підсумковими іспитами.
+scholarship | noun | стипендія | She won a ___ to study abroad. | scholarship | Вона отримала стипендію на навчання за кордоном.
+assignment | noun | завдання | The students must submit their ___ by Friday. | assignment | Студенти мають здати свої завдання до п'ятниці.
+lecture | noun | лекція | The professor gave an interesting ___. | lecture | Професор прочитав цікаву лекцію.
+degree | noun | ступінь; диплом | She has a ___ in chemistry. | degree | Вона має ступінь з хімії.
+research | noun | дослідження | His ___ focuses on climate change. | research | Його дослідження стосується зміни клімату.
+literacy | noun | грамотність | Adult ___ classes are free in the city. | literacy | Курси з ліквідації неграмотності для дорослих у місті безкоштовні.
+pupil | noun | учень | Each ___ received a certificate. | pupil | Кожен учень отримав сертифікат.
+tutor | noun | репетитор; викладач | I hired a ___ to help with maths. | tutor | Я найняв репетитора, щоб допомагав з математикою.
+diploma | noun | диплом | She received her ___ in a ceremony. | diploma | Вона отримала диплом на церемонії.
+library | noun | бібліотека | The university ___ is open all night. | library | Університетська бібліотека відкрита всю ніч.
+graduate | verb | закінчувати (навчальний заклад) | He will ___ from university next June. | graduate | Він закінчить університет наступного червня.
+enrol | verb | записуватися | You must ___ before the deadline. | enrol | Вам треба записатися до закінчення терміну.
+revise | verb | повторювати (матеріал) | I need to ___ for my history test. | revise | Мені треба повторити матеріал для тесту з історії.
+attend | verb | відвідувати | Most students ___ lectures regularly. | attend | Більшість студентів регулярно відвідують лекції.
+assess | verb | оцінювати | Teachers ___ the students' progress every term. | assess | Вчителі оцінюють прогрес учнів кожного семестру.
+memorize | verb | запам'ятовувати | You need to ___ the dates for the exam. | memorize | Вам треба запам'ятати дати для іспиту.
+analyse | verb | аналізувати | Students must ___ the text in detail. | analyse | Студенти мають детально проаналізувати текст.
+improve | verb | покращувати | Regular practice will help you ___ quickly. | improve | Регулярна практика допоможе вам швидко покращитися.
+motivated | adj | мотивований | The most ___ students always ask questions. | motivated | Найбільш мотивовані студенти завжди ставлять запитання.
+gifted | adj | обдарований | She is a ___ student in mathematics. | gifted | Вона обдарована учениця з математики.
+ignorant | adj | неосвічений | It is ___ to say that education is useless. | ignorant | Казати, що освіта марна, — це необізнаність.
+curious | adj | допитливий | Children are naturally ___ about the world. | curious | Діти від природи допитливі щодо світу.
+academic | adj | академічний | She has an ___ background in biology. | academic | Вона має академічну освіту з біології.
+optional | adj | факультативний | Art is ___ in this school. | optional | Мистецтво в цій школі факультативне.
+compulsory | adj | обов'язковий | Maths is ___ for all students. | compulsory | Математика обов'язкова для всіх студентів.
+boarding school | phrase | інтернат | He was sent to a ___ at the age of ten. | boarding school | Його відправили в інтернат у десять років.
+lecturer | noun | викладач | The ___ explained the theory with clear examples. | lecturer | Викладач пояснив теорію на зрозумілих прикладах.
+term paper | phrase | курсова робота | She submitted her ___ on time. | term paper | Вона здала курсову роботу вчасно.
+assessment | noun | оцінювання | The ___ includes a written and an oral part. | assessment | Оцінювання включає письмову та усну частини.
+degree | verb | здобути ступінь | He hopes to ___ in physics. | degree | Він сподівається здобути ступінь з фізики.
+drop out | phrase | кидати навчання | Some students ___ in the first year. | drop out | Деякі студенти кидають навчання на першому курсі.
+graduation | noun | випуск | The ___ ceremony took place in the main hall. | graduation | Церемонія випуску відбулася в головній залі.
+coursework | noun | навчальна робота | The ___ counts for forty percent of the grade. | coursework | Навчальна робота становить сорок відсотків оцінки.
+educator | noun | педагог | The ___ spoke about new teaching methods. | educator | Педагог розповідав про нові методи викладання.
+tutorial | noun | практичне заняття | The ___ focused on solving problems. | tutorial | Практичне заняття було зосереджене на розв'язанні задач.
+# C1
+pedagogy | noun | педагогіка | Modern ___ focuses on active learning. | pedagogy | Сучасна педагогіка зосереджена на активному навчанні.
+syllabus | noun | силабус; програма курсу | The ___ lists all the reading for the term. | syllabus | Силабус містить усю літературу на семестр.
+thesis | noun | дисертація; курсова | Her ___ examined the causes of inflation. | thesis | Її дисертація досліджувала причини інфляції.
+dissertation | noun | дисертація | He spent three years on his doctoral ___. | dissertation | Він витратив три роки на свою докторську дисертацію.
+seminar | noun | семінар | The ___ discussed recent research papers. | seminar | Семінар обговорював останні наукові статті.
+faculty | noun | факультет; викладацький склад | The ___ of medicine is very competitive. | faculty | На медичний факультет дуже великий конкурс.
+rote | noun | механічне заучування | Learning by ___ rarely leads to understanding. | rote | Навчання механічним заучуванням рідко призводить до розуміння.
+proficiency | noun | рівень володіння | The exam tests your ___ in English. | proficiency | Іспит перевіряє ваш рівень володіння англійською.
+aptitude | noun | здібність | She showed a clear ___ for languages. | aptitude | Вона виявила чітку здібність до мов.
+bursary | noun | грант; стипендія | He received a ___ to cover his fees. | bursary | Він отримав грант на покриття навчання.
+tenure | noun | постійна посада (викладача) | After ten years, he was granted ___ at the college. | tenure | Після десяти років роботи йому надали постійну посаду в коледжі.
+prerequisite | noun | передумова | A degree in maths is a ___ for this course. | prerequisite | Диплом з математики — передумова для цього курсу.
+accreditation | noun | акредитація | The college lost its ___ last year. | accreditation | Коледж втратив акредитацію минулого року.
+mnemonic | noun | мнемонічний прийом | Use a ___ to remember the planets. | mnemonic | Використовуйте мнемонічний прийом, щоб запам'ятати планети.
+scaffolding | noun | навчальна підтримка | Teachers provide ___ for weaker students. | scaffolding | Вчителі надають навчальну підтримку слабшим учням.
+pupillage | noun | стажування (учнівство) | Her ___ at the law firm lasted two years. | pupillage | Її стажування в юридичній фірмі тривало два роки.
+credential | noun | кваліфікаційний документ | Employers check your ___s. | credentials | Роботодавці перевіряють ваші кваліфікаційні документи.
+cramming | noun | зубріння перед іспитом | Last-minute ___ rarely helps. | cramming | Зубріння в останню хвилину рідко допомагає.
+apprenticeship | noun | учнівство | She completed a three-year ___ in printing. | apprenticeship | Вона пройшла тримісячне учнівство з друку.
+mentor | verb | наставляти | The senior teacher agreed to ___ the newcomers. | mentor | Старший учитель погодився наставляти новачків.
+matriculate | verb | вступати до університету | He will ___ at the university next September. | matriculate | Він вступить до університету наступного вересня.
+dissect | verb | ґрунтовно аналізувати | Students were asked to ___ the poem line by line. | dissect | Студентів попросили ґрунтовно проаналізувати вірш рядок за рядком.
+cognitive | adj | пізнавальний | Reading improves ___ skills. | cognitive | Читання покращує пізнавальні навички.
+pedantic | adj | педантичний | The lecturer was too ___ about formatting. | pedantic | Лектор був надто педантичним щодо оформлення.
+erudite | adj | ерудований | The professor was an ___ historian. | erudite | Професор був ерудованим істориком.
+intellectual | adj | інтелектуальний | The book is challenging and ___. | intellectual | Книга складна і інтелектуальна.
+extracurricular | adj | позакласний | She is active in several ___ activities. | extracurricular | Вона активна в кількох позакласних заходах.
+heuristic | adj | евристичний | The method is a ___ way of learning. | heuristic | Цей метод — евристичний спосіб навчання.
+peer review | phrase | рецензування | The article passed ___ before publication. | peer review | Статтю перед публікацією пройшла рецензування.
+epistemic | adj | епістемічний | The course explores ___ questions about knowledge. | epistemic | Курс розглядає епістемічні питання про знання.
+preparatory | adj | підготовчий | The ___ course helps students before university. | preparatory | Підготовчий курс допомагає студентам перед університетом.
+academically | adv | академічно | She performed ___ better than her peers. | academically | Вона навчалася академічно краще за однолітків.
+pedagogical | adj | педагогічний | The ___ training includes classroom observation. | pedagogical | Педагогічна підготовка включає спостереження на уроках.
+inquisitiveness | noun | допитливість | Her ___ led her to explore many subjects. | inquisitiveness | Її допитливість привела її до вивчення багатьох предметів.
+verbosity | noun | многослів'я | The essay's ___ made it difficult to follow. | verbosity | Многослів'я есе ускладнювало його розуміння.
+# C2
+andragogy | noun | андрагогіка | Adult learners benefit from a method based on ___. | andragogy | Дорослі учні отримують користь від методу, заснованого на андрагогіці.
+erudition | noun | ерудиція | His ___ impressed the examiners. | erudition | Його ерудиція вразила екзаменаторів.
+didacticism | noun | дидактизм | The novel's ___ spoils the story. | didacticism | Дидактизм роману псує сюжет.
+epistemology | noun | епістемологія | The course covers the basics of ___. | epistemology | Курс охоплює основи епістемології.
+hermeneutics | noun | герменевтика | Her research uses ___ to interpret ancient texts. | hermeneutics | Її дослідження використовує герменевтику для тлумачення давніх текстів.
+exegesis | noun | екзегеза; тлумачення | The student's ___ of the poem was brilliant. | exegesis | Тлумачення вірша студентом було блискучим.
+sophistry | noun | софістика | His argument was pure ___. | sophistry | Його аргумент був суцільною софістикою.
+autodidact | noun | самоук | He became a famous scientist as a self-taught ___. | autodidact | Він став відомим вченим, будучи самоуком.
+bibliography | noun | бібліографія | The essay ends with a long ___. | bibliography | Есе закінчується довгою бібліографією.
+pedagogue | noun | педагог | The old ___ inspired generations of students. | pedagogue | Старий педагог надихнув покоління студентів.
+sinecure | noun | непрацююча посада | The professorship was a ___ with generous pay. | sinecure | Професура була синекурою з щедрою платнею.
+academician | noun | академік | The ___ gave a lecture on ancient history. | academician | Академік прочитав лекцію з давньої історії.
+heuristics | noun | евристика | The course introduces ___ for solving problems. | heuristics | Курс знайомить з евристикою розв'язання задач.
+pedantry | noun | педантизм | His ___ annoyed his students. | pedantry | Його педантизм дратував студентів.
+epigone | noun | епігон | The poet was dismissed as a mere ___. | epigone | Поета відкинули як простого епігона.
+scholastic | adj | схоластичний; навчальний | The ___ debates of the medieval period were famously abstract. | scholastic | Схоластичні дебати середньовіччя були відомо абстрактними.
+doctoral | adj | докторський | He is writing a ___ dissertation on Baltic folklore. | doctoral | Він пише докторську дисертацію з балтійського фольклору.
+scholarly | adj | науковий | The journal publishes ___ articles. | scholarly | Журнал публікує наукові статті.
+fastidious | adj | прискіпливий | The examiner was ___ about citations. | fastidious | Екзаменатор був прискіпливим щодо цитувань.
+precocious | adj | не за віком розвинений | The ___ child started reading at three. | precocious | Не за віком розвинена дитина почала читати в три роки.
+tabula rasa | phrase | чистий аркуш; неписаний | Children are not a ___ in the classroom. | tabula rasa | Діти в класі — не чистий аркуш.
+didactically | adv | дидактично | The lesson was presented ___. | didactically | Урок подали дидактично.
+doctrinaire | adj | догматичний | The professor had a ___ approach to teaching. | doctrinaire | Професор мав догматичний підхід до викладання.
+didactical | adj | дидактичний | The book has a ___ structure. | didactical | Книга має дидактичну структуру.
+perspicacity | noun | проникливість | His ___ helped the students understand the theory. | perspicacity | Його проникливість допомогла студентам зрозуміти теорію.
+sagacity | noun | мудрість | Her ___ guided the department through the reform. | sagacity | Її мудрість провела відділ через реформу.
+prolegomena | noun | пролегомени | The book begins with long ___ on method. | prolegomena | Книга починається з довгих пролегомен про метод.

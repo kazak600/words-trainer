@@ -1,3 +1,0 @@
-noun: house, flat, room, kitchen, bedroom, bathroom, door, window, floor, wall, table, chair, bed, sofa, lamp, key, garden, fridge, television
-phrase: living room
-adj: clean, big, small

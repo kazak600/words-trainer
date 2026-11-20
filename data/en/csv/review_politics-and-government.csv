@@ -1,0 +1,99 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+election,noun,B2,,вибори,The ___ will take place in November.,election,Вибори відбудуться у листопаді.,approved
+government,noun,B2,,уряд,The new ___ promised tax cuts.,government,Новий уряд пообіцяв зниження податків.,approved
+policy,noun,B2,,політика; курс,The party changed its economic ___.,policy,Партія змінила свою економічну політику.,approved
+parliament,noun,B2,,парламент,The bill was debated in ___ for a week.,parliament,Законопроєкт обговорювали в парламенті тиждень.,approved
+campaign,noun,B2,,кампанія,The candidate launched a new ___ for the presidency.,campaign,Кандидат розпочав нову кампанію за президентство.,approved
+reform,noun,B2,,реформа,The ___ aims to simplify the tax system.,reform,Реформа має на меті спростити податкову систему.,approved
+constitution,noun,B2,,конституція,The ___ guarantees freedom of speech.,constitution,Конституція гарантує свободу слова.,approved
+protest,noun,B2,,протест,Thousands joined the ___ outside the ministry.,protest,Тисячі людей приєдналися до протесту біля міністерства.,approved
+coalition,noun,B2,,коаліція,Two parties formed a ___ after the election.,coalition,Після виборів дві партії утворили коаліцію.,approved
+opposition,noun,B2,,опозиція,The ___ criticized the budget plan.,opposition,Опозиція розкритикувала план бюджету.,approved
+diplomat,noun,B2,,дипломат,The ___ negotiated the peace agreement.,diplomat,Дипломат вів переговори про мирну угоду.,approved
+treaty,noun,B2,,договір,The two countries signed a trade ___.,treaty,Дві країни підписали торговельний договір.,approved
+citizen,noun,B2,,громадянин,Every ___ has the right to a fair trial.,citizen,Кожен громадянин має право на справедливий суд.,approved
+democracy,noun,B2,,демократія,Free elections are essential to ___.,democracy,Вільні вибори є необхідними для демократії.,approved
+legislation,noun,B2,,законодавство,New ___ will protect workers' rights.,legislation,Нове законодавство захистить права працівників.,approved
+minister,noun,B2,,міністр,The ___ announced a new education plan.,minister,Міністр оголосив новий план освіти.,approved
+mayor,noun,B2,,мер,The ___ opened the new park.,mayor,Мер відкрив новий парк.,approved
+regime,noun,B2,,режим,The people wanted to overthrow the military ___.,regime,Люди хотіли повалити військовий режим.,approved
+rebel,noun,B2,,повстанець,The ___s seized the capital last night.,rebels,Повстанці захопили столицю минулої ночі.,approved
+ballot,noun,B2,,бюлетень,Please mark your choice on the ___.,ballot,"Будь ласка, позначте свій вибір у бюлетені.",approved
+statesman,noun,B2,,державний діяч,The ___ is remembered for his honesty.,statesman,Державного діяча пам'ятають за його чесність.,approved
+propaganda,noun,B2,,пропаганда,The state media spread ___ about the war.,propaganda,Державні ЗМІ поширювали пропаганду про війну.,approved
+bureaucrat,noun,B2,,бюрократ,The ___ refused to sign the permit.,bureaucrat,Бюрократ відмовився підписати дозвіл.,approved
+sovereignty,noun,B2,,суверенітет,The country defended its ___ at all costs.,sovereignty,Країна захищала свій суверенітет будь-якою ціною.,approved
+candidate,noun,B2,,кандидат,The ___ gave a speech at the rally.,candidate,Кандидат виголосив промову на мітингу.,approved
+vote,noun,B2,,голос,Every ___ counts in a democracy.,vote,У демократії кожен голос має значення.,approved
+rally,noun,B2,,мітинг,Thousands attended the ___ in the capital.,rally,Тисячі людей прийшли на мітинг у столиці.,approved
+pledge,noun,B2,,обіцянка,The leader made a public ___ to cut taxes.,pledge,Лідер публічно пообіцяв знизити податки.,approved
+vote,verb,B2,,голосувати,Citizens over eighteen can ___ in the referendum.,vote,Громадяни старше вісімнадцяти можуть голосувати на референдумі.,approved
+sanction,verb,B2,,санкціонувати,The council did not ___ the new building.,sanction,Рада не санкціонувала нове будівництво.,approved
+reform,verb,B2,,реформувати,The government plans to ___ the health system.,reform,Уряд планує реформувати систему охорони здоров'я.,approved
+tax,verb,B2,,оподатковувати,The new law will ___ luxury goods more heavily.,tax,Новий закон оподаткує предмети розкоші сильніше.,approved
+debate,verb,B2,,дебатувати,Parliament will ___ the bill next week.,debate,Парламент наступного тижня обговорюватиме законопроєкт.,approved
+parliamentary,adj,B2,,парламентський,The country has a ___ system.,parliamentary,У країні парламентська система.,approved
+hegemony,noun,C1,,гегемонія,The empire sought political ___ over the region.,hegemony,Імперія прагнула політичної гегемонії в регіоні.,approved
+filibuster,noun,C1,,затягування дебатів,The senator's ___ lasted for twelve hours.,filibuster,Затягування дебатів сенатором тривало дванадцять годин.,approved
+lobbying,noun,C1,,лобіювання,Corporate ___ influenced the new law.,lobbying,Корпоративне лобіювання вплинуло на новий закон.,approved
+referendum,noun,C1,,референдум,The ___ will decide the country's future.,referendum,Референдум вирішить майбутнє країни.,approved
+autocracy,noun,C1,,автократія,The country slid into ___ after the coup.,autocracy,Після перевороту країна сповзла в автократію.,approved
+populism,noun,C1,,популізм,___ gained support during the economic crisis.,Populism,Популізм набув підтримки під час економічної кризи.,approved
+diplomacy,noun,C1,,дипломатія,Quiet ___ prevented a larger conflict.,diplomacy,Тиха дипломатія запобігла більшому конфлікту.,approved
+insurgent,noun,C1,,повстанець,The ___ controlled the northern provinces.,insurgents,Повстанці контролювали північні провінції.,approved
+embargo,noun,C1,,ембарго,The ___ cut off oil exports to the region.,embargo,Ембарго припинило експорт нафти до регіону.,approved
+mandate,noun,C1,,мандат,The party won a clear ___ to govern.,mandate,Партія отримала чіткий мандат на управління.,approved
+dissident,noun,C1,,дисидент,The ___ was imprisoned for his writing.,dissident,Дисидента ув'язнили за його тексти.,approved
+nationalism,noun,C1,,націоналізм,Rising ___ divided the electorate.,nationalism,Зростаючий націоналізм розколов електорат.,approved
+pragmatism,noun,C1,,прагматизм,Her ___ won her respect across the aisle.,pragmatism,Її прагматизм здобув їй повагу з обох боків.,approved
+oligarch,noun,C1,,олігарх,The ___ controlled most of the media.,oligarch,Олігарх контролював більшість ЗМІ.,approved
+constituency,noun,C1,,виборчий округ,The MP visits her ___ every week.,constituency,Депутатка щотижня відвідує свій виборчий округ.,approved
+jurisdiction,noun,C1,,юрисдикція,This matter falls under federal ___.,jurisdiction,Це питання належить до федеральної юрисдикції.,approved
+plenipotentiary,noun,C1,,повноважний представник,The ___ signed the agreement on behalf of the state.,plenipotentiary,Повноважний представник підписав угоду від імені держави.,approved
+ideology,noun,C1,,ідеологія,Their ___ shaped every policy decision.,ideology,Їхня ідеологія визначала кожне політичне рішення.,approved
+legitimacy,noun,C1,,легітимність,The protests questioned the government's ___.,legitimacy,Протести поставили під сумнів легітимність уряду.,approved
+consensus,noun,C1,,консенсус,The committee reached a broad ___ after months of talks.,consensus,Після місяців переговорів комітет досяг широкого консенсусу.,approved
+gerrymandering,noun,C1,,маніпулювання округами,___ gave the party an unfair advantage.,Gerrymandering,Маніпулювання округами дало партії несправедливу перевагу.,approved
+senate,noun,C1,,сенат,The bill passed the ___ by a narrow margin.,senate,Законопроєкт пройшов сенат з невеликою перевагою.,approved
+insurgency,noun,C1,,повстанський рух,The ___ spread into the mountains.,insurgency,Повстанський рух поширився в гори.,approved
+ratify,verb,C1,,ратифікувати,The senate voted to ___ the agreement.,ratify,Сенат проголосував за ратифікацію угоди.,approved
+impeach,verb,C1,,імпічмент,The opposition tried to ___ the president.,impeach,Опозиція намагалася оголосити імпічмент президенту.,approved
+endorse,verb,C1,,схвалювати; підтримувати,The union decided to ___ the candidate.,endorse,Профспілка вирішила підтримати кандидата.,approved
+annex,verb,C1,,анексувати,The government planned to ___ the territory.,annex,Уряд планував анексувати територію.,approved
+veto,verb,C1,,накладати вето,The president decided to ___ the bill.,veto,Президент вирішив накласти вето на законопроєкт.,approved
+bipartisan,adj,C1,,двопартійний,The ___ bill passed with broad support.,bipartisan,Двопартійний законопроєкт ухвалили з широкою підтримкою.,approved
+incumbent,adj,C1,,чинний,The ___ government lost its majority.,incumbent,Чинний уряд втратив більшість.,approved
+bureaucratic,adj,C1,,бюрократичний,The permit process is slow and ___.,bureaucratic,Процедура отримання дозволу повільна і бюрократична.,approved
+mandatory,adj,C1,,обов'язковий,Voting is ___ in some countries.,mandatory,У деяких країнах голосування обов'язкове.,approved
+nationwide,adj,C1,,загальнонаціональний,The strike caused ___ disruption.,nationwide,Страйк спричинив загальнонаціональні збої.,approved
+perpetual,adj,C1,,вічний,The country lives in ___ political crisis.,perpetual,Країна живе у вічній політичній кризі.,approved
+oligarchy,noun,C2,,олігархія,The country had become a corrupt ___.,oligarchy,Країна перетворилася на корумповану олігархію.,approved
+kleptocracy,noun,C2,,клептократія,Critics call the regime a ___.,kleptocracy,Критики називають цей режим клептократією.,approved
+demagogue,noun,C2,,демагог,The ___ promised easy answers to complex problems.,demagogue,Демагог обіцяв прості відповіді на складні проблеми.,approved
+realpolitik,noun,C2,,реальна політика,Diplomats favoured ___ over ideals.,realpolitik,Дипломати віддавали перевагу реальній політиці над ідеалами.,approved
+apparatchik,noun,C2,,партійний функціонер,The ___ rose through the party ranks.,apparatchik,Партійний функціонер пройшов шлях від рядового до керівника.,approved
+plebiscite,noun,C2,,плебісцит,A ___ decided the border region's future.,plebiscite,Плебісцит визначив майбутнє прикордонного регіону.,approved
+filibusterer,noun,C2,,затягувач дебатів,The ___ spoke for twelve hours straight.,filibusterer,Затягувач дебатів говорив дванадцять годин поспіль.,approved
+parochialism,noun,C2,,провінційність (політичних поглядів),Their ___ blocked any national reform.,parochialism,Їхня провінційність у політиці блокувала будь-яку національну реформу.,approved
+interregnum,noun,C2,,міжцарів'я; перехідний період,The ___ lasted until the new constitution was ratified.,interregnum,"Перехідний період тривав, доки не ратифікували нову конституцію.",approved
+polity,noun,C2,,державне утворення,The ancient ___ was governed by a council.,polity,Стародавнє державне утворення управлялося радою.,approved
+statecraft,noun,C2,,державне мистецтво,Her ___ earned praise from international observers.,statecraft,Її державне мистецтво отримало похвалу від міжнародних спостерігачів.,approved
+ascendancy,noun,C2,,домінування,The party secured ___ in the parliament.,ascendancy,Партія закріпила домінування в парламенті.,approved
+autonomy,noun,C2,,автономія,The region demanded greater political ___.,autonomy,Регіон вимагав більшої політичної автономії.,approved
+prerogative,noun,C2,,прерогатива,Appointing judges is the president's ___.,prerogative,Призначення суддів — прерогатива президента.,approved
+chauvinism,noun,C2,,шовінізм,Extreme ___ fueled the conflict.,chauvinism,Крайній шовінізм підживлював конфлікт.,approved
+polemic,noun,C2,,полеміка,The article sparked a fierce ___.,polemic,Стаття викликала жорстку полеміку.,approved
+suffrage,noun,C2,,виборче право,Women won universal ___ after decades of struggle.,suffrage,Жінки здобули загальне виборче право після десятиліть боротьби.,approved
+mandarin,noun,C2,,високопосадовець,The ___ ignored the complaints of ordinary citizens.,mandarin,Високопосадовець ігнорував скарги звичайних громадян.,approved
+quorum,noun,C2,,кворум,The meeting could not start without a ___.,quorum,Засідання не могло початися без кворуму.,approved
+malaise,noun,C2,,відчуття неблагополуччя,A deep political ___ gripped the nation.,malaise,Глибоке відчуття політичного неблагополуччя охопило націю.,approved
+vainglory,noun,C2,,марнославство,The leader's ___ led to disaster.,vainglory,Марнославство лідера призвело до катастрофи.,approved
+cabal,noun,C2,,таємна змова,A ___ of officials controlled the budget.,cabal,Таємна змова посадовців контролювала бюджет.,approved
+gerrymander,verb,C2,,маніпулювати виборчими округами,The party tried to ___ the districts before the vote.,gerrymander,Партія намагалася маніпулювати виборчими округами перед голосуванням.,approved
+disenfranchise,verb,C2,,позбавляти виборчих прав,Many voters were ___d by the new rules.,disenfranchised,Багато виборців позбавили виборчих прав новими правилами.,approved
+capitulate,verb,C2,,капітулювати,The garrison refused to ___ despite the siege.,capitulate,"Гарнізон відмовився капітулювати, попри облогу.",approved
+bellicose,adj,C2,,войовничий,The leader's ___ rhetoric alarmed the neighbours.,bellicose,Войовнича риторика лідера стривожила сусідів.,approved
+emollient,adj,C2,,пом'якшувальний,The minister's ___ tone calmed the debate.,emollient,Пом'якшувальний тон міністра заспокоїв дебати.,approved
+nepotistic,adj,C2,,кумівський,The ___ appointments outraged the public.,nepotistic,Кумівські призначення обурили громадськість.,approved
+oligarchic,adj,C2,,олігархічний,The ___ structure concentrated power in few hands.,oligarchic,Олігархічна структура зосередила владу в кількох руках.,approved
+demagogic,adj,C2,,демагогічний,The speech was ___ and misleading.,demagogic,Промова була демагогічною і оманливою.,approved

@@ -1,0 +1,109 @@
+# B2
+ambitious | adj | амбітний | She is very ___ and wants to run her own company. | ambitious | Вона дуже амбітна і хоче мати власну компанію.
+generous | adj | щедрий | My uncle is very ___ with his time and money. | generous | Мій дядько дуже щедрий і на час, і на гроші.
+stubborn | adj | впертий | He is too ___ to admit he was wrong. | stubborn | Він надто впертий, щоб визнати, що помилявся.
+sensitive | adj | чутливий | She is very ___ to criticism. | sensitive | Вона дуже чутлива до критики.
+honest | adj | чесний | I want an ___ answer, not a polite one. | honest | Я хочу чесної відповіді, а не ввічливої.
+patient | adj | терплячий | Teachers need to be ___ with young children. | patient | Вчителі мають бути терплячими з маленькими дітьми.
+reserved | adj | стриманий | He is quiet and ___ with strangers. | reserved | Він тихий і стриманий з незнайомими людьми.
+outgoing | adj | товариський | Her ___ personality makes her easy to talk to. | outgoing | Її товариський характер робить її легкою у спілкуванні.
+moody | adj | мінливий | My brother can be quite ___ in the mornings. | moody | Мій брат вранці буває досить мінливим.
+loyal | adj | відданий | Our dog is ___ and always waits for us at the door. | loyal | Наш пес відданий і завжди чекає нас біля дверей.
+arrogant | adj | зарозумілий | His ___ attitude annoyed the whole team. | arrogant | Його зарозуміле ставлення дратувало всю команду.
+modest | adj | скромний | Despite her success, she remains very ___. | modest | Попри свій успіх, вона залишається дуже скромною.
+cautious | adj | обережний | He is ___ with money and never borrows. | cautious | Він обережний з грошима і ніколи не бере позик.
+impulsive | adj | імпульсивний | She is ___ and often decides before thinking. | impulsive | Вона імпульсивна і часто вирішує, не подумавши.
+tolerant | adj | толерантний | Our city has become more ___ over the years. | tolerant | Наше місто з роками стало толерантнішим.
+selfish | adj | егоїстичний | It was ___ of him to take the last piece. | selfish | З його боку було егоїстично взяти останній шматок.
+gentle | adj | лагідний | The nurse had a ___ voice. | gentle | Медсестра мала лагідний голос.
+bossy | adj | владний | My sister is too ___ when we cook together. | bossy | Моя сестра занадто командує, коли ми готуємо разом.
+witty | adj | дотепний | His ___ remarks made everyone laugh. | witty | Його дотепні зауваження розсмішили всіх.
+rude | adj | грубий | It is ___ to interrupt people. | rude | Перебивати людей — грубо.
+brave | adj | сміливий | The firefighter was ___ enough to enter the burning house. | brave | Пожежник був досить сміливим, щоб зайти в палаючий будинок.
+lazy | adj | ледачий | I was too ___ to go to the gym today. | lazy | Сьогодні я був занадто ледачим, щоб піти в спортзал.
+cheeky | adj | нахабний | The boy gave a ___ grin when he was caught. | cheeky | Хлопчик нахабно посміхнувся, коли його спіймали.
+conscientious | adj | сумлінний | She is ___ and always double-checks her work. | conscientious | Вона сумлінна і завжди перевіряє свою роботу двічі.
+cynical | adj | цинічний | After so many failures, he became ___. | cynical | Після стількох невдач він став цинічним.
+determined | adj | рішучий | She is ___ to finish the marathon. | determined | Вона рішуче налаштована завершити марафон.
+insecure | adj | невпевнений | He feels ___ when he speaks English. | insecure | Він почувається невпевнено, коли говорить англійською.
+easygoing | adj | легкий у спілкуванні | My flatmate is very ___ and never complains. | easygoing | Мій сусід по квартирі дуже легкий у спілкуванні і ніколи не скаржиться.
+mischievous | adj | пустотливий | The ___ kids hid the teacher's chalk. | mischievous | Пустотливі діти сховали крейду вчителя.
+generosity | noun | щедрість | Her ___ surprised everyone at the charity dinner. | generosity | Її щедрість здивувала всіх на благодійній вечері.
+integrity | noun | чесність; цілісність | He is respected for his ___. | integrity | Його поважають за чесність.
+temper | noun | норов | She has a quick ___ but forgives easily. | temper | Вона має гарячий норов, але легко вибачає.
+humility | noun | скромність | He accepted the award with ___. | humility | Він прийняв нагороду зі скромністю.
+courage | noun | мужність | It takes ___ to change your career at forty. | courage | Для того, щоб змінити кар'єру в сорок, потрібна мужність.
+kindness | noun | доброта | Thank you for your ___ and help. | kindness | Дякую за вашу доброту і допомогу.
+reliability | noun | надійність | Her ___ made her a valuable colleague. | reliability | Її надійність зробила її цінною колегою.
+supportive | adj | підтримувальний | Her parents were always ___ of her choices. | supportive | Її батьки завжди підтримували її вибір.
+tactful | adj | тактовний | He was very ___ when he gave the bad news. | tactful | Він був дуже тактовним, повідомляючи погані новини.
+diplomatic | adj | дипломатичний | She is ___ and avoids unnecessary conflict. | diplomatic | Вона дипломатична і уникає непотрібних конфліктів.
+shy | adj | сором'язливий | The little girl was ___ with strangers. | shy | Маленька дівчинка була сором'язливою з незнайомцями.
+grumpy | adj | буркотливий | My neighbour is often ___ in the mornings. | grumpy | Мій сусід часто буркотливий вранці.
+thoughtful | adj | уважний | It was very ___ of you to bring flowers. | thoughtful | Це було дуже уважно з вашого боку — принести квіти.
+# C1
+pragmatic | adj | прагматичний | He takes a ___ view of most problems. | pragmatic | Він має прагматичний погляд на більшість проблем.
+idealistic | adj | ідеалістичний | As a student she was very ___ about politics. | idealistic | Будучи студенткою, вона була дуже ідеалістичною щодо політики.
+meek | adj | покірний | The ___ clerk never argued with customers. | meek | Покірний службовець ніколи не сперечався з клієнтами.
+volatile | adj | вибуховий | His temper is so ___ that people avoid him. | volatile | Його темперамент настільки вибуховий, що люди його уникають.
+astute | adj | проникливий; тямущий | The ___ investor spotted the opportunity early. | astute | Тямущий інвестор помітив можливість рано.
+frivolous | adj | легковажний | He dismissed her serious concerns as ___. | frivolous | Він відкинув її серйозні турботи як легковажні.
+haughty | adj | пихатий | The ___ manager never greeted the staff. | haughty | Пихатий менеджер ніколи не вітався з персоналом.
+gregarious | adj | товариський | She is ___ and loves large parties. | gregarious | Вона товариська і любить великі вечірки.
+introspective | adj | інтроспективний | He is quiet and ___, always thinking about his past. | introspective | Він тихий і інтроспективний, завжди думає про своє минуле.
+candid | adj | відвертий | She gave a ___ assessment of the project. | candid | Вона дала відверту оцінку проєкту.
+tenacious | adj | завзятий | Her ___ approach helped her survive difficult years. | tenacious | Її завзятий підхід допоміг пережити важкі роки.
+hypocritical | adj | лицемірний | It was ___ of him to criticize others for lying. | hypocritical | Лицемірно з його боку критикувати інших за брехню.
+obstinate | adj | затятий | The ___ old man refused to change his mind. | obstinate | Затятий старий відмовлявся змінювати свою думку.
+sincere | adj | щирий | Please accept my ___ apologies. | sincere | Прийміть мої щирі вибачення.
+pessimistic | adj | песимістичний | He is always ___ about the economy. | pessimistic | Він завжди песимістично налаштований щодо економіки.
+eccentric | adj | ексцентричний | The professor was known for his ___ habits. | eccentric | Професор був відомий своїми ексцентричними звичками.
+unassuming | adj | скромний; непримітний | Despite his fame, he remains ___. | unassuming | Попри славу, він залишається скромним.
+aloof | adj | відчужений | She seemed ___ at the party and talked to nobody. | aloof | На вечірці вона здавалася відчуженою і ні з ким не розмовляла.
+vindictive | adj | мстивий | The ___ boss punished anyone who disagreed. | vindictive | Мстивий начальник карав кожного, хто не погоджувався.
+conceited | adj | самозакоханий | The ___ singer ignored his fans. | conceited | Самозакоханий співак ігнорував своїх фанів.
+mercurial | adj | мінливий | The ___ artist changed his mood every hour. | mercurial | Мінливий митець змінював настрій щогодини.
+candour | noun | відвертість | I appreciate your ___ about the mistakes. | candour | Я ціную вашу відвертість щодо помилок.
+perseverance | noun | наполегливість | Success requires ___ and patience. | perseverance | Успіх потребує наполегливості і терпіння.
+prudence | noun | розважливість | Her ___ saved the company from risky deals. | prudence | Її розважливість врятувала компанію від ризикованих угод.
+fortitude | noun | витримка | He showed great ___ during the long illness. | fortitude | Він виявив велику витримку під час тривалої хвороби.
+arrogance | noun | зарозумілість | His ___ made him many enemies. | arrogance | Його зарозумілість створила йому багато ворогів.
+altruism | noun | альтруїзм | Volunteering is an example of ___. | altruism | Волонтерство — приклад альтруїзму.
+idiosyncrasy | noun | особливість; дивацтво | Each writer has an ___ in style. | idiosyncrasy | Кожен письменник має свою особливість у стилі.
+magnanimous | adj | великодушний | She was ___ in victory and praised her rival. | magnanimous | Вона була великодушною у перемозі і похвалила суперницю.
+obstreperous | adj | галасливий | The ___ guest refused to leave the party. | obstreperous | Галасливий гість відмовився піти з вечірки.
+inquisitive | adj | допитливий | The ___ child asked a hundred questions. | inquisitive | Допитлива дитина поставила сотню запитань.
+phlegmatic | adj | флегматичний | He stayed ___ even when the flight was delayed. | phlegmatic | Він залишався флегматичним, навіть коли рейс затримали.
+impetuous | adj | запальний | Her ___ decision surprised her colleagues. | impetuous | Її запальне рішення здивувало колег.
+restive | adj | неспокійний | The ___ students grew impatient with the delay. | restive | Неспокійні студенти розхвилювалися через затримку.
+vainglorious | adj | марнославний | His ___ speech bored the audience. | vainglorious | Його марнославна промова нудила аудиторію.
+laconic | adj | лаконічний | Her ___ reply ended the discussion. | laconic | Її лаконічна відповідь завершила дискусію.
+# C2
+truculent | adj | агресивний; задерикуватий | The ___ customer shouted at every employee. | truculent | Задерикуватий клієнт кричав на кожного працівника.
+supercilious | adj | зверхній | The ___ waiter ignored our questions. | supercilious | Зверхній офіціант ігнорував наші запитання.
+craven | adj | боягузливий | Calling them cowards would be ___ of me. | craven | Називати їх боягузами було б з мого боку боягузливо.
+insouciant | adj | безтурботний | He was ___ about the consequences. | insouciant | Він був безтурботним щодо наслідків.
+obdurate | adj | упертий | The ___ mayor refused every compromise. | obdurate | Упертий мер відмовлявся від будь-яких компромісів.
+dour | adj | суворий; похмурий | The ___ farmer hardly ever smiled. | dour | Суворий фермер майже ніколи не посміхався.
+prodigal | adj | марнотратний | The ___ son spent his inheritance in a year. | prodigal | Блудний син витратив спадок за рік.
+puckish | adj | пустотливий | His ___ grin suggested he was planning a prank. | puckish | Його пустотлива усмішка натякала, що він планує жарт.
+obtuse | adj | недалекий | His ___ answers showed he had not understood. | obtuse | Його недалекі відповіді показали, що він не зрозумів.
+indolent | adj | ледачий | An ___ student rarely completes assignments. | indolent | Ледачий студент рідко виконує завдання.
+pusillanimous | adj | боязкий | The ___ manager avoided every difficult decision. | pusillanimous | Боязкий менеджер уникав кожного складного рішення.
+gullible | adj | легковірний | Scammers target ___ people. | gullible | Шахраї полюють на легковірних людей.
+acerbic | adj | їдкий | Her ___ wit made everyone in the office wary of her. | acerbic | Її їдкий дотеп змушував колег в офісі остерігатися її.
+ebullient | adj | сповнений життєрадісності | The ___ host welcomed everyone with a big smile. | ebullient | Сповнений життєрадісності господар привітав усіх широкою посмішкою.
+guileless | adj | простодушний | The ___ child believed every word. | guileless | Простодушна дитина вірила кожному слову.
+perfidious | adj | віроломний | The ___ friend betrayed us to the competitors. | perfidious | Віроломний друг зрадив нас конкурентам.
+sagacious | adj | мудрий; проникливий | The ___ elder gave wise advice. | sagacious | Мудрий старійшина дав розумну пораду.
+pugnacious | adj | задерикуватий | The ___ coach argued with every referee. | pugnacious | Задерикуватий тренер сперечався з кожним арбітром.
+sycophantic | adj | підлабузницький | The ___ advisers praised every decision. | sycophantic | Підлабузницькі радники вихваляли кожне рішення.
+recalcitrant | adj | норовливий | The ___ pupil refused to follow any instruction. | recalcitrant | Норовливий учень відмовлявся виконувати будь-які вказівки.
+parsimony | noun | скупість | Their ___ shocked the guests at dinner. | parsimony | Їхня скупість шокувала гостей за вечерею.
+temerity | noun | зухвалість | He had the ___ to question the director. | temerity | У нього вистачило зухвалості заперечувати директорові.
+mulish | adj | упертий | The ___ mule refused to move. | mulish | Упертий мул відмовлявся рухатися.
+quixotic | adj | донкіхотський | His ___ plan to save the village was admired. | quixotic | Його донкіхотський план врятувати село викликав захоплення.
+obsequious | adj | підлабузницький | The ___ clerk smiled at every customer. | obsequious | Підлабузницький клерк усміхався кожному клієнтові.
+intransigent | adj | непримиренний | The ___ union leader refused any compromise. | intransigent | Непримиренний лідер профспілки відмовився від будь-якого компромісу.
+fickle | adj | непостійний | Her ___ taste in music changed every month. | fickle | Її непостійні музичні смаки змінювалися щомісяця.
+truculence | noun | агресивність | His ___ made every discussion difficult. | truculence | Його агресивність ускладнювала кожну дискусію.

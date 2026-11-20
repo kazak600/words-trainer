@@ -1,0 +1,103 @@
+# B2
+novel | noun | роман | She is reading a long historical ___. | novel | Вона читає довгий історичний роман.
+poem | noun | вірш | He wrote a ___ for her birthday. | poem | Він написав вірш на її день народження.
+author | noun | автор | The ___ won the prize for her debut novel. | author | Авторка отримала премію за свій дебютний роман.
+character | noun | персонаж | The main ___ is a young detective. | character | Головний персонаж — молодий детектив.
+plot | noun | сюжет | The ___ of the film was hard to follow. | plot | Сюжет фільму було важко простежити.
+theme | noun | тема | The ___ of the book is friendship. | theme | Тема книги — дружба.
+narrator | noun | оповідач | The ___ tells the story from her point of view. | narrator | Оповідачка розповідає історію з власної точки зору.
+sculpture | noun | скульптура | The museum displays a famous bronze ___. | sculpture | Музей експонує відому бронзову скульптуру.
+painting | noun | картина | This ___ hangs in the main gallery. | painting | Ця картина висить у головній галереї.
+exhibition | noun | виставка | We visited an art ___ on Sunday. | exhibition | У неділю ми відвідали художню виставку.
+performance | noun | вистава; виступ | The ___ lasted three hours. | performance | Вистава тривала три години.
+audience | noun | глядачі | The ___ gave the actors a standing ovation. | audience | Глядачі влаштували акторам овацію стоячи.
+critic | noun | критик | The ___ praised the new novel. | critic | Критик похвалив новий роман.
+review | noun | рецензія | I read a positive ___ of the film. | review | Я прочитав позитивну рецензію на фільм.
+comedy | noun | комедія | We watched a funny ___ last night. | comedy | Минулого вечора ми дивилися смішну комедію.
+tragedy | noun | трагедія | Shakespeare wrote many famous ___ies. | tragedies | Шекспір написав багато відомих трагедій.
+fiction | noun | художня література | She reads mostly science ___. | fiction | Вона читає переважно наукову фантастику.
+biography | noun | біографія | He is writing a ___ of his grandfather. | biography | Він пише біографію свого діда.
+translation | noun | переклад | The ___ of the novel was published last year. | translation | Переклад роману опублікували минулого року.
+sculptor | noun | скульптор | The ___ spent years carving the statue. | sculptor | Скульптор витратив роки на вирізьблення статуї.
+musician | noun | музикант | The ___ played at the festival. | musician | Музикант грав на фестивалі.
+gallery | noun | галерея | The ___ opened a new wing. | gallery | Галерея відкрила нове крило.
+publish | verb | видавати | The company will ___ her second book. | publish | Видавництво видасть її другу книгу.
+imagine | verb | уявляти | Writers must ___ worlds that do not exist. | imagine | Письменники мають уявляти світи, яких не існує.
+describe | verb | описувати | The poet ___s the sea at sunset. | describes | Поет описує море на заході сонця.
+inspire | verb | надихати | Nature often ___s painters. | inspires | Природа часто надихає художників.
+creative | adj | творчий | She has a very ___ approach to design. | creative | Вона має дуже творчий підхід до дизайну.
+famous | adj | відомий | The gallery has a ___ collection of paintings. | famous | Галерея має відому колекцію картин.
+classic | adj | класичний | It is a ___ film from the seventies. | classic | Це класичний фільм сімдесятих.
+popular | adj | популярний | This song is very ___ with young people. | popular | Ця пісня дуже популярна серед молодих людей.
+dramatic | adj | драматичний | The ending of the play was very ___. | dramatic | Кінцівка вистави була дуже драматичною.
+fable | noun | байка | The old ___ teaches a lesson about honesty. | fable | Стара байка вчить урокам чесності.
+sonnet | noun | сонет | Shakespeare wrote more than a hundred ___s. | sonnets | Шекспір написав понад сто сонетів.
+chapter | noun | розділ | Each ___ begins with a short quotation. | chapter | Кожен розділ починається з короткої цитати.
+essay | noun | есе | Her ___ on freedom was published in a journal. | essay | Її есе про свободу опублікували в журналі.
+hero | noun | герой | The ___ of the novel faces many dangers. | hero | Герой роману стикається з багатьма небезпеками.
+sketch | noun | ескіз | The artist drew a quick ___ of the harbour. | sketch | Художник швидко намалював ескіз гавані.
+portrait | noun | портрет | The gallery has a famous ___ of the queen. | portrait | У галереї є відомий портрет королеви.
+drama | noun | драма | The theatre group staged a modern ___. | drama | Театральна трупа поставила сучасну драму.
+# C1
+allegory | noun | алегорія | The novel is an ___ of political power. | allegory | Роман є алегорією політичної влади.
+motif | noun | мотив | The recurring ___ of the sea runs through the book. | motif | Повторюваний мотив моря проходить крізь всю книгу.
+prose | noun | проза | Her ___ is precise and elegant. | prose | Її проза точна і елегантна.
+satire | noun | сатира | The film is a sharp ___ of consumer culture. | satire | Фільм — гостра сатира на споживацьку культуру.
+protagonist | noun | протагоніст | The ___ struggles with guilt throughout the book. | protagonist | Протагоніст упродовж усієї книги бореться з почуттям провини.
+vernacular | noun | народна мова | The poems were written in the local ___. | vernacular | Вірші написані місцевою народною мовою.
+canon | noun | канон | The novel is now part of the literary ___. | canon | Роман тепер є частиною літературного канону.
+impressionism | noun | імпресіонізм | Monet is a famous figure of ___. | impressionism | Моне — відома постать імпресіонізму.
+modernism | noun | модернізм | The writer belongs to the period of ___. | modernism | Письменник належить до періоду модернізму.
+ambiguity | noun | двозначність | The ending of the novel leaves much ___. | ambiguity | Кінцівка роману залишає багато двозначності.
+metaphor | noun | метафора | The poem uses a powerful ___ for grief. | metaphor | У вірші використовується потужна метафора для горя.
+stanza | noun | строфа | Each ___ of the poem has four lines. | stanzas | Кожна строфа вірша має чотири рядки.
+choreography | noun | хореографія | The ___ was breathtaking. | choreography | Хореографія була захоплюючою.
+oeuvre | noun | творчий доробок | His ___ includes over thirty novels. | oeuvre | Його творчий доробок включає понад тридцять романів.
+parody | noun | пародія | The sketch was a clever ___ of the old drama. | parody | Скетч був дотепною пародією на стару драму.
+avant-garde | adj | авангардний | The gallery shows ___ installations. | avant-garde | Галерея показує авангардні інсталяції.
+surrealist | adj | сюрреалістичний | The film has a dreamlike, ___ style. | surrealist | Фільм має мрійливий, сюрреалістичний стиль.
+pastoral | adj | пастораль | The painting shows a calm ___ scene. | pastoral | На картині зображено спокійну пасторальну сцену.
+lyrical | adj | ліричний | The author's language is deeply ___. | lyrical | Мова автора глибоко лірична.
+ornate | adj | вишуканий | The cathedral has ___ decorations. | ornate | Собор має вишукані прикраси.
+sombre | adj | похмурий | The film has a ___ tone. | sombre | Фільм має похмурий тон.
+evocative | adj | виразний | The novel's descriptions are highly ___. | evocative | Описи в романі дуже виразні.
+didactic | adj | повчальний | The play is too ___ for my taste. | didactic | Вистава надто повчальна на мій смак.
+curate | verb | курувати | She was asked to ___ the autumn exhibition. | curate | Її попросили курувати осінню виставку.
+dramatize | verb | драматизувати | The writer ___d the events for the stage. | dramatized | Письменник драматизував події для сцени.
+epic | noun | епос | The ___ tells the story of a great war. | epic | Епос розповідає історію великої війни.
+elegy | noun | елегія | He wrote an ___ for his late friend. | elegy | Він написав елегію для свого покійного друга.
+allusion | noun | алюзія | The poem contains a subtle ___ to classical myth. | allusion | Вірш містить тонку алюзію на класичний міф.
+soliloquy | noun | монолог | The hero's ___ reveals his inner doubts. | soliloquy | Монолог героя розкриває його внутрішні сумніви.
+novella | noun | новела | Her latest work is a short ___. | novella | Її останній твір — коротка новела.
+iconography | noun | іконографія | The painting follows the traditional ___. | iconography | Картина дотримується традиційної іконографії.
+anthology | noun | антологія | The ___ collects poems from five centuries. | anthology | Антологія збирає вірші з п'яти століть.
+cubism | noun | кубізм | Picasso is associated with ___. | cubism | Пікассо асоціюється з кубізмом.
+pastiche | noun | пастиш | The novel is a witty ___ of detective fiction. | pastiche | Роман — дотепний пастиш детективної прози.
+# C2
+chiaroscuro | noun | світлотінь | The painter mastered dramatic ___. | chiaroscuro | Художник досконало опанував драматичну світлотінь.
+polyphony | noun | поліфонія | The novel is a ___ of many voices. | polyphony | Роман — поліфонія багатьох голосів.
+diegesis | noun | діегезис | The film's ___ is notably complex. | diegesis | Діегезис фільму надзвичайно складний.
+ekphrasis | noun | екфраза | The poem is a famous ___ of a painting. | ekphrasis | Вірш — відома екфраза картини.
+bildungsroman | noun | роман виховання | The novel is a classic ___. | bildungsroman | Роман є класичним романом виховання.
+palimpsest | noun | палімпсест | The city's streets are a ___ of history. | palimpsest | Вулиці міста — палімпсест історії.
+leitmotif | noun | лейтмотив | The melody is a recurring ___ in the opera. | leitmotif | Мелодія — повторюваний лейтмотив опери.
+mannerism | noun | манієризм | The painter's style reflects late ___. | mannerism | Стиль художника відображає пізній манієризм.
+verisimilitude | noun | правдоподібність | The novel achieves remarkable ___. | verisimilitude | Роман досягає напрочуд високої правдоподібності.
+bathos | noun | банальність | The poem's ending slipped into ___. | bathos | Кінцівка вірша сповзла в банальність.
+ekphrastic | adj | екфрастичний | The poem is ___ and describes a sculpture. | ekphrastic | Вірш екфрастичний і описує скульптуру.
+hermetic | adj | герметичний; замкнутий | The poet's work is ___ and hard to decode. | hermetic | Творчість поета замкнута і важка для розшифрування.
+sublime | adj | піднесений | The view from the summit was ___. | sublime | Вид з вершини був піднесеним.
+baroque | adj | бароковий | The church is decorated in ___ style. | baroque | Церква прикрашена в бароковому стилі.
+elegiac | adj | елегійний | The poem has an ___ tone of loss. | elegiac | Вірш має елегійний тон втрати.
+gothic | adj | готичний | The novel is full of ___ atmosphere. | gothic | Роман сповнений готичної атмосфери.
+recondite | adj | маловідомий | The critic's references were ___. | recondite | Посилання критика були маловідомими.
+chthonic | adj | хтонічний | The myth describes a ___ deity. | chthonic | Міф описує хтонічне божество.
+pastiche | verb | наслідувати (стиль) | The author ___d Victorian prose. | pastiched | Автор наслідував вікторіанську прозу.
+palinode | noun | палінодія | The poet's ___ reversed his earlier praise. | palinode | Палінодія поета відкликала його попередню похвалу.
+catachresis | noun | катахреза | "Mouth of the river" is a ___ in some contexts. | catachresis | «Устя річки» — катахреза в деяких контекстах.
+sprezzatura | noun | спреццатура | The painter's ___ made the work look effortless. | sprezzatura | Спрецзатура художника зробила роботу здаватися легкою.
+mise-en-abyme | noun | мізанабім | The novel uses a ___ to reflect its own story. | mise-en-abyme | Роман використовує мізанабім, щоб відображати власну історію.
+tableau | noun | живописна сцена | The final scene forms a striking ___. | tableau | Фінальна сцена складає разючу живописну сцену.
+ekphrastic | noun | екфраза | The poem is an ___ of a famous painting. | ekphrastic | Вірш — екфраза відомої картини.
+frontispiece | noun | фронтиспіс | The book opens with an engraved ___. | frontispiece | Книга відкривається гравірованим фронтисписом.
+trompe-l'oeil | noun | трюмплой | The mural is a clever ___. | trompe-l'oeil | Розпис — вправний трюмплой.

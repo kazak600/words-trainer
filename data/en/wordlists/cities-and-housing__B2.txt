@@ -1,0 +1,4 @@
+noun: apartment, rent, landlord, tenant, deposit, property, suburb, downtown, infrastructure, pavement, pollution, noise, gentrification, skyline, landmark, boulevard, block, balcony, basement, mortgage, resident, district, estate, hallway
+adj: crowded, spacious, cosy, modern, run-down, furnished
+verb: renovate, demolish, construct, commute, move, settle
+phrase: public transport

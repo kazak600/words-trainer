@@ -1,0 +1,3 @@
+noun: recipe, ingredient, portion, flavour, seasoning, dessert, appetite, menu, waiter, leftovers, canteen, buffet, cuisine, sauce, pastry, crust, spoonful, dough
+adj: crispy, tender, spicy, sour, bitter, fresh, frozen, homemade, raw, bland, mild
+verb: roast, chop, stir, boil, fry, bake, serve, taste, slice, grill, whisk

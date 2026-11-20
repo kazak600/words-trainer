@@ -1,0 +1,3 @@
+noun: conversation, misunderstanding, vocabulary, accent, pronunciation, grammar, slang, dialect, phrase, expression, gesture, tone, dialogue, recipient
+verb: express, imply, admit, persuade, insist, argue, explain, translate, interrupt, comment, reply, gesture, hint, assume, clarify, misinterpret
+adj: vague, blunt, articulate, fluent, polite, subtle, concise, sarcastic, approachable

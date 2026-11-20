@@ -1,0 +1,3 @@
+noun: novel, poem, author, character, plot, theme, narrator, sculpture, painting, exhibition, performance, audience, critic, review, comedy, tragedy, fiction, biography, translation, sculptor, musician, gallery, fable, sonnet, chapter, essay, hero, sketch, portrait, drama
+verb: publish, imagine, describe, inspire
+adj: creative, famous, classic, popular, dramatic

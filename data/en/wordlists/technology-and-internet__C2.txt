@@ -1,0 +1,3 @@
+adj: decentralized, idempotent, monolithic, impeccable, granular, asynchronous, polymorphic
+noun: polymorphism, concurrency, encapsulation, recursion, isomorphism, kludge, ontology, idempotence, serialization, virtualization, exfiltration, ubiquity
+verb: exfiltrate, bifurcate

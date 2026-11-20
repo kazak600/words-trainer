@@ -1,0 +1,5 @@
+noun: pedagogy, syllabus, thesis, dissertation, seminar, faculty, rote, proficiency, aptitude, bursary, tenure, prerequisite, accreditation, mnemonic, scaffolding, pupillage, credential, cramming, apprenticeship, inquisitiveness, verbosity
+verb: mentor, matriculate, dissect
+adj: cognitive, pedantic, erudite, intellectual, extracurricular, heuristic, epistemic, preparatory, pedagogical
+phrase: peer review
+adv: academically

@@ -1,14 +1,76 @@
 topic_slug,title_en,title_uk,level,origin,source_hint
-introductions,Introductions,Знайомство,A1,extra,core A1 vocabulary
-family-and-friends,Family and friends,Родина і друзі,A1,extra,core A1 vocabulary
-home,Home,Дім і житло,A1,extra,core A1 vocabulary
-food-and-drink,Food and drink,Їжа та напої,A1,extra,core A1 vocabulary
-daily-routine,Daily routine,Щоденні справи,A1,extra,core A1 vocabulary
-time-and-planning,Time and plans,Час і плани,A1,extra,core A1 vocabulary
-city-and-transport,Town and transport,Місто і транспорт,A1,extra,core A1 vocabulary
-shopping-and-clothes,Shopping and clothes,Покупки й одяг,A1,extra,core A1 vocabulary
-health-and-body,Health and body,Здоров'я і тіло,A1,extra,core A1 vocabulary
-nature-and-weather,Nature and weather,Природа і погода,A1,extra,core A1 vocabulary
-study-and-work,Study and work,Навчання і робота,A1,extra,core A1 vocabulary
-common-verbs,Common verbs,Поширені дієслова,A1,extra,core A1 vocabulary
-common-adjectives,Common adjectives,Поширені прикметники,A1,extra,core A1 vocabulary
+arts-and-literature,Arts and literature,Мистецтво і література,B2,extra,B2 vocabulary
+arts-and-literature,Arts and literature,Мистецтво і література,C1,extra,C1 vocabulary
+arts-and-literature,Arts and literature,Мистецтво і література,C2,extra,C2 vocabulary
+business-and-economy,Business and economy,Бізнес і економіка,B2,extra,B2 vocabulary
+business-and-economy,Business and economy,Бізнес і економіка,C1,extra,C1 vocabulary
+business-and-economy,Business and economy,Бізнес і економіка,C2,extra,C2 vocabulary
+cities-and-housing,Cities and housing,Міста і житло,B2,extra,B2 vocabulary
+cities-and-housing,Cities and housing,Міста і житло,C1,extra,C1 vocabulary
+cities-and-housing,Cities and housing,Міста і житло,C2,extra,C2 vocabulary
+communication-and-language,Communication and language,Комунікація і мова,B2,extra,B2 vocabulary
+communication-and-language,Communication and language,Комунікація і мова,C1,extra,C1 vocabulary
+communication-and-language,Communication and language,Комунікація і мова,C2,extra,C2 vocabulary
+education-and-learning,Education and learning,Освіта і навчання,B2,extra,B2 vocabulary
+education-and-learning,Education and learning,Освіта і навчання,C1,extra,C1 vocabulary
+education-and-learning,Education and learning,Освіта і навчання,C2,extra,C2 vocabulary
+environment-and-climate,Environment and climate,Довкілля і клімат,B2,extra,B2 vocabulary
+environment-and-climate,Environment and climate,Довкілля і клімат,C1,extra,C1 vocabulary
+environment-and-climate,Environment and climate,Довкілля і клімат,C2,extra,C2 vocabulary
+feelings-and-emotions,Feelings and emotions,Почуття і емоції,B2,extra,B2 vocabulary
+feelings-and-emotions,Feelings and emotions,Почуття і емоції,C1,extra,C1 vocabulary
+feelings-and-emotions,Feelings and emotions,Почуття і емоції,C2,extra,C2 vocabulary
+food-and-cooking,Food and cooking,Їжа та кулінарія,B2,extra,B2 vocabulary
+food-and-cooking,Food and cooking,Їжа та кулінарія,C1,extra,C1 vocabulary
+food-and-cooking,Food and cooking,Їжа та кулінарія,C2,extra,C2 vocabulary
+health-and-medicine,Health and medicine,Здоров'я і медицина,B2,extra,B2 vocabulary
+health-and-medicine,Health and medicine,Здоров'я і медицина,C1,extra,C1 vocabulary
+health-and-medicine,Health and medicine,Здоров'я і медицина,C2,extra,C2 vocabulary
+idioms-and-expressions,Idioms and expressions,Ідіоми і вирази,B2,extra,B2 vocabulary
+idioms-and-expressions,Idioms and expressions,Ідіоми і вирази,C1,extra,C1 vocabulary
+idioms-and-expressions,Idioms and expressions,Ідіоми і вирази,C2,extra,C2 vocabulary
+law-and-crime,Law and crime,Право і злочинність,B2,extra,B2 vocabulary
+law-and-crime,Law and crime,Право і злочинність,C1,extra,C1 vocabulary
+law-and-crime,Law and crime,Право і злочинність,C2,extra,C2 vocabulary
+media-and-news,Media and news,Медіа і новини,B2,extra,B2 vocabulary
+media-and-news,Media and news,Медіа і новини,C1,extra,C1 vocabulary
+media-and-news,Media and news,Медіа і новини,C2,extra,C2 vocabulary
+money-and-finance,Money and finance,Гроші і фінанси,B2,extra,B2 vocabulary
+money-and-finance,Money and finance,Гроші і фінанси,C1,extra,C1 vocabulary
+money-and-finance,Money and finance,Гроші і фінанси,C2,extra,C2 vocabulary
+music-and-film,Music and film,Музика і кіно,B2,extra,B2 vocabulary
+music-and-film,Music and film,Музика і кіно,C1,extra,C1 vocabulary
+music-and-film,Music and film,Музика і кіно,C2,extra,C2 vocabulary
+nature-and-geography,Nature and geography,Природа і географія,B2,extra,B2 vocabulary
+nature-and-geography,Nature and geography,Природа і географія,C1,extra,C1 vocabulary
+nature-and-geography,Nature and geography,Природа і географія,C2,extra,C2 vocabulary
+personality-and-character,Personality and character,Характер і особистість,B2,extra,B2 vocabulary
+personality-and-character,Personality and character,Характер і особистість,C1,extra,C1 vocabulary
+personality-and-character,Personality and character,Характер і особистість,C2,extra,C2 vocabulary
+phrasal-verbs,Phrasal verbs,Фразові дієслова,B2,extra,B2 vocabulary
+phrasal-verbs,Phrasal verbs,Фразові дієслова,C1,extra,C1 vocabulary
+phrasal-verbs,Phrasal verbs,Фразові дієслова,C2,extra,C2 vocabulary
+politics-and-government,Politics and government,Політика і влада,B2,extra,B2 vocabulary
+politics-and-government,Politics and government,Політика і влада,C1,extra,C1 vocabulary
+politics-and-government,Politics and government,Політика і влада,C2,extra,C2 vocabulary
+psychology-and-mind,Psychology and the mind,Психологія і розум,B2,extra,B2 vocabulary
+psychology-and-mind,Psychology and the mind,Психологія і розум,C1,extra,C1 vocabulary
+psychology-and-mind,Psychology and the mind,Психологія і розум,C2,extra,C2 vocabulary
+relationships-and-society,Relationships and society,Стосунки і суспільство,B2,extra,B2 vocabulary
+relationships-and-society,Relationships and society,Стосунки і суспільство,C1,extra,C1 vocabulary
+relationships-and-society,Relationships and society,Стосунки і суспільство,C2,extra,C2 vocabulary
+science-and-research,Science and research,Наука і дослідження,B2,extra,B2 vocabulary
+science-and-research,Science and research,Наука і дослідження,C1,extra,C1 vocabulary
+science-and-research,Science and research,Наука і дослідження,C2,extra,C2 vocabulary
+sports-and-fitness,Sports and fitness,Спорт і фітнес,B2,extra,B2 vocabulary
+sports-and-fitness,Sports and fitness,Спорт і фітнес,C1,extra,C1 vocabulary
+sports-and-fitness,Sports and fitness,Спорт і фітнес,C2,extra,C2 vocabulary
+technology-and-internet,Technology and the internet,Технології та інтернет,B2,extra,B2 vocabulary
+technology-and-internet,Technology and the internet,Технології та інтернет,C1,extra,C1 vocabulary
+technology-and-internet,Technology and the internet,Технології та інтернет,C2,extra,C2 vocabulary
+travel-and-tourism,Travel and tourism,Подорожі й туризм,B2,extra,B2 vocabulary
+travel-and-tourism,Travel and tourism,Подорожі й туризм,C1,extra,C1 vocabulary
+travel-and-tourism,Travel and tourism,Подорожі й туризм,C2,extra,C2 vocabulary
+work-and-careers,Work and careers,Робота і кар'єра,B2,extra,B2 vocabulary
+work-and-careers,Work and careers,Робота і кар'єра,C1,extra,C1 vocabulary
+work-and-careers,Work and careers,Робота і кар'єра,C2,extra,C2 vocabulary

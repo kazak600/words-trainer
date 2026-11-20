@@ -1,0 +1,100 @@
+# B2
+training | noun | тренування | Her ___ schedule is very strict. | training | Її графік тренувань дуже суворий.
+athlete | noun | спортсмен | The ___ trains six days a week. | athlete | Спортсмен тренується шість днів на тиждень.
+opponent | noun | суперник | The ___ scored in the last minute. | opponent | Суперник забив гол в останню хвилину.
+referee | noun | арбітр | The ___ blew the whistle to stop the game. | referee | Арбітр свистком зупинив гру.
+championship | noun | чемпіонат | She won the national ___ last year. | championship | Минулого року вона виграла національний чемпіонат.
+stamina | noun | витривалість | Running a marathon requires great ___. | stamina | Для марафону потрібна велика витривалість.
+endurance | noun | витривалість | Cycling tests your ___. | endurance | Велоспорт перевіряє вашу витривалість.
+equipment | noun | спорядження | You need proper ___ for climbing. | equipment | Для скелелазіння потрібне відповідне спорядження.
+coach | noun | тренер | Our ___ gives us useful advice after each match. | coach | Наш тренер дає корисні поради після кожного матчу.
+marathon | noun | марафон | Finishing a ___ is a great achievement. | marathon | Фініш марафону — великий успіх.
+tournament | noun | турнір | The ___ attracted players from twenty countries. | tournament | Турнір зібрав гравців з двадцяти країн.
+goal | noun | гол; мета | Who scored the winning ___? | goal | Хто забив переможний гол?
+stadium | noun | стадіон | The ___ can hold fifty thousand fans. | stadium | Стадіон вміщує п'ятдесят тисяч уболівальників.
+trophy | noun | трофей | The team lifted the ___ in triumph. | trophy | Команда тріумфально підняла трофей.
+athletics | noun | легка атлетика | She competes in ___ at university. | athletics | Вона змагається з легкої атлетики в університеті.
+score | verb | забивати (гол) | He ___d twice in the first half. | scored | Він забив двічі в першому таймі.
+defeat | verb | перемагати | Our team ___ed the champions. | defeated | Наша команда перемогла чемпіонів.
+compete | verb | змагатися | Thousands of runners ___ in the race. | compete | Тисячі бігунів змагаються в перегонах.
+exercise | verb | займатися | I ___ at the gym three times a week. | exercise | Я займаюся у спортзалі тричі на тиждень.
+stretch | verb | розтягуватися | Always ___ before running. | stretch | Завжди розтягуйтеся перед бігом.
+hydrate | verb | поповнювати рідину | Drink water to ___ during exercise. | hydrate | Пийте воду, щоб поповнювати рідину під час тренувань.
+competitive | adj | конкурентний | He is very ___ and hates losing. | competitive | Він дуже конкурентний і ненавидить програвати.
+athletic | adj | спортивний | She has an ___ build. | athletic | У неї спортивна статура.
+flexible | adj | гнучкий | Yoga makes your body more ___. | flexible | Йога робить ваше тіло гнучкішим.
+energetic | adj | енергійний | The children were ___ after the break. | energetic | Діти були енергійними після перерви.
+exhausted | adj | виснажений | After the race, we were completely ___. | exhausted | Після перегонів ми були повністю виснажені.
+fit | adj | у формі | He keeps ___ by running every morning. | fit | Він підтримує себе у формі, бігаючи щоранку.
+agile | adj | спритний | The goalkeeper is very ___. | agile | Воротар дуже спритний.
+steady | adj | стабільний | Keep a ___ pace during the run. | steady | Тримайте стабільний темп під час бігу.
+warm up | phrase | розминатися | Always ___ before a long run. | warm up | Завжди розминайтеся перед довгим бігом.
+referee | verb | судити | He will ___ the final match. | referee | Він судитиме фінальний матч.
+goalkeeper | noun | воротар | The ___ saved a penalty in the last minute. | goalkeeper | Воротар відбив пенальті в останню хвилину.
+pitch | noun | поле | The players ran onto the ___. | pitch | Гравці вибігли на поле.
+fitness | noun | фізична форма | Her ___ improved after six months of training. | fitness | Її фізична форма покращилася після шести місяців тренувань.
+dribble | verb | вести м'яч | He ___d past three defenders. | dribbled | Він провів м'яч повз трьох захисників.
+sprint | noun | спринт | She pulled ahead with a final ___. | sprint | Вона вирвалася вперед останнім спринтом.
+trainer | noun | тренер | The personal ___ designed my workout plan. | trainer | Персональний тренер склав мій план тренувань.
+# C1
+regimen | noun | режим | His strict ___ includes diet and sleep. | regimen | Його суворий режим включає дієту і сон.
+tenacity | noun | наполегливість | Her ___ carried her through the final lap. | tenacity | Її наполегливість допомогла їй пройти останнє коло.
+discipline | noun | дисципліна | Success in sport requires ___. | discipline | Успіх у спорті потребує дисципліни.
+buoyancy | noun | плавучість | Swimmers rely on natural ___. | buoyancy | Плавці покладаються на природну плавучість.
+momentum | noun | імпульс | The team gained ___ after the second goal. | momentum | Команда набрала імпульсу після другого гола.
+pacing | noun | розподіл темпу | Good ___ is essential in long-distance races. | pacing | Добрий розподіл темпу важливий у дистанційних перегонах.
+dexterity | noun | спритність | The goalkeeper showed great ___. | dexterity | Воротар показав велику спритність.
+hamstring | noun | задня поверхня стегна | He pulled a ___ during the sprint. | hamstring | Він потягнув задню поверхню стегна під час спринту.
+concussion | noun | струс мозку | The player suffered a ___ in the collision. | concussion | Гравець отримав струс мозку під час зіткнення.
+tenet | noun | принцип | One ___ of the sport is fair play. | tenet | Один з принципів цього спорту — чесна гра.
+sportsmanship | noun | спортивна поведінка | She was praised for her ___. | sportsmanship | Її хвалили за спортивну поведінку.
+spectator | noun | глядач | The ___s cheered loudly. | spectators | Глядачі голосно вітали.
+sprint | verb | бігти спринт | He ___ed to the finish line. | sprinted | Він пробіг спринтом до фінішу.
+tackle | verb | відбирати м'яч | The defender ___d the striker cleanly. | tackled | Захисник чисто відібрав м'яч у нападника.
+outpace | verb | обганяти | The new runner ___d the veterans. | outpaced | Новачок обігнав ветеранів.
+overtrain | verb | перетренуватися | Athletes who ___ risk injury. | overtrain | Спортсмени, які перетренуються, ризикують травмою.
+acclimatize | verb | акліматизуватися | The climbers needed time to ___ to the altitude. | acclimatize | Альпіністам потрібен був час, щоб акліматизуватися до висоти.
+formidable | adj | грізний | The champion was a ___ opponent. | formidable | Чемпіон був грізним суперником.
+unbeaten | adj | непереможний | The team stayed ___ throughout the season. | unbeaten | Команда залишалася непереможною протягом усього сезону.
+meticulous | adj | старанний | The coach was ___ about technique. | meticulous | Тренер був старанним щодо техніки.
+strenuous | adj | виснажливий | The climb was ___ but rewarding. | strenuous | Підйом був виснажливим, але корисним.
+versatile | adj | різнобічний | She is a ___ player who can play any position. | versatile | Вона різнобічна гравчиня, яка може грати на будь-якій позиції.
+supple | adj | гнучкий | The gymnast has a ___ body. | supple | У гімнастки гнучке тіло.
+retaliate | verb | відповідати ударом | The team ___d after a harsh tackle. | retaliated | Команда відповіла після жорсткого підкату.
+intercept | verb | перехоплювати | The defender ___ed the pass. | intercepted | Захисник перехопив пас.
+replenish | verb | поповнювати | Athletes must ___ their energy after training. | replenish | Спортсменам треба поповнювати енергію після тренування.
+formidable | noun | грізний суперник | The new team is a ___ on paper. | formidable | Нова команда — грізний суперник на папері.
+discipline | verb | дисциплінувати | The coach had to ___ the players. | discipline | Тренеру довелося дисциплінувати гравців.
+reverse | verb | розвертатися | The runner ___d direction at the turn. | reversed | Бігун розвернувся на повороті.
+overexertion | noun | перенапруження | ___ caused his injury. | Overexertion | Перенапруження спричинило його травму.
+exertion | noun | зусилля | The climb required great physical ___. | exertion | Підйом вимагав великих фізичних зусиль.
+# C2
+ataxia | noun | атаксія | The athlete showed signs of ___ after the fall. | ataxia | Спортсмен мав ознаки атаксії після падіння.
+kinesiology | noun | кінезіологія | She studied ___ at the university. | kinesiology | Вона вивчала кінезіологію в університеті.
+proprioception | noun | пропріоцепція | Balance training improves ___. | proprioception | Тренування балансу покращує пропріоцепцію.
+periodisation | noun | періодизація | The coach designed a careful ___ of the season. | periodisation | Тренер склав ретельну періодизацію сезону.
+lactate | noun | лактат | Heavy exercise raises ___ levels in the blood. | lactate | Важкі вправи підвищують рівень лактату в крові.
+hypertrophy | noun | гіпертрофія | Weight training causes muscle ___. | hypertrophy | Силові тренування спричиняють гіпертрофію м'язів.
+gambit | noun | тактичний хід | The coach's bold ___ surprised everyone. | gambit | Сміливий тактичний хід тренера здивував усіх.
+cardiovascular | adj | серцево-судинний | Running improves ___ health. | cardiovascular | Біг покращує серцево-судинне здоров'я.
+plyometric | adj | плиометричний | The athletes did ___ jumps every morning. | plyometric | Спортсмени щоранку виконували плиометричні стрибки.
+isometric | adj | ізометричний | The exercise uses ___ holds. | isometric | Вправа використовує ізометричні утримання.
+ergogenic | adj | ергогенний | Athletes sometimes use ___ aids. | ergogenic | Спортсмени іноді використовують ергогенні засоби.
+recumbent | adj | лежачий | The bike has a ___ seat. | recumbent | У велосипеда лежаче сидіння.
+gruelling | adj | виснажливий | The race was ___ and lasted all day. | gruelling | Перегони були виснажливими і тривали цілий день.
+indomitable | adj | незламний | The team showed an ___ spirit. | indomitable | Команда показала незламний дух.
+unflappable | adj | незворушний | The referee remained ___ under pressure. | unflappable | Арбітр залишався незворушним під тиском.
+ballistic | adj | балістичний | The striker's shot was ___. | ballistic | Удар нападника був балістичним.
+dogged | adj | наполегливий | Her ___ persistence won the race. | dogged | Її наполеглива впертість принесла перемогу в перегонах.
+aerobic | adj | аеробний | Swimming is an excellent ___ exercise. | aerobic | Плавання — чудова аеробна вправа.
+anaerobic | adj | анаеробний | Sprinting uses ___ energy systems. | anaerobic | Спринт використовує анаеробні енергетичні системи.
+flagellate | verb | бичувати себе | He ___d himself after the defeat. | flagellated | Він картав себе після поразки.
+flail | verb | махати руками | The swimmer ___ed for a moment. | flailed | Плавець на мить почав махати руками.
+apogee | noun | апогей | The athlete reached the ___ of her career. | apogee | Спортсменка досягла апогею своєї кар'єри.
+kinetic | adj | кінетичний | The athlete converts ___ energy into speed. | kinetic | Спортсмен перетворює кінетичну енергію на швидкість.
+plenitude | noun | повнота | The team showed a ___ of talent. | plenitude | Команда продемонструвала повноту таланту.
+bravado | noun | бравада | His ___ hid his nerves before the match. | bravado | Його бравада приховувала нерви перед матчем.
+tenaciousness | noun | наполегливість | Her ___ won her the final point. | tenaciousness | Її наполегливість принесла їй останній очко.
+gladiatorial | adj | гладіаторський | The fight had a ___ intensity. | gladiatorial | Бій мав гладіаторську інтенсивність.
+ballistics | noun | балістика | The coach studied the ___ of free kicks. | ballistics | Тренер вивчав балістику штрафних ударів.
+ergonomics | noun | ергономіка | The bike was designed with careful ___. | ergonomics | Велосипед був створений з ретельною ергономікою.

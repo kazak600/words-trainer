@@ -1,0 +1,4 @@
+noun: bandwidth, latency, protocol, firewall, phishing, interoperability, pixel, encryption, broadband, robotics, spam, cache, sandbox, hashing, throughput, scalability
+adj: scalable, obsolete, immersive, ubiquitous, algorithmic, open-source, pseudonymous, legacy, interoperable
+verb: authenticate, optimise, debug, deploy, iterate, deprecate
+phrase: data mining, roll out

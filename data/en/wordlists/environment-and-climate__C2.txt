@@ -1,0 +1,3 @@
+adj: anthropogenic, allochthonous, xeric, anoxic, perennial, ephemeral, inexorable, sylvan, mesic, desertic
+noun: insolation, albedo, eutrophication, bioaccumulation, denudation, aridity, degradation, remediation, inundation, anoxia, bioremediation, photosynthesis, ecotone, mesophyte, perturbation
+verb: desiccate, insolate

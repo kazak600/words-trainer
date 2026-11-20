@@ -1,0 +1,110 @@
+# B2
+conversation | noun | розмова | Their ___ lasted until midnight. | conversation | Їхня розмова тривала до півночі.
+misunderstanding | noun | непорозуміння | The ___ was caused by an unclear email. | misunderstanding | Непорозуміння сталося через неясний лист.
+vocabulary | noun | словниковий запас | Reading helps you build your ___. | vocabulary | Читання допомагає розширити словниковий запас.
+accent | noun | акцент | She speaks English with a French ___. | accent | Вона говорить англійською з французьким акцентом.
+pronunciation | noun | вимова | Her ___ is very clear. | pronunciation | Її вимова дуже чітка.
+grammar | noun | граматика | The ___ of this language is complicated. | grammar | Граматика цієї мови складна.
+slang | noun | сленг | Teenagers often use new ___ words. | slang | Підлітки часто вживають нові слова сленгу.
+dialect | noun | діалект | Each region has its own ___. | dialect | Кожен регіон має власний діалект.
+phrase | noun | фраза | This ___ is used in formal letters. | phrase | Ця фраза використовується в офіційних листах.
+expression | noun | вислів | "Break a leg" is a common ___. | expression | «Ні пуху ні пера» — поширений вислів.
+express | verb | висловлювати | It is hard to ___ my feelings in words. | express | Мені важко висловити свої почуття словами.
+imply | verb | натякати; мати на увазі | Are you trying to ___ that I was lying? | imply | Ви намагаєтеся натякнути, що я брехав?
+admit | verb | визнавати | He refused to ___ his mistake. | admit | Він відмовився визнати свою помилку.
+persuade | verb | переконувати | She tried to ___ him to join the club. | persuade | Вона намагалася переконати його вступити до клубу.
+insist | verb | наполягати | My parents ___ on meeting my friends. | insist | Мої батьки наполягають на знайомстві з моїми друзями.
+argue | verb | сперечатися | They often ___ about politics. | argue | Вони часто сперечаються про політику.
+explain | verb | пояснювати | Could you ___ the rules again? | explain | Не могли б ви пояснити правила ще раз?
+translate | verb | перекладати | Can you ___ this letter into English? | translate | Чи можете ви перекласти цього листа англійською?
+interrupt | verb | перебивати | Please don't ___ while I'm speaking. | interrupt | Будь ласка, не перебивайте, коли я говорю.
+comment | verb | коментувати | The minister refused to ___ on the scandal. | comment | Міністр відмовився коментувати скандал.
+reply | verb | відповідати | She did not ___ to my message. | reply | Вона не відповіла на моє повідомлення.
+gesture | verb | жестикулювати | He ___d towards the door. | gestured | Він показав жестом у бік дверей.
+hint | verb | натякати | She ___ed that she might leave early. | hinted | Вона натякнула, що може піти раніше.
+assume | verb | припускати | I ___ you are coming to the party. | assume | Я припускаю, що ви прийдете на вечірку.
+clarify | verb | уточнювати | Could you ___ what you mean? | clarify | Чи не могли б ви уточнити, що ви маєте на увазі?
+vague | adj | туманний | His answer was too ___ to be useful. | vague | Його відповідь була надто туманною, щоб бути корисною.
+blunt | adj | прямолінійний | I appreciate your ___ feedback. | blunt | Я ціную твій прямолінійний відгук.
+articulate | adj | красномовний | She is very ___ and speaks clearly. | articulate | Вона дуже красномовна і говорить чітко.
+fluent | adj | вільний (у мові) | He is ___ in four languages. | fluent | Він вільно володіє чотирма мовами.
+polite | adj | ввічливий | Try to be ___ when you ask for help. | polite | Намагайтеся бути ввічливим, коли просите про допомогу.
+gesture | noun | жест | A friendly ___ can break the ice. | gesture | Дружній жест може розрядити атмосферу.
+tone | noun | тон | Her ___ of voice was calm and warm. | tone | Її тон голосу був спокійним і теплим.
+dialogue | noun | діалог | The ___ between the two leaders lasted for hours. | dialogue | Діалог між двома лідерами тривав годинами.
+misinterpret | verb | неправильно тлумачити | Don't ___ my silence as agreement. | misinterpret | Не тлумачте моє мовчання як згоду.
+recipient | noun | одержувач | The ___ of the letter did not reply. | recipient | Одержувач листа не відповів.
+subtle | adj | тонкий | There is a ___ difference between the two words. | subtle | Між цими двома словами є тонка різниця.
+concise | adj | стислий | Keep your summary short and ___. | concise | Тримайте резюме коротким і стислим.
+sarcastic | adj | саркастичний | His ___ remark made everyone uncomfortable. | sarcastic | Його саркастичне зауваження збентежило всіх.
+approachable | adj | доступний для спілкування | The manager is very ___ and friendly. | approachable | Менеджер дуже доступний для спілкування і привітний.
+# C1
+eloquent | adj | красномовний | The senator gave an ___ speech. | eloquent | Сенатор виголосив красномовну промову.
+verbose | adj | многослівний | The report was too ___ and needed editing. | verbose | Звіт був надто многослівним і потребував редагування.
+ambiguous | adj | двозначний | The contract's wording was ___. | ambiguous | Формулювання контракту було двозначним.
+reticent | adj | стриманий (у словах) | He was ___ about his personal life. | reticent | Він був стриманим щодо свого особистого життя.
+lucid | adj | ясний | Her explanation was clear and ___. | lucid | Її пояснення було чітким і ясним.
+cryptic | adj | загадковий | The message was short and ___. | cryptic | Повідомлення було коротким і загадковим.
+emphatic | adj | рішучий | He was ___ that he had never met her. | emphatic | Він рішуче заявив, що ніколи її не зустрічав.
+terse | adj | лаконічний | His reply was ___ and rude. | terse | Його відповідь була лаконічною і грубою.
+equivocal | adj | двозначний | The witness gave an ___ answer. | equivocal | Свідок дав двозначну відповідь.
+rhetoric | noun | риторика | The speech was full of empty ___. | rhetoric | Промова була сповнена порожньої риторики.
+nuance | noun | відтінок (значення) | The translator missed the subtle ___ of the poem. | nuance | Перекладач пропустив тонкий відтінок значення вірша.
+connotation | noun | коннотація | The word has a negative ___. | connotation | Це слово має негативну конотацію.
+idiom | noun | ідіома | Translating an ___ word for word rarely works. | idiom | Переклад ідіоми дослівно зазвичай не спрацьовує.
+jargon | noun | жаргон | Avoid technical ___ in your presentation. | jargon | Уникайте технічного жаргону у презентації.
+euphemism | noun | евфемізм | "Passed away" is a ___ for "died". | euphemism | «Пішов з життя» — евфемізм до слова «помер».
+sarcasm | noun | сарказм | Her ___ was lost on the new employee. | sarcasm | Її сарказм залишився непоміченим новим працівником.
+irony | noun | іронія | There was a bitter ___ in his voice. | irony | У його голосі відчувалася гірка іронія.
+banter | noun | жартівливі перепалки | The colleagues enjoyed friendly ___ at lunch. | banter | Колеги з задоволенням жартували за обідом.
+paraphrase | verb | перефразовувати | Please ___ the author's main argument. | paraphrase | Будь ласка, перефразуйте основний аргумент автора.
+articulate | verb | чітко формулювати | She struggled to ___ her ideas. | articulate | Їй було важко чітко сформулювати свої думки.
+converse | verb | розмовляти | The two diplomats ___d in private. | conversed | Два дипломати розмовляли наодинці.
+enunciate | verb | вимовляти чітко | Please ___ each word clearly. | enunciate | Будь ласка, вимовляйте кожне слово чітко.
+mumble | verb | бурмотіти | He ___d an apology and left the room. | mumbled | Він пробурмотів вибачення і вийшов з кімнати.
+rebuke | verb | докоряти | The teacher ___d the pupil for rudeness. | rebuked | Учитель докорив учневі за грубість.
+prevaricate | verb | ухилятися від прямої відповіді | The minister continued to ___ under questioning. | prevaricate | Міністр продовжував ухилятися від прямих відповідей під час допиту.
+verbatim | adv | дослівно | The minutes were recorded ___. | verbatim | Протокол записали дослівно.
+inflection | noun | інтонація | Her ___ suggested that she was not serious. | inflection | Її інтонація натякала, що вона не серйозна.
+pithy | adj | влучний | The speaker gave a ___ summary of the debate. | pithy | Промовець дав влучне резюме дебатів.
+verbatim | adj | дослівний | He gave a ___ transcript of the interview. | verbatim | Він надав дослівну розшифровку інтерв'ю.
+diction | noun | дикція | Good ___ is vital for public speakers. | diction | Гарна дикція важлива для публічних промовців.
+prolix | adj | многоречивий | The lecture was long and ___. | prolix | Лекція була довгою і многоречивою.
+euphemistic | adj | евфемістичний | The ___ phrase hid the real problem. | euphemistic | Евфемістична фраза приховувала справжню проблему.
+hyperbole | noun | гіпербола | "I've told you a million times" is a ___. | hyperbole | «Я тобі тисячу разів казав» — це гіпербола.
+innuendo | noun | натяк | His speech was full of ___ about the rival. | innuendo | Його промова була повна натяків на суперника.
+# C2
+loquacious | adj | балакучий | The ___ guide talked throughout the entire tour. | loquacious | Балакучий гід говорив протягом усієї екскурсії.
+taciturn | adj | мовчазний | My grandfather was a ___ man who rarely spoke. | taciturn | Мій дідусь був мовчазною людиною, яка рідко розмовляла.
+perspicacious | adj | проникливий | Her ___ remarks revealed the hidden motives. | perspicacious | Її проникливі зауваження розкрили приховані мотиви.
+sesquipedalian | adj | многоскладний | His ___ vocabulary made the text hard to follow. | sesquipedalian | Його многоскладна лексика ускладнювала розуміння тексту.
+garrulous | adj | балакучий | The ___ neighbour told us her whole life story. | garrulous | Балакуча сусідка розповіла нам усю свою життєву історію.
+apposite | adj | доречний | Her quotation was ___ to the discussion. | apposite | Її цитата була доречною для обговорення.
+rhetorical | adj | риторичний | The question was purely ___. | rhetorical | Це питання було суто риторичним.
+mellifluous | adj | медовий (про голос) | The narrator had a ___ voice. | mellifluous | Оповідач мав медовий голос.
+vociferous | adj | голосний | The ___ crowd demanded answers. | vociferous | Голосний натовп вимагав відповідей.
+ineffable | adj | невимовний | The beauty of the view was ___. | ineffable | Краса краєвиду була невимовною.
+oblique | adj | непрямий | He made an ___ reference to the scandal. | oblique | Він зробив непряму згадку про скандал.
+discursive | adj | розлогий | The essay was too ___ and needed focus. | discursive | Есе було надто розлогим і потребувало фокусу.
+lexicon | noun | лексикон | Medical students must learn a large ___. | lexicon | Студентам-медикам треба вивчити великий лексикон.
+obfuscation | noun | затемнення змісту | The contract's language is full of ___. | obfuscation | Мова контракту сповнена затемнень змісту.
+circumlocution | noun | описовість | His answer was an endless ___. | circumlocution | Його відповідь була нескінченною описовістю.
+cacophony | noun | какофонія | A ___ of voices filled the hall. | cacophony | Залу наповнила какофонія голосів.
+solecism | noun | мовна помилка | The speech contained a grammatical ___. | solecism | У промові була граматична помилка.
+malapropism | noun | мовна помилка (через схожість слів) | Calling a "surgeon" a "surgery" is a ___. | malapropism | Називати «хірурга» «операцією» — це мовна помилка.
+tautology | noun | тавтологія | "Free gift" is a ___. | tautology | «Безкоштовний подарунок» — тавтологія.
+homily | noun | повчальна промова | The priest's ___ lasted nearly an hour. | homily | Повчальна промова священика тривала майже годину.
+gibberish | noun | нісенітниця | The text was pure ___. | gibberish | Текст був суцільною нісенітницею.
+palaver | noun | балаканина | After hours of ___, nothing was decided. | palaver | Після годин балаканини нічого не вирішили.
+vitriol | noun | їдкість | The article was full of personal ___. | vitriol | Стаття була сповнена особистої їдкості.
+glossolalia | noun | глосолалія | The ___ in the religious service puzzled visitors. | glossolalia | Глосолалія під час релігійної служби спантеличила відвідувачів.
+bowdlerize | verb | цензурувати (текст) | The publisher ___d the novel for schools. | bowdlerized | Видавець відцензурував роман для шкіл.
+loquacity | noun | балакучість | His ___ wore out the patience of the listeners. | loquacity | Його балакучість вичерпала терпіння слухачів.
+sibilant | adj | свистячий | The ___ sounds of the language are hard for learners. | sibilant | Свистячі звуки цієї мови важкі для тих, хто вивчає.
+pleonasm | noun | плеоназм | "Free gift" is an example of ___. | pleonasm | «Безкоштовний подарунок» — приклад плеоназму.
+phatic | adj | фатичний | "How are you?" is often a ___ greeting. | phatic | «Як справи?» — часто фатичне привітання.
+apophthegm | noun | апофтегма | The old teacher quoted a wise ___. | apophthegm | Старий учитель навів мудру апофтегму.
+hyperbolic | adj | гіперболічний | His description was ___ and exaggerated. | hyperbolic | Його опис був гіперболічним і перебільшеним.
+allegorical | adj | алегоричний | The fable is ___ in nature. | allegorical | Байка має алегоричну природу.
+verbiage | noun | словесна полова | The report was full of empty ___. | verbiage | Звіт був сповнений порожньої словесної полови.
+prolixity | noun | многослівність | His ___ bored the committee. | prolixity | Його многослівність нудила комітет.

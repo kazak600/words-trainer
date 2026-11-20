@@ -1,0 +1,116 @@
+# B2
+anxious | adj | тривожний | She felt ___ before her driving test. | anxious | Перед іспитом з водіння вона відчувала тривогу.
+frustrated | adj | роздратований; фрустрований | He became ___ when the software kept crashing. | frustrated | Він розлютився, коли програма постійно вилітала.
+delighted | adj | дуже радий | We were ___ to hear the good news. | delighted | Ми дуже зраділи, почувши добру новину.
+embarrassed | adj | збентежений | I felt ___ when I forgot her name. | embarrassed | Мені було ніяково, коли я забув її ім'я.
+jealous | adj | ревнивий | Some children feel ___ when a new baby arrives. | jealous | Деякі діти ревнують, коли з'являється немовля.
+relieved | adj | з полегшенням | She was ___ when the exam was finally over. | relieved | Їй полегшало, коли іспит нарешті закінчився.
+overwhelmed | adj | приголомшений; переповнений | I feel ___ by all the work this week. | overwhelmed | Я почуваюся переобтяженою всією роботою цього тижня.
+nervous | adj | нервовий | He is ___ about his first presentation. | nervous | Він хвилюється через свою першу презентацію.
+cheerful | adj | веселий | The waiter was friendly and ___. | cheerful | Офіціант був привітним і веселим.
+gloomy | adj | похмурий | The weather made the whole town look ___. | gloomy | Погода робила все місто похмурим.
+miserable | adj | нещасний | He felt ___ after losing the match. | miserable | Після програшу в матчі він почувався нещасним.
+proud | adj | пишний; гордий | Her parents were very ___ of her results. | proud | Її батьки дуже пишалися її результатами.
+upset | adj | засмучений | She was ___ by the unkind comments. | upset | Її засмутили недобрі коментарі.
+annoyed | adj | роздратований | The customer was ___ by the long wait. | annoyed | Клієнта роздратувало довге очікування.
+satisfied | adj | задоволений | The manager was ___ with the team's results. | satisfied | Керівник був задоволений результатами команди.
+guilty | adj | винуватий | He felt ___ for forgetting her birthday. | guilty | Він почувався винним, що забув про її день народження.
+lonely | adj | самотній | Living abroad can make people feel ___. | lonely | Життя за кордоном може змушувати людей почуватися самотніми.
+confident | adj | впевнений | She sounded ___ during the interview. | confident | Під час співбесіди вона звучала впевнено.
+worried | adj | стурбований | My mother is ___ about my health. | worried | Мама хвилюється за моє здоров'я.
+surprised | adj | здивований | I was ___ to see him at the party. | surprised | Я був здивований, побачивши його на вечірці.
+amused | adj | розважений | The children were ___ by the clown's tricks. | amused | Дітей розважали трюки клоуна.
+excited | adj | схвильований | The kids were ___ about the trip. | excited | Діти були схвильовані поїздкою.
+grief | noun | горе | The family is still in deep ___ after the loss. | grief | Родина все ще глибоко переживає втрату.
+envy | noun | заздрість | She looked at his new car with ___. | envy | Вона дивилася на його нову машину із заздрістю.
+enthusiasm | noun | ентузіазм | The students showed great ___ for the project. | enthusiasm | Студенти виявили великий ентузіазм до проєкту.
+hostility | noun | ворожість | The ___ between the two neighbours lasted for years. | hostility | Ворожість між двома сусідами тривала роками.
+shock | noun | шок | The news came as a ___ to everyone. | shock | Новина стала шоком для всіх.
+fear | noun | страх | Her biggest ___ is speaking in public. | fear | Її найбільший страх — виступати перед публікою.
+regret | verb | шкодувати | I ___ not studying harder when I was young. | regret | Я шкодую, що в молодості не вчився старанніше.
+panic | verb | панікувати | Don't ___; we still have time. | panic | Не панікуй; у нас ще є час.
+calm | verb | заспокоювати | He tried to ___ the crying baby. | calm | Він намагався заспокоїти плачучу дитину.
+hope | verb | сподіватися | We ___ the weather will improve tomorrow. | hope | Ми сподіваємося, що завтра погода покращиться.
+hopeful | adj | сповнений надії | We are ___ that the surgery will succeed. | hopeful | Ми сподіваємося, що операція пройде успішно.
+bored | adj | нудьгуючий | The children were ___ during the long speech. | bored | Діти нудьгували під час довгої промови.
+disgusted | adj | огидний; обурений | He was ___ by the dirty kitchen. | disgusted | Його відвернуло від брудної кухні.
+thrilled | adj | у захваті | She was ___ to win the prize. | thrilled | Вона була в захваті, виграючи приз.
+homesick | adj | що сумує за домом | The student felt ___ during the first month. | homesick | Студент сумував за домом протягом першого місяця.
+irritated | adj | роздратований | The noise left him ___ all evening. | irritated | Шум подразнював його весь вечір.
+uneasy | adj | неспокійний | I felt ___ when the car made a strange noise. | uneasy | Мені було неспокійно, коли машина видала дивний звук.
+grateful | adj | вдячний | We are ___ for your help. | grateful | Ми вдячні за вашу допомогу.
+confused | adj | збентежений | I felt ___ by the new instructions. | confused | Нові інструкції мене збентежили.
+# C1
+apprehensive | adj | стривожений; побоюється | She was ___ about the results of the scan. | apprehensive | Вона хвилювалася через результати обстеження.
+exasperated | adj | доведений до відчаю | The teacher was ___ by the noisy class. | exasperated | Учитель був доведений до відчаю галасливим класом.
+elated | adj | піднесений | They were ___ when they won the championship. | elated | Вони були у піднесеному настрої, коли виграли чемпіонат.
+despondent | adj | зневірений | After the rejection, he became ___ and withdrawn. | despondent | Після відмови він впав у зневіру і замкнувся.
+complacent | adj | самовдоволений | Don't become ___ after one good result. | complacent | Не стань самовдоволеним після одного вдалого результату.
+perturbed | adj | схвильований; збентежений | The doctor seemed ___ by the test results. | perturbed | Лікар здавався збентеженим результатами аналізів.
+wistful | adj | сумовитий; мрійливий | She gave a ___ smile at the old photo. | wistful | Вона сумовито усміхнулася, дивлячись на старе фото.
+jubilant | adj | переможний; ліктуючий | The fans were ___ after the victory. | jubilant | Фанати були у піднесеному торжестві після перемоги.
+irritable | adj | дратівливий | He gets ___ when he is hungry. | irritable | Він стає дратівливим, коли голодний.
+ambivalent | adj | неоднозначний; амбівалентний | I feel ___ about moving to a new city. | ambivalent | Переїзд до нового міста викликає в мене неоднозначні почуття.
+bewildered | adj | збентежений | The tourists looked ___ in the unfamiliar station. | bewildered | Туристи виглядали збентеженими на незнайомій станції.
+contrite | adj | каятливий | He was ___ and apologized sincerely. | contrite | Він був каятливим і щиро вибачився.
+resentment | noun | образа; роздратування | Her ___ grew when she was passed over for promotion. | resentment | Її образа зросла, коли її обійшли з підвищенням.
+melancholy | noun | меланхолія | A sense of ___ filled the empty house. | melancholy | Порожній дім наповнився відчуттям меланхолії.
+bitterness | noun | гіркота | There was still ___ between the former partners. | bitterness | Між колишніми партнерами досі була гіркота.
+contentment | noun | задоволення; спокій | He found ___ in simple, quiet routines. | contentment | Він знаходив спокій у простих тихих буднях.
+empathy | noun | емпатія | Good teachers show real ___ for their students. | empathy | Добрі вчителі виявляють справжню емпатію до своїх учнів.
+indignation | noun | обурення | Her ___ at the decision was obvious. | indignation | Її обурення рішенням було очевидним.
+nostalgia | noun | ностальгія | Looking at old photos filled me with ___. | nostalgia | Розглядаючи старі фото, я відчув ностальгію.
+serenity | noun | безмятежність | The lake gave him a sense of ___. | serenity | Озеро подарувало йому відчуття безтурботності і спокою.
+compassion | noun | співчуття | She showed great ___ for the homeless. | compassion | Вона проявляла велике співчуття до бездомних.
+euphoria | noun | ейфорія | The crowd was swept up in ___ after the goal. | euphoria | Після гола натовп охопила ейфорія.
+remorse | noun | каяття | He showed no ___ for his actions. | remorse | Він не виявляв жодного каяття за свої вчинки.
+dismay | noun | розгубленість | To our ___, the flight was cancelled. | dismay | На наше розчарування, рейс скасували.
+rapture | noun | захват | The audience listened in ___. | rapture | Глядачі слухали із захватом.
+trepidation | noun | тривога; занепокоєння | She approached the stage with ___. | trepidation | Вона підійшла до сцени з тривогою.
+animosity | noun | ворожнеча | The ___ between the rival teams was obvious. | animosity | Ворожнеча між командами-суперницями була очевидною.
+apathy | noun | апатія | Voter ___ has become a serious problem. | apathy | Апатія виборців стала серйозною проблемою.
+dread | verb | боятися з жахом | I ___ the thought of another long meeting. | dread | Я з жахом думаю про ще одну довгу нараду.
+exhilarated | adj | окрилений | The climbers were ___ after reaching the summit. | exhilarated | Альпіністи були окриленими, досягнувши вершини.
+crestfallen | adj | приголомшений розчаруванням | He looked ___ after the rejection. | crestfallen | Після відмови він виглядав приголомшеним.
+disconcerted | adj | збентежений | She was ___ by the sudden question. | disconcerted | Її збентежило раптове запитання.
+wretched | adj | нещасний | He felt ___ after the argument. | wretched | Після сварки він почувався нещасним.
+apprehension | noun | тривога | There was growing ___ about the exam results. | apprehension | Росла тривога через результати іспиту.
+contempt | noun | зневага | She looked at him with ___. | contempt | Вона подивилася на нього із зневагою.
+gratitude | noun | вдячність | He expressed his ___ to the rescue team. | gratitude | Він висловив свою вдячність рятувальникам.
+dejection | noun | зневіра | His ___ grew as the weeks passed. | dejection | Його зневіра зростала з кожним тижнем.
+bittersweet | adj | гірко-солодкий | The farewell felt ___. | bittersweet | Прощання було гірко-солодким.
+# C2
+disconsolate | adj | безутішний | The widow was ___ after the funeral. | disconsolate | Після похорону вдова була безутішною.
+lachrymose | adj | сльозливий | The film was so ___ that the whole cinema was crying. | lachrymose | Фільм був настільки сльозливим, що в кінозалі плакали всі.
+sanguine | adj | оптимістичний | Despite the setbacks, she remained ___ about the future. | sanguine | Попри невдачі, вона залишалася оптимістичною щодо майбутнього.
+exultant | adj | ликуючий | The crowd was ___ at the verdict. | exultant | Натовп ликував після вироку.
+mortified | adj | принижений | She was ___ by her public mistake. | mortified | Вона була принижена своєю публічною помилкою.
+morose | adj | похмурий; мізантропічний | The old man grew ___ after his wife died. | morose | Після смерті дружини старий став похмурим.
+sullen | adj | насуплений | The teenager gave ___ answers all evening. | sullen | Підліток весь вечір відповідав насупленими репліками.
+buoyant | adj | життєрадісний | The mood at the party was ___ and cheerful. | buoyant | Настрій на вечірці був життєрадісним і веселим.
+aggrieved | adj | ображений | The family felt ___ by the court's decision. | aggrieved | Родина почувалася ображеною рішенням суду.
+forlorn | adj | самотній; занедбаний | The dog waited at the gate, looking ___. | forlorn | Собака чекала біля воріт, виглядаючи самотньою.
+dolorous | adj | сумний | The ___ music filled the empty hall. | dolorous | Сумна музика наповнювала порожню залу.
+pensive | adj | задумливий | She sat by the window, ___ and silent. | pensive | Вона сиділа біля вікна, задумлива і мовчазна.
+stoic | adj | стоїчний | He remained ___ despite the pain. | stoic | Попри біль він залишався стоїчним.
+dejected | adj | пригнічений | The players looked ___ after the defeat. | dejected | Після поразки гравці виглядали пригніченими.
+rancour | noun | злоба | There was no ___ in his voice, only sadness. | rancour | У його голосі не було злоби, лише смуток.
+spleen | noun | роздратування; знервованість | He vented his ___ on the unfortunate waiter. | spleen | Він зірвав роздратування на нещасному офіціанті.
+ennui | noun | нудьга; меланхолія | A deep ___ settled over the quiet village. | ennui | Над тихим селом нависла глибока нудьга.
+wrath | noun | гнів | The king's ___ fell upon the messenger. | wrath | Гнів короля обрушився на гінця.
+equanimity | noun | рівновага; спокій | He accepted the loss with remarkable ___. | equanimity | Він прийняв втрату з напрочуд великою душевною рівновагою.
+chagrin | noun | досада | To his ___, the rival got the job. | chagrin | На його досаду, роботу отримав суперник.
+hubris | noun | зарозумілість | His ___ led him to ignore every warning. | hubris | Його зарозумілість змусила його ігнорувати всі попередження.
+elation | noun | піднесеність | Her ___ was impossible to hide after the news. | elation | Після новини її піднесеність було неможливо приховати.
+pathos | noun | пафос; зворушливість | The ending of the novel is full of ___. | pathos | Кінцівка роману сповнена зворушливості.
+languor | noun | млявість | A summer ___ settled over the old town. | languor | Літня млявість огорнула старе містечко.
+gratification | noun | задоволення | He felt a quiet ___ at the successful launch. | gratification | Він відчув тихе задоволення від успішного запуску.
+exasperate | verb | доводити до сказу | Her constant delays began to ___ the client. | exasperate | Її постійні затримки почали доводити клієнта до сказу.
+disquiet | noun | занепокоєння | A growing ___ spread through the village. | disquiet | По селу поширювалося зростаюче занепокоєння.
+melancholia | noun | меланхолія | The poet wrote with a deep ___. | melancholia | Поет писав із глибокою меланхолією.
+enervated | adj | знесилений | After the flight, the travellers felt ___. | enervated | Після польоту подорожні відчували себе знесиленими.
+lugubrious | adj | сумний | His ___ expression worried his friends. | lugubrious | Його сумний вираз турбував друзів.
+blithe | adj | безтурботний | She gave a ___ shrug to the warning. | blithe | Вона безтурботно знизала плечима у відповідь на попередження.
+incensed | adj | розлючений | The crowd was ___ by the decision. | incensed | Натовп був розлючений рішенням.
+rapturous | adj | захоплений | The audience gave a ___ welcome. | rapturous | Глядачі зустріли його захопленими оплесками.
+querulous | adj | скаржливий | The ___ old man complained about everything. | querulous | Скаржливий старий скаржився на все.

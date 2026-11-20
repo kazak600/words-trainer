@@ -1,4 +1,0 @@
-noun: morning, afternoon, evening, night, shower
-phrase: wake up, get up, go to bed
-verb: wash, brush, dress, work, start, finish, sleep, clean, walk
-adv: usually, always, never, early, late

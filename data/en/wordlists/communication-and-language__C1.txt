@@ -1,0 +1,4 @@
+adj: eloquent, verbose, ambiguous, reticent, lucid, cryptic, emphatic, terse, equivocal, pithy, verbatim, prolix, euphemistic
+noun: rhetoric, nuance, connotation, idiom, jargon, euphemism, sarcasm, irony, banter, inflection, diction, hyperbole, innuendo
+verb: paraphrase, articulate, converse, enunciate, mumble, rebuke, prevaricate
+adv: verbatim

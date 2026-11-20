@@ -1,0 +1,4 @@
+noun: emission, drought, flood, wildlife, habitat, climate, extinction, erosion, conservation, fuel, waste, rainforest, ozone, temperature, crop, greenhouse, warming, pesticide, landfill, sustainability, hurricane, hazard
+verb: recycle, melt, pollute, protect, dump, conserve
+adj: renewable, sustainable, endangered, harmful, organic, toxic, biodegradable
+phrase: global warming, greenhouse gas, fossil fuel

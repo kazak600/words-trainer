@@ -1,0 +1,4 @@
+noun: savings, interest, overdraft, insurance, pension, refund, receipt, bill, cash, invoice, fee, discount, bargain, expense, income, tuition, debit, bonus, tip, installment, balance
+phrase: credit card, interest rate
+verb: spend, afford, earn, owe, budget, loan, inherit, withdraw, transfer, deposit
+adj: wealthy, broke, pricey, thrifty, affordable, frugal

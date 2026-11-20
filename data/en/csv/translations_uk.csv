@@ -1,301 +1,2482 @@
 lemma,pos,ukrainian,review_status
-hello,interj,привіт,pending
-goodbye,interj,до побачення,pending
-welcome,interj,ласкаво просимо,pending
-please,adv,будь ласка,pending
-thank you,phrase,дякую,pending
-phone number,phrase,номер телефону,pending
-sorry,adj,вибачте; мені шкода,pending
-nice,adj,приємний; гарний,pending
-name,noun,ім'я,pending
-surname,noun,прізвище,pending
-age,noun,вік,pending
-country,noun,країна,pending
-city,noun,місто,pending
-address,noun,адреса,pending
-email,noun,електронний лист; електронна пошта,pending
-nationality,noun,національність; громадянство,pending
-language,noun,мова,pending
-meet,verb,зустрічати; знайомитися,pending
-speak,verb,говорити,pending
-live,verb,жити,pending
-from,prep,з; від,pending
-family,noun,родина,pending
-mother,noun,мати,pending
-father,noun,батько,pending
-parent,noun,один із батьків,pending
-brother,noun,брат,pending
-sister,noun,сестра,pending
-son,noun,син,pending
-daughter,noun,донька,pending
-husband,noun,чоловік,pending
-wife,noun,дружина,pending
-grandmother,noun,бабуся,pending
-grandfather,noun,дідусь,pending
-child,noun,дитина,pending
-baby,noun,немовля,pending
-boy,noun,хлопчик,pending
-girl,noun,дівчинка,pending
-friend,noun,друг; подруга,pending
-neighbour,noun,сусід,pending
-uncle,noun,дядько,pending
-aunt,noun,тітка,pending
-cousin,noun,двоюрідний брат; двоюрідна сестра,pending
-married,adj,одружений; заміжня,pending
-house,noun,будинок,pending
-flat,noun,квартира,pending
-room,noun,кімната,pending
-kitchen,noun,кухня,pending
-bedroom,noun,спальня,pending
-bathroom,noun,ванна кімната,pending
-door,noun,двері,pending
-window,noun,вікно,pending
-floor,noun,підлога; поверх,pending
-wall,noun,стіна,pending
-table,noun,стіл,pending
-chair,noun,стілець,pending
-bed,noun,ліжко,pending
-sofa,noun,диван,pending
-lamp,noun,лампа,pending
-key,noun,ключ,pending
-garden,noun,сад,pending
-fridge,noun,холодильник,pending
-television,noun,телевізор,pending
-living room,phrase,вітальня,pending
-clean,adj,чистий,pending
-big,adj,великий,pending
-small,adj,маленький,pending
-food,noun,їжа,pending
-bread,noun,хліб,pending
-butter,noun,масло,pending
-cheese,noun,сир,pending
-egg,noun,яйце,pending
-milk,noun,молоко,pending
-meat,noun,м'ясо,pending
-fish,noun,риба,pending
-rice,noun,рис,pending
-soup,noun,суп,pending
-salad,noun,салат,pending
-apple,noun,яблуко,pending
-banana,noun,банан,pending
-potato,noun,картопля,pending
-vegetable,noun,овоч,pending
-fruit,noun,фрукт,pending
-water,noun,вода,pending
-tea,noun,чай,pending
-coffee,noun,кава,pending
-juice,noun,сік,pending
-breakfast,noun,сніданок,pending
-lunch,noun,обід,pending
-dinner,noun,вечеря,pending
-eat,verb,їсти,pending
-drink,verb,пити,pending
-cook,verb,готувати,pending
-hungry,adj,голодний,pending
-delicious,adj,смачний,pending
-morning,noun,ранок,pending
-afternoon,noun,день (після полудня),pending
-evening,noun,вечір,pending
-night,noun,ніч,pending
-shower,noun,душ,pending
-wake up,phrase,прокидатися,pending
-get up,phrase,вставати,pending
-go to bed,phrase,лягати спати,pending
-wash,verb,мити; вмиватися,pending
-brush,verb,чистити (зуби),pending
-dress,verb,одягатися; вдягати,pending
-work,verb,працювати,pending
-start,verb,починати; починатися,pending
-finish,verb,закінчувати,pending
-sleep,verb,спати,pending
-clean,verb,прибирати,pending
-walk,verb,гуляти; ходити пішки,pending
-usually,adv,зазвичай,pending
-always,adv,завжди,pending
-never,adv,ніколи,pending
-early,adv,рано,pending
-late,adv,пізно,pending
-time,noun,час,pending
-hour,noun,година,pending
-minute,noun,хвилина,pending
-day,noun,день,pending
-week,noun,тиждень,pending
-month,noun,місяць,pending
-year,noun,рік,pending
-Monday,noun,понеділок,pending
-Friday,noun,п'ятниця,pending
-Saturday,noun,субота,pending
-Sunday,noun,неділя,pending
-weekend,noun,вихідні,pending
-January,noun,січень,pending
-summer,noun,літо,pending
-winter,noun,зима,pending
-plan,noun,план,pending
-meeting,noun,зустріч; нарада,pending
-birthday,noun,день народження,pending
-today,adv,сьогодні,pending
-tomorrow,adv,завтра,pending
-yesterday,adv,вчора,pending
-now,adv,зараз,pending
-soon,adv,скоро,pending
-town,noun,містечко,pending
-street,noun,вулиця,pending
-road,noun,дорога,pending
-bridge,noun,міст,pending
-park,noun,парк,pending
-square,noun,площа,pending
-station,noun,станція; вокзал,pending
-bus,noun,автобус,pending
-train,noun,потяг,pending
-tram,noun,трамвай,pending
-car,noun,машина,pending
-bike,noun,велосипед,pending
-plane,noun,літак,pending
-ticket,noun,квиток,pending
-airport,noun,аеропорт,pending
-map,noun,мапа,pending
-left,adv,ліворуч,pending
-right,adv,праворуч,pending
-straight,adv,прямо,pending
-far,adv,далеко,pending
-near,prep,поблизу,pending
-drive,verb,їхати (за кермом),pending
-travel,verb,подорожувати,pending
-shop,noun,магазин,pending
-market,noun,ринок,pending
-money,noun,гроші,pending
-price,noun,ціна,pending
-bag,noun,сумка; пакет,pending
-shirt,noun,сорочка,pending
-dress,noun,сукня,pending
-trousers,noun,штани,pending
-jacket,noun,куртка,pending
-shoes,noun,взуття; черевики,pending
-hat,noun,капелюх; шапка,pending
-size,noun,розмір,pending
-colour,noun,колір,pending
-cheap,adj,дешевий,pending
-expensive,adj,дорогий,pending
-red,adj,червоний,pending
-blue,adj,синій; блакитний,pending
-green,adj,зелений,pending
-black,adj,чорний,pending
-white,adj,білий,pending
-buy,verb,купувати,pending
-sell,verb,продавати,pending
-pay,verb,платити,pending
-body,noun,тіло,pending
-head,noun,голова,pending
-face,noun,обличчя,pending
-eye,noun,око,pending
-ear,noun,вухо,pending
-nose,noun,ніс,pending
-mouth,noun,рот,pending
-tooth,noun,зуб,pending
-hand,noun,рука (кисть),pending
-arm,noun,рука (від плеча),pending
-leg,noun,нога,pending
-foot,noun,ступня,pending
-back,noun,спина,pending
-doctor,noun,лікар,pending
-hospital,noun,лікарня,pending
-medicine,noun,ліки,pending
-pain,noun,біль,pending
-cold,noun,застуда,pending
-ill,adj,хворий,pending
-healthy,adj,здоровий,pending
-tired,adj,втомлений,pending
-hurt,verb,боліти,pending
-weather,noun,погода,pending
-sun,noun,сонце,pending
-rain,noun,дощ,pending
-snow,noun,сніг,pending
-wind,noun,вітер,pending
-cloud,noun,хмара,pending
-sky,noun,небо,pending
-tree,noun,дерево,pending
-flower,noun,квітка,pending
-river,noun,річка,pending
-sea,noun,море,pending
-mountain,noun,гора,pending
-forest,noun,ліс,pending
-beach,noun,пляж,pending
-animal,noun,тварина,pending
-dog,noun,собака,pending
-cat,noun,кіт,pending
-bird,noun,птах,pending
-hot,adj,гарячий; спекотний,pending
-cold,adj,холодний,pending
-sunny,adj,сонячний,pending
-rainy,adj,дощовий,pending
-school,noun,школа,pending
-student,noun,студент; учень,pending
-teacher,noun,вчитель,pending
-lesson,noun,урок,pending
-book,noun,книга,pending
-pen,noun,ручка,pending
-pencil,noun,олівець,pending
-notebook,noun,зошит,pending
-computer,noun,комп'ютер,pending
-question,noun,питання,pending
-answer,noun,відповідь,pending
-homework,noun,домашнє завдання,pending
-exam,noun,іспит,pending
-job,noun,робота; посада,pending
-office,noun,офіс,pending
-boss,noun,начальник,pending
-colleague,noun,колега,pending
-learn,verb,вчити; навчатися,pending
-study,verb,вчитися,pending
-read,verb,читати,pending
-write,verb,писати,pending
-understand,verb,розуміти,pending
-be,verb,бути,pending
-have,verb,мати,pending
-do,verb,робити,pending
-go,verb,йти; їхати,pending
-come,verb,приходити,pending
-see,verb,бачити,pending
-look,verb,дивитися,pending
-hear,verb,чути,pending
-say,verb,казати,pending
-tell,verb,розповідати,pending
-ask,verb,питати,pending
-give,verb,давати,pending
-take,verb,брати,pending
-make,verb,робити; виготовляти,pending
-know,verb,знати,pending
-think,verb,думати,pending
-want,verb,хотіти,pending
-like,verb,подобатися,pending
-love,verb,любити,pending
-need,verb,потребувати,pending
-help,verb,допомагати,pending
-play,verb,грати,pending
-open,verb,відчиняти,pending
-close,verb,зачиняти,pending
-wait,verb,чекати,pending
-find,verb,знаходити,pending
-use,verb,користуватися,pending
-good,adj,хороший; добрий,pending
-bad,adj,поганий,pending
-new,adj,новий,pending
-old,adj,старий,pending
-young,adj,молодий,pending
-long,adj,довгий,pending
-short,adj,короткий,pending
-tall,adj,високий,pending
-happy,adj,щасливий,pending
-sad,adj,сумний,pending
-easy,adj,легкий (нескладний),pending
-difficult,adj,важкий; складний,pending
-fast,adj,швидкий,pending
-slow,adj,повільний,pending
-beautiful,adj,красивий; прекрасний,pending
-busy,adj,зайнятий,pending
-free,adj,вільний,pending
-ready,adj,готовий,pending
-right,adj,правильний,pending
-wrong,adj,неправильний,pending
-heavy,adj,важкий (за вагою),pending
-light,adj,легкий (за вагою); світлий,pending
+novel,noun,роман,approved
+poem,noun,вірш,approved
+author,noun,автор,approved
+character,noun,персонаж,approved
+plot,noun,сюжет,approved
+theme,noun,тема,approved
+narrator,noun,оповідач,approved
+sculpture,noun,скульптура,approved
+painting,noun,картина,approved
+exhibition,noun,виставка,approved
+performance,noun,вистава; виступ,approved
+audience,noun,глядачі,approved
+critic,noun,критик,approved
+review,noun,рецензія,approved
+comedy,noun,комедія,approved
+tragedy,noun,трагедія,approved
+fiction,noun,художня література,approved
+biography,noun,біографія,approved
+translation,noun,переклад,approved
+sculptor,noun,скульптор,approved
+musician,noun,музикант,approved
+gallery,noun,галерея,approved
+fable,noun,байка,approved
+sonnet,noun,сонет,approved
+chapter,noun,розділ,approved
+essay,noun,есе,approved
+hero,noun,герой,approved
+sketch,noun,ескіз,approved
+portrait,noun,портрет,approved
+drama,noun,драма,approved
+publish,verb,видавати,approved
+imagine,verb,уявляти,approved
+describe,verb,описувати,approved
+inspire,verb,надихати,approved
+creative,adj,творчий,approved
+famous,adj,відомий,approved
+classic,adj,класичний,approved
+popular,adj,популярний,approved
+dramatic,adj,драматичний,approved
+allegory,noun,алегорія,approved
+motif,noun,мотив,approved
+prose,noun,проза,approved
+satire,noun,сатира,approved
+protagonist,noun,протагоніст,approved
+vernacular,noun,народна мова,approved
+canon,noun,канон,approved
+impressionism,noun,імпресіонізм,approved
+modernism,noun,модернізм,approved
+ambiguity,noun,двозначність,approved
+metaphor,noun,метафора,approved
+stanza,noun,строфа,approved
+choreography,noun,хореографія,approved
+oeuvre,noun,творчий доробок,approved
+parody,noun,пародія,approved
+epic,noun,епос,approved
+elegy,noun,елегія,approved
+allusion,noun,алюзія,approved
+soliloquy,noun,монолог,approved
+novella,noun,новела,approved
+iconography,noun,іконографія,approved
+anthology,noun,антологія,approved
+cubism,noun,кубізм,approved
+pastiche,noun,пастиш,approved
+avant-garde,adj,авангардний,approved
+surrealist,adj,сюрреалістичний,approved
+pastoral,adj,пастораль,approved
+lyrical,adj,ліричний,approved
+ornate,adj,вишуканий,approved
+sombre,adj,похмурий,approved
+evocative,adj,виразний,approved
+didactic,adj,повчальний,approved
+curate,verb,курувати,approved
+dramatize,verb,драматизувати,approved
+chiaroscuro,noun,світлотінь,approved
+polyphony,noun,поліфонія,approved
+diegesis,noun,діегезис,approved
+ekphrasis,noun,екфраза,approved
+bildungsroman,noun,роман виховання,approved
+palimpsest,noun,палімпсест,approved
+leitmotif,noun,лейтмотив,approved
+mannerism,noun,манієризм,approved
+verisimilitude,noun,правдоподібність,approved
+bathos,noun,банальність,approved
+palinode,noun,палінодія,approved
+catachresis,noun,катахреза,approved
+sprezzatura,noun,спреццатура,approved
+mise-en-abyme,noun,мізанабім,approved
+tableau,noun,живописна сцена,approved
+ekphrastic,noun,екфраза,approved
+frontispiece,noun,фронтиспіс,approved
+trompe-l'oeil,noun,трюмплой,approved
+ekphrastic,adj,екфрастичний,approved
+hermetic,adj,герметичний; замкнутий,approved
+sublime,adj,піднесений,approved
+baroque,adj,бароковий,approved
+elegiac,adj,елегійний,approved
+gothic,adj,готичний,approved
+recondite,adj,маловідомий,approved
+chthonic,adj,хтонічний,approved
+pastiche,verb,наслідувати (стиль),approved
+inflation,noun,інфляція,approved
+revenue,noun,виручка; дохід,approved
+profit,noun,прибуток,approved
+budget,noun,бюджет,approved
+competitor,noun,конкурент,approved
+demand,noun,попит,approved
+supply,noun,пропозиція,approved
+shareholder,noun,акціонер,approved
+merger,noun,злиття,approved
+recession,noun,рецесія,approved
+sales,noun,продажі,approved
+loan,noun,позика; кредит,approved
+debt,noun,борг,approved
+tax,noun,податок,approved
+trade,noun,торгівля,approved
+consumer,noun,споживач,approved
+goods,noun,товари,approved
+wage,noun,заробітна плата,approved
+shortage,noun,нестача,approved
+growth,noun,зростання,approved
+deficit,noun,дефіцит,approved
+currency,noun,валюта,approved
+subsidy,noun,субсидія,approved
+stock,noun,акції; запас,approved
+investor,noun,інвестор,approved
+brand,noun,бренд,approved
+margin,noun,маржа,approved
+turnover,noun,оборот,approved
+overheads,noun,накладні витрати,approved
+forecast,noun,прогноз,approved
+quota,noun,квота,approved
+franchise,noun,франшиза,approved
+invest,verb,інвестувати,approved
+expand,verb,розширювати,approved
+export,verb,експортувати,approved
+import,verb,імпортувати,approved
+outsource,verb,передавати на аутсорсинг,approved
+bankrupt,adj,збанкрутілий,approved
+sluggish,adj,млявий,approved
+surplus,adj,зайвий,approved
+exchange rate,phrase,обмінний курс,approved
+fiscal,adj,фіскальний,approved
+inflationary,adj,інфляційний,approved
+solvent,adj,платоспроможний,approved
+arbitrary,adj,довільний,approved
+protracted,adj,затяжний,approved
+exponential,adj,експоненційний,approved
+insolvent,adj,неплатоспроможний,approved
+liquidity,noun,ліквідність,approved
+dividend,noun,дивіденд,approved
+conglomerate,noun,конгломерат,approved
+monopoly,noun,монополія,approved
+stimulus,noun,стимул,approved
+asset,noun,актив,approved
+surplus,noun,профіцит,approved
+downturn,noun,спад,approved
+upturn,noun,пожвавлення,approved
+commodity,noun,товар (сировинний),approved
+tariff,noun,мито,approved
+sanction,noun,санкція,approved
+bailout,noun,фінансова допомога,approved
+viability,noun,життєздатність,approved
+slump,noun,різкий спад,approved
+boom,noun,бум,approved
+outlook,noun,прогноз,approved
+cartel,noun,картель,approved
+arbitrage,noun,арбітраж,approved
+leverage,noun,кредитне плече,approved
+deregulation,noun,дерегулювання,approved
+oversupply,noun,надлишкове постачання,approved
+capitalization,noun,капіталізація,approved
+stagflation,noun,стагфляція,approved
+hedge,verb,хеджувати,approved
+accrue,verb,нараховуватися,approved
+amortize,verb,амортизувати,approved
+depreciate,verb,знецінюватися,approved
+appreciate,verb,зростати у ціні,approved
+spiral,verb,стрімко зростати (або падати),approved
+fiscally,adv,фіскально,approved
+usury,noun,лихварство,approved
+oligopoly,noun,олігополія,approved
+insolvency,noun,неплатоспроможність,approved
+plutocracy,noun,плутократія,approved
+protectionism,noun,протекціонізм,approved
+moratorium,noun,мораторій,approved
+levy,noun,збір,approved
+insider,noun,інсайдер,approved
+tycoon,noun,магнат,approved
+parity,noun,паритет,approved
+dearth,noun,брак,approved
+dirigisme,noun,дирижизм,approved
+inflationism,noun,інфляціонізм,approved
+deflation,noun,дефляція,approved
+laissez-faire,adj,невтручання,approved
+mercantile,adj,торговельний,approved
+fledgling,adj,молодий; незрілий,approved
+entrepreneurial,adj,підприємницький,approved
+pecuniary,adj,грошовий,approved
+fungible,adj,взаємозамінний,approved
+oversubscribed,adj,переповнений заявками,approved
+impecunious,adj,незаможний,approved
+bourgeoning,adj,бурхливо зростаючий,approved
+haphazard,adj,безсистемний,approved
+rapacious,adj,жадібний,approved
+laudable,adj,похвальний,approved
+bankroll,verb,фінансувати,approved
+peddle,verb,торгувати; розпускати (чутки),approved
+fluctuate,verb,коливатися,approved
+hoard,verb,накопичувати,approved
+recalibrate,verb,перекалібрувати,approved
+apartment,noun,квартира,approved
+rent,noun,орендна плата,approved
+landlord,noun,орендодавець,approved
+tenant,noun,орендар,approved
+deposit,noun,завдаток; застава,approved
+property,noun,нерухомість,approved
+suburb,noun,передмістя,approved
+downtown,noun,центр міста,approved
+infrastructure,noun,інфраструктура,approved
+pavement,noun,тротуар,approved
+pollution,noun,забруднення,approved
+noise,noun,шум,approved
+gentrification,noun,джентрифікація,approved
+skyline,noun,обрис міста,approved
+landmark,noun,пам'ятка,approved
+boulevard,noun,бульвар,approved
+block,noun,квартал,approved
+balcony,noun,балкон,approved
+basement,noun,підвал,approved
+mortgage,noun,іпотека,approved
+resident,noun,мешканець,approved
+district,noun,округ,approved
+estate,noun,житловий масив,approved
+hallway,noun,коридор,approved
+crowded,adj,переповнений,approved
+spacious,adj,просторий,approved
+cosy,adj,затишний,approved
+modern,adj,сучасний,approved
+run-down,adj,занедбаний,approved
+furnished,adj,мебльований,approved
+renovate,verb,ремонтувати,approved
+demolish,verb,зносити,approved
+construct,verb,будувати,approved
+commute,verb,їздити на роботу,approved
+move,verb,переїжджати,approved
+settle,verb,оселятися,approved
+public transport,phrase,громадський транспорт,approved
+urbanization,noun,урбанізація,approved
+metropolis,noun,мегаполіс,approved
+hamlet,noun,хутір,approved
+conurbation,noun,конурбація,approved
+brownfield,noun,промислова зона (забудована),approved
+zoning,noun,зонування,approved
+amenity,noun,зручність,approved
+tenement,noun,багатоквартирний будинок,approved
+bungalow,noun,бунгало,approved
+penthouse,noun,пентхаус,approved
+insulation,noun,ізоляція,approved
+ventilation,noun,вентиляція,approved
+plumbing,noun,сантехніка,approved
+eyesore,noun,потворна споруда,approved
+cul-de-sac,noun,глухий кут (вулиця),approved
+commuter,noun,приміський пасажир,approved
+brownstone,noun,бурштиновий будинок,approved
+renovation,noun,реновація,approved
+apartheid,noun,сегрегація,approved
+blight,noun,занепад,approved
+inhabitant,noun,житель,approved
+thoroughfare,noun,магістраль,approved
+dilapidated,adj,занедбаний,approved
+congested,adj,перевантажений,approved
+overcrowded,adj,переповнений,approved
+cosmopolitan,adj,космополітичний,approved
+vibrant,adj,жвавий,approved
+sprawling,adj,розростаючийся,approved
+infrastructural,adj,інфраструктурний,approved
+urban,adj,міський,approved
+gentrified,adj,джентрифікований,approved
+pedestrianize,verb,зробити пішохідною,approved
+gentrify,verb,джентрифікувати,approved
+revitalize,verb,відроджувати,approved
+conurbate,verb,зливатися у конурбацію,approved
+brutalism,noun,брутализм,approved
+dormitory,noun,гуртожиток,approved
+tenancy,noun,оренда,approved
+bailiwick,noun,сфера впливу,approved
+cityscape,noun,міський пейзаж,approved
+exurb,noun,екзурбія,approved
+gentry,noun,дворянство (нижче),approved
+exurbia,noun,екзурбія,approved
+arcade,noun,аркада,approved
+hovel,noun,халупа,approved
+villa,noun,вілла,approved
+lodging,noun,житло,approved
+caravanserai,noun,караван-сарай,approved
+palatial,adj,палацовий,approved
+antediluvian,adj,допотопний,approved
+ramshackle,adj,ветхий,approved
+ornamental,adj,декоративний,approved
+utilitarian,adj,практичний,approved
+genteel,adj,пристойний,approved
+urbane,adj,витончений,approved
+bijou,adj,мініатюрний,approved
+crepuscular,adj,сутінковий,approved
+brownfield,adj,забудований,approved
+brutalist,adj,брутальний,approved
+conversation,noun,розмова,approved
+misunderstanding,noun,непорозуміння,approved
+vocabulary,noun,словниковий запас,approved
+accent,noun,акцент,approved
+pronunciation,noun,вимова,approved
+grammar,noun,граматика,approved
+slang,noun,сленг,approved
+dialect,noun,діалект,approved
+phrase,noun,фраза,approved
+expression,noun,вислів,approved
+gesture,noun,жест,approved
+tone,noun,тон,approved
+dialogue,noun,діалог,approved
+recipient,noun,одержувач,approved
+express,verb,висловлювати,approved
+imply,verb,натякати; мати на увазі,approved
+admit,verb,визнавати,approved
+persuade,verb,переконувати,approved
+insist,verb,наполягати,approved
+argue,verb,сперечатися,approved
+explain,verb,пояснювати,approved
+translate,verb,перекладати,approved
+interrupt,verb,перебивати,approved
+comment,verb,коментувати,approved
+reply,verb,відповідати,approved
+gesture,verb,жестикулювати,approved
+hint,verb,натякати,approved
+assume,verb,припускати,approved
+clarify,verb,уточнювати,approved
+misinterpret,verb,неправильно тлумачити,approved
+vague,adj,туманний,approved
+blunt,adj,прямолінійний,approved
+articulate,adj,красномовний,approved
+fluent,adj,вільний (у мові),approved
+polite,adj,ввічливий,approved
+subtle,adj,тонкий,approved
+concise,adj,стислий,approved
+sarcastic,adj,саркастичний,approved
+approachable,adj,доступний для спілкування,approved
+eloquent,adj,красномовний,approved
+verbose,adj,многослівний,approved
+ambiguous,adj,двозначний,approved
+reticent,adj,стриманий (у словах),approved
+lucid,adj,ясний,approved
+cryptic,adj,загадковий,approved
+emphatic,adj,рішучий,approved
+terse,adj,лаконічний,approved
+equivocal,adj,двозначний,approved
+pithy,adj,влучний,approved
+verbatim,adj,дослівний,approved
+prolix,adj,многоречивий,approved
+euphemistic,adj,евфемістичний,approved
+rhetoric,noun,риторика,approved
+nuance,noun,відтінок (значення),approved
+connotation,noun,коннотація,approved
+idiom,noun,ідіома,approved
+jargon,noun,жаргон,approved
+euphemism,noun,евфемізм,approved
+sarcasm,noun,сарказм,approved
+irony,noun,іронія,approved
+banter,noun,жартівливі перепалки,approved
+inflection,noun,інтонація,approved
+diction,noun,дикція,approved
+hyperbole,noun,гіпербола,approved
+innuendo,noun,натяк,approved
+paraphrase,verb,перефразовувати,approved
+articulate,verb,чітко формулювати,approved
+converse,verb,розмовляти,approved
+enunciate,verb,вимовляти чітко,approved
+mumble,verb,бурмотіти,approved
+rebuke,verb,докоряти,approved
+prevaricate,verb,ухилятися від прямої відповіді,approved
+verbatim,adv,дослівно,approved
+loquacious,adj,балакучий,approved
+taciturn,adj,мовчазний,approved
+perspicacious,adj,проникливий,approved
+sesquipedalian,adj,многоскладний,approved
+garrulous,adj,балакучий,approved
+apposite,adj,доречний,approved
+rhetorical,adj,риторичний,approved
+mellifluous,adj,медовий (про голос),approved
+vociferous,adj,голосний,approved
+ineffable,adj,невимовний,approved
+oblique,adj,непрямий,approved
+discursive,adj,розлогий,approved
+sibilant,adj,свистячий,approved
+phatic,adj,фатичний,approved
+hyperbolic,adj,гіперболічний,approved
+allegorical,adj,алегоричний,approved
+lexicon,noun,лексикон,approved
+obfuscation,noun,затемнення змісту,approved
+circumlocution,noun,описовість,approved
+cacophony,noun,какофонія,approved
+solecism,noun,мовна помилка,approved
+malapropism,noun,мовна помилка (через схожість слів),approved
+tautology,noun,тавтологія,approved
+homily,noun,повчальна промова,approved
+gibberish,noun,нісенітниця,approved
+palaver,noun,балаканина,approved
+vitriol,noun,їдкість,approved
+glossolalia,noun,глосолалія,approved
+loquacity,noun,балакучість,approved
+pleonasm,noun,плеоназм,approved
+apophthegm,noun,апофтегма,approved
+verbiage,noun,словесна полова,approved
+prolixity,noun,многослівність,approved
+bowdlerize,verb,цензурувати (текст),approved
+curriculum,noun,навчальна програма,approved
+semester,noun,семестр,approved
+scholarship,noun,стипендія,approved
+assignment,noun,завдання,approved
+lecture,noun,лекція,approved
+degree,noun,ступінь; диплом,approved
+research,noun,дослідження,approved
+literacy,noun,грамотність,approved
+pupil,noun,учень,approved
+tutor,noun,репетитор; викладач,approved
+diploma,noun,диплом,approved
+library,noun,бібліотека,approved
+lecturer,noun,викладач,approved
+assessment,noun,оцінювання,approved
+graduation,noun,випуск,approved
+coursework,noun,навчальна робота,approved
+educator,noun,педагог,approved
+tutorial,noun,практичне заняття,approved
+graduate,verb,закінчувати (навчальний заклад),approved
+enrol,verb,записуватися,approved
+revise,verb,повторювати (матеріал),approved
+attend,verb,відвідувати,approved
+assess,verb,оцінювати,approved
+memorize,verb,запам'ятовувати,approved
+analyse,verb,аналізувати,approved
+improve,verb,покращувати,approved
+degree,verb,здобути ступінь,approved
+motivated,adj,мотивований,approved
+gifted,adj,обдарований,approved
+ignorant,adj,неосвічений,approved
+curious,adj,допитливий,approved
+academic,adj,академічний,approved
+optional,adj,факультативний,approved
+compulsory,adj,обов'язковий,approved
+boarding school,phrase,інтернат,approved
+term paper,phrase,курсова робота,approved
+drop out,phrase,кидати навчання,approved
+pedagogy,noun,педагогіка,approved
+syllabus,noun,силабус; програма курсу,approved
+thesis,noun,дисертація; курсова,approved
+dissertation,noun,дисертація,approved
+seminar,noun,семінар,approved
+faculty,noun,факультет; викладацький склад,approved
+rote,noun,механічне заучування,approved
+proficiency,noun,рівень володіння,approved
+aptitude,noun,здібність,approved
+bursary,noun,грант; стипендія,approved
+tenure,noun,постійна посада (викладача),approved
+prerequisite,noun,передумова,approved
+accreditation,noun,акредитація,approved
+mnemonic,noun,мнемонічний прийом,approved
+scaffolding,noun,навчальна підтримка,approved
+pupillage,noun,стажування (учнівство),approved
+credential,noun,кваліфікаційний документ,approved
+cramming,noun,зубріння перед іспитом,approved
+apprenticeship,noun,учнівство,approved
+inquisitiveness,noun,допитливість,approved
+verbosity,noun,многослів'я,approved
+mentor,verb,наставляти,approved
+matriculate,verb,вступати до університету,approved
+dissect,verb,ґрунтовно аналізувати,approved
+cognitive,adj,пізнавальний,approved
+pedantic,adj,педантичний,approved
+erudite,adj,ерудований,approved
+intellectual,adj,інтелектуальний,approved
+extracurricular,adj,позакласний,approved
+heuristic,adj,евристичний,approved
+epistemic,adj,епістемічний,approved
+preparatory,adj,підготовчий,approved
+pedagogical,adj,педагогічний,approved
+peer review,phrase,рецензування,approved
+academically,adv,академічно,approved
+andragogy,noun,андрагогіка,approved
+erudition,noun,ерудиція,approved
+didacticism,noun,дидактизм,approved
+epistemology,noun,епістемологія,approved
+hermeneutics,noun,герменевтика,approved
+exegesis,noun,екзегеза; тлумачення,approved
+sophistry,noun,софістика,approved
+autodidact,noun,самоук,approved
+bibliography,noun,бібліографія,approved
+pedagogue,noun,педагог,approved
+sinecure,noun,непрацююча посада,approved
+academician,noun,академік,approved
+heuristics,noun,евристика,approved
+pedantry,noun,педантизм,approved
+epigone,noun,епігон,approved
+perspicacity,noun,проникливість,approved
+sagacity,noun,мудрість,approved
+prolegomena,noun,пролегомени,approved
+scholastic,adj,схоластичний; навчальний,approved
+doctoral,adj,докторський,approved
+scholarly,adj,науковий,approved
+fastidious,adj,прискіпливий,approved
+precocious,adj,не за віком розвинений,approved
+doctrinaire,adj,догматичний,approved
+didactical,adj,дидактичний,approved
+tabula rasa,phrase,чистий аркуш; неписаний,approved
+didactically,adv,дидактично,approved
+emission,noun,викид,approved
+drought,noun,посуха,approved
+flood,noun,повінь,approved
+wildlife,noun,дика природа,approved
+habitat,noun,середовище існування,approved
+climate,noun,клімат,approved
+extinction,noun,вимирання,approved
+erosion,noun,ерозія,approved
+conservation,noun,охорона природи,approved
+fuel,noun,пальне,approved
+waste,noun,відходи,approved
+rainforest,noun,тропічний ліс,approved
+ozone,noun,озон,approved
+temperature,noun,температура,approved
+crop,noun,урожай,approved
+greenhouse,noun,парник,approved
+warming,noun,потепління,approved
+pesticide,noun,пестицид,approved
+landfill,noun,сміттєзвалище,approved
+sustainability,noun,сталість,approved
+hurricane,noun,ураган,approved
+hazard,noun,небезпека,approved
+recycle,verb,переробляти,approved
+melt,verb,танути,approved
+pollute,verb,забруднювати,approved
+protect,verb,захищати,approved
+dump,verb,скидати (сміття),approved
+conserve,verb,зберігати,approved
+renewable,adj,відновлюваний,approved
+sustainable,adj,сталий,approved
+endangered,adj,зникаючий,approved
+harmful,adj,шкідливий,approved
+organic,adj,органічний,approved
+toxic,adj,токсичний,approved
+biodegradable,adj,біорозкладний,approved
+global warming,phrase,глобальне потепління,approved
+greenhouse gas,phrase,парниковий газ,approved
+fossil fuel,phrase,викопне паливо,approved
+deforestation,noun,вирубка лісів,approved
+desertification,noun,опустелювання,approved
+biodiversity,noun,біорізноманіття,approved
+mitigation,noun,пом'якшення (наслідків),approved
+adaptation,noun,адаптація,approved
+depletion,noun,виснаження,approved
+contamination,noun,забруднення,approved
+monsoon,noun,мусон,approved
+permafrost,noun,вічна мерзлота,approved
+precipitation,noun,опади,approved
+ecocide,noun,екоцид,approved
+afforestation,noun,заліснення,approved
+irrigation,noun,зрошення,approved
+overfishing,noun,надмірний вилов риби,approved
+carbon footprint,phrase,вуглецевий слід,approved
+sequester,verb,секвеструвати,approved
+offset,verb,компенсувати,approved
+upcycle,verb,переробляти з користю,approved
+abate,verb,послаблюватися,approved
+mitigate,verb,пом'якшувати,approved
+ecological,adj,екологічний,approved
+pristine,adj,незаймання,approved
+arid,adj,посушливий,approved
+emission-free,adj,безвикидний,approved
+hazardous,adj,небезпечний,approved
+resilient,adj,стійкий,approved
+irreversible,adj,незворотний,approved
+catastrophic,adj,катастрофічний,approved
+carbon-neutral,adj,вуглецево нейтральний,approved
+precautionary,adj,запобіжний,approved
+eco-friendly,adj,екологічний,approved
+geothermal,adj,геотермальний,approved
+anthropogenic,adj,антропогенний,approved
+allochthonous,adj,алохтонний,approved
+xeric,adj,ксерофітний,approved
+anoxic,adj,безкисневий,approved
+perennial,adj,багаторічний,approved
+ephemeral,adj,короткочасний,approved
+inexorable,adj,невблаганний,approved
+sylvan,adj,лісовий,approved
+mesic,adj,помірно вологий,approved
+desertic,adj,пустельний,approved
+insolation,noun,інсоляція,approved
+albedo,noun,альбедо,approved
+eutrophication,noun,евтрофікація,approved
+bioaccumulation,noun,біоакумуляція,approved
+denudation,noun,оголення (ґрунту),approved
+aridity,noun,посушливість,approved
+degradation,noun,деградація,approved
+remediation,noun,рекультивація,approved
+inundation,noun,затоплення,approved
+anoxia,noun,аноксія,approved
+bioremediation,noun,біоремедіація,approved
+photosynthesis,noun,фотосинтез,approved
+ecotone,noun,екотон,approved
+mesophyte,noun,мезофіт,approved
+perturbation,noun,збурення,approved
+desiccate,verb,висушувати,approved
+insolate,verb,піддавати сонячному опроміненню,approved
+anxious,adj,тривожний,approved
+frustrated,adj,роздратований; фрустрований,approved
+delighted,adj,дуже радий,approved
+embarrassed,adj,збентежений,approved
+jealous,adj,ревнивий,approved
+relieved,adj,з полегшенням,approved
+overwhelmed,adj,приголомшений; переповнений,approved
+nervous,adj,нервовий,approved
+cheerful,adj,веселий,approved
+gloomy,adj,похмурий,approved
+miserable,adj,нещасний,approved
+proud,adj,пишний; гордий,approved
+upset,adj,засмучений,approved
+annoyed,adj,роздратований,approved
+satisfied,adj,задоволений,approved
+guilty,adj,винуватий,approved
+lonely,adj,самотній,approved
+confident,adj,впевнений,approved
+worried,adj,стурбований,approved
+surprised,adj,здивований,approved
+amused,adj,розважений,approved
+excited,adj,схвильований,approved
+hopeful,adj,сповнений надії,approved
+bored,adj,нудьгуючий,approved
+disgusted,adj,огидний; обурений,approved
+thrilled,adj,у захваті,approved
+homesick,adj,що сумує за домом,approved
+irritated,adj,роздратований,approved
+uneasy,adj,неспокійний,approved
+grateful,adj,вдячний,approved
+confused,adj,збентежений,approved
+grief,noun,горе,approved
+envy,noun,заздрість,approved
+enthusiasm,noun,ентузіазм,approved
+hostility,noun,ворожість,approved
+shock,noun,шок,approved
+fear,noun,страх,approved
+regret,verb,шкодувати,approved
+panic,verb,панікувати,approved
+calm,verb,заспокоювати,approved
+hope,verb,сподіватися,approved
+apprehensive,adj,стривожений; побоюється,approved
+exasperated,adj,доведений до відчаю,approved
+elated,adj,піднесений,approved
+despondent,adj,зневірений,approved
+complacent,adj,самовдоволений,approved
+perturbed,adj,схвильований; збентежений,approved
+wistful,adj,сумовитий; мрійливий,approved
+jubilant,adj,переможний; ліктуючий,approved
+irritable,adj,дратівливий,approved
+ambivalent,adj,неоднозначний; амбівалентний,approved
+bewildered,adj,збентежений,approved
+contrite,adj,каятливий,approved
+exhilarated,adj,окрилений,approved
+crestfallen,adj,приголомшений розчаруванням,approved
+disconcerted,adj,збентежений,approved
+wretched,adj,нещасний,approved
+bittersweet,adj,гірко-солодкий,approved
+resentment,noun,образа; роздратування,approved
+melancholy,noun,меланхолія,approved
+bitterness,noun,гіркота,approved
+contentment,noun,задоволення; спокій,approved
+empathy,noun,емпатія,approved
+indignation,noun,обурення,approved
+nostalgia,noun,ностальгія,approved
+serenity,noun,безмятежність,approved
+compassion,noun,співчуття,approved
+euphoria,noun,ейфорія,approved
+remorse,noun,каяття,approved
+dismay,noun,розгубленість,approved
+rapture,noun,захват,approved
+trepidation,noun,тривога; занепокоєння,approved
+animosity,noun,ворожнеча,approved
+apathy,noun,апатія,approved
+apprehension,noun,тривога,approved
+contempt,noun,зневага,approved
+gratitude,noun,вдячність,approved
+dejection,noun,зневіра,approved
+dread,verb,боятися з жахом,approved
+disconsolate,adj,безутішний,approved
+lachrymose,adj,сльозливий,approved
+sanguine,adj,оптимістичний,approved
+exultant,adj,ликуючий,approved
+mortified,adj,принижений,approved
+morose,adj,похмурий; мізантропічний,approved
+sullen,adj,насуплений,approved
+buoyant,adj,життєрадісний,approved
+aggrieved,adj,ображений,approved
+forlorn,adj,самотній; занедбаний,approved
+dolorous,adj,сумний,approved
+pensive,adj,задумливий,approved
+stoic,adj,стоїчний,approved
+dejected,adj,пригнічений,approved
+enervated,adj,знесилений,approved
+lugubrious,adj,сумний,approved
+blithe,adj,безтурботний,approved
+incensed,adj,розлючений,approved
+rapturous,adj,захоплений,approved
+querulous,adj,скаржливий,approved
+rancour,noun,злоба,approved
+spleen,noun,роздратування; знервованість,approved
+ennui,noun,нудьга; меланхолія,approved
+wrath,noun,гнів,approved
+equanimity,noun,рівновага; спокій,approved
+chagrin,noun,досада,approved
+hubris,noun,зарозумілість,approved
+elation,noun,піднесеність,approved
+pathos,noun,пафос; зворушливість,approved
+languor,noun,млявість,approved
+gratification,noun,задоволення,approved
+disquiet,noun,занепокоєння,approved
+melancholia,noun,меланхолія,approved
+exasperate,verb,доводити до сказу,approved
+recipe,noun,рецепт,approved
+ingredient,noun,інгредієнт,approved
+portion,noun,порція,approved
+flavour,noun,смак,approved
+seasoning,noun,приправа,approved
+dessert,noun,десерт,approved
+appetite,noun,апетит,approved
+menu,noun,меню,approved
+waiter,noun,офіціант,approved
+leftovers,noun,залишки їжі,approved
+canteen,noun,їдальня,approved
+buffet,noun,шведський стіл,approved
+cuisine,noun,кухня,approved
+sauce,noun,соус,approved
+pastry,noun,випічка,approved
+crust,noun,скоринка,approved
+spoonful,noun,ложка,approved
+dough,noun,тісто,approved
+crispy,adj,хрусткий,approved
+tender,adj,ніжний,approved
+spicy,adj,гострий,approved
+sour,adj,кислий,approved
+bitter,adj,гіркий,approved
+fresh,adj,свіжий,approved
+frozen,adj,заморожений,approved
+homemade,adj,домашній,approved
+raw,adj,сирий,approved
+bland,adj,прісний,approved
+mild,adj,м'який (на смак),approved
+roast,verb,смажити,approved
+chop,verb,нарізати,approved
+stir,verb,мішати,approved
+boil,verb,кип'ятити,approved
+fry,verb,смажити (на сковороді),approved
+bake,verb,випікати,approved
+serve,verb,подавати,approved
+taste,verb,куштувати,approved
+slice,verb,нарізати скибочками,approved
+grill,verb,гріли,approved
+whisk,verb,збивати,approved
+gastronomy,noun,гастрономія,approved
+garnish,noun,гарнір; прикраса,approved
+condiment,noun,приправа,approved
+broth,noun,бульйон,approved
+palate,noun,смакові відчуття,approved
+texture,noun,текстура,approved
+aftertaste,noun,післясмак,approved
+epicure,noun,гурман,approved
+sommelier,noun,сомельє,approved
+viand,noun,страва,approved
+bitters,noun,гіркі настоянки,approved
+confit,noun,конфі,approved
+reduction,noun,редукція (соусу),approved
+julienne,noun,соломка,approved
+brioche,noun,бріош,approved
+emulsion,noun,емульсія,approved
+culinary,adj,кулінарний,approved
+savoury,adj,солоний (несолодкий),approved
+piquant,adj,пікантний,approved
+aromatic,adj,ароматний,approved
+succulent,adj,соковитий,approved
+rustic,adj,простий (домашній),approved
+gourmet,adj,гурманський,approved
+cordon bleu,adj,першокласний (про кухню),approved
+palatable,adj,смачний,approved
+sumptuous,adj,розкішний,approved
+marinate,verb,маринувати,approved
+blanch,verb,бланшувати,approved
+simmer,verb,томити на слабкому вогні,approved
+caramelize,verb,карамелізувати,approved
+ferment,verb,бродити,approved
+infuse,verb,настоювати,approved
+sauté,verb,смажити на сильному вогні,approved
+umami,noun,умамі,approved
+mouthfeel,noun,відчуття в роті,approved
+piquancy,noun,пікантність,approved
+caramel,noun,карамель,approved
+brine,noun,розсіл,approved
+molasses,noun,патока,approved
+mirepoix,noun,мирпуа,approved
+bouillabaisse,noun,буйабес,approved
+gastronome,noun,гастроном,approved
+bistro,noun,бістро,approved
+offal,noun,субпродукти,approved
+bouquet,noun,букет (аромат),approved
+frangipane,noun,франжипан,approved
+astringent,adj,в'язкий (на смак),approved
+unctuous,adj,маслянистий,approved
+viscous,adj,в'язкий,approved
+nuanced,adj,тонкий (про смак),approved
+fragrant,adj,духмяний,approved
+gustatory,adj,смаковий,approved
+epicurean,adj,гедоністичний,approved
+gastronomic,adj,гастрономічний,approved
+edible,adj,їстівний,approved
+glutinous,adj,клейкий,approved
+sapid,adj,смачний,approved
+parboil,verb,відварити частково,approved
+braise,verb,тушкувати,approved
+emulsify,verb,емульгувати,approved
+julienne,verb,нарізати соломкою,approved
+decant,verb,переливати (вино),approved
+curdle,verb,згортатися,approved
+symptom,noun,симптом,approved
+diagnosis,noun,діагноз,approved
+treatment,noun,лікування,approved
+prescription,noun,рецепт (на ліки),approved
+infection,noun,інфекція,approved
+recovery,noun,одужання,approved
+allergy,noun,алергія,approved
+injury,noun,травма,approved
+surgery,noun,хірургія; операція,approved
+vaccination,noun,щеплення,approved
+fatigue,noun,втома,approved
+nutrition,noun,харчування,approved
+hygiene,noun,гігієна,approved
+bruise,noun,синець,approved
+painkiller,noun,знеболювальне,approved
+pharmacy,noun,аптека,approved
+nursing,noun,медсестринство,approved
+stress,noun,стрес,approved
+injection,noun,укол,approved
+pharmacist,noun,фармацевт,approved
+wound,noun,рана,approved
+tablet,noun,таблетка,approved
+ward,noun,палата,approved
+remedy,noun,засіб лікування,approved
+chronic,adj,хронічний,approved
+severe,adj,сильний,approved
+contagious,adj,заразний,approved
+immune,adj,імунний,approved
+dizzy,adj,запаморочений,approved
+hospitalize,verb,госпіталізувати,approved
+prescribe,verb,призначати (ліки),approved
+recover,verb,одужувати,approved
+diagnose,verb,діагностувати,approved
+inject,verb,робити укол,approved
+sprain,verb,розтягнути (зв'язку),approved
+pathogen,noun,патоген,approved
+epidemic,noun,епідемія,approved
+pandemic,noun,пандемія,approved
+quarantine,noun,карантин,approved
+prognosis,noun,прогноз,approved
+convalescence,noun,одужання,approved
+sedative,noun,заспокійливий засіб,approved
+antibiotic,noun,антибіотик,approved
+rehabilitation,noun,реабілітація,approved
+comorbidity,noun,супутня хвороба,approved
+incision,noun,розріз,approved
+transplant,noun,трансплантація,approved
+dehydration,noun,зневоднення,approved
+hypertension,noun,гіпертонія,approved
+arthritis,noun,артрит,approved
+inflammation,noun,запалення,approved
+ailment,noun,хвороба,approved
+pallor,noun,блідість,approved
+lethargy,noun,млявість,approved
+epidemiology,noun,епідеміологія,approved
+pharmacology,noun,фармакологія,approved
+contraindication,noun,протипоказання,approved
+diagnostic,noun,діагностичний тест,approved
+analgesia,noun,знеболювання,approved
+debilitation,noun,виснаження,approved
+hemorrhage,noun,кровотеча,approved
+asthma,noun,астма,approved
+malignant,adj,злоякісний,approved
+benign,adj,доброякісний,approved
+acute,adj,гострий,approved
+debilitating,adj,виснажливий,approved
+palliative,adj,паліативний,approved
+asymptomatic,adj,безсимптомний,approved
+resistant,adj,стійкий,approved
+prophylactic,adj,профілактичний,approved
+hygienic,adj,гігієнічний,approved
+sterilize,verb,стерилізувати,approved
+aetiology,noun,етіологія,approved
+prodrome,noun,продромальний період,approved
+sequela,noun,наслідок (хвороби),approved
+catatonia,noun,кататонія,approved
+edema,noun,набряк,approved
+ischaemia,noun,ішемія,approved
+sepsis,noun,сепсис,approved
+morbidity,noun,захворюваність,approved
+mortality,noun,смертність,approved
+prophylaxis,noun,профілактика,approved
+pathology,noun,патологія,approved
+analgesic,noun,знеболювальний засіб,approved
+lesion,noun,ураження,approved
+cachexia,noun,кахексія,approved
+antipyretic,noun,жарознижувальний засіб,approved
+dyspnoea,noun,задишка,approved
+neuropathy,noun,нейропатія,approved
+oedema,noun,набряк,approved
+pyrexia,noun,гарячка,approved
+tachycardia,noun,тахікардія,approved
+vertigo,noun,запаморочення,approved
+iatrogenic,adj,ятрогенний,approved
+nosocomial,adj,внутрішньолікарняний,approved
+hepatic,adj,печінковий,approved
+endemic,adj,ендемічний,approved
+emaciated,adj,виснажений,approved
+febrile,adj,фебрильний,approved
+insidious,adj,прихований,approved
+latent,adj,прихований,approved
+myocardial,adj,міокардіальний,approved
+nephrotic,adj,нефротичний,approved
+atrophy,verb,атрофуватися,approved
+debilitate,verb,виснажувати,approved
+break the ice,phrase,розрядити атмосферу,approved
+under the weather,phrase,не в формі,approved
+piece of cake,phrase,легкотня,approved
+hit the books,phrase,сісти за книжки,approved
+once in a blue moon,phrase,дуже рідко,approved
+call it a day,phrase,закінчити роботу,approved
+the ball is in your court,phrase,тепер твоя черга вирішувати,approved
+cost an arm and a leg,phrase,коштувати шалених грошей,approved
+spill the beans,phrase,розкрити секрет,approved
+the best of both worlds,phrase,найкраще з двох світів,approved
+bite the bullet,phrase,зібратися з духом,approved
+get cold feet,phrase,злякатися (в останній момент),approved
+in hot water,phrase,у скрутному становищі,approved
+let the cat out of the bag,phrase,розкрити таємницю,approved
+hit the nail on the head,phrase,влучити в ціль,approved
+keep an eye on,phrase,стежити за,approved
+a blessing in disguise,phrase,благо в прихованій формі,approved
+see eye to eye,phrase,мати спільну думку,approved
+the last straw,phrase,остання крапля,approved
+on the same page,phrase,на одній хвилі,approved
+a dime a dozen,phrase,дешевий і поширений,approved
+rule of thumb,phrase,орієнтовне правило,approved
+hit the road,phrase,вирушати в дорогу,approved
+on the fence,phrase,вагатися,approved
+a piece of the pie,phrase,частка (вигоди),approved
+under the table,phrase,неофіційно; з-під поли,approved
+keep a low profile,phrase,триматися осторонь,approved
+cut to the chase,phrase,переходити до суті,approved
+a long shot,phrase,малоймовірний шанс,approved
+play it by ear,phrase,діяти за обставинами,approved
+bite off more than you can chew,phrase,братися за непосильне,approved
+beat around the bush,phrase,ходити навколо да около,approved
+burn the midnight oil,phrase,працювати до ночі,approved
+cut corners,phrase,економити за рахунок якості,approved
+the elephant in the room,phrase,"очевидна, але незгадувана проблема",approved
+hit the ground running,phrase,швидко почати,approved
+jump the gun,phrase,поспішати,approved
+kill two birds with one stone,phrase,вбити двох зайців,approved
+keep your chin up,phrase,не падати духом,approved
+pull someone's leg,phrase,жартувати (дурити),approved
+read between the lines,phrase,читати між рядків,approved
+sit on the fence,phrase,не займати позиції,approved
+throw in the towel,phrase,здатися,approved
+under the radar,phrase,непомічено,approved
+the proof of the pudding,phrase,істина в досвіді,approved
+go the extra mile,phrase,докласти додаткових зусиль,approved
+on thin ice,phrase,на тонкому льоду,approved
+rule the roost,phrase,верховодити,approved
+a red herring,phrase,відволікаючий маневр,approved
+spill the tea,phrase,переказувати плітки,approved
+out of the blue,phrase,несподівано,approved
+a shot in the dark,phrase,наосліп,approved
+burn out,phrase,вигоріти,approved
+get the wrong end of the stick,phrase,неправильно зрозуміти,approved
+go down in flames,phrase,провалитися з гуркотом,approved
+hit the sack,phrase,лягати спати,approved
+lose one's head,phrase,втратити голову,approved
+pull one's weight,phrase,робити свою частку роботи,approved
+sit tight,phrase,"чекати, не рухаючись",approved
+bite the hand that feeds you,phrase,"кусати руку, що годує",approved
+bury the hatchet,phrase,покінчити з ворожнечею,approved
+cry wolf,phrase,бити на сполох даремно,approved
+a Pyrrhic victory,phrase,Піррова перемога,approved
+dog's breakfast,phrase,безлад,approved
+straight from the horse's mouth,phrase,з перших рук,approved
+give the devil his due,phrase,віддати належне,approved
+the lion's share,phrase,левова частка,approved
+a wild goose chase,phrase,марна погоня,approved
+caught between two stools,phrase,між двох стільців,approved
+burn one's bridges,phrase,спалити мости,approved
+sell someone short,phrase,недооцінювати,approved
+the pot calling the kettle black,phrase,дивися на себе,approved
+to be in one's element,phrase,бути у своїй стихії,approved
+an axe to grind,phrase,особистий інтерес,approved
+a storm in a teacup,phrase,буря в склянці води,approved
+under one's belt,phrase,за плечима,approved
+cut the mustard,phrase,відповідати вимогам,approved
+the sword of Damocles,phrase,дамоклів меч (постійна загроза),approved
+a hard nut to crack,phrase,складна задача,approved
+at loggerheads,phrase,у сварці,approved
+bite one's tongue,phrase,стримати язик,approved
+blow hot and cold,phrase,"то так, то сяк",approved
+burn the candle at both ends,phrase,надривати себе,approved
+cut the ground from under,phrase,підрубати під корінь,approved
+flash in the pan,phrase,спалах без наслідків,approved
+dyed-in-the-wool,adj,закоренілий,approved
+verdict,noun,вирок; вердикт,approved
+lawyer,noun,юрист; адвокат,approved
+evidence,noun,докази,approved
+witness,noun,свідок,approved
+suspect,noun,підозрюваний,approved
+court,noun,суд,approved
+penalty,noun,покарання; штраф,approved
+theft,noun,крадіжка,approved
+fraud,noun,шахрайство,approved
+assault,noun,напад,approved
+prison,noun,в'язниця,approved
+appeal,noun,апеляція,approved
+bail,noun,застава,approved
+crime,noun,злочин,approved
+offence,noun,правопорушення,approved
+burglary,noun,пограбування (зі зломом),approved
+violence,noun,насильство,approved
+contract,noun,договір,approved
+liability,noun,відповідальність,approved
+rights,noun,права,approved
+jury,noun,присяжні,approved
+judge,noun,суддя,approved
+defence,noun,захист,approved
+prosecutor,noun,прокурор,approved
+criminal,noun,злочинець,approved
+hearing,noun,слухання,approved
+guilt,noun,провина,approved
+sentence,verb,засуджувати,approved
+investigate,verb,розслідувати,approved
+testify,verb,давати свідчення,approved
+accuse,verb,звинувачувати,approved
+acquit,verb,виправдовувати,approved
+fine,verb,штрафувати,approved
+arrest,verb,арештувати,approved
+witness,verb,бути свідком,approved
+innocent,adj,невинний,approved
+legal,adj,легальний; юридичний,approved
+illegal,adj,незаконний,approved
+perjury,noun,лжесвідчення,approved
+plaintiff,noun,позивач,approved
+defendant,noun,відповідач; обвинувачений,approved
+precedent,noun,прецедент,approved
+statute,noun,статут; закон,approved
+misdemeanour,noun,правопорушення,approved
+embezzlement,noun,розкрадання,approved
+racketeering,noun,рекет,approved
+conspiracy,noun,змова,approved
+acquittal,noun,виправдання,approved
+indictment,noun,обвинувальний акт,approved
+testimony,noun,свідчення,approved
+deposition,noun,письмові свідчення,approved
+sentencing,noun,винесення вироку,approved
+parole,noun,умовно-дострокове звільнення,approved
+vandalism,noun,вандалізм,approved
+forgery,noun,підробка,approved
+perpetrator,noun,злочинець; виконавець злочину,approved
+accomplice,noun,співучасник,approved
+custody,noun,опіка; утримання під вартою,approved
+injunction,noun,судова заборона,approved
+arbitration,noun,арбітраж,approved
+affidavit,noun,письмова присяга,approved
+litigation,noun,судовий процес,approved
+subornation,noun,підкуп свідків,approved
+jurisprudence,noun,юриспруденція,approved
+warrant,noun,ордер,approved
+incarceration,noun,ув'язнення,approved
+fraudster,noun,шахрай,approved
+extradite,verb,екстрадувати,approved
+verdict,verb,вирішувати,approved
+stipulate,verb,обумовлювати,approved
+exculpate,verb,виправдовувати,approved
+due process,phrase,належна правова процедура,approved
+extenuating,adj,пом'якшувальний,approved
+mens rea,phrase,умисел (юр.),approved
+recidivism,noun,рецидивізм,approved
+subpoena,noun,повістка до суду,approved
+collusion,noun,змова,approved
+malfeasance,noun,службове зловживання,approved
+extortion,noun,вимагання,approved
+impunity,noun,безкарність,approved
+ordinance,noun,муніципальний припис,approved
+fiduciary,noun,довірена особа,approved
+vagrancy,noun,бродяжництво,approved
+culprit,noun,винуватець,approved
+precursor,noun,попередник; ознака,approved
+culpability,noun,винуватість,approved
+mendacity,noun,брехливість,approved
+lacuna,noun,прогалина (в законі),approved
+peccadillo,noun,дрібний проступок,approved
+nefarious,adj,злочинний,approved
+pernicious,adj,шкідливий,approved
+culpable,adj,винний,approved
+malfeasant,adj,зловживаючий посадою,approved
+malevolent,adj,злобний,approved
+perpetrate,verb,скоювати,approved
+abscond,verb,втекти (від правосуддя),approved
+exonerate,verb,виправдати,approved
+connive,verb,потурати; змовлятися,approved
+indemnify,verb,відшкодовувати збитки,approved
+expunge,verb,стерти (запис про судимість),approved
+disbar,verb,позбавити права на адвокатську практику,approved
+adjudicate,verb,виносити рішення,approved
+absolve,verb,звільняти від провини,approved
+transgress,verb,порушувати (закон),approved
+headline,noun,заголовок,approved
+journalist,noun,журналіст,approved
+broadcast,noun,трансляція; передача,approved
+source,noun,джерело,approved
+rumour,noun,чутка,approved
+fact,noun,факт,approved
+bias,noun,упередженість,approved
+coverage,noun,висвітлення,approved
+editor,noun,редактор,approved
+columnist,noun,оглядач; колумніст,approved
+documentary,noun,документальний фільм,approved
+viewer,noun,глядач,approved
+press,noun,преса,approved
+column,noun,колонка,approved
+podcast,noun,подкаст,approved
+blog,noun,блог,approved
+anchor,noun,ведучий новин,approved
+edition,noun,випуск,approved
+censorship,noun,цензура,approved
+debate,noun,дебати,approved
+spokesperson,noun,речник,approved
+paparazzi,noun,папараці,approved
+hoax,noun,містифікація,approved
+editorial,noun,редакційна стаття,approved
+trend,noun,тенденція,approved
+broadcaster,noun,телеканал,approved
+publication,noun,публікація,approved
+reporter,noun,репортер,approved
+gossip,noun,плітки,approved
+report,verb,повідомляти,approved
+subscribe,verb,передплачувати,approved
+censor,verb,цензурувати,approved
+interview,verb,брати інтерв'ю,approved
+headline,verb,подавати заголовком,approved
+ban,verb,заборонити,approved
+exclusive,adj,ексклюзивний,approved
+reliable,adj,надійний,approved
+misleading,adj,оманливий,approved
+disseminate,verb,поширювати,approved
+propagate,verb,поширювати,approved
+censure,verb,осуджувати,approved
+syndicate,verb,продавати (матеріал) до кількох ЗМІ,approved
+fabricate,verb,фабрикувати,approved
+leak,verb,злити (інформацію),approved
+sensationalism,noun,сенсаційність,approved
+op-ed,noun,авторська колонка,approved
+dispatch,noun,депеша; репортаж,approved
+scoop,noun,ексклюзив,approved
+objectivity,noun,об'єктивність,approved
+exposé,noun,викривальний матеріал,approved
+misinformation,noun,дезінформація,approved
+tabloid,noun,таблоїд,approved
+bulletin,noun,бюлетень; коротке повідомлення,approved
+pundit,noun,експерт-коментатор,approved
+gaffe,noun,промах,approved
+soundbite,noun,коротка цитата,approved
+broadsheet,noun,серйозна газета,approved
+retraction,noun,спростування,approved
+ratings,noun,рейтинги,approved
+propagandist,noun,пропагандист,approved
+demagoguery,noun,демагогія,approved
+slander,noun,наклеп,approved
+credibility,noun,довіра (до джерела),approved
+whistleblower,noun,викривач,approved
+clickbait,noun,клікбейт,approved
+credible,adj,достовірний,approved
+infallible,adj,непогрішний,approved
+partisan,adj,упереджений,approved
+viral,adj,вірусний,approved
+vitriolic,adj,їдкий; злісний,approved
+newsworthy,adj,вартий новини,approved
+impartial,adj,неупереджений,approved
+sensational,adj,сенсаційний,approved
+press release,phrase,прес-реліз,approved
+yellow journalism,phrase,жовта журналістика,approved
+ideologue,noun,ідеолог,approved
+polemicist,noun,полеміст,approved
+cynosure,noun,центр уваги,approved
+disinformation,noun,свідома дезінформація,approved
+mudslinging,noun,обливання брудом,approved
+calumny,noun,наклеп,approved
+obloquy,noun,паплюження,approved
+mudrake,noun,борзописець,approved
+prurient,adj,непристойно цікавий,approved
+sanctimonious,adj,святенницький,approved
+inflammatory,adj,підбурливий,approved
+lacklustre,adj,тьмяний,approved
+mendacious,adj,брехливий,approved
+gossamer,adj,ніжний; легкий,approved
+prosaic,adj,буденний,approved
+verisimilar,adj,правдоподібний,approved
+tendentious,adj,тенденційний,approved
+obfuscate,verb,затуманювати,approved
+pontificate,verb,повчально висловлюватися,approved
+ventriloquize,verb,говорити від імені (іншого),approved
+savings,noun,заощадження,approved
+interest,noun,відсоток,approved
+overdraft,noun,овердрафт,approved
+insurance,noun,страхування,approved
+pension,noun,пенсія,approved
+refund,noun,повернення коштів,approved
+receipt,noun,чек; квитанція,approved
+bill,noun,рахунок,approved
+cash,noun,готівка,approved
+invoice,noun,рахунок-фактура,approved
+fee,noun,плата; збір,approved
+discount,noun,знижка,approved
+bargain,noun,вигідна покупка,approved
+expense,noun,витрата,approved
+income,noun,дохід,approved
+tuition,noun,плата за навчання,approved
+debit,noun,дебет; списання,approved
+bonus,noun,премія; бонус,approved
+tip,noun,чайові,approved
+installment,noun,розстрочка; частковий платіж,approved
+balance,noun,залишок (на рахунку),approved
+credit card,phrase,кредитна картка,approved
+interest rate,phrase,процентна ставка,approved
+spend,verb,витрачати,approved
+afford,verb,дозволити собі,approved
+earn,verb,заробляти,approved
+owe,verb,бути винним,approved
+budget,verb,планувати бюджет,approved
+loan,verb,позичати,approved
+inherit,verb,успадковувати,approved
+withdraw,verb,знімати (гроші),approved
+transfer,verb,переказувати,approved
+deposit,verb,вносити (гроші),approved
+wealthy,adj,заможний,approved
+broke,adj,без грошей,approved
+pricey,adj,дорогий,approved
+thrifty,adj,ощадливий,approved
+affordable,adj,доступний,approved
+frugal,adj,ощадливий,approved
+solvency,noun,платоспроможність,approved
+arrears,noun,заборгованість,approved
+collateral,noun,застава; забезпечення,approved
+annuity,noun,ануїтет; щорічна виплата,approved
+equity,noun,власний капітал; частка,approved
+bond,noun,облігація,approved
+portfolio,noun,портфель (інвестицій),approved
+premium,noun,премія; страховий внесок,approved
+frugality,noun,ощадливість,approved
+ledger,noun,бухгалтерська книга,approved
+surcharge,noun,надбавка,approved
+thrift,noun,ощадливість,approved
+mortgagee,noun,іпотекодержатель,approved
+accountability,noun,підзвітність,approved
+foreclosure,noun,стягнення майна за борг,approved
+dispersal,noun,розподіл (коштів),approved
+deductible,adj,що віднімається з податків,approved
+extravagant,adj,марнотратний,approved
+prudent,adj,розважливий,approved
+exempt,adj,звільнений,approved
+rewarding,adj,вигідний; корисний,approved
+creditworthy,adj,кредитоспроможний,approved
+extortionate,adj,грабіжницький,approved
+prudential,adj,розсудливий,approved
+reimburse,verb,відшкодовувати,approved
+defraud,verb,ошукувати,approved
+embezzle,verb,привласнювати (кошти),approved
+forfeit,verb,"втрачати (право, гроші)",approved
+levy,verb,стягувати (податок),approved
+audit,verb,перевіряти (фінансову звітність),approved
+liquidate,verb,ліквідувати (активи),approved
+tax haven,phrase,податковий притулок,approved
+sovereign,noun,державна облігація,approved
+escrow,noun,ескроу; умовний депозит,approved
+bullion,noun,"зливки (золота, срібла)",approved
+remittance,noun,грошовий переказ,approved
+indebtedness,noun,заборгованість; боргове зобов'язання,approved
+spendthrift,noun,марнотратник,approved
+solvent,noun,розчинник,approved
+perquisite,noun,привілей; додаткова вигода,approved
+impecuniosity,noun,злиденність,approved
+lien,noun,заставне право,approved
+peculation,noun,розкрадання,approved
+usurp,verb,узурпувати,approved
+scrimp,verb,жити ощадливо,approved
+squander,verb,розтринькувати,approved
+bequeath,verb,заповідати,approved
+soar,verb,різко зростати (про ціни),approved
+amass,verb,накопичувати,approved
+disburse,verb,виплачувати,approved
+inveigle,verb,вмовляти (хитрощами),approved
+plunder,verb,розграбовувати,approved
+misappropriate,verb,привласнювати (кошти),approved
+miserly,adj,скупий,approved
+penurious,adj,злиденний,approved
+fiduciary,adj,довірчий,approved
+parsimonious,adj,скупий; ощадливий,approved
+usurious,adj,лихварський,approved
+fraudulent,adj,шахрайський,approved
+pecuniarily,adv,матеріально,approved
+melody,noun,мелодія,approved
+rhythm,noun,ритм,approved
+lyrics,noun,текст пісні,approved
+concert,noun,концерт,approved
+album,noun,альбом,approved
+orchestra,noun,оркестр,approved
+instrument,noun,інструмент,approved
+genre,noun,жанр,approved
+director,noun,режисер,approved
+actor,noun,актор,approved
+scene,noun,сцена,approved
+subtitles,noun,субтитри,approved
+premiere,noun,прем'єра,approved
+soundtrack,noun,саундтрек,approved
+trailer,noun,трейлер,approved
+rehearsal,noun,репетиція,approved
+harmony,noun,гармонія,approved
+blockbuster,noun,блокбастер,approved
+chorus,noun,приспів,approved
+verse,noun,куплет,approved
+conductor,noun,диригент,approved
+tune,noun,мотив,approved
+cast,noun,акторський склад,approved
+score,noun,партитура,approved
+sequel,noun,продовження,approved
+hit,noun,хіт,approved
+songwriter,noun,автор пісень,approved
+compose,verb,складати (музику),approved
+perform,verb,виступати,approved
+record,verb,записувати,approved
+improvise,verb,імпровізувати,approved
+hilarious,adj,кумедний,approved
+thrilling,adj,захопливий,approved
+melancholic,adj,меланхолійний,approved
+acoustic,adj,акустичний,approved
+documentary,adj,документальний,approved
+cinematic,adj,кінематографічний,approved
+cadence,noun,каденція,approved
+timbre,noun,тембр,approved
+crescendo,noun,крещендо,approved
+counterpoint,noun,контрапункт,approved
+virtuoso,noun,віртуоз,approved
+ensemble,noun,ансамбль,approved
+libretto,noun,лібрето,approved
+discography,noun,дискографія,approved
+cinematography,noun,кінематографія,approved
+screenplay,noun,сценарій,approved
+auteur,noun,автор (режисер-автор),approved
+dissonance,noun,дисонанс,approved
+syncopation,noun,синкопа,approved
+vibrato,noun,вібрато,approved
+trope,noun,троп,approved
+catharsis,noun,катарсис,approved
+voiceover,noun,закадровий голос,approved
+cinephile,noun,кіноман,approved
+soprano,noun,сопрано,approved
+baritone,noun,баритон,approved
+modulation,noun,модуляція,approved
+rhapsody,noun,рапсодія,approved
+vignette,noun,віньєтка,approved
+eerie,adj,моторошний,approved
+exquisite,adj,вишуканий,approved
+poignant,adj,зворушливий,approved
+sophisticated,adj,витончений,approved
+understated,adj,стриманий,approved
+bombastic,adj,напумшений,approved
+polyphonic,adj,поліфонічний,approved
+underscore,verb,супроводжувати музикою,approved
+crescendo,verb,наростати,approved
+contrapuntal,adj,контрапунктичний,approved
+diegetic,adj,діегетичний,approved
+euphonious,adj,милозвучний,approved
+dulcet,adj,солодкозвучний,approved
+plangent,adj,сумний (про звук),approved
+cacophonous,adj,какофонічний,approved
+rhapsodic,adj,рапсодичний,approved
+phantasmagoric,adj,фантасмагоричний,approved
+enigmatic,adj,загадковий,approved
+antiheroic,adj,антигеройський,approved
+dystopian,adj,антиутопічний,approved
+andante,adj,анданте,approved
+lacrimose,adj,сльозливий,approved
+panoramic,adj,панорамний,approved
+sonorous,adj,звучний,approved
+mise-en-scène,noun,мізансцена,approved
+montage,noun,монтаж,approved
+parataxis,noun,паратаксис,approved
+bravura,noun,бравура,approved
+obbligato,noun,облігато,approved
+tessitura,noun,тесситура,approved
+cameo,noun,епізодична роль,approved
+requiem,noun,реквієм,approved
+fugue,noun,фуга,approved
+interlude,noun,інтерлюдія,approved
+scherzo,noun,скерцо,approved
+virtuosity,noun,віртуозність,approved
+landscape,noun,ландшафт,approved
+valley,noun,долина,approved
+peninsula,noun,півострів,approved
+glacier,noun,льодовик,approved
+volcano,noun,вулкан,approved
+earthquake,noun,землетрус,approved
+season,noun,пора року,approved
+shore,noun,берег,approved
+meadow,noun,луг,approved
+swamp,noun,болото,approved
+waterfall,noun,водоспад,approved
+cliff,noun,скеля,approved
+island,noun,острів,approved
+desert,noun,пустеля,approved
+harbour,noun,гавань,approved
+storm,noun,буря,approved
+horizon,noun,горизонт,approved
+sediment,noun,осад,approved
+tundra,noun,тундра,approved
+pebble,noun,галька,approved
+stream,noun,струмок,approved
+shrub,noun,кущ,approved
+crater,noun,кратер,approved
+lake,noun,озеро,approved
+reef,noun,риф,approved
+grassland,noun,степ,approved
+rural,adj,сільський,approved
+steep,adj,крутий,approved
+vast,adj,величезний,approved
+fertile,adj,родючий,approved
+barren,adj,безплідний,approved
+dense,adj,густий,approved
+erode,verb,розмивати,approved
+flow,verb,текти,approved
+rise,verb,підніматися,approved
+sink,verb,опускатися,approved
+bloom,verb,цвісти,approved
+freeze,verb,замерзати,approved
+migrate,verb,мігрувати,approved
+hibernate,verb,впадати в сплячку,approved
+topography,noun,топографія,approved
+escarpment,noun,уступ,approved
+isthmus,noun,перешийок,approved
+fjord,noun,фіорд,approved
+archipelago,noun,архіпелаг,approved
+plateau,noun,плато,approved
+estuary,noun,естуарій,approved
+delta,noun,дельта,approved
+tributary,noun,притока,approved
+moraine,noun,морена,approved
+karst,noun,карст,approved
+savanna,noun,савана,approved
+steppe,noun,степ,approved
+oasis,noun,оазис,approved
+ravine,noun,яр,approved
+sinkhole,noun,провал (ґрунту),approved
+bedrock,noun,корінна порода,approved
+oxbow,noun,старица,approved
+bluff,noun,обрив,approved
+moor,noun,верес,approved
+strait,noun,протока,approved
+basin,noun,басейн (ріки),approved
+crevasse,noun,тріщина (у льодовику),approved
+hummock,noun,горбок,approved
+outcrop,noun,відслонення,approved
+alluvial,adj,алювіальний,approved
+temperate,adj,помірний,approved
+boreal,adj,бореальний,approved
+rugged,adj,нерівний,approved
+verdant,adj,зелений,approved
+serene,adj,безмятежний,approved
+sheer,adj,відвісний,approved
+meander,verb,звивисто текти,approved
+sprawl,verb,розкидатися,approved
+delta,verb,утворювати дельту,approved
+orogeny,noun,горотворення,approved
+verdure,noun,зелень,approved
+sward,noun,дерен,approved
+thicket,noun,зарості,approved
+tarn,noun,гірське озеро,approved
+promontory,noun,мис,approved
+lagoon,noun,лагуна,approved
+caldera,noun,кальдера,approved
+terrain,noun,місцевість,approved
+scree,noun,осипище,approved
+loess,noun,лес,approved
+chernozem,noun,чорнозем,approved
+diluvium,noun,делювій,approved
+palisade,noun,скелі,approved
+fen,noun,болото,approved
+mere,noun,озерце,approved
+isobar,noun,ізобара,approved
+marl,noun,мергель,approved
+tor,noun,скеля,approved
+tectonic,adj,тектонічний,approved
+aeolian,adj,еоловий,approved
+fluvial,adj,річковий,approved
+glacial,adj,льодовиковий,approved
+diurnal,adj,денний,approved
+nocturnal,adj,нічний,approved
+littoral,adj,прибережний,approved
+pelagic,adj,пелагічний,approved
+escarpment,adj,обривистий,approved
+estuarine,adj,естуарний,approved
+ambitious,adj,амбітний,approved
+generous,adj,щедрий,approved
+stubborn,adj,впертий,approved
+sensitive,adj,чутливий,approved
+honest,adj,чесний,approved
+patient,adj,терплячий,approved
+reserved,adj,стриманий,approved
+outgoing,adj,товариський,approved
+moody,adj,мінливий,approved
+loyal,adj,відданий,approved
+arrogant,adj,зарозумілий,approved
+modest,adj,скромний,approved
+cautious,adj,обережний,approved
+impulsive,adj,імпульсивний,approved
+tolerant,adj,толерантний,approved
+selfish,adj,егоїстичний,approved
+gentle,adj,лагідний,approved
+bossy,adj,владний,approved
+witty,adj,дотепний,approved
+rude,adj,грубий,approved
+brave,adj,сміливий,approved
+lazy,adj,ледачий,approved
+cheeky,adj,нахабний,approved
+conscientious,adj,сумлінний,approved
+cynical,adj,цинічний,approved
+determined,adj,рішучий,approved
+insecure,adj,невпевнений,approved
+easygoing,adj,легкий у спілкуванні,approved
+mischievous,adj,пустотливий,approved
+supportive,adj,підтримувальний,approved
+tactful,adj,тактовний,approved
+diplomatic,adj,дипломатичний,approved
+shy,adj,сором'язливий,approved
+grumpy,adj,буркотливий,approved
+thoughtful,adj,уважний,approved
+generosity,noun,щедрість,approved
+integrity,noun,чесність; цілісність,approved
+temper,noun,норов,approved
+humility,noun,скромність,approved
+courage,noun,мужність,approved
+kindness,noun,доброта,approved
+reliability,noun,надійність,approved
+pragmatic,adj,прагматичний,approved
+idealistic,adj,ідеалістичний,approved
+meek,adj,покірний,approved
+volatile,adj,вибуховий,approved
+astute,adj,проникливий; тямущий,approved
+frivolous,adj,легковажний,approved
+haughty,adj,пихатий,approved
+gregarious,adj,товариський,approved
+introspective,adj,інтроспективний,approved
+candid,adj,відвертий,approved
+tenacious,adj,завзятий,approved
+hypocritical,adj,лицемірний,approved
+obstinate,adj,затятий,approved
+sincere,adj,щирий,approved
+pessimistic,adj,песимістичний,approved
+eccentric,adj,ексцентричний,approved
+unassuming,adj,скромний; непримітний,approved
+aloof,adj,відчужений,approved
+vindictive,adj,мстивий,approved
+conceited,adj,самозакоханий,approved
+mercurial,adj,мінливий,approved
+magnanimous,adj,великодушний,approved
+obstreperous,adj,галасливий,approved
+inquisitive,adj,допитливий,approved
+phlegmatic,adj,флегматичний,approved
+impetuous,adj,запальний,approved
+restive,adj,неспокійний,approved
+vainglorious,adj,марнославний,approved
+laconic,adj,лаконічний,approved
+candour,noun,відвертість,approved
+perseverance,noun,наполегливість,approved
+prudence,noun,розважливість,approved
+fortitude,noun,витримка,approved
+arrogance,noun,зарозумілість,approved
+altruism,noun,альтруїзм,approved
+idiosyncrasy,noun,особливість; дивацтво,approved
+truculent,adj,агресивний; задерикуватий,approved
+supercilious,adj,зверхній,approved
+craven,adj,боягузливий,approved
+insouciant,adj,безтурботний,approved
+obdurate,adj,упертий,approved
+dour,adj,суворий; похмурий,approved
+prodigal,adj,марнотратний,approved
+puckish,adj,пустотливий,approved
+obtuse,adj,недалекий,approved
+indolent,adj,ледачий,approved
+pusillanimous,adj,боязкий,approved
+gullible,adj,легковірний,approved
+acerbic,adj,їдкий,approved
+ebullient,adj,сповнений життєрадісності,approved
+guileless,adj,простодушний,approved
+perfidious,adj,віроломний,approved
+sagacious,adj,мудрий; проникливий,approved
+pugnacious,adj,задерикуватий,approved
+sycophantic,adj,підлабузницький,approved
+recalcitrant,adj,норовливий,approved
+mulish,adj,упертий,approved
+quixotic,adj,донкіхотський,approved
+obsequious,adj,підлабузницький,approved
+intransigent,adj,непримиренний,approved
+fickle,adj,непостійний,approved
+parsimony,noun,скупість,approved
+temerity,noun,зухвалість,approved
+truculence,noun,агресивність,approved
+give up,phrase,здаватися,approved
+look after,phrase,доглядати за,approved
+break down,phrase,ламатися; зламатися,approved
+carry on,phrase,продовжувати,approved
+come up with,phrase,придумати,approved
+figure out,phrase,з'ясувати,approved
+call off,phrase,скасовувати,approved
+turn down,phrase,відхиляти,approved
+put off,phrase,відкладати,approved
+run out of,phrase,закінчуватися (запас),approved
+pick up,phrase,забирати; вивчати,approved
+set up,phrase,створювати; налаштовувати,approved
+find out,phrase,дізнаватися,approved
+get along,phrase,ладнати,approved
+look forward to,phrase,з нетерпінням чекати,approved
+turn up,phrase,з'явитися,approved
+hold on,phrase,почекати,approved
+run into,phrase,випадково зустріти,approved
+bring up,phrase,виховувати; порушувати (тему),approved
+cut down on,phrase,скорочувати,approved
+go over,phrase,переглядати,approved
+catch up,phrase,надолужувати,approved
+work out,phrase,вирішуватися (добре); розраховувати,approved
+put up with,phrase,миритися з,approved
+show off,phrase,хизуватися,approved
+take off,phrase,зійти з землі (про літак); знімати,approved
+get rid of,phrase,позбутися,approved
+sort out,phrase,владнати,approved
+stand for,phrase,означати; терпіти,approved
+account for,phrase,пояснювати; становити (частку),approved
+stand out,phrase,виділятися,approved
+get back,phrase,повертатися,approved
+look into,phrase,розслідувати,approved
+break in,phrase,вламуватися,approved
+check in,phrase,зареєструватися,approved
+give in,phrase,поступатися,approved
+make out,phrase,розрізняти,approved
+pull through,phrase,вижити; оклигати,approved
+set off,phrase,відправлятися,approved
+bear out,phrase,підтверджувати,approved
+buy into,phrase,вірити (у ідею),approved
+come about,phrase,статися,approved
+count on,phrase,покладатися,approved
+do away with,phrase,скасовувати,approved
+fall through,phrase,зірватися (про план),approved
+fend off,phrase,"відбивати (напад, питання)",approved
+get over,phrase,оговтатися,approved
+hold up,phrase,затримувати,approved
+lay down,phrase,встановлювати (правила),approved
+make up for,phrase,компенсувати,approved
+pull off,phrase,успішно виконати,approved
+rule out,phrase,виключати,approved
+set aside,phrase,"відкладати (гроші, час)",approved
+step up,phrase,посилювати,approved
+tone down,phrase,пом'якшувати,approved
+wind up,phrase,опинитися (зрештою),approved
+carry out,phrase,виконувати,approved
+live up to,phrase,відповідати (очікуванням),approved
+go ahead,phrase,продовжувати (дію),approved
+back down,phrase,відступати,approved
+pass away,phrase,померти (евфемізм),approved
+hand over,phrase,передавати,approved
+weed out,phrase,відсіювати,approved
+bring about,phrase,спричиняти,approved
+come across,phrase,натрапити,approved
+dwell on,phrase,зациклюватися,approved
+fall back on,phrase,вдаватися до,approved
+hold back,phrase,стримувати,approved
+keep up with,phrase,встигати за,approved
+live down,phrase,пережити (ганьбу),approved
+make for,phrase,прямувати,approved
+bring forward,phrase,перенести раніше,approved
+bail out,phrase,рятувати (фінансово),approved
+cop out,phrase,ухилятися (від обов'язку),approved
+crack down on,phrase,жорстко взятися за,approved
+palm off,phrase,спихати (на когось),approved
+brush off,phrase,відмахнутися,approved
+hem in,phrase,обступати; стискати,approved
+lord it over,phrase,зверхньо поводитися,approved
+sweep under the carpet,phrase,замовчувати,approved
+wade into,phrase,ввійти в (суперечку),approved
+drum up,phrase,залучати (підтримку),approved
+hark back,phrase,згадувати (минуле),approved
+stave off,phrase,відвертати (біду),approved
+fob off,phrase,спроваджувати (відмовою),approved
+mete out,phrase,призначати (покарання),approved
+pussyfoot around,phrase,ходити навколо,approved
+iron out,phrase,усувати (труднощі),approved
+muddle through,phrase,якось викручуватися,approved
+gloss over,phrase,обходити (недоліки),approved
+bide one's time,phrase,чекати слушного моменту,approved
+brazen out,phrase,нахабно виходити з ситуації,approved
+cast aside,phrase,відкидати,approved
+fly off the handle,phrase,зірватися (спалахнути),approved
+gloss up,phrase,прикрашати,approved
+harp on,phrase,товкти одне й те саме,approved
+lap up,phrase,жадібно ковтати,approved
+press on,phrase,продовжувати наполегливо,approved
+election,noun,вибори,approved
+government,noun,уряд,approved
+policy,noun,політика; курс,approved
+parliament,noun,парламент,approved
+campaign,noun,кампанія,approved
+reform,noun,реформа,approved
+constitution,noun,конституція,approved
+protest,noun,протест,approved
+coalition,noun,коаліція,approved
+opposition,noun,опозиція,approved
+diplomat,noun,дипломат,approved
+treaty,noun,договір,approved
+citizen,noun,громадянин,approved
+democracy,noun,демократія,approved
+legislation,noun,законодавство,approved
+minister,noun,міністр,approved
+mayor,noun,мер,approved
+regime,noun,режим,approved
+rebel,noun,повстанець,approved
+ballot,noun,бюлетень,approved
+statesman,noun,державний діяч,approved
+propaganda,noun,пропаганда,approved
+bureaucrat,noun,бюрократ,approved
+sovereignty,noun,суверенітет,approved
+candidate,noun,кандидат,approved
+vote,noun,голос,approved
+rally,noun,мітинг,approved
+pledge,noun,обіцянка,approved
+vote,verb,голосувати,approved
+sanction,verb,санкціонувати,approved
+reform,verb,реформувати,approved
+tax,verb,оподатковувати,approved
+debate,verb,дебатувати,approved
+parliamentary,adj,парламентський,approved
+hegemony,noun,гегемонія,approved
+filibuster,noun,затягування дебатів,approved
+lobbying,noun,лобіювання,approved
+referendum,noun,референдум,approved
+autocracy,noun,автократія,approved
+populism,noun,популізм,approved
+diplomacy,noun,дипломатія,approved
+insurgent,noun,повстанець,approved
+embargo,noun,ембарго,approved
+mandate,noun,мандат,approved
+dissident,noun,дисидент,approved
+nationalism,noun,націоналізм,approved
+pragmatism,noun,прагматизм,approved
+oligarch,noun,олігарх,approved
+constituency,noun,виборчий округ,approved
+jurisdiction,noun,юрисдикція,approved
+plenipotentiary,noun,повноважний представник,approved
+ideology,noun,ідеологія,approved
+legitimacy,noun,легітимність,approved
+consensus,noun,консенсус,approved
+gerrymandering,noun,маніпулювання округами,approved
+senate,noun,сенат,approved
+insurgency,noun,повстанський рух,approved
+ratify,verb,ратифікувати,approved
+impeach,verb,імпічмент,approved
+endorse,verb,схвалювати; підтримувати,approved
+annex,verb,анексувати,approved
+veto,verb,накладати вето,approved
+bipartisan,adj,двопартійний,approved
+incumbent,adj,чинний,approved
+bureaucratic,adj,бюрократичний,approved
+mandatory,adj,обов'язковий,approved
+nationwide,adj,загальнонаціональний,approved
+perpetual,adj,вічний,approved
+oligarchy,noun,олігархія,approved
+kleptocracy,noun,клептократія,approved
+demagogue,noun,демагог,approved
+realpolitik,noun,реальна політика,approved
+apparatchik,noun,партійний функціонер,approved
+plebiscite,noun,плебісцит,approved
+filibusterer,noun,затягувач дебатів,approved
+parochialism,noun,провінційність (політичних поглядів),approved
+interregnum,noun,міжцарів'я; перехідний період,approved
+polity,noun,державне утворення,approved
+statecraft,noun,державне мистецтво,approved
+ascendancy,noun,домінування,approved
+autonomy,noun,автономія,approved
+prerogative,noun,прерогатива,approved
+chauvinism,noun,шовінізм,approved
+polemic,noun,полеміка,approved
+suffrage,noun,виборче право,approved
+mandarin,noun,високопосадовець,approved
+quorum,noun,кворум,approved
+malaise,noun,відчуття неблагополуччя,approved
+vainglory,noun,марнославство,approved
+cabal,noun,таємна змова,approved
+gerrymander,verb,маніпулювати виборчими округами,approved
+disenfranchise,verb,позбавляти виборчих прав,approved
+capitulate,verb,капітулювати,approved
+bellicose,adj,войовничий,approved
+emollient,adj,пом'якшувальний,approved
+nepotistic,adj,кумівський,approved
+oligarchic,adj,олігархічний,approved
+demagogic,adj,демагогічний,approved
+behaviour,noun,поведінка,approved
+memory,noun,пам'ять,approved
+perception,noun,сприйняття,approved
+motivation,noun,мотивація,approved
+instinct,noun,інстинкт,approved
+anxiety,noun,тривога,approved
+trauma,noun,травма,approved
+therapy,noun,терапія,approved
+depression,noun,депресія,approved
+personality,noun,особистість,approved
+habit,noun,звичка,approved
+belief,noun,переконання,approved
+emotion,noun,емоція,approved
+attention,noun,увага,approved
+doubt,noun,сумнів,approved
+self-esteem,noun,самооцінка,approved
+insomnia,noun,безсоння,approved
+attitude,noun,ставлення,approved
+insight,noun,розуміння,approved
+reflex,noun,рефлекс,approved
+trigger,noun,тригер,approved
+hallucination,noun,галюцинація,approved
+subconscious,adj,підсвідомий,approved
+optimistic,adj,оптимістичний,approved
+aware,adj,обізнаний,approved
+stressed,adj,перевтомлений; у стресі,approved
+logical,adj,логічний,approved
+irrational,adj,нераціональний,approved
+emotional,adj,емоційний,approved
+focus,verb,зосереджуватися,approved
+remember,verb,пам'ятати,approved
+forget,verb,забувати,approved
+stress,verb,наголошувати,approved
+fear,verb,боятися,approved
+cognition,noun,пізнання,approved
+introspection,noun,інтроспекція,approved
+resilience,noun,стійкість,approved
+dissociation,noun,дисоціація,approved
+rumination,noun,руминація; нав'язливі думки,approved
+heuristic,noun,евристика,approved
+phobia,noun,фобія,approved
+compulsion,noun,компульсія,approved
+inhibition,noun,гальмування; стриманість,approved
+epiphany,noun,прозріння,approved
+ambivalence,noun,амбівалентність,approved
+impulsivity,noun,імпульсивність,approved
+neurosis,noun,невроз,approved
+mindfulness,noun,усвідомленість,approved
+conditioning,noun,кондиціонування,approved
+projection,noun,проєкція,approved
+ego,noun,его,approved
+self-awareness,noun,самоусвідомлення,approved
+psychoanalysis,noun,психоаналіз,approved
+cognitive dissonance,phrase,когнітивний дисонанс,approved
+subliminal,adj,підсвідомий,approved
+lethargic,adj,млявий,approved
+obsessive,adj,нав'язливий,approved
+introverted,adj,інтровертний,approved
+catatonic,adj,кататонічний,approved
+sentient,adj,свідомий,approved
+cognitive-behavioural,adj,когнітивно-поведінковий,approved
+hypnotic,adj,гіпнотичний,approved
+innate,adj,вроджений,approved
+ingrained,adj,укорінений,approved
+apathetic,adj,апатичний,approved
+dissociate,verb,відокремлювати,approved
+ontogeny,noun,онтогенез,approved
+dissimulation,noun,удавання,approved
+psychosis,noun,психоз,approved
+anhedonia,noun,ангедонія,approved
+dysphoria,noun,дисфорія,approved
+hypervigilance,noun,гіпервігільність,approved
+repression,noun,витіснення,approved
+volition,noun,воля,approved
+temperament,noun,темперамент,approved
+neuroticism,noun,нейротизм,approved
+affect,noun,афект,approved
+ideation,noun,ідеація,approved
+hedonism,noun,гедонізм,approved
+asceticism,noun,аскетизм,approved
+anthropomorphism,noun,антропоморфізм,approved
+neurodiversity,noun,нейророзмаїття,approved
+mnemonic,adj,мнемонічний,approved
+cathartic,adj,очисний,approved
+dispositional,adj,диспозиційний,approved
+euphoric,adj,ейфоричний,approved
+catastrophize,verb,перебільшувати загрозу,approved
+ruminate,verb,роздумувати,approved
+community,noun,спільнота,approved
+tradition,noun,традиція,approved
+neighbourhood,noun,район; сусідство,approved
+commitment,noun,зобов'язання; відданість,approved
+argument,noun,сварка,approved
+trust,noun,довіра,approved
+respect,noun,повага,approved
+divorce,noun,розлучення,approved
+engagement,noun,заручини,approved
+loyalty,noun,вірність,approved
+rivalry,noun,суперництво,approved
+companion,noun,супутник; супутниця,approved
+sympathy,noun,співчуття,approved
+tolerance,noun,терпимість,approved
+prejudice,noun,упередженість,approved
+equality,noun,рівність,approved
+minority,noun,меншина,approved
+immigrant,noun,іммігрант,approved
+generation,noun,покоління,approved
+conflict,noun,конфлікт,approved
+reunion,noun,зустріч після розлуки,approved
+acquaintance,noun,знайомий,approved
+charity,noun,благодійність,approved
+volunteer,noun,волонтер,approved
+hospitality,noun,гостинність,approved
+loneliness,noun,самотність,approved
+solidarity,noun,солідарність,approved
+gossip,verb,пліткувати,approved
+rely,verb,покладатися,approved
+apologize,verb,вибачатися,approved
+forgive,verb,пробачати,approved
+neglect,verb,нехтувати,approved
+encourage,verb,підбадьорювати,approved
+reproach,verb,дорікати,approved
+mutual,adj,взаємний,approved
+neighbourly,adj,по-сусідськи добрий,approved
+alienate,verb,відштовхувати; відчужувати,approved
+reconcile,verb,примиряти,approved
+cohabit,verb,жити разом,approved
+ostracize,verb,ізолювати; відвертатися,approved
+kinship,noun,родинні зв'язки,approved
+nepotism,noun,кумівство,approved
+camaraderie,noun,товариськість,approved
+mentorship,noun,наставництво,approved
+estrangement,noun,відчуження,approved
+affinity,noun,спорідненість; симпатія,approved
+reciprocity,noun,взаємність,approved
+rapport,noun,взаєморозуміння,approved
+xenophobia,noun,ксенофобія,approved
+diaspora,noun,діаспора,approved
+ethnicity,noun,етнічна приналежність,approved
+conformity,noun,конформізм,approved
+dissent,noun,незгода,approved
+ritual,noun,ритуал,approved
+disparity,noun,нерівність,approved
+ostracism,noun,остракізм,approved
+insularity,noun,замкненість,approved
+alienation,noun,відчуження,approved
+amicable,adj,дружній,approved
+hostile,adj,ворожий,approved
+affluent,adj,заможний,approved
+marginalized,adj,маргіналізований,approved
+egalitarian,adj,егалітарний,approved
+nostalgic,adj,ностальгійний,approved
+courteous,adj,ввічливий,approved
+condescending,adj,поблажливий,approved
+collective,adj,колективний,approved
+hierarchical,adj,ієрархічний,approved
+altruistic,adj,альтруїстичний,approved
+fraternal,adj,братерський,approved
+amiable,adj,привітний,approved
+reclusive,adj,відлюдний,approved
+rapprochement,noun,зближення,approved
+obsequiousness,noun,підлабузництво,approved
+conviviality,noun,товариськість; весела атмосфера,approved
+misanthrope,noun,мізантроп,approved
+beneficence,noun,доброчинність,approved
+acrimony,noun,злість; роздратування,approved
+bigotry,noun,фанатизм,approved
+ingratitude,noun,невдячність,approved
+bereavement,noun,втрата близької людини,approved
+pariah,noun,ізгой,approved
+philanthropy,noun,філантропія,approved
+clientelism,noun,клієнтелізм,approved
+gregariousness,noun,товариськість,approved
+bellwether,noun,показник настроїв,approved
+consanguinity,noun,кровна спорідненість,approved
+ostentatious,adj,показний,approved
+clannish,adj,замкнений,approved
+sociable,adj,товариський,approved
+parochial,adj,обмежений; провінційний,approved
+abstemious,adj,стриманий,approved
+paternalistic,adj,патерналістський,approved
+fractious,adj,сварливий,approved
+ingratiate,verb,втертися в довіру,approved
+commiserate,verb,співчувати,approved
+vilify,verb,паплюжити,approved
+castigate,verb,ганьбити,approved
+fraternize,verb,товаришувати,approved
+hypothesis,noun,гіпотеза,approved
+experiment,noun,експеримент,approved
+theory,noun,теорія,approved
+analysis,noun,аналіз,approved
+result,noun,результат,approved
+discovery,noun,відкриття,approved
+scientist,noun,науковець,approved
+laboratory,noun,лабораторія,approved
+microscope,noun,мікроскоп,approved
+chemical,noun,хімічна речовина,approved
+molecule,noun,молекула,approved
+gravity,noun,гравітація,approved
+energy,noun,енергія,approved
+species,noun,вид (біол.),approved
+evolution,noun,еволюція,approved
+fossil,noun,скам'янілість,approved
+universe,noun,Всесвіт,approved
+dna,noun,ДНК,approved
+vaccine,noun,вакцина,approved
+variable,noun,змінна,approved
+sample,noun,зразок,approved
+observation,noun,спостереження,approved
+conclusion,noun,висновок,approved
+measurement,noun,вимірювання,approved
+technique,noun,метод,approved
+funding,noun,фінансування,approved
+equation,noun,рівняння,approved
+observatory,noun,обсерваторія,approved
+evidence,verb,підтверджувати,approved
+observe,verb,спостерігати,approved
+measure,verb,вимірювати,approved
+calculate,verb,обчислювати,approved
+replicate,verb,відтворювати,approved
+conclude,verb,робити висновок,approved
+sample,verb,брати зразки,approved
+accurate,adj,точний,approved
+precise,adj,точний,approved
+theoretical,adj,теоретичний,approved
+empirical,adj,емпіричний,approved
+methodology,noun,методологія,approved
+correlation,noun,кореляція,approved
+anomaly,noun,аномалія,approved
+phenomenon,noun,явище,approved
+inference,noun,висновок (логічний),approved
+replication,noun,відтворення (експерименту),approved
+spectrum,noun,спектр,approved
+isotope,noun,ізотоп,approved
+catalyst,noun,каталізатор,approved
+synthesis,noun,синтез,approved
+serendipity,noun,щасливий випадок,approved
+paradigm,noun,парадигма,approved
+empiricism,noun,емпіризм,approved
+quantum,noun,квант,approved
+genome,noun,геном,approved
+ecosystem,noun,екосистема,approved
+mutation,noun,мутація,approved
+prototype,noun,прототип,approved
+convergence,noun,збіг,approved
+radioactivity,noun,радіоактивність,approved
+hypothesize,verb,висувати гіпотезу,approved
+quantify,verb,кількісно вимірювати,approved
+extrapolate,verb,екстраполювати,approved
+falsify,verb,фальсифікувати,approved
+rigorous,adj,ретельний,approved
+plausible,adj,правдоподібний,approved
+reproducible,adj,відтворюваний,approved
+hypothesis-driven,adj,керований гіпотезою,approved
+heterogeneous,adj,неоднорідний,approved
+homogeneous,adj,однорідний,approved
+sedimentary,adj,осадовий,approved
+heterodox,adj,неортодоксальний,approved
+interdisciplinary,adj,міждисциплінарний,approved
+provisional,adj,тимчасовий,approved
+methodical,adj,методичний,approved
+phenomenal,adj,феноменальний,approved
+ontological,adj,онтологічний,approved
+inveterate,adj,закоренілий,approved
+abstruse,adj,незрозумілий,approved
+esoteric,adj,вузькоспеціалізований,approved
+intricate,adj,складний,approved
+tangential,adj,другорядний,approved
+serendipitous,adj,випадковий (щасливий),approved
+stochastic,adj,стохастичний,approved
+apodictic,adj,доказовий,approved
+ineluctable,adj,неминучий,approved
+perspicuous,adj,ясний,approved
+spurious,adj,хибний,approved
+reductionism,noun,редукціонізм,approved
+falsifiability,noun,фальсифікованість,approved
+conjecture,noun,припущення,approved
+axiom,noun,аксіома,approved
+ratiocination,noun,логічне міркування,approved
+corroboration,noun,підтвердження,approved
+reification,noun,реіфікація,approved
+falsification,noun,фальсифікація,approved
+corroborate,verb,підтверджувати,approved
+refute,verb,спростовувати,approved
+ascertain,verb,з'ясовувати,approved
+heuristically,adv,евристично,approved
+training,noun,тренування,approved
+athlete,noun,спортсмен,approved
+opponent,noun,суперник,approved
+referee,noun,арбітр,approved
+championship,noun,чемпіонат,approved
+stamina,noun,витривалість,approved
+endurance,noun,витривалість,approved
+equipment,noun,спорядження,approved
+coach,noun,тренер,approved
+marathon,noun,марафон,approved
+tournament,noun,турнір,approved
+goal,noun,гол; мета,approved
+stadium,noun,стадіон,approved
+trophy,noun,трофей,approved
+athletics,noun,легка атлетика,approved
+goalkeeper,noun,воротар,approved
+pitch,noun,поле,approved
+fitness,noun,фізична форма,approved
+sprint,noun,спринт,approved
+trainer,noun,тренер,approved
+score,verb,забивати (гол),approved
+defeat,verb,перемагати,approved
+compete,verb,змагатися,approved
+exercise,verb,займатися,approved
+stretch,verb,розтягуватися,approved
+hydrate,verb,поповнювати рідину,approved
+referee,verb,судити,approved
+dribble,verb,вести м'яч,approved
+competitive,adj,конкурентний,approved
+athletic,adj,спортивний,approved
+flexible,adj,гнучкий,approved
+energetic,adj,енергійний,approved
+exhausted,adj,виснажений,approved
+fit,adj,у формі,approved
+agile,adj,спритний,approved
+steady,adj,стабільний,approved
+warm up,phrase,розминатися,approved
+regimen,noun,режим,approved
+tenacity,noun,наполегливість,approved
+discipline,noun,дисципліна,approved
+buoyancy,noun,плавучість,approved
+momentum,noun,імпульс,approved
+pacing,noun,розподіл темпу,approved
+dexterity,noun,спритність,approved
+hamstring,noun,задня поверхня стегна,approved
+concussion,noun,струс мозку,approved
+tenet,noun,принцип,approved
+sportsmanship,noun,спортивна поведінка,approved
+spectator,noun,глядач,approved
+formidable,noun,грізний суперник,approved
+overexertion,noun,перенапруження,approved
+exertion,noun,зусилля,approved
+sprint,verb,бігти спринт,approved
+tackle,verb,відбирати м'яч,approved
+outpace,verb,обганяти,approved
+overtrain,verb,перетренуватися,approved
+acclimatize,verb,акліматизуватися,approved
+retaliate,verb,відповідати ударом,approved
+intercept,verb,перехоплювати,approved
+replenish,verb,поповнювати,approved
+discipline,verb,дисциплінувати,approved
+reverse,verb,розвертатися,approved
+formidable,adj,грізний,approved
+unbeaten,adj,непереможний,approved
+meticulous,adj,старанний,approved
+strenuous,adj,виснажливий,approved
+versatile,adj,різнобічний,approved
+supple,adj,гнучкий,approved
+ataxia,noun,атаксія,approved
+kinesiology,noun,кінезіологія,approved
+proprioception,noun,пропріоцепція,approved
+periodisation,noun,періодизація,approved
+lactate,noun,лактат,approved
+hypertrophy,noun,гіпертрофія,approved
+gambit,noun,тактичний хід,approved
+apogee,noun,апогей,approved
+plenitude,noun,повнота,approved
+bravado,noun,бравада,approved
+tenaciousness,noun,наполегливість,approved
+ballistics,noun,балістика,approved
+ergonomics,noun,ергономіка,approved
+cardiovascular,adj,серцево-судинний,approved
+plyometric,adj,плиометричний,approved
+isometric,adj,ізометричний,approved
+ergogenic,adj,ергогенний,approved
+recumbent,adj,лежачий,approved
+gruelling,adj,виснажливий,approved
+indomitable,adj,незламний,approved
+unflappable,adj,незворушний,approved
+ballistic,adj,балістичний,approved
+dogged,adj,наполегливий,approved
+aerobic,adj,аеробний,approved
+anaerobic,adj,анаеробний,approved
+kinetic,adj,кінетичний,approved
+gladiatorial,adj,гладіаторський,approved
+flagellate,verb,бичувати себе,approved
+flail,verb,махати руками,approved
+software,noun,програмне забезпечення,approved
+algorithm,noun,алгоритм,approved
+database,noun,база даних,approved
+password,noun,пароль,approved
+glitch,noun,збій,approved
+update,noun,оновлення,approved
+device,noun,пристрій,approved
+gadget,noun,гаджет,approved
+network,noun,мережа,approved
+virus,noun,вірус,approved
+hacker,noun,хакер,approved
+interface,noun,інтерфейс,approved
+sensor,noun,датчик,approved
+module,noun,модуль,approved
+startup,noun,стартап,approved
+browser,noun,браузер,approved
+streaming,noun,стрімінг,approved
+notification,noun,сповіщення,approved
+feature,noun,функція,approved
+connectivity,noun,зв'язок,approved
+subscription,noun,підписка,approved
+spreadsheet,noun,таблиця,approved
+download,noun,завантаження,approved
+upload,verb,завантажувати,approved
+download,verb,завантажувати (на пристрій),approved
+encrypt,verb,шифрувати,approved
+browse,verb,переглядати,approved
+install,verb,встановлювати,approved
+crash,verb,завершуватися аварійно,approved
+password,verb,захищати паролем,approved
+prototype,verb,створювати прототип,approved
+glitch,verb,давати збій,approved
+artificial intelligence,phrase,штучний інтелект,approved
+online,adj,онлайн,approved
+digital,adj,цифровий,approved
+wireless,adj,бездротовий,approved
+automated,adj,автоматизований,approved
+compatible,adj,сумісний,approved
+bandwidth,noun,пропускна здатність,approved
+latency,noun,затримка,approved
+protocol,noun,протокол,approved
+firewall,noun,брандмауер,approved
+phishing,noun,фішинг,approved
+interoperability,noun,сумісність (систем),approved
+pixel,noun,піксель,approved
+encryption,noun,шифрування,approved
+broadband,noun,широкосмуговий інтернет,approved
+robotics,noun,робототехніка,approved
+spam,noun,спам,approved
+cache,noun,кеш,approved
+sandbox,noun,пісочниця,approved
+hashing,noun,хешування,approved
+throughput,noun,пропускна здатність,approved
+scalability,noun,масштабованість,approved
+scalable,adj,масштабований,approved
+obsolete,adj,застарілий,approved
+immersive,adj,захоплюючий (віртуально),approved
+ubiquitous,adj,вездесущий,approved
+algorithmic,adj,алгоритмічний,approved
+open-source,adj,з відкритим кодом,approved
+pseudonymous,adj,псевдонімний,approved
+legacy,adj,застарілий (про систему),approved
+interoperable,adj,сумісний,approved
+authenticate,verb,автентифікувати,approved
+optimise,verb,оптимізувати,approved
+debug,verb,налагоджувати,approved
+deploy,verb,розгортати,approved
+iterate,verb,ітерувати; вдосконалювати,approved
+deprecate,verb,позначати як застарілий,approved
+data mining,phrase,інтелектуальний аналіз даних,approved
+roll out,phrase,поетапно запровадити,approved
+decentralized,adj,децентралізований,approved
+idempotent,adj,ідемпотентний,approved
+monolithic,adj,монолітний,approved
+impeccable,adj,бездоганний,approved
+granular,adj,гранулярний,approved
+asynchronous,adj,асинхронний,approved
+polymorphic,adj,поліморфний,approved
+polymorphism,noun,поліморфізм,approved
+concurrency,noun,паралельність,approved
+encapsulation,noun,інкапсуляція,approved
+recursion,noun,рекурсія,approved
+isomorphism,noun,ізоморфізм,approved
+kludge,noun,костиль,approved
+ontology,noun,онтологія,approved
+idempotence,noun,ідемпотентність,approved
+serialization,noun,серіалізація,approved
+virtualization,noun,віртуалізація,approved
+exfiltration,noun,ексфільтрація,approved
+ubiquity,noun,вездесущність,approved
+exfiltrate,verb,викрасти (дані),approved
+bifurcate,verb,роздвоюватися,approved
+itinerary,noun,маршрут,approved
+destination,noun,пункт призначення,approved
+journey,noun,подорож,approved
+excursion,noun,екскурсія,approved
+booking,noun,бронювання,approved
+luggage,noun,багаж,approved
+departure,noun,відправлення,approved
+arrival,noun,прибуття,approved
+passport,noun,паспорт,approved
+souvenir,noun,сувенір,approved
+guidebook,noun,путівник,approved
+scenery,noun,краєвид,approved
+accommodation,noun,житло,approved
+delay,noun,затримка,approved
+hostel,noun,хостел,approved
+tourism,noun,туризм,approved
+expedition,noun,експедиція,approved
+pilgrimage,noun,паломництво,approved
+brochure,noun,буклет,approved
+cruise,noun,круїз,approved
+transit,noun,транзит,approved
+passenger,noun,пасажир,approved
+tour,verb,подорожувати (оглядати),approved
+explore,verb,досліджувати,approved
+book,verb,бронювати,approved
+cancel,verb,скасовувати,approved
+visa,verb,візувати,approved
+souvenir,verb,сувенір,approved
+accommodate,verb,розміщувати,approved
+local,adj,місцевий,approved
+scenic,adj,мальовничий,approved
+remote,adj,віддалений,approved
+authentic,adj,автентичний,approved
+wanderlust,noun,жага до подорожей,approved
+sojourn,noun,перебування,approved
+stopover,noun,зупинка (в дорозі),approved
+layover,noun,пересадка,approved
+hinterland,noun,глибинка,approved
+fare,noun,плата за проїзд,approved
+visa,noun,віза,approved
+customs,noun,митниця,approved
+jaunt,noun,коротка подорож,approved
+globetrotter,noun,мандрівник,approved
+concierge,noun,консьєрж,approved
+gratuity,noun,чайові,approved
+immigration,noun,імміграційний контроль,approved
+boardwalk,noun,дерев'яний настил,approved
+sightseeing,noun,огляд визначних місць,approved
+itinerant,noun,мандрівник,approved
+itinerant,adj,мандрівний,approved
+bespoke,adj,індивідуальний,approved
+off-beat,adj,незвичний,approved
+picturesque,adj,живописний,approved
+exorbitant,adj,непомірний,approved
+inaccessible,adj,недоступний,approved
+itinerary,adj,подорожній,approved
+embark,verb,сідати (на борт),approved
+disembark,verb,зійти (з борту),approved
+reroute,verb,змінити маршрут,approved
+trek,verb,йти в похід,approved
+overbook,verb,перебронювати,approved
+hitchhike,verb,подорожувати автостопом,approved
+hospitality industry,phrase,сфера гостинності,approved
+peregrination,noun,мандрівка,approved
+vagabond,noun,волоцюга,approved
+sybarite,noun,гедоніст,approved
+exoticism,noun,екзотика,approved
+odyssey,noun,одіссея,approved
+interstice,noun,проміжок,approved
+pilgrim,noun,паломник,approved
+transhumance,noun,відгінне скотарство,approved
+hegira,noun,втеча; переселення,approved
+wayfarer,noun,мандрівник,approved
+emissary,noun,посланець,approved
+nomad,noun,кочівник,approved
+wanderer,noun,мандрівник,approved
+roaming,noun,роумінг,approved
+excursionist,noun,екскурсант,approved
+ecotourism,noun,екотуризм,approved
+tramp,noun,мандрівник пішки,approved
+bucolic,adj,буколічний,approved
+halcyon,adj,безтурботний,approved
+vertiginous,adj,паморочливий,approved
+insular,adj,замкнений,approved
+wayfaring,adj,мандрівний,approved
+viatic,adj,дорожній,approved
+tourist trap,phrase,туристична пастка,approved
+terra incognita,phrase,невідома територія,approved
+peregrinate,verb,мандрувати,approved
+promotion,noun,підвищення на посаді,approved
+deadline,noun,кінцевий термін,approved
+workload,noun,обсяг роботи,approved
+vacancy,noun,вакансія,approved
+qualification,noun,кваліфікація; диплом,approved
+responsibility,noun,відповідальність,approved
+overtime,noun,понаднормові,approved
+mentor,noun,наставник,approved
+expertise,noun,фахові знання,approved
+shift,noun,зміна (робочий час),approved
+workplace,noun,робоче місце,approved
+supervisor,noun,керівник,approved
+burnout,noun,емоційне виснаження,approved
+career,noun,кар'єра,approved
+commission,noun,комісія,approved
+probation,noun,випробувальний термін,approved
+appraisal,noun,оцінка роботи,approved
+handover,noun,передача справ,approved
+mentee,noun,підопічний,approved
+recruit,verb,наймати персонал,approved
+resign,verb,звільнятися за власним бажанням,approved
+negotiate,verb,домовлятися; вести переговори,approved
+achieve,verb,досягати,approved
+retire,verb,виходити на пенсію,approved
+hire,verb,наймати,approved
+dismiss,verb,звільняти,approved
+accomplish,verb,досягати; виконувати,approved
+delegate,verb,делегувати,approved
+shortlist,verb,вносити до короткого списку,approved
+experienced,adj,досвідчений,approved
+freelance,adj,фріланс; позаштатний,approved
+productive,adj,продуктивний,approved
+demanding,adj,вимогливий; виснажливий,approved
+proficient,adj,майстерний; умілий,approved
+redundant,adj,зайвий; без потреби,approved
+hands-on,adj,практичний,approved
+pay rise,phrase,підвищення зарплати,approved
+diligent,adj,старанний,approved
+mediocre,adj,посередній,approved
+vocational,adj,професійний; фаховий,approved
+cutthroat,adj,жорсткий; безжальний,approved
+accountable,adj,підзвітний,approved
+adept,adj,умілий,approved
+meritocratic,adj,меритократичний,approved
+entrepreneur,noun,підприємець,approved
+incentive,noun,стимул,approved
+sabbatical,noun,творча відпустка,approved
+redundancy,noun,скорочення штату,approved
+hierarchy,noun,ієрархія,approved
+bureaucracy,noun,бюрократія,approved
+remuneration,noun,винагорода; оплата праці,approved
+networking,noun,налагодження зв'язків,approved
+onboarding,noun,адаптація нового працівника,approved
+prospect,noun,перспектива,approved
+résumé,noun,резюме,approved
+internship,noun,стажування,approved
+attrition,noun,плинність кадрів,approved
+delegation,noun,делегування,approved
+endeavour,noun,прагнення; справа,approved
+consultancy,noun,консалтингова фірма,approved
+headhunter,noun,рекрутер,approved
+leverage,verb,використовувати як важіль,approved
+spearhead,verb,очолювати,approved
+streamline,verb,спрощувати,approved
+stagnate,verb,застоюватися,approved
+juggle,verb,поєднувати (обов'язки),approved
+implement,verb,впроваджувати,approved
+facilitate,verb,сприяти; полегшувати,approved
+coerce,verb,примушувати,approved
+lay off,phrase,звільняти через скорочення,approved
+take on,phrase,наймати; брати на себе,approved
+perfunctory,adj,формальний; поверховий,approved
+indispensable,adj,незамінний,approved
+superfluous,adj,зайвий,approved
+lucrative,adj,прибутковий,approved
+tedious,adj,нудний; монотонний,approved
+gratuitous,adj,безпідставний,approved
+cogent,adj,переконливий,approved
+deft,adj,спритний; вправний,approved
+vicarious,adj,опосередкований,approved
+precarious,adj,ненадійний,approved
+exacting,adj,вимогливий,approved
+vocation,noun,покликання,approved
+emolument,noun,винагорода; платня,approved
+meritocracy,noun,меритократія,approved
+sycophant,noun,підлабузник,approved
+diligence,noun,старанність,approved
+acumen,noun,кмітливість,approved
+incumbent,noun,чинний посадовець,approved
+remit,noun,сфера повноважень,approved
+abnegation,noun,самозречення,approved
+doggedness,noun,вперте завзяття,approved
+resourcefulness,noun,кмітливість,approved
+nepotist,noun,прихильник кумівства,approved
+ineptitude,noun,некомпетентність,approved
+apprise,verb,повідомляти,approved
+dispatch,verb,швидко відправляти,approved
+orchestrate,verb,організовувати; координувати,approved
+yield,verb,давати (результат),approved
+abdicate,verb,відмовлятися (від відповідальності),approved
+deputize,verb,призначати заступником,approved

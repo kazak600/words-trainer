@@ -1,0 +1,3 @@
+noun: headline, journalist, broadcast, source, rumour, fact, bias, coverage, editor, columnist, documentary, viewer, press, column, podcast, blog, anchor, edition, censorship, debate, spokesperson, paparazzi, hoax, editorial, trend, broadcaster, publication, reporter, gossip
+verb: report, subscribe, censor, interview, headline, ban
+adj: exclusive, reliable, misleading

@@ -1,3 +1,0 @@
-noun: food, bread, butter, cheese, egg, milk, meat, fish, rice, soup, salad, apple, banana, potato, vegetable, fruit, water, tea, coffee, juice, breakfast, lunch, dinner
-verb: eat, drink, cook
-adj: hungry, delicious

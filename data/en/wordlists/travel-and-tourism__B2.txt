@@ -1,0 +1,3 @@
+noun: itinerary, destination, journey, excursion, booking, luggage, departure, arrival, passport, souvenir, guidebook, scenery, accommodation, delay, hostel, tourism, expedition, pilgrimage, brochure, cruise, transit, passenger
+verb: tour, explore, book, cancel, visa, souvenir, accommodate
+adj: local, scenic, remote, authentic

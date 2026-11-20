@@ -1,0 +1,89 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+behaviour,noun,B2,,поведінка,Her ___ changed after the accident.,behaviour,Її поведінка змінилася після аварії.,approved
+memory,noun,B2,,пам'ять,My grandmother has a very good ___.,memory,Моя бабуся має дуже добру пам'ять.,approved
+perception,noun,B2,,сприйняття,Our ___ of the world depends on experience.,perception,Наше сприйняття світу залежить від досвіду.,approved
+motivation,noun,B2,,мотивація,Lack of ___ is the main problem.,motivation,Відсутність мотивації — головна проблема.,approved
+instinct,noun,B2,,інстинкт,Animals follow their ___s.,instincts,Тварини слідують своїм інстинктам.,approved
+anxiety,noun,B2,,тривога,Exam ___ affects many students.,anxiety,Тривога перед іспитами впливає на багатьох студентів.,approved
+trauma,noun,B2,,травма,Childhood ___ can have lasting effects.,trauma,Дитяча травма може мати довготривалі наслідки.,approved
+therapy,noun,B2,,терапія,She goes to ___ once a week.,therapy,Вона ходить на терапію раз на тиждень.,approved
+depression,noun,B2,,депресія,Doctors treat ___ with therapy and medication.,depression,Лікарі лікують депресію терапією і ліками.,approved
+personality,noun,B2,,особистість,Her ___ is very cheerful.,personality,Її особистість дуже життєрадісна.,approved
+habit,noun,B2,,звичка,Biting your nails is a bad ___.,habit,Гризти нігті — погана звичка.,approved
+belief,noun,B2,,переконання,Many people hold strong religious ___s.,beliefs,Багато людей мають сильні релігійні переконання.,approved
+emotion,noun,B2,,емоція,Music can stir strong ___s.,emotions,Музика може викликати сильні емоції.,approved
+attention,noun,B2,,увага,Children need constant ___.,attention,Дітям потрібна постійна увага.,approved
+doubt,noun,B2,,сумнів,I have some ___s about his plan.,doubts,У мене є сумніви щодо його плану.,approved
+self-esteem,noun,B2,,самооцінка,Praise helps build a child's ___.,self-esteem,Похвала допомагає формувати самооцінку дитини.,approved
+insomnia,noun,B2,,безсоння,Stress can cause ___.,insomnia,Стрес може спричиняти безсоння.,approved
+attitude,noun,B2,,ставлення,Her positive ___ helps her in difficult times.,attitude,Її позитивне ставлення допомагає в важкі часи.,approved
+insight,noun,B2,,розуміння,The book gives valuable ___ into human behaviour.,insight,Книга дає цінне розуміння людської поведінки.,approved
+reflex,noun,B2,,рефлекс,Blinking is an automatic ___.,reflex,Моргання — автоматичний рефлекс.,approved
+trigger,noun,B2,,тригер,Loud noises can be a ___ for anxiety.,trigger,Гучні звуки можуть бути тригером тривоги.,approved
+hallucination,noun,B2,,галюцинація,The patient described a vivid ___.,hallucination,Пацієнт описав яскраву галюцинацію.,approved
+subconscious,adj,B2,,підсвідомий,Dreams reflect the ___ mind.,subconscious,Сни відображають підсвідомість.,approved
+optimistic,adj,B2,,оптимістичний,She is ___ about her chances.,optimistic,Вона оптимістично налаштована щодо своїх шансів.,approved
+aware,adj,B2,,обізнаний,I was not ___ of the danger.,aware,Я не усвідомлював небезпеку.,approved
+stressed,adj,B2,,перевтомлений; у стресі,He looked ___ before the presentation.,stressed,Він виглядав напруженим перед презентацією.,approved
+logical,adj,B2,,логічний,Her explanation was clear and ___.,logical,Її пояснення було чітким і логічним.,approved
+irrational,adj,B2,,нераціональний,His fear of the dark seemed ___.,irrational,Його страх темряви здавався нераціональним.,approved
+emotional,adj,B2,,емоційний,The film had an ___ ending.,emotional,Фільм мав емоційну кінцівку.,approved
+focus,verb,B2,,зосереджуватися,It is hard to ___ in a noisy room.,focus,Важко зосередитися в галасливій кімнаті.,approved
+remember,verb,B2,,пам'ятати,I cannot ___ where I put my keys.,remember,"Я не пам'ятаю, куди поклав ключі.",approved
+forget,verb,B2,,забувати,Do not ___ to lock the door.,forget,Не забудьте зачинити двері.,approved
+stress,verb,B2,,наголошувати,The teacher ___ed the importance of practice.,stressed,Учитель наголосив на важливості практики.,approved
+fear,verb,B2,,боятися,Many children ___ the dark.,fear,Багато дітей бояться темряви.,approved
+cognition,noun,C1,,пізнання,Sleep plays an important role in ___.,cognition,Сон відіграє важливу роль у пізнанні.,approved
+introspection,noun,C1,,інтроспекція,Meditation encourages deep ___.,introspection,Медитація заохочує глибоку інтроспекцію.,approved
+resilience,noun,C1,,стійкість,Children can develop great ___.,resilience,Діти можуть розвинути велику стійкість.,approved
+dissociation,noun,C1,,дисоціація,Some people experience ___ under extreme stress.,dissociation,Деякі люди переживають дисоціацію під надмірним стресом.,approved
+rumination,noun,C1,,руминація; нав'язливі думки,Constant ___ worsens low mood.,rumination,Постійна руминація погіршує настрій.,approved
+heuristic,noun,C1,,евристика,People use a mental ___ to make quick decisions.,heuristic,Люди використовують ментальну евристику для швидких рішень.,approved
+phobia,noun,C1,,фобія,She has a ___ of spiders.,phobia,У неї фобія павуків.,approved
+compulsion,noun,C1,,компульсія,He felt a strong ___ to check the door.,compulsion,Він відчув сильну компульсію перевірити двері.,approved
+inhibition,noun,C1,,гальмування; стриманість,Alcohol can lower your ___s.,inhibitions,Алкоголь може знизити ваші внутрішні стримування.,approved
+epiphany,noun,C1,,прозріння,"After months of study, he had an ___.",epiphany,Після місяців навчання він мав прозріння.,approved
+ambivalence,noun,C1,,амбівалентність,She felt ___ about leaving her job.,ambivalence,Вона відчувала амбівалентність щодо звільнення з роботи.,approved
+impulsivity,noun,C1,,імпульсивність,Her ___ often led her into trouble.,impulsivity,Її імпульсивність часто ставила її в незручні ситуації.,approved
+neurosis,noun,C1,,невроз,He was treated for chronic ___.,neurosis,Його лікували від хронічного неврозу.,approved
+mindfulness,noun,C1,,усвідомленість,___ helps reduce stress.,Mindfulness,Усвідомленість допомагає знизити стрес.,approved
+conditioning,noun,C1,,кондиціонування,Classical ___ was studied by Pavlov.,conditioning,Класичне кондиціонування вивчав Павлов.,approved
+projection,noun,C1,,проєкція,He used ___ to avoid his own faults.,projection,"Він використовував проєкцію, щоб не визнавати власних вад.",approved
+ego,noun,C1,,его,His ___ was bruised by the criticism.,ego,Його его постраждало від критики.,approved
+self-awareness,noun,C1,,самоусвідомлення,Good leaders have strong ___.,self-awareness,Добрі лідери мають сильне самоусвідомлення.,approved
+psychoanalysis,noun,C1,,психоаналіз,Freud is the founder of ___.,psychoanalysis,Фрейд — засновник психоаналізу.,approved
+cognitive dissonance,phrase,C1,,когнітивний дисонанс,He felt ___ when his beliefs clashed with facts.,cognitive dissonance,"Він відчув когнітивний дисонанс, коли його переконання суперечили фактам.",approved
+subliminal,adj,C1,,підсвідомий,The advert used ___ messages.,subliminal,Реклама використовувала підсвідомі повідомлення.,approved
+lethargic,adj,C1,,млявий,"After the long flight, he felt ___.",lethargic,Після довгого перельоту він почувався млявим.,approved
+obsessive,adj,C1,,нав'язливий,Her ___ tidiness exhausted everyone.,obsessive,Її нав'язлива охайність виснажувала всіх.,approved
+introverted,adj,C1,,інтровертний,She is quiet and ___.,introverted,Вона тиха і інтровертна.,approved
+catatonic,adj,C1,,кататонічний,The patient became ___ after the shock.,catatonic,Пацієнт став кататонічним після шоку.,approved
+sentient,adj,C1,,свідомий,Scientists debate whether animals are ___.,sentient,"Науковці сперечаються, чи є тварини свідомими.",approved
+cognitive-behavioural,adj,C1,,когнітивно-поведінковий,She uses a ___ approach to treat anxiety.,cognitive-behavioural,Вона використовує когнітивно-поведінковий підхід для лікування тривоги.,approved
+hypnotic,adj,C1,,гіпнотичний,The rhythm of the music was ___.,hypnotic,Ритм музики був гіпнотичним.,approved
+innate,adj,C1,,вроджений,Some people seem to have an ___ talent for music.,innate,"Здається, у деяких людей є вроджений талант до музики.",approved
+ingrained,adj,C1,,укорінений,The habit is deeply ___.,ingrained,Ця звичка глибоко укорінена.,approved
+apathetic,adj,C1,,апатичний,He seemed ___ about his future.,apathetic,Він здавався апатичним щодо свого майбутнього.,approved
+dissociate,verb,C1,,відокремлювати,She tried to ___ her feelings from the event.,dissociate,Вона намагалася відокремити свої почуття від події.,approved
+ontogeny,noun,C2,,онтогенез,The study traced the ___ of language acquisition.,ontogeny,Дослідження простежувало онтогенез засвоєння мови.,approved
+dissimulation,noun,C2,,удавання,His calm was pure ___.,dissimulation,Його спокій був чистим удаванням.,approved
+psychosis,noun,C2,,психоз,The patient showed signs of acute ___.,psychosis,У пацієнта були ознаки гострого психозу.,approved
+anhedonia,noun,C2,,ангедонія,Loss of pleasure is a symptom of ___.,anhedonia,Втрата задоволення — симптом ангедонії.,approved
+dysphoria,noun,C2,,дисфорія,She felt a deep sense of ___.,dysphoria,Вона відчувала глибоку дисфорію.,approved
+hypervigilance,noun,C2,,гіпервігільність,Trauma can lead to ___.,hypervigilance,Травма може призвести до гіпервігільності.,approved
+repression,noun,C2,,витіснення,Freud described ___ as a defence mechanism.,repression,Фрейд описував витіснення як захисний механізм.,approved
+volition,noun,C2,,воля,Every action requires conscious ___.,volition,Кожна дія потребує свідомої волі.,approved
+temperament,noun,C2,,темперамент,Her calm ___ suited the nursing job.,temperament,Її спокійний темперамент пасував до роботи медсестри.,approved
+neuroticism,noun,C2,,нейротизм,High ___ was linked to anxiety.,neuroticism,Високий нейротизм пов'язували з тривогою.,approved
+affect,noun,C2,,афект,Her flat ___ worried the doctor.,affect,Її сплощений афект турбував лікаря.,approved
+ideation,noun,C2,,ідеація,Clinicians assess suicidal ___.,ideation,Клініцисти оцінюють суїцидальну ідеацію.,approved
+hedonism,noun,C2,,гедонізм,The philosopher defended a form of ___.,hedonism,Філософ відстоював одну з форм гедонізму.,approved
+asceticism,noun,C2,,аскетизм,Her ___ surprised her friends.,asceticism,Її аскетизм здивував друзів.,approved
+anthropomorphism,noun,C2,,антропоморфізм,The cartoon relies on ___.,anthropomorphism,Мультфільм спирається на антропоморфізм.,approved
+neurodiversity,noun,C2,,нейророзмаїття,The school promotes ___ among students.,neurodiversity,Школа пропагує нейророзмаїття серед учнів.,approved
+mnemonic,adj,C2,,мнемонічний,The poem used a ___ rhythm to aid memory.,mnemonic,"Вірш використовував мнемонічний ритм, щоб допомагати пам'яті.",approved
+cathartic,adj,C2,,очисний,The concert was ___ for the grieving fans.,cathartic,"Концерт був очисним для фанатів, що сумували.",approved
+dispositional,adj,C2,,диспозиційний,The study measured ___ traits.,dispositional,Дослідження вимірювало диспозиційні риси.,approved
+euphoric,adj,C2,,ейфоричний,The athlete felt ___ after the record.,euphoric,Спортсмен відчував ейфорію після рекорду.,approved
+catastrophize,verb,C2,,перебільшувати загрозу,He tends to ___ small problems.,catastrophize,Він схильний перебільшувати дрібні проблеми.,approved
+ruminate,verb,C2,,роздумувати,She continued to ___ over the argument.,ruminated,Вона продовжувала роздумувати над сваркою.,approved

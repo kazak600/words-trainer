@@ -27,7 +27,7 @@ export async function listWordRowsByTopic(
        LEFT JOIN sentences s ON s.word_id = w.id AND s.hint_target_lang = ?1
          AND s.review_status IN ('approved', 'edited')
        WHERE w.topic_id = ?2 AND tr.review_status IN ('approved', 'edited')
-       ORDER BY CASE w.level WHEN 'A1' THEN 1 WHEN 'A2' THEN 2 WHEN 'B1' THEN 3 ELSE 4 END, w.id, s.id`,
+       ORDER BY CASE w.level WHEN 'A1' THEN 1 WHEN 'A2' THEN 2 WHEN 'B1' THEN 3 WHEN 'B2' THEN 4 WHEN 'C1' THEN 5 WHEN 'C2' THEN 6 ELSE 7 END, w.id, s.id`,
     )
     .bind(targetLang, topicId)
     .all<WordSentenceRow>();

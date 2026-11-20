@@ -1,0 +1,101 @@
+# B2
+election | noun | вибори | The ___ will take place in November. | election | Вибори відбудуться у листопаді.
+government | noun | уряд | The new ___ promised tax cuts. | government | Новий уряд пообіцяв зниження податків.
+policy | noun | політика; курс | The party changed its economic ___. | policy | Партія змінила свою економічну політику.
+parliament | noun | парламент | The bill was debated in ___ for a week. | parliament | Законопроєкт обговорювали в парламенті тиждень.
+campaign | noun | кампанія | The candidate launched a new ___ for the presidency. | campaign | Кандидат розпочав нову кампанію за президентство.
+reform | noun | реформа | The ___ aims to simplify the tax system. | reform | Реформа має на меті спростити податкову систему.
+constitution | noun | конституція | The ___ guarantees freedom of speech. | constitution | Конституція гарантує свободу слова.
+protest | noun | протест | Thousands joined the ___ outside the ministry. | protest | Тисячі людей приєдналися до протесту біля міністерства.
+coalition | noun | коаліція | Two parties formed a ___ after the election. | coalition | Після виборів дві партії утворили коаліцію.
+opposition | noun | опозиція | The ___ criticized the budget plan. | opposition | Опозиція розкритикувала план бюджету.
+diplomat | noun | дипломат | The ___ negotiated the peace agreement. | diplomat | Дипломат вів переговори про мирну угоду.
+treaty | noun | договір | The two countries signed a trade ___. | treaty | Дві країни підписали торговельний договір.
+citizen | noun | громадянин | Every ___ has the right to a fair trial. | citizen | Кожен громадянин має право на справедливий суд.
+democracy | noun | демократія | Free elections are essential to ___. | democracy | Вільні вибори є необхідними для демократії.
+legislation | noun | законодавство | New ___ will protect workers' rights. | legislation | Нове законодавство захистить права працівників.
+minister | noun | міністр | The ___ announced a new education plan. | minister | Міністр оголосив новий план освіти.
+mayor | noun | мер | The ___ opened the new park. | mayor | Мер відкрив новий парк.
+regime | noun | режим | The people wanted to overthrow the military ___. | regime | Люди хотіли повалити військовий режим.
+rebel | noun | повстанець | The ___s seized the capital last night. | rebels | Повстанці захопили столицю минулої ночі.
+ballot | noun | бюлетень | Please mark your choice on the ___. | ballot | Будь ласка, позначте свій вибір у бюлетені.
+statesman | noun | державний діяч | The ___ is remembered for his honesty. | statesman | Державного діяча пам'ятають за його чесність.
+propaganda | noun | пропаганда | The state media spread ___ about the war. | propaganda | Державні ЗМІ поширювали пропаганду про війну.
+bureaucrat | noun | бюрократ | The ___ refused to sign the permit. | bureaucrat | Бюрократ відмовився підписати дозвіл.
+sovereignty | noun | суверенітет | The country defended its ___ at all costs. | sovereignty | Країна захищала свій суверенітет будь-якою ціною.
+vote | verb | голосувати | Citizens over eighteen can ___ in the referendum. | vote | Громадяни старше вісімнадцяти можуть голосувати на референдумі.
+sanction | verb | санкціонувати | The council did not ___ the new building. | sanction | Рада не санкціонувала нове будівництво.
+candidate | noun | кандидат | The ___ gave a speech at the rally. | candidate | Кандидат виголосив промову на мітингу.
+reform | verb | реформувати | The government plans to ___ the health system. | reform | Уряд планує реформувати систему охорони здоров'я.
+tax | verb | оподатковувати | The new law will ___ luxury goods more heavily. | tax | Новий закон оподаткує предмети розкоші сильніше.
+vote | noun | голос | Every ___ counts in a democracy. | vote | У демократії кожен голос має значення.
+debate | verb | дебатувати | Parliament will ___ the bill next week. | debate | Парламент наступного тижня обговорюватиме законопроєкт.
+rally | noun | мітинг | Thousands attended the ___ in the capital. | rally | Тисячі людей прийшли на мітинг у столиці.
+pledge | noun | обіцянка | The leader made a public ___ to cut taxes. | pledge | Лідер публічно пообіцяв знизити податки.
+parliamentary | adj | парламентський | The country has a ___ system. | parliamentary | У країні парламентська система.
+# C1
+hegemony | noun | гегемонія | The empire sought political ___ over the region. | hegemony | Імперія прагнула політичної гегемонії в регіоні.
+filibuster | noun | затягування дебатів | The senator's ___ lasted for twelve hours. | filibuster | Затягування дебатів сенатором тривало дванадцять годин.
+lobbying | noun | лобіювання | Corporate ___ influenced the new law. | lobbying | Корпоративне лобіювання вплинуло на новий закон.
+referendum | noun | референдум | The ___ will decide the country's future. | referendum | Референдум вирішить майбутнє країни.
+autocracy | noun | автократія | The country slid into ___ after the coup. | autocracy | Після перевороту країна сповзла в автократію.
+populism | noun | популізм | ___ gained support during the economic crisis. | Populism | Популізм набув підтримки під час економічної кризи.
+diplomacy | noun | дипломатія | Quiet ___ prevented a larger conflict. | diplomacy | Тиха дипломатія запобігла більшому конфлікту.
+insurgent | noun | повстанець | The ___ controlled the northern provinces. | insurgents | Повстанці контролювали північні провінції.
+embargo | noun | ембарго | The ___ cut off oil exports to the region. | embargo | Ембарго припинило експорт нафти до регіону.
+mandate | noun | мандат | The party won a clear ___ to govern. | mandate | Партія отримала чіткий мандат на управління.
+dissident | noun | дисидент | The ___ was imprisoned for his writing. | dissident | Дисидента ув'язнили за його тексти.
+nationalism | noun | націоналізм | Rising ___ divided the electorate. | nationalism | Зростаючий націоналізм розколов електорат.
+pragmatism | noun | прагматизм | Her ___ won her respect across the aisle. | pragmatism | Її прагматизм здобув їй повагу з обох боків.
+oligarch | noun | олігарх | The ___ controlled most of the media. | oligarch | Олігарх контролював більшість ЗМІ.
+constituency | noun | виборчий округ | The MP visits her ___ every week. | constituency | Депутатка щотижня відвідує свій виборчий округ.
+jurisdiction | noun | юрисдикція | This matter falls under federal ___. | jurisdiction | Це питання належить до федеральної юрисдикції.
+plenipotentiary | noun | повноважний представник | The ___ signed the agreement on behalf of the state. | plenipotentiary | Повноважний представник підписав угоду від імені держави.
+ideology | noun | ідеологія | Their ___ shaped every policy decision. | ideology | Їхня ідеологія визначала кожне політичне рішення.
+legitimacy | noun | легітимність | The protests questioned the government's ___. | legitimacy | Протести поставили під сумнів легітимність уряду.
+consensus | noun | консенсус | The committee reached a broad ___ after months of talks. | consensus | Після місяців переговорів комітет досяг широкого консенсусу.
+ratify | verb | ратифікувати | The senate voted to ___ the agreement. | ratify | Сенат проголосував за ратифікацію угоди.
+impeach | verb | імпічмент | The opposition tried to ___ the president. | impeach | Опозиція намагалася оголосити імпічмент президенту.
+endorse | verb | схвалювати; підтримувати | The union decided to ___ the candidate. | endorse | Профспілка вирішила підтримати кандидата.
+annex | verb | анексувати | The government planned to ___ the territory. | annex | Уряд планував анексувати територію.
+veto | verb | накладати вето | The president decided to ___ the bill. | veto | Президент вирішив накласти вето на законопроєкт.
+bipartisan | adj | двопартійний | The ___ bill passed with broad support. | bipartisan | Двопартійний законопроєкт ухвалили з широкою підтримкою.
+incumbent | adj | чинний | The ___ government lost its majority. | incumbent | Чинний уряд втратив більшість.
+bureaucratic | adj | бюрократичний | The permit process is slow and ___. | bureaucratic | Процедура отримання дозволу повільна і бюрократична.
+gerrymandering | noun | маніпулювання округами | ___ gave the party an unfair advantage. | Gerrymandering | Маніпулювання округами дало партії несправедливу перевагу.
+mandatory | adj | обов'язковий | Voting is ___ in some countries. | mandatory | У деяких країнах голосування обов'язкове.
+nationwide | adj | загальнонаціональний | The strike caused ___ disruption. | nationwide | Страйк спричинив загальнонаціональні збої.
+senate | noun | сенат | The bill passed the ___ by a narrow margin. | senate | Законопроєкт пройшов сенат з невеликою перевагою.
+insurgency | noun | повстанський рух | The ___ spread into the mountains. | insurgency | Повстанський рух поширився в гори.
+perpetual | adj | вічний | The country lives in ___ political crisis. | perpetual | Країна живе у вічній політичній кризі.
+# C2
+oligarchy | noun | олігархія | The country had become a corrupt ___. | oligarchy | Країна перетворилася на корумповану олігархію.
+kleptocracy | noun | клептократія | Critics call the regime a ___. | kleptocracy | Критики називають цей режим клептократією.
+demagogue | noun | демагог | The ___ promised easy answers to complex problems. | demagogue | Демагог обіцяв прості відповіді на складні проблеми.
+realpolitik | noun | реальна політика | Diplomats favoured ___ over ideals. | realpolitik | Дипломати віддавали перевагу реальній політиці над ідеалами.
+apparatchik | noun | партійний функціонер | The ___ rose through the party ranks. | apparatchik | Партійний функціонер пройшов шлях від рядового до керівника.
+plebiscite | noun | плебісцит | A ___ decided the border region's future. | plebiscite | Плебісцит визначив майбутнє прикордонного регіону.
+filibusterer | noun | затягувач дебатів | The ___ spoke for twelve hours straight. | filibusterer | Затягувач дебатів говорив дванадцять годин поспіль.
+parochialism | noun | провінційність (політичних поглядів) | Their ___ blocked any national reform. | parochialism | Їхня провінційність у політиці блокувала будь-яку національну реформу.
+interregnum | noun | міжцарів'я; перехідний період | The ___ lasted until the new constitution was ratified. | interregnum | Перехідний період тривав, доки не ратифікували нову конституцію.
+polity | noun | державне утворення | The ancient ___ was governed by a council. | polity | Стародавнє державне утворення управлялося радою.
+statecraft | noun | державне мистецтво | Her ___ earned praise from international observers. | statecraft | Її державне мистецтво отримало похвалу від міжнародних спостерігачів.
+ascendancy | noun | домінування | The party secured ___ in the parliament. | ascendancy | Партія закріпила домінування в парламенті.
+autonomy | noun | автономія | The region demanded greater political ___. | autonomy | Регіон вимагав більшої політичної автономії.
+prerogative | noun | прерогатива | Appointing judges is the president's ___. | prerogative | Призначення суддів — прерогатива президента.
+chauvinism | noun | шовінізм | Extreme ___ fueled the conflict. | chauvinism | Крайній шовінізм підживлював конфлікт.
+polemic | noun | полеміка | The article sparked a fierce ___. | polemic | Стаття викликала жорстку полеміку.
+suffrage | noun | виборче право | Women won universal ___ after decades of struggle. | suffrage | Жінки здобули загальне виборче право після десятиліть боротьби.
+mandarin | noun | високопосадовець | The ___ ignored the complaints of ordinary citizens. | mandarin | Високопосадовець ігнорував скарги звичайних громадян.
+quorum | noun | кворум | The meeting could not start without a ___. | quorum | Засідання не могло початися без кворуму.
+gerrymander | verb | маніпулювати виборчими округами | The party tried to ___ the districts before the vote. | gerrymander | Партія намагалася маніпулювати виборчими округами перед голосуванням.
+disenfranchise | verb | позбавляти виборчих прав | Many voters were ___d by the new rules. | disenfranchised | Багато виборців позбавили виборчих прав новими правилами.
+capitulate | verb | капітулювати | The garrison refused to ___ despite the siege. | capitulate | Гарнізон відмовився капітулювати, попри облогу.
+bellicose | adj | войовничий | The leader's ___ rhetoric alarmed the neighbours. | bellicose | Войовнича риторика лідера стривожила сусідів.
+malaise | noun | відчуття неблагополуччя | A deep political ___ gripped the nation. | malaise | Глибоке відчуття політичного неблагополуччя охопило націю.
+emollient | adj | пом'якшувальний | The minister's ___ tone calmed the debate. | emollient | Пом'якшувальний тон міністра заспокоїв дебати.
+vainglory | noun | марнославство | The leader's ___ led to disaster. | vainglory | Марнославство лідера призвело до катастрофи.
+nepotistic | adj | кумівський | The ___ appointments outraged the public. | nepotistic | Кумівські призначення обурили громадськість.
+cabal | noun | таємна змова | A ___ of officials controlled the budget. | cabal | Таємна змова посадовців контролювала бюджет.
+oligarchic | adj | олігархічний | The ___ structure concentrated power in few hands. | oligarchic | Олігархічна структура зосередила владу в кількох руках.
+demagogic | adj | демагогічний | The speech was ___ and misleading. | demagogic | Промова була демагогічною і оманливою.

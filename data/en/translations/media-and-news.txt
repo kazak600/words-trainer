@@ -1,0 +1,98 @@
+# B2
+headline | noun | заголовок | The ___ caught everyone's attention. | headline | Заголовок привернув увагу всіх.
+journalist | noun | журналіст | The ___ interviewed the minister for an hour. | journalist | Журналіст годину брав інтерв'ю в міністра.
+broadcast | noun | трансляція; передача | The ___ was watched by millions. | broadcast | Трансляцію подивилися мільйони людей.
+source | noun | джерело | Always check the ___ of the information. | source | Завжди перевіряйте джерело інформації.
+rumour | noun | чутка | There is a ___ that the company will merge. | rumour | Ходить чутка, що компанія злиється з іншою.
+fact | noun | факт | The article was full of accurate ___s. | facts | Стаття була повна точних фактів.
+bias | noun | упередженість | The reporter's ___ was obvious in the article. | bias | Упередженість репортера була очевидною в статті.
+coverage | noun | висвітлення | The event received wide media ___. | coverage | Подія отримала широке висвітлення в ЗМІ.
+editor | noun | редактор | The ___ rejected the article. | editor | Редактор відхилив статтю.
+columnist | noun | оглядач; колумніст | She is a ___ for a national newspaper. | columnist | Вона колумністка національної газети.
+documentary | noun | документальний фільм | The ___ tells the story of a small village. | documentary | Документальний фільм розповідає історію маленького села.
+viewer | noun | глядач | Millions of ___s watched the final. | viewers | Мільйони глядачів дивилися фінал.
+press | noun | преса | The ___ was invited to the conference. | press | Пресу запросили на конференцію.
+column | noun | колонка | I always read her weekly ___. | column | Я завжди читаю її щотижневу колонку.
+podcast | noun | подкаст | I listen to a science ___ on my way to work. | podcast | Я слухаю науковий подкаст дорогою на роботу.
+blog | noun | блог | She writes a travel ___ in her free time. | blog | У вільний час вона веде подорожній блог.
+anchor | noun | ведучий новин | The ___ read the evening news. | anchor | Ведучий читав вечірні новини.
+edition | noun | випуск | The Sunday ___ is larger than usual. | edition | Недільний випуск більший, ніж зазвичай.
+censorship | noun | цензура | ___ limited what journalists could publish. | Censorship | Цензура обмежувала те, що журналісти могли публікувати.
+debate | noun | дебати | The televised ___ attracted millions of viewers. | debate | Телевізійні дебати зібрали мільйони глядачів.
+spokesperson | noun | речник | The company's ___ refused to comment. | spokesperson | Речник компанії відмовився коментувати.
+paparazzi | noun | папараці | The actor was followed by ___ everywhere. | paparazzi | Актора всюди супроводжували папараці.
+hoax | noun | містифікація | The story turned out to be a ___. | hoax | Історія виявилася містифікацією.
+report | verb | повідомляти | The reporters ___ live from the scene. | reported | Репортери передавали новини наживо з місця події.
+subscribe | verb | передплачувати | I ___ to two newspapers. | subscribe | Я передплачую дві газети.
+censor | verb | цензурувати | The government tried to ___ the film. | censor | Уряд намагався піддати фільм цензурі.
+interview | verb | брати інтерв'ю | The journalist will ___ the director tomorrow. | interview | Журналіст візьме інтерв'ю в режисера завтра.
+headline | verb | подавати заголовком | The story was ___d across all channels. | headlined | Історія вийшла з заголовком на всіх каналах.
+exclusive | adj | ексклюзивний | The magazine published an ___ interview. | exclusive | Журнал опублікував ексклюзивне інтерв'ю.
+reliable | adj | надійний | Is this news source ___? | reliable | Чи є це джерело новин надійним?
+misleading | adj | оманливий | The advert was ___ about the product. | misleading | Реклама щодо продукту була оманливою.
+editorial | noun | редакційна стаття | The newspaper's ___ criticized the new law. | editorial | Редакційна стаття газети розкритикувала новий закон.
+ban | verb | заборонити | The government decided to ___ the advert. | ban | Уряд вирішив заборонити рекламу.
+trend | noun | тенденція | Short videos are the latest ___. | trend | Короткі відео — найновіша тенденція.
+broadcaster | noun | телеканал | The public ___ covers national news. | broadcaster | Суспільний телеканал висвітлює національні новини.
+publication | noun | публікація | The magazine's latest ___ sold out quickly. | publication | Остання публікація журналу швидко розійшлася.
+reporter | noun | репортер | The ___ was first on the scene. | reporter | Репортер першим прибув на місце події.
+gossip | noun | плітки | The magazine thrives on celebrity ___. | gossip | Журнал живе за рахунок плітки про знаменитостей.
+# C1
+disseminate | verb | поширювати | The agency aims to ___ information quickly. | disseminate | Агентство прагне швидко поширювати інформацію.
+propagate | verb | поширювати | The network was accused of ___ false claims. | propagating | Мережу звинуватили в поширенні неправдивих тверджень.
+censure | verb | осуджувати | The council voted to ___ the editor. | censure | Рада проголосувала за осуд редактора.
+syndicate | verb | продавати (матеріал) до кількох ЗМІ | The agency ___s its articles to other papers. | syndicates | Агентство продає свої статті іншим газетам.
+fabricate | verb | фабрикувати | The journalist was fired for having ___d his sources. | fabricated | Журналіста звільнили за те, що він сфабрикував свої джерела.
+sensationalism | noun | сенсаційність | Tabloids rely on ___ to sell papers. | sensationalism | Таблоїди покладаються на сенсаційність, щоб продавати газети.
+op-ed | noun | авторська колонка | He wrote an ___ about climate policy. | op-ed | Він написав авторську колонку про кліматичну політику.
+dispatch | noun | депеша; репортаж | Our correspondent sent a ___ from the front. | dispatch | Наш кореспондент надіслав репортаж з фронту.
+scoop | noun | ексклюзив | The reporter got the ___ of the year. | scoop | Репортер отримав ексклюзив року.
+objectivity | noun | об'єктивність | Good journalism requires ___. | objectivity | Добра журналістика вимагає об'єктивності.
+exposé | noun | викривальний матеріал | Her ___ revealed the corruption scandal. | exposé | Її викривальний матеріал розкрив корупційний скандал.
+misinformation | noun | дезінформація | Social networks struggle with ___. | misinformation | Соцмережі мають проблеми з дезінформацією.
+tabloid | noun | таблоїд | The ___ printed photos without permission. | tabloid | Таблоїд опублікував фото без дозволу.
+bulletin | noun | бюлетень; коротке повідомлення | A news ___ interrupted the programme. | bulletin | Коротке новинне повідомлення перервало програму.
+pundit | noun | експерт-коментатор | The political ___ predicted a close result. | pundit | Політичний експерт-коментатор передбачав близький результат.
+gaffe | noun | промах | The minister's ___ was replayed on every channel. | gaffe | Промах міністра повторювали на кожному каналі.
+soundbite | noun | коротка цитата | Politicians prepare a catchy ___ for the cameras. | soundbite | Політики готують яскраву коротку цитату для камер.
+broadsheet | noun | серйозна газета | The ___ has a long tradition of investigative reporting. | broadsheet | Серйозна газета має давню традицію журналістських розслідувань.
+retraction | noun | спростування | The paper published a ___ of the false story. | retraction | Газета опублікувала спростування фальшивої історії.
+ratings | noun | рейтинги | The new series had high ___. | ratings | Новий серіал мав високі рейтинги.
+propagandist | noun | пропагандист | The state ___ denied every allegation. | propagandist | Державний пропагандист заперечував кожне звинувачення.
+demagoguery | noun | демагогія | The talk show was full of ___. | demagoguery | Ток-шоу було сповнене демагогії.
+credible | adj | достовірний | The witness gave a ___ account of events. | credible | Свідок дав достовірну розповідь про події.
+infallible | adj | непогрішний | No newspaper is ___. | infallible | Жодна газета не є непогрішною.
+partisan | adj | упереджений | The channel's coverage was too ___. | partisan | Висвітлення на каналі було надто упередженим.
+viral | adj | вірусний | The video became ___ within a day. | viral | Відео стало вірусним протягом доби.
+vitriolic | adj | їдкий; злісний | The critic wrote a ___ review. | vitriolic | Критик написав злісну рецензію.
+newsworthy | adj | вартий новини | The mayor's resignation is clearly ___. | newsworthy | Відставка мера явно вартує новини.
+press release | phrase | прес-реліз | The company issued a ___ about the merger. | press release | Компанія випустила прес-реліз про злиття.
+impartial | adj | неупереджений | A good journalist must remain ___. | impartial | Добрий журналіст має залишатися неупередженим.
+slander | noun | наклеп | The actor sued the paper for ___. | slander | Актор подав до суду на газету за наклеп.
+leak | verb | злити (інформацію) | Someone ___ed the confidential report to the press. | leaked | Хтось злив конфіденційний звіт пресі.
+sensational | adj | сенсаційний | The story was ___ but not accurate. | sensational | Ця історія була сенсаційною, але не точною.
+credibility | noun | довіра (до джерела) | The newspaper lost its ___ after the error. | credibility | Газета втратила довіру після помилки.
+whistleblower | noun | викривач | The ___ revealed the company's secret plans. | whistleblower | Викривач розкрив таємні плани компанії.
+clickbait | noun | клікбейт | The site relies on ___ to earn money. | clickbait | Сайт заробляє на клікбейті.
+# C2
+yellow journalism | phrase | жовта журналістика | The paper was known for ___. | yellow journalism | Газету знали через жовту журналістику.
+ideologue | noun | ідеолог | The ___ shaped the newspaper's editorial line. | ideologue | Ідеолог визначав редакційну лінію газети.
+polemicist | noun | полеміст | The ___ attacked every rival writer. | polemicist | Полеміст нападав на кожного конкурента-письменника.
+cynosure | noun | центр уваги | The young actress became the ___ of the press. | cynosure | Молода акторка стала центром уваги преси.
+disinformation | noun | свідома дезінформація | The campaign spread ___ about the election. | disinformation | Кампанія поширювала свідому дезінформацію про вибори.
+mudslinging | noun | обливання брудом | The election campaign was full of ___. | mudslinging | Виборча кампанія була сповнена обливання брудом.
+prurient | adj | непристойно цікавий | The magazine caters to ___ curiosity. | prurient | Журнал працює на непристойно цікавих читачів.
+sanctimonious | adj | святенницький | The columnist's ___ tone irritated readers. | sanctimonious | Святенницький тон колумніста дратував читачів.
+inflammatory | adj | підбурливий | The article contained ___ language. | inflammatory | Стаття містила підбурливі вислови.
+lacklustre | adj | тьмяний | The ratings were ___ for the new season. | lacklustre | Рейтинги нового сезону були тьмяними.
+mendacious | adj | брехливий | The report was ___ and misled the public. | mendacious | Звіт був брехливим і вводив публіку в оману.
+gossamer | adj | ніжний; легкий | The critic praised the film's ___ humour. | gossamer | Критик похвалив ніжний гумор фільму.
+prosaic | adj | буденний | The newspaper's ___ style bored readers. | prosaic | Буденний стиль газети нудив читачів.
+obfuscate | verb | затуманювати | The minister tried to ___ the facts. | obfuscate | Міністр намагався затуманити факти.
+verisimilar | adj | правдоподібний | The report was ___ but completely false. | verisimilar | Звіт був правдоподібним, але абсолютно неправдивим.
+calumny | noun | наклеп | The paper spread vicious ___ about the mayor. | calumny | Газета поширювала злісні наклепи на мера.
+tendentious | adj | тенденційний | The documentary was openly ___. | tendentious | Документальний фільм був відверто тенденційним.
+obloquy | noun | паплюження | He endured public ___ after the scandal. | obloquy | Після скандалу він зазнав публічного паплюження.
+pontificate | verb | повчально висловлюватися | The columnist likes to ___ about everything. | pontificate | Оглядач любить повчально висловлюватися з будь-якого приводу.
+ventriloquize | verb | говорити від імені (іншого) | The spokesman ___d the views of his boss. | ventriloquized | Речник говорив від імені свого начальника.
+mudrake | noun | борзописець | The paper hired a ___ to dig up scandals. | mudrake | Газета найняла борзописця, щоб розкопувати скандали.

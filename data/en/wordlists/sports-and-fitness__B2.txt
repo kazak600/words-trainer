@@ -1,0 +1,4 @@
+noun: training, athlete, opponent, referee, championship, stamina, endurance, equipment, coach, marathon, tournament, goal, stadium, trophy, athletics, goalkeeper, pitch, fitness, sprint, trainer
+verb: score, defeat, compete, exercise, stretch, hydrate, referee, dribble
+adj: competitive, athletic, flexible, energetic, exhausted, fit, agile, steady
+phrase: warm up

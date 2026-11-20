@@ -1,0 +1,4 @@
+adj: diligent, mediocre, vocational, cutthroat, accountable, adept, meritocratic
+noun: entrepreneur, incentive, sabbatical, redundancy, hierarchy, bureaucracy, remuneration, networking, onboarding, prospect, résumé, internship, attrition, delegation, endeavour, consultancy, headhunter
+verb: leverage, spearhead, streamline, stagnate, juggle, implement, facilitate, coerce
+phrase: lay off, take on

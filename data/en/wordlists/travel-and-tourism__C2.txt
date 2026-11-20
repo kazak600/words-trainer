@@ -1,0 +1,4 @@
+noun: peregrination, vagabond, sybarite, exoticism, odyssey, interstice, pilgrim, transhumance, hegira, wayfarer, emissary, nomad, wanderer, roaming, excursionist, ecotourism, tramp
+adj: bucolic, halcyon, vertiginous, insular, wayfaring, viatic
+phrase: tourist trap, terra incognita
+verb: peregrinate

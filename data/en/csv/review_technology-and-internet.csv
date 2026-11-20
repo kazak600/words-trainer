@@ -1,0 +1,93 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+software,noun,B2,,програмне забезпечення,The company released new ___ for its customers.,software,Компанія випустила нове програмне забезпечення для клієнтів.,approved
+algorithm,noun,B2,,алгоритм,The ___ recommends videos based on your history.,algorithm,Алгоритм рекомендує відео на основі вашої історії.,approved
+database,noun,B2,,база даних,All customer data is stored in one ___.,database,Усі дані клієнтів зберігаються в одній базі даних.,approved
+password,noun,B2,,пароль,Never share your ___ with anyone.,password,Ніколи не діліться своїм паролем з іншими.,approved
+glitch,noun,B2,,збій,There was a small ___ in the system.,glitch,У системі стався невеликий збій.,approved
+update,noun,B2,,оновлення,Install the latest ___ to fix the bug.,update,"Встановіть останнє оновлення, щоб виправити помилку.",approved
+device,noun,B2,,пристрій,Each ___ must be registered online.,device,Кожен пристрій потрібно зареєструвати онлайн.,approved
+gadget,noun,B2,,гаджет,He buys every new ___ that comes out.,gadget,"Він купує кожен новий гаджет, що виходить.",approved
+network,noun,B2,,мережа,Our office ___ went down this morning.,network,Офісна мережа сьогодні вранці впала.,approved
+virus,noun,B2,,вірус,My laptop caught a ___ from an email.,virus,Мій ноутбук підхопив вірус з листа.,approved
+hacker,noun,B2,,хакер,The ___ stole thousands of accounts.,hacker,Хакер викрав тисячі облікових записів.,approved
+interface,noun,B2,,інтерфейс,The new ___ is simple and clear.,interface,Новий інтерфейс простий і зрозумілий.,approved
+sensor,noun,B2,,датчик,The car has a rain ___ on the windscreen.,sensor,На лобовому склі автомобіля є датчик дощу.,approved
+module,noun,B2,,модуль,The course has five ___s.,modules,Курс має п'ять модулів.,approved
+startup,noun,B2,,стартап,The ___ builds apps for small businesses.,startup,Стартап створює застосунки для малого бізнесу.,approved
+browser,noun,B2,,браузер,Close the ___ tabs before restarting.,browser,Закрийте вкладки браузера перед перезапуском.,approved
+streaming,noun,B2,,стрімінг,___ has replaced most DVD rentals.,Streaming,Стрімінг замінив більшість прокатів DVD.,approved
+notification,noun,B2,,сповіщення,I turned off all app ___s.,notifications,Я вимкнув усі сповіщення застосунків.,approved
+feature,noun,B2,,функція,The new phone has a better camera ___.,feature,У новому телефоні краща функція камери.,approved
+connectivity,noun,B2,,зв'язок,Poor ___ slows down the video call.,connectivity,Слабкий зв'язок уповільнює відеодзвінок.,approved
+subscription,noun,B2,,підписка,The software requires a monthly ___.,subscription,Програмне забезпечення потребує щомісячної підписки.,approved
+spreadsheet,noun,B2,,таблиця,Enter the figures in the ___.,spreadsheet,Внесіть цифри в таблицю.,approved
+download,noun,B2,,завантаження,The ___ took only a minute.,download,Завантаження тривало лише хвилину.,approved
+upload,verb,B2,,завантажувати,Please ___ your photo to the website.,upload,"Будь ласка, завантажте своє фото на сайт.",approved
+download,verb,B2,,завантажувати (на пристрій),You can ___ the app for free.,download,Ви можете завантажити застосунок безкоштовно.,approved
+encrypt,verb,B2,,шифрувати,The messages are ___ed before sending.,encrypted,Повідомлення шифруються перед відправленням.,approved
+browse,verb,B2,,переглядати,She likes to ___ the internet in the evening.,browse,Вона любить переглядати інтернет ввечері.,approved
+install,verb,B2,,встановлювати,I need to ___ a new printer driver.,install,Мені потрібно встановити новий драйвер принтера.,approved
+crash,verb,B2,,завершуватися аварійно,The app keeps ___ing on my phone.,crashing,Застосунок постійно вилітає на моєму телефоні.,approved
+password,verb,B2,,захищати паролем,Make sure the file is ___.,password-protected,"Переконайтеся, що файл захищений паролем.",approved
+prototype,verb,B2,,створювати прототип,The engineers ___d the device in a week.,prototyped,Інженери створили прототип пристрою за тиждень.,approved
+glitch,verb,B2,,давати збій,The screen began to ___ during the update.,glitch,Екран почав давати збої під час оновлення.,approved
+artificial intelligence,phrase,B2,,штучний інтелект,___ is changing many industries.,Artificial intelligence,Штучний інтелект змінює багато галузей.,approved
+online,adj,B2,,онлайн,Most of my shopping is done ___.,online,Більшість моїх покупок я роблю онлайн.,approved
+digital,adj,B2,,цифровий,We received a ___ copy of the book.,digital,Ми отримали цифрову копію книги.,approved
+wireless,adj,B2,,бездротовий,The speakers are ___ and easy to set up.,wireless,Колонки бездротові і легкі в налаштуванні.,approved
+automated,adj,B2,,автоматизований,The factory uses ___ systems.,automated,Фабрика використовує автоматизовані системи.,approved
+compatible,adj,B2,,сумісний,Is this charger ___ with my phone?,compatible,Чи сумісна ця зарядка з моїм телефоном?,approved
+bandwidth,noun,C1,,пропускна здатність,The video call needs more ___.,bandwidth,Відеодзвінку потрібно більше пропускної здатності.,approved
+latency,noun,C1,,затримка,Low ___ is essential for online gaming.,latency,Для онлайн-ігор важлива низька затримка.,approved
+protocol,noun,C1,,протокол,The two devices communicate using a standard ___.,protocol,Обидва пристрої спілкуються за стандартним протоколом.,approved
+firewall,noun,C1,,брандмауер,The ___ blocks suspicious traffic.,firewall,Брандмауер блокує підозрілий трафік.,approved
+phishing,noun,C1,,фішинг,The email was an obvious ___ attempt.,phishing,Лист був очевидною спробою фішингу.,approved
+interoperability,noun,C1,,сумісність (систем),The new standard improves ___ between devices.,interoperability,Новий стандарт покращує сумісність між пристроями.,approved
+pixel,noun,C1,,піксель,The screen has a high ___ density.,pixel,Екран має високу щільність пікселів.,approved
+encryption,noun,C1,,шифрування,Strong ___ protects your data.,encryption,Сильне шифрування захищає ваші дані.,approved
+broadband,noun,C1,,широкосмуговий інтернет,Rural areas still lack fast ___.,broadband,У сільській місцевості досі бракує швидкого широкосмугового інтернету.,approved
+robotics,noun,C1,,робототехніка,She studies ___ at the university.,robotics,Вона вивчає робототехніку в університеті.,approved
+spam,noun,C1,,спам,My inbox is full of ___.,spam,Моя поштова скринька повна спаму.,approved
+cache,noun,C1,,кеш,Clear the ___ if the page loads slowly.,cache,"Очистіть кеш, якщо сторінка завантажується повільно.",approved
+sandbox,noun,C1,,пісочниця,Test new code in a ___ before release.,sandbox,Тестуйте новий код у пісочниці перед випуском.,approved
+hashing,noun,C1,,хешування,___ turns passwords into fixed strings.,Hashing,Хешування перетворює паролі на фіксовані рядки.,approved
+throughput,noun,C1,,пропускна здатність,The server's ___ doubled after the upgrade.,throughput,Пропускна здатність сервера подвоїлася після оновлення.,approved
+scalability,noun,C1,,масштабованість,___ is a key concern for the platform.,Scalability,Масштабованість — ключове питання для платформи.,approved
+scalable,adj,C1,,масштабований,The system must be ___ as the user base grows.,scalable,"Система має бути масштабованою, коли зростає кількість користувачів.",approved
+obsolete,adj,C1,,застарілий,Floppy disks are now ___.,obsolete,Дискети тепер застарілі.,approved
+immersive,adj,C1,,захоплюючий (віртуально),Virtual reality creates an ___ experience.,immersive,Віртуальна реальність створює захоплюючий досвід.,approved
+ubiquitous,adj,C1,,вездесущий,Mobile phones have become ___.,ubiquitous,Мобільні телефони стали вездесущими.,approved
+algorithmic,adj,C1,,алгоритмічний,The bank uses ___ trading.,algorithmic,Банк використовує алгоритмічну торгівлю.,approved
+open-source,adj,C1,,з відкритим кодом,The project is ___ and free to use.,open-source,Проєкт має відкритий код і безкоштовний для використання.,approved
+pseudonymous,adj,C1,,псевдонімний,The forum allows ___ accounts.,pseudonymous,Форум дозволяє псевдонімні облікові записи.,approved
+legacy,adj,C1,,застарілий (про систему),The company still runs a ___ system.,legacy,Компанія досі користується застарілою системою.,approved
+interoperable,adj,C1,,сумісний,The systems must be fully ___.,interoperable,Системи мають бути повністю сумісними.,approved
+authenticate,verb,C1,,автентифікувати,Users must ___ before accessing the account.,authenticate,"Користувачі мають автентифікуватися, перш ніж отримати доступ до облікового запису.",approved
+optimise,verb,C1,,оптимізувати,The team worked to ___ the code.,optimise,Команда працювала над оптимізацією коду.,approved
+debug,verb,C1,,налагоджувати,It took hours to ___ the program.,debug,Налагодження програми зайняло години.,approved
+deploy,verb,C1,,розгортати,The company will ___ the update next week.,deploy,Компанія розгорне оновлення наступного тижня.,approved
+iterate,verb,C1,,ітерувати; вдосконалювати,The designers ___d the prototype several times.,iterated,Дизайнери кілька разів вдосконалювали прототип.,approved
+deprecate,verb,C1,,позначати як застарілий,The team decided to ___ the old API.,deprecate,Команда вирішила позначити старий API як застарілий.,approved
+data mining,phrase,C1,,інтелектуальний аналіз даних,___ helps companies predict customer behaviour.,Data mining,Інтелектуальний аналіз даних допомагає компаніям передбачати поведінку клієнтів.,approved
+roll out,phrase,C1,,поетапно запровадити,The company will ___ the new app next month.,roll out,Компанія наступного місяця поетапно запровадить новий застосунок.,approved
+decentralized,adj,C2,,децентралізований,The network is ___ and has no central server.,decentralized,Мережа децентралізована і не має центрального сервера.,approved
+idempotent,adj,C2,,ідемпотентний,The operation must be ___ to be safe to retry.,idempotent,"Операція має бути ідемпотентною, щоб її було безпечно повторювати.",approved
+monolithic,adj,C2,,монолітний,The old system was ___ and hard to change.,monolithic,Стара система була монолітною і її важко було змінити.,approved
+impeccable,adj,C2,,бездоганний,The security record is ___.,impeccable,Бездоганний послужний список безпеки.,approved
+granular,adj,C2,,гранулярний,The data offers a ___ breakdown by region.,granular,Дані пропонують гранулярну розбивку за регіонами.,approved
+asynchronous,adj,C2,,асинхронний,The service uses ___ requests.,asynchronous,Сервіс використовує асинхронні запити.,approved
+polymorphic,adj,C2,,поліморфний,The function is ___ and accepts several types.,polymorphic,Функція поліморфна і приймає кілька типів.,approved
+polymorphism,noun,C2,,поліморфізм,Object-oriented design relies on ___.,polymorphism,Об'єктно-орієнтований дизайн спирається на поліморфізм.,approved
+concurrency,noun,C2,,паралельність,Managing ___ is hard in distributed systems.,concurrency,Керувати паралельністю складно в розподілених системах.,approved
+encapsulation,noun,C2,,інкапсуляція,Good design uses ___ to hide details.,encapsulation,"Добрий дизайн використовує інкапсуляцію, щоб приховати деталі.",approved
+recursion,noun,C2,,рекурсія,The function relies on ___ to traverse the tree.,recursion,Функція використовує рекурсію для обходу дерева.,approved
+isomorphism,noun,C2,,ізоморфізм,The two systems share an ___.,isomorphism,Дві системи мають ізоморфізм.,approved
+kludge,noun,C2,,костиль,The fix was a temporary ___.,kludge,Виправлення було тимчасовим костилем.,approved
+ontology,noun,C2,,онтологія,The database uses a formal ___ of products.,ontology,База даних використовує формальну онтологію продуктів.,approved
+idempotence,noun,C2,,ідемпотентність,___ ensures that retries do no harm.,Idempotence,"Ідемпотентність гарантує, що повтори не шкодять.",approved
+serialization,noun,C2,,серіалізація,The format supports efficient ___ of objects.,serialization,Формат підтримує ефективну серіалізацію об'єктів.,approved
+virtualization,noun,C2,,віртуалізація,___ lets several systems run on one machine.,Virtualization,Віртуалізація дозволяє кільком системам працювати на одній машині.,approved
+exfiltration,noun,C2,,ексфільтрація,The attack ended in data ___.,exfiltration,Атака завершилася ексфільтрацією даних.,approved
+ubiquity,noun,C2,,вездесущність,The ___ of sensors changed city life.,ubiquity,Вездесущність датчиків змінила життя міст.,approved
+exfiltrate,verb,C2,,викрасти (дані),The malware tried to ___ the files.,exfiltrate,Шкідливе ПЗ намагалося викрасти файли.,approved
+bifurcate,verb,C2,,роздвоюватися,The project ___d into two separate tools.,bifurcated,Проєкт роздвоївся на два окремі інструменти.,approved

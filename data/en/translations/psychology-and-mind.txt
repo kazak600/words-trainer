@@ -1,0 +1,91 @@
+# B2
+behaviour | noun | поведінка | Her ___ changed after the accident. | behaviour | Її поведінка змінилася після аварії.
+memory | noun | пам'ять | My grandmother has a very good ___. | memory | Моя бабуся має дуже добру пам'ять.
+perception | noun | сприйняття | Our ___ of the world depends on experience. | perception | Наше сприйняття світу залежить від досвіду.
+motivation | noun | мотивація | Lack of ___ is the main problem. | motivation | Відсутність мотивації — головна проблема.
+instinct | noun | інстинкт | Animals follow their ___s. | instincts | Тварини слідують своїм інстинктам.
+anxiety | noun | тривога | Exam ___ affects many students. | anxiety | Тривога перед іспитами впливає на багатьох студентів.
+trauma | noun | травма | Childhood ___ can have lasting effects. | trauma | Дитяча травма може мати довготривалі наслідки.
+therapy | noun | терапія | She goes to ___ once a week. | therapy | Вона ходить на терапію раз на тиждень.
+depression | noun | депресія | Doctors treat ___ with therapy and medication. | depression | Лікарі лікують депресію терапією і ліками.
+personality | noun | особистість | Her ___ is very cheerful. | personality | Її особистість дуже життєрадісна.
+habit | noun | звичка | Biting your nails is a bad ___. | habit | Гризти нігті — погана звичка.
+belief | noun | переконання | Many people hold strong religious ___s. | beliefs | Багато людей мають сильні релігійні переконання.
+emotion | noun | емоція | Music can stir strong ___s. | emotions | Музика може викликати сильні емоції.
+attention | noun | увага | Children need constant ___. | attention | Дітям потрібна постійна увага.
+doubt | noun | сумнів | I have some ___s about his plan. | doubts | У мене є сумніви щодо його плану.
+self-esteem | noun | самооцінка | Praise helps build a child's ___. | self-esteem | Похвала допомагає формувати самооцінку дитини.
+insomnia | noun | безсоння | Stress can cause ___. | insomnia | Стрес може спричиняти безсоння.
+subconscious | adj | підсвідомий | Dreams reflect the ___ mind. | subconscious | Сни відображають підсвідомість.
+optimistic | adj | оптимістичний | She is ___ about her chances. | optimistic | Вона оптимістично налаштована щодо своїх шансів.
+aware | adj | обізнаний | I was not ___ of the danger. | aware | Я не усвідомлював небезпеку.
+stressed | adj | перевтомлений; у стресі | He looked ___ before the presentation. | stressed | Він виглядав напруженим перед презентацією.
+logical | adj | логічний | Her explanation was clear and ___. | logical | Її пояснення було чітким і логічним.
+irrational | adj | нераціональний | His fear of the dark seemed ___. | irrational | Його страх темряви здавався нераціональним.
+focus | verb | зосереджуватися | It is hard to ___ in a noisy room. | focus | Важко зосередитися в галасливій кімнаті.
+remember | verb | пам'ятати | I cannot ___ where I put my keys. | remember | Я не пам'ятаю, куди поклав ключі.
+forget | verb | забувати | Do not ___ to lock the door. | forget | Не забудьте зачинити двері.
+attitude | noun | ставлення | Her positive ___ helps her in difficult times. | attitude | Її позитивне ставлення допомагає в важкі часи.
+insight | noun | розуміння | The book gives valuable ___ into human behaviour. | insight | Книга дає цінне розуміння людської поведінки.
+stress | verb | наголошувати | The teacher ___ed the importance of practice. | stressed | Учитель наголосив на важливості практики.
+fear | verb | боятися | Many children ___ the dark. | fear | Багато дітей бояться темряви.
+emotional | adj | емоційний | The film had an ___ ending. | emotional | Фільм мав емоційну кінцівку.
+reflex | noun | рефлекс | Blinking is an automatic ___. | reflex | Моргання — автоматичний рефлекс.
+trigger | noun | тригер | Loud noises can be a ___ for anxiety. | trigger | Гучні звуки можуть бути тригером тривоги.
+hallucination | noun | галюцинація | The patient described a vivid ___. | hallucination | Пацієнт описав яскраву галюцинацію.
+# C1
+cognition | noun | пізнання | Sleep plays an important role in ___. | cognition | Сон відіграє важливу роль у пізнанні.
+introspection | noun | інтроспекція | Meditation encourages deep ___. | introspection | Медитація заохочує глибоку інтроспекцію.
+resilience | noun | стійкість | Children can develop great ___. | resilience | Діти можуть розвинути велику стійкість.
+dissociation | noun | дисоціація | Some people experience ___ under extreme stress. | dissociation | Деякі люди переживають дисоціацію під надмірним стресом.
+rumination | noun | руминація; нав'язливі думки | Constant ___ worsens low mood. | rumination | Постійна руминація погіршує настрій.
+heuristic | noun | евристика | People use a mental ___ to make quick decisions. | heuristic | Люди використовують ментальну евристику для швидких рішень.
+phobia | noun | фобія | She has a ___ of spiders. | phobia | У неї фобія павуків.
+compulsion | noun | компульсія | He felt a strong ___ to check the door. | compulsion | Він відчув сильну компульсію перевірити двері.
+inhibition | noun | гальмування; стриманість | Alcohol can lower your ___s. | inhibitions | Алкоголь може знизити ваші внутрішні стримування.
+epiphany | noun | прозріння | After months of study, he had an ___. | epiphany | Після місяців навчання він мав прозріння.
+ambivalence | noun | амбівалентність | She felt ___ about leaving her job. | ambivalence | Вона відчувала амбівалентність щодо звільнення з роботи.
+impulsivity | noun | імпульсивність | Her ___ often led her into trouble. | impulsivity | Її імпульсивність часто ставила її в незручні ситуації.
+neurosis | noun | невроз | He was treated for chronic ___. | neurosis | Його лікували від хронічного неврозу.
+mindfulness | noun | усвідомленість | ___ helps reduce stress. | Mindfulness | Усвідомленість допомагає знизити стрес.
+conditioning | noun | кондиціонування | Classical ___ was studied by Pavlov. | conditioning | Класичне кондиціонування вивчав Павлов.
+projection | noun | проєкція | He used ___ to avoid his own faults. | projection | Він використовував проєкцію, щоб не визнавати власних вад.
+cognitive dissonance | phrase | когнітивний дисонанс | He felt ___ when his beliefs clashed with facts. | cognitive dissonance | Він відчув когнітивний дисонанс, коли його переконання суперечили фактам.
+subliminal | adj | підсвідомий | The advert used ___ messages. | subliminal | Реклама використовувала підсвідомі повідомлення.
+lethargic | adj | млявий | After the long flight, he felt ___. | lethargic | Після довгого перельоту він почувався млявим.
+obsessive | adj | нав'язливий | Her ___ tidiness exhausted everyone. | obsessive | Її нав'язлива охайність виснажувала всіх.
+introverted | adj | інтровертний | She is quiet and ___. | introverted | Вона тиха і інтровертна.
+catatonic | adj | кататонічний | The patient became ___ after the shock. | catatonic | Пацієнт став кататонічним після шоку.
+sentient | adj | свідомий | Scientists debate whether animals are ___. | sentient | Науковці сперечаються, чи є тварини свідомими.
+cognitive-behavioural | adj | когнітивно-поведінковий | She uses a ___ approach to treat anxiety. | cognitive-behavioural | Вона використовує когнітивно-поведінковий підхід для лікування тривоги.
+ego | noun | его | His ___ was bruised by the criticism. | ego | Його его постраждало від критики.
+self-awareness | noun | самоусвідомлення | Good leaders have strong ___. | self-awareness | Добрі лідери мають сильне самоусвідомлення.
+psychoanalysis | noun | психоаналіз | Freud is the founder of ___. | psychoanalysis | Фрейд — засновник психоаналізу.
+hypnotic | adj | гіпнотичний | The rhythm of the music was ___. | hypnotic | Ритм музики був гіпнотичним.
+innate | adj | вроджений | Some people seem to have an ___ talent for music. | innate | Здається, у деяких людей є вроджений талант до музики.
+dissociate | verb | відокремлювати | She tried to ___ her feelings from the event. | dissociate | Вона намагалася відокремити свої почуття від події.
+ingrained | adj | укорінений | The habit is deeply ___. | ingrained | Ця звичка глибоко укорінена.
+apathetic | adj | апатичний | He seemed ___ about his future. | apathetic | Він здавався апатичним щодо свого майбутнього.
+# C2
+ontogeny | noun | онтогенез | The study traced the ___ of language acquisition. | ontogeny | Дослідження простежувало онтогенез засвоєння мови.
+dissimulation | noun | удавання | His calm was pure ___. | dissimulation | Його спокій був чистим удаванням.
+psychosis | noun | психоз | The patient showed signs of acute ___. | psychosis | У пацієнта були ознаки гострого психозу.
+anhedonia | noun | ангедонія | Loss of pleasure is a symptom of ___. | anhedonia | Втрата задоволення — симптом ангедонії.
+dysphoria | noun | дисфорія | She felt a deep sense of ___. | dysphoria | Вона відчувала глибоку дисфорію.
+hypervigilance | noun | гіпервігільність | Trauma can lead to ___. | hypervigilance | Травма може призвести до гіпервігільності.
+repression | noun | витіснення | Freud described ___ as a defence mechanism. | repression | Фрейд описував витіснення як захисний механізм.
+volition | noun | воля | Every action requires conscious ___. | volition | Кожна дія потребує свідомої волі.
+temperament | noun | темперамент | Her calm ___ suited the nursing job. | temperament | Її спокійний темперамент пасував до роботи медсестри.
+neuroticism | noun | нейротизм | High ___ was linked to anxiety. | neuroticism | Високий нейротизм пов'язували з тривогою.
+affect | noun | афект | Her flat ___ worried the doctor. | affect | Її сплощений афект турбував лікаря.
+ideation | noun | ідеація | Clinicians assess suicidal ___. | ideation | Клініцисти оцінюють суїцидальну ідеацію.
+mnemonic | adj | мнемонічний | The poem used a ___ rhythm to aid memory. | mnemonic | Вірш використовував мнемонічний ритм, щоб допомагати пам'яті.
+cathartic | adj | очисний | The concert was ___ for the grieving fans. | cathartic | Концерт був очисним для фанатів, що сумували.
+dispositional | adj | диспозиційний | The study measured ___ traits. | dispositional | Дослідження вимірювало диспозиційні риси.
+catastrophize | verb | перебільшувати загрозу | He tends to ___ small problems. | catastrophize | Він схильний перебільшувати дрібні проблеми.
+ruminate | verb | роздумувати | She continued to ___ over the argument. | ruminated | Вона продовжувала роздумувати над сваркою.
+hedonism | noun | гедонізм | The philosopher defended a form of ___. | hedonism | Філософ відстоював одну з форм гедонізму.
+asceticism | noun | аскетизм | Her ___ surprised her friends. | asceticism | Її аскетизм здивував друзів.
+euphoric | adj | ейфоричний | The athlete felt ___ after the record. | euphoric | Спортсмен відчував ейфорію після рекорду.
+anthropomorphism | noun | антропоморфізм | The cartoon relies on ___. | anthropomorphism | Мультфільм спирається на антропоморфізм.
+neurodiversity | noun | нейророзмаїття | The school promotes ___ among students. | neurodiversity | Школа пропагує нейророзмаїття серед учнів.

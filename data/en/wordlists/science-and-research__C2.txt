@@ -1,0 +1,4 @@
+adj: ontological, inveterate, abstruse, esoteric, intricate, tangential, serendipitous, stochastic, apodictic, ineluctable, perspicuous, spurious
+noun: reductionism, falsifiability, conjecture, axiom, ratiocination, corroboration, reification, falsification
+verb: corroborate, refute, ascertain
+adv: heuristically

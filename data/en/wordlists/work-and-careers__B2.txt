@@ -1,0 +1,4 @@
+noun: promotion, deadline, workload, vacancy, qualification, responsibility, overtime, mentor, expertise, shift, workplace, supervisor, burnout, career, commission, probation, appraisal, handover, mentee
+verb: recruit, resign, negotiate, achieve, retire, hire, dismiss, accomplish, delegate, shortlist
+adj: experienced, freelance, productive, demanding, proficient, redundant, hands-on
+phrase: pay rise

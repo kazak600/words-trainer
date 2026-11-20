@@ -1,0 +1,100 @@
+# B2
+emission | noun | викид | The factory cut its carbon ___ by half. | emissions | Фабрика скоротила викиди вуглецю вдвічі.
+drought | noun | посуха | The ___ destroyed crops across the region. | drought | Посуха знищила врожаї в регіоні.
+flood | noun | повінь | The heavy rain caused a severe ___. | flood | Сильна злива спричинила сильну повінь.
+wildlife | noun | дика природа | The national park protects local ___. | wildlife | Національний парк охороняє місцеву дику природу.
+habitat | noun | середовище існування | Deforestation destroys animal ___s. | habitats | Вирубка лісів знищує середовища існування тварин.
+climate | noun | клімат | The ___ is changing faster than expected. | climate | Клімат змінюється швидше, ніж очікувалося.
+extinction | noun | вимирання | Many animals are facing ___. | extinction | Багато тварин стоять перед загрозою вимирання.
+erosion | noun | ерозія | Coastal ___ destroyed several houses. | erosion | Прибережна ерозія знищила кілька будинків.
+conservation | noun | охорона природи | The ___ of forests is a priority. | conservation | Охорона лісів — пріоритет.
+fuel | noun | пальне | Electric cars need no petrol or diesel ___. | fuel | Електромобілям не потрібно бензину чи дизельного пального.
+waste | noun | відходи | Households produce a lot of food ___. | waste | Домогосподарства виробляють багато харчових відходів.
+rainforest | noun | тропічний ліс | Deforestation is destroying the ___. | rainforest | Вирубка лісів знищує тропічний ліс.
+ozone | noun | озон | The hole in the ___ layer is shrinking. | ozone | Діра в озоновому шарі зменшується.
+temperature | noun | температура | Average ___s have risen over the decades. | temperatures | Середні температури зросли за десятиліття.
+crop | noun | урожай | Farmers lost their entire ___ in the storm. | crop | Фермери втратили весь урожай через бурю.
+recycle | verb | переробляти | Please ___ plastic bottles and paper. | recycle | Будь ласка, переробляйте пластикові пляшки та папір.
+melt | verb | танути | The ice caps are beginning to ___. | melt | Полярні льодовики починають танути.
+pollute | verb | забруднювати | The factory ___d the river for years. | polluted | Фабрика роками забруднювала річку.
+protect | verb | захищати | We must ___ the environment for future generations. | protect | Ми маємо захищати довкілля для майбутніх поколінь.
+dump | verb | скидати (сміття) | It is illegal to ___ rubbish in the forest. | dump | Скидати сміття в лісі незаконно.
+renewable | adj | відновлюваний | Solar and wind are ___ sources of energy. | renewable | Сонячна і вітрова енергія — відновлювані джерела.
+sustainable | adj | сталий | We need more ___ farming methods. | sustainable | Нам потрібні більш сталі методи землеробства.
+endangered | adj | зникаючий | The tiger is an ___ species. | endangered | Тигр — зникаючий вид.
+harmful | adj | шкідливий | Smoking is ___ to your health and to the planet. | harmful | Куріння шкідливе для здоров'я і для планети.
+organic | adj | органічний | I buy ___ vegetables from the local farm. | organic | Я купую органічні овочі з місцевої ферми.
+toxic | adj | токсичний | Some chemicals are ___ to fish. | toxic | Деякі хімікати токсичні для риб.
+biodegradable | adj | біорозкладний | These bags are fully ___. | biodegradable | Ці пакети повністю біорозкладні.
+global warming | phrase | глобальне потепління | ___ is raising sea levels. | Global warming | Глобальне потепління підіймає рівень моря.
+greenhouse gas | phrase | парниковий газ | Carbon dioxide is a major ___. | greenhouse gas | Вуглекислий газ — головний парниковий газ.
+fossil fuel | phrase | викопне паливо | Coal and oil are ___s. | fossil fuels | Вугілля і нафта — викопне паливо.
+greenhouse | noun | парник | The farm grows tomatoes in a large ___. | greenhouse | Ферма вирощує помідори у великому парнику.
+conserve | verb | зберігати | We must ___ water during the dry season. | conserve | Ми маємо зберігати воду в посушливий сезон.
+warming | noun | потепління | Ocean ___ affects fish populations. | warming | Потепління океану впливає на популяції риб.
+pesticide | noun | пестицид | The farmers reduced their use of ___s. | pesticides | Фермери зменшили використання пестицидів.
+landfill | noun | сміттєзвалище | Most of the waste ends up in a ___. | landfill | Більшість відходів потрапляє на сміттєзвалище.
+sustainability | noun | сталість | The company reports on its ___ every year. | sustainability | Компанія щороку звітує про свою сталість.
+hurricane | noun | ураган | The ___ destroyed hundreds of homes. | hurricane | Ураган знищив сотні будинків.
+hazard | noun | небезпека | Flooding is a serious natural ___. | hazard | Повені — серйозна природна небезпека.
+# C1
+deforestation | noun | вирубка лісів | ___ contributes to climate change. | Deforestation | Вирубка лісів сприяє зміні клімату.
+desertification | noun | опустелювання | Overgrazing causes ___ in dry areas. | desertification | Надмірний випас спричиняє опустелювання в посушливих районах.
+biodiversity | noun | біорізноманіття | The reserve protects rich ___. | biodiversity | Заповідник охороняє багате біорізноманіття.
+mitigation | noun | пом'якшення (наслідків) | Climate ___ requires global cooperation. | mitigation | Пом'якшення наслідків зміни клімату потребує глобальної співпраці.
+adaptation | noun | адаптація | Farmers need ___ to new weather patterns. | adaptation | Фермерам потрібна адаптація до нових погодних умов.
+depletion | noun | виснаження | The ___ of fish stocks worries scientists. | depletion | Виснаження рибних запасів турбує вчених.
+contamination | noun | забруднення | The ___ of groundwater was discovered. | contamination | Забруднення ґрунтових вод виявили.
+monsoon | noun | мусон | The ___ arrived earlier than usual this year. | monsoon | Мусон прийшов цього року раніше, ніж зазвичай.
+permafrost | noun | вічна мерзлота | The ___ is thawing in the Arctic. | permafrost | В Арктиці тане вічна мерзлота.
+precipitation | noun | опади | Annual ___ has decreased in the region. | precipitation | Річні опади в регіоні зменшилися.
+ecocide | noun | екоцид | Activists call the spill an act of ___. | ecocide | Активісти називають розлив актом екоциду.
+carbon footprint | phrase | вуглецевий слід | Flying has a large ___. | carbon footprint | Авіаперельоти мають великий вуглецевий слід.
+sequester | verb | секвеструвати | Forests help to ___ carbon dioxide. | sequester | Ліси допомагають секвеструвати вуглекислий газ.
+offset | verb | компенсувати | The company tries to ___ its emissions by planting trees. | offset | Компанія намагається компенсувати свої викиди садінням дерев.
+upcycle | verb | переробляти з користю | Artists ___ old furniture into new designs. | upcycle | Митці переробляють старі меблі в нові речі.
+abate | verb | послаблюватися | The storm finally began to ___. | abate | Буря нарешті почала слабшати.
+ecological | adj | екологічний | The project has serious ___ consequences. | ecological | Проєкт має серйозні екологічні наслідки.
+pristine | adj | незаймання | The lake remains ___ after decades. | pristine | Озеро і досі залишається незайманим після десятиліть.
+arid | adj | посушливий | The region is very ___ and hot. | arid | Регіон дуже посушливий і спекотний.
+emission-free | adj | безвикидний | The city wants to become ___ by 2040. | emission-free | Місто хоче стати безвикидним до 2040 року.
+hazardous | adj | небезпечний | Workers handle ___ materials every day. | hazardous | Працівники щодня працюють з небезпечними матеріалами.
+resilient | adj | стійкий | Coral reefs need to become more ___. | resilient | Коралові рифи мають стати стійкішими.
+irreversible | adj | незворотний | The damage to the glacier is ___. | irreversible | Пошкодження льодовика незворотне.
+catastrophic | adj | катастрофічний | The earthquake caused ___ damage. | catastrophic | Землетрус спричинив катастрофічні руйнування.
+carbon-neutral | adj | вуглецево нейтральний | The city plans to become ___ by 2035. | carbon-neutral | Місто планує стати вуглецево нейтральним до 2035 року.
+afforestation | noun | заліснення | ___ helps restore damaged land. | Afforestation | Заліснення допомагає відновлювати пошкоджені землі.
+irrigation | noun | зрошення | Modern ___ saves a lot of water. | irrigation | Сучасне зрошення економить багато води.
+precautionary | adj | запобіжний | The government took ___ measures against floods. | precautionary | Уряд ужив запобіжних заходів проти повеней.
+eco-friendly | adj | екологічний | Many shoppers prefer ___ packaging. | eco-friendly | Багато покупців віддають перевагу екологічному пакуванню.
+overfishing | noun | надмірний вилов риби | ___ has reduced cod stocks dramatically. | Overfishing | Надмірний вилов риби різко зменшив запаси тріски.
+geothermal | adj | геотермальний | The island uses ___ energy for heating. | geothermal | Острів використовує геотермальну енергію для опалення.
+mitigate | verb | пом'якшувати | Planting trees can help ___ the heat. | mitigate | Посадка дерев може допомогти пом'якшити спеку.
+# C2
+anthropogenic | adj | антропогенний | The warming is largely ___. | anthropogenic | Потепління здебільшого антропогенне.
+allochthonous | adj | алохтонний | The ___ species arrived from another continent. | allochthonous | Алохтонний вид прибув з іншого континенту.
+xeric | adj | ксерофітний | The plants are adapted to ___ conditions. | xeric | Рослини пристосовані до ксерофітних умов.
+anoxic | adj | безкисневий | The lake bottom became ___ after the algae bloom. | anoxic | Дно озера стало безкисневим після цвітіння водоростей.
+perennial | adj | багаторічний | The garden has many ___ plants. | perennial | У саду багато багаторічних рослин.
+ephemeral | adj | короткочасний | The wetland is ___ and disappears in summer. | ephemeral | Водно-болотні угіддя короткочасні і зникають улітку.
+inexorable | adj | невблаганний | The ___ rise in temperature continues. | inexorable | Невблаганне підвищення температури триває.
+sylvan | adj | лісовий | The valley has a quiet ___ character. | sylvan | Долина має тихий лісовий характер.
+mesic | adj | помірно вологий | The region has a ___ climate. | mesic | Регіон має помірно вологий клімат.
+insolation | noun | інсоляція | Solar panels depend on the level of ___. | insolation | Сонячні панелі залежать від рівня інсоляції.
+albedo | noun | альбедо | Ice has a high ___ and reflects sunlight. | albedo | Лід має високе альбедо і відбиває сонячне світло.
+eutrophication | noun | евтрофікація | Fertiliser runoff caused ___ of the lake. | eutrophication | Стік добрив спричинив евтрофікацію озера.
+bioaccumulation | noun | біоакумуляція | Mercury undergoes ___ in the food chain. | bioaccumulation | Ртуть зазнає біоакумуляції в харчовому ланцюзі.
+denudation | noun | оголення (ґрунту) | Heavy rain caused ___ of the hillside. | denudation | Сильна злива спричинила оголення схилу.
+aridity | noun | посушливість | Rising ___ threatens local agriculture. | aridity | Зростаюча посушливість загрожує місцевому сільському господарству.
+degradation | noun | деградація | The ___ of soil reduces crop yields. | degradation | Деградація ґрунту знижує врожайність.
+remediation | noun | рекультивація | The site needs costly ___. | remediation | Ділянка потребує дорогої рекультивації.
+inundation | noun | затоплення | The village suffered a sudden ___. | inundation | Село зазнало раптового затоплення.
+desiccate | verb | висушувати | The heat began to ___ the soil. | desiccated | Спека почала висушувати ґрунт.
+anoxia | noun | аноксія | Lack of oxygen, or ___, killed the fish. | anoxia | Брак кисню, або аноксія, вбив рибу.
+bioremediation | noun | біоремедіація | ___ uses microorganisms to clean polluted soil. | Bioremediation | Біоремедіація використовує мікроорганізми для очищення забрудненого ґрунту.
+photosynthesis | noun | фотосинтез | Plants rely on ___ to produce energy. | photosynthesis | Рослини покладаються на фотосинтез для отримання енергії.
+desertic | adj | пустельний | The landscape had a stark ___ character. | desertic | Ландшафт мав суворий пустельний характер.
+ecotone | noun | екотон | The forest edge forms a rich ___. | ecotone | Лісова опушка утворює багатий екотон.
+mesophyte | noun | мезофіт | The plant is a typical ___ of temperate forests. | mesophyte | Рослина — типовий мезофіт помірних лісів.
+insolate | verb | піддавати сонячному опроміненню | The plants were ___d for the whole afternoon. | insolated | Рослини піддавали сонячному опроміненню цілий день.
+perturbation | noun | збурення | Small ___s can trigger large changes in the climate. | perturbation | Невеликі збурення можуть спричинити великі зміни клімату.

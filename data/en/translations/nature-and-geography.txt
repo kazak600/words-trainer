@@ -1,0 +1,107 @@
+# B2
+landscape | noun | ландшафт | The ___ changes dramatically along the coast. | landscape | Ландшафт різко змінюється вздовж узбережжя.
+valley | noun | долина | The village sits in a deep ___. | valley | Село розташоване в глибокій долині.
+peninsula | noun | півострів | The town lies on a small ___. | peninsula | Місто розташоване на невеликому півострові.
+glacier | noun | льодовик | The ___ has been melting for decades. | glacier | Льодовик тане вже десятиліттями.
+volcano | noun | вулкан | The ___ erupted in the spring. | volcano | Вулкан вивергнувся навесні.
+earthquake | noun | землетрус | The ___ was felt across the region. | earthquake | Землетрус відчули по всьому регіону.
+season | noun | пора року | Spring is my favourite ___. | season | Весна — моя улюблена пора року.
+shore | noun | берег | We walked along the ___ at sunset. | shore | Ми гуляли берегом на заході сонця.
+meadow | noun | луг | Cows graze in the green ___. | meadow | Корови пасуться на зеленому лузі.
+swamp | noun | болото | The ___ is full of birds in spring. | swamp | Болото навесні повне птахів.
+waterfall | noun | водоспад | We hiked to the ___ in the hills. | waterfall | Ми пішли пішки до водоспаду в горах.
+cliff | noun | скеля | The lighthouse stands on top of a steep ___. | cliff | Маяк стоїть на вершині крутої скелі.
+island | noun | острів | The ___ can be reached by ferry. | island | До острова можна дістатися поромом.
+desert | noun | пустеля | Camels can survive in the ___. | desert | Верблюди можуть вижити в пустелі.
+harbour | noun | гавань | Fishing boats returned to the ___. | harbour | Рибальські човни повернулися до гавані.
+storm | noun | буря | A violent ___ hit the coast overnight. | storm | Сильна буря вдарила по узбережжю вночі.
+horizon | noun | горизонт | The sun disappeared below the ___. | horizon | Сонце зникло за горизонтом.
+sediment | noun | осад | The river deposits ___ at its mouth. | sediment | Річка відкладає осад у своєму устя.
+tundra | noun | тундра | Few plants can survive in the ___. | tundra | Мало рослин може вижити в тундрі.
+rural | adj | сільський | They prefer ___ life to city life. | rural | Вони надають перевагу сільському життю перед міським.
+steep | adj | крутий | The path is very ___ near the top. | steep | Стежка біля вершини дуже крута.
+vast | adj | величезний | The plain stretches for ___ distances. | vast | Рівнина простягається на величезні відстані.
+fertile | adj | родючий | The river valley has ___ soil. | fertile | У річковій долині родючий ґрунт.
+barren | adj | безплідний | The ___ hills had almost no trees. | barren | На безплідних пагорбах майже не було дерев.
+dense | adj | густий | The jungle is very ___. | dense | Джунглі дуже густі.
+erode | verb | розмивати | The waves slowly ___ the cliffs. | erode | Хвилі повільно розмивають скелі.
+flow | verb | текти | The river ___s into the sea. | flows | Річка впадає в море.
+rise | verb | підніматися | The water level began to ___ after the rain. | rise | Рівень води почав підніматися після дощу.
+sink | verb | опускатися | The ship began to ___ slowly. | sink | Корабель почав повільно опускатися.
+bloom | verb | цвісти | The fields ___ in early summer. | bloom | Поля цвітуть на початку літа.
+freeze | verb | замерзати | The lake will ___ in January. | freeze | Озеро замерзне в січні.
+migrate | verb | мігрувати | Birds ___ south in autumn. | migrate | Птахи мігрують на південь восени.
+hibernate | verb | впадати в сплячку | Bears ___ during the winter. | hibernate | Ведмеді впадають у сплячку взимку.
+pebble | noun | галька | The river bed is covered in smooth ___s. | pebbles | Русло річки вкрите гладенькою галькою.
+stream | noun | струмок | We sat by a small mountain ___. | stream | Ми сиділи біля маленького гірського струмка.
+shrub | noun | кущ | A thick ___ grew along the fence. | shrub | Уздовж паркану ріс густий кущ.
+crater | noun | кратер | The meteorite left a huge ___. | crater | Метеорит залишив величезний кратер.
+lake | noun | озеро | We swam in a cold mountain ___. | lake | Ми купалися в холодному гірському озері.
+reef | noun | риф | Divers explored the coral ___. | reef | Водолази досліджували коралові рифи.
+grassland | noun | степ | Bison roam across the open ___. | grassland | Бізони блукають відкритим степом.
+# C1
+topography | noun | топографія | The ___ of the region is very varied. | topography | Топографія регіону дуже різноманітна.
+escarpment | noun | уступ | The hikers climbed up the rocky ___. | escarpment | Туристи піднялися на кам'янистий уступ.
+isthmus | noun | перешийок | The city is built on a narrow ___. | isthmus | Місто збудоване на вузькому перешийку.
+fjord | noun | фіорд | The ship sailed into a deep ___. | fjord | Корабель увійшов у глибокий фіорд.
+archipelago | noun | архіпелаг | The islands form a large ___. | archipelago | Острови утворюють великий архіпелаг.
+plateau | noun | плато | The village stands on a high ___. | plateau | Село розташоване на високому плато.
+estuary | noun | естуарій | The ___ is rich in wildlife. | estuary | Естуарій багатий на дику природу.
+delta | noun | дельта | The rice fields cover the river ___. | delta | Рисові поля вкривають річкову дельту.
+tributary | noun | притока | The Dnipro has many large ___ies. | tributaries | Дніпро має багато великих приток.
+moraine | noun | морена | The lake was formed behind a glacial ___. | moraine | Озеро утворилося за льодовиковою мореною.
+karst | noun | карст | The limestone area has many caves formed by ___. | karst | Вапнякова місцевість має багато печер, утворених карстом.
+savanna | noun | савана | Zebras roam across the ___. | savanna | Зебри блукають саваною.
+steppe | noun | степ | The ___ stretches for hundreds of kilometres. | steppe | Степ простягається на сотні кілометрів.
+oasis | noun | оазис | The town is an ___ in the middle of the desert. | oasis | Місто — оазис посеред пустелі.
+ravine | noun | яр | The path follows a deep ___. | ravine | Стежка йде вздовж глибокого яру.
+sinkhole | noun | провал (ґрунту) | A ___ opened up in the road. | sinkhole | На дорозі утворився провал ґрунту.
+bedrock | noun | корінна порода | The foundations rest on solid ___. | bedrock | Фундамент спирається на міцну корінну породу.
+alluvial | adj | алювіальний | The farmers grow crops on ___ soil. | alluvial | Фермери вирощують культури на алювіальному ґрунті.
+temperate | adj | помірний | The forest has a ___ climate. | temperate | Ліс має помірний клімат.
+boreal | adj | бореальний | The ___ forest stretches across the north. | boreal | Бореальний ліс тягнеться на півночі.
+rugged | adj | нерівний | The coast is ___ and difficult to reach. | rugged | Узбережжя нерівне і важко доступне.
+verdant | adj | зелений | The valley looked ___ after the rains. | verdant | Після дощів долина виглядала зеленою.
+serene | adj | безмятежний | The lake looked calm and ___. | serene | Озеро виглядало спокійним і безмятежним.
+sheer | adj | відвісний | The cliffs were ___ and impossible to climb. | sheer | Скелі були відвісними і неможливими для підйому.
+meander | verb | звивисто текти | The river ___s through the plain. | meanders | Річка звивисто тече рівниною.
+sprawl | verb | розкидатися | The town ___s across the hillside. | sprawls | Місто розкинулося схилом пагорба.
+oxbow | noun | старица | The river left an ___ lake behind. | oxbow | Річка залишила після себе старицю.
+bluff | noun | обрив | The house stands on a high ___ above the sea. | bluff | Будинок стоїть на високому обриві над морем.
+moor | noun | верес | We crossed the wild ___ in the fog. | moor | Ми перетнули дикий верес у тумані.
+strait | noun | протока | The ferry crosses the narrow ___. | strait | Пором перетинає вузьку протоку.
+basin | noun | басейн (ріки) | The river ___ covers thousands of square kilometres. | basin | Басейн ріки охоплює тисячі квадратних кілометрів.
+crevasse | noun | тріщина (у льодовику) | The climber fell into a deep ___. | crevasse | Альпініст упав у глибоку тріщину в льодовику.
+hummock | noun | горбок | Tussocks and ___s covered the wetland. | hummocks | Кочки та горбки вкривали болото.
+outcrop | noun | відслонення | A rocky ___ rose above the valley. | outcrop | Над долиною піднялося скелясте відслонення.
+delta | verb | утворювати дельту | The river ___s into several channels. | deltas | Річка утворює дельту з кількох рукавів.
+# C2
+orogeny | noun | горотворення | The ___ formed the mountain chain over millions of years. | orogeny | Горотворення утворило гірський хребет за мільйони років.
+verdure | noun | зелень | The hills were covered in lush ___. | verdure | Пагорби були вкриті пишною зеленню.
+sward | noun | дерен | The horses grazed on the thick ___. | sward | Коні паслися на густому дерені.
+thicket | noun | зарості | A dense ___ blocked the path. | thicket | Густі зарості перегородили стежку.
+tarn | noun | гірське озеро | The hikers rested beside the mountain ___. | tarn | Туристи відпочивали біля гірського озера.
+promontory | noun | мис | The lighthouse stands on a rocky ___. | promontory | Маяк стоїть на скелястому мисі.
+lagoon | noun | лагуна | The water in the ___ is shallow and warm. | lagoon | Вода в лагуні мілка і тепла.
+caldera | noun | кальдера | The lake fills an ancient volcanic ___. | caldera | Озеро заповнює давню вулканічну кальдеру.
+terrain | noun | місцевість | The rough ___ slowed the expedition. | terrain | Нерівна місцевість уповільнила експедицію.
+scree | noun | осипище | We slid down the loose ___. | scree | Ми з'їхали вниз сипучим осипищем.
+loess | noun | лес | Fertile ___ covers much of the plain. | loess | Родючий лес покриває більшу частину рівнини.
+chernozem | noun | чорнозем | The farmland has deep black ___. | chernozem | Сільськогосподарські угіддя мають глибокий чорнозем.
+diluvium | noun | делювій | The gravel was deposited as ___. | diluvium | Гравій відклався як делювій.
+tectonic | adj | тектонічний | The earthquake was caused by ___ shifts. | tectonic | Землетрус спричинили тектонічні зрушення.
+aeolian | adj | еоловий | The sand dunes were shaped by ___ forces. | aeolian | Піщані дюни сформувалися під дією еолових сил.
+fluvial | adj | річковий | The valley shows clear ___ erosion. | fluvial | Долина показує чітку річкову ерозію.
+glacial | adj | льодовиковий | The lake has a ___ origin. | glacial | Озеро має льодовикове походження.
+diurnal | adj | денний | Many insects are ___ in habit. | diurnal | Багато комах ведуть денний спосіб життя.
+nocturnal | adj | нічний | Owls are ___ birds. | nocturnal | Сови — нічні птахи.
+littoral | adj | прибережний | The ___ zone is rich in life. | littoral | Прибережна зона багата на життя.
+pelagic | adj | пелагічний | Tuna live in the ___ waters of the ocean. | pelagic | Тунці живуть у пелагічних водах океану.
+palisade | noun | скелі | The cliffs formed a natural ___ along the coast. | palisade | Скелі утворювали природну палісаду вздовж узбережжя.
+escarpment | adj | обривистий | The ___ slopes made farming impossible. | escarpment | Обривисті схили унеможливлювали землеробство.
+fen | noun | болото | The ___ is home to rare birds. | fen | Болото є домівкою рідкісних птахів.
+mere | noun | озерце | A small ___ lay hidden in the forest. | mere | Маленьке озерце ховалося в лісі.
+isobar | noun | ізобара | The map shows the ___s over the coast. | isobars | На карті показані ізобари над узбережжям.
+marl | noun | мергель | The soil is rich in clay and ___. | marl | Ґрунт багатий на глину та мергель.
+tor | noun | скеля | Granite ___s rise above the moor. | tors | Гранітні скелі піднімаються над вересами.
+estuarine | adj | естуарний | The ___ mud supports many species. | estuarine | Естуарний мул підтримує багато видів.

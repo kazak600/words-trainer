@@ -1,0 +1,98 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+emission,noun,B2,,викид,The factory cut its carbon ___ by half.,emissions,Фабрика скоротила викиди вуглецю вдвічі.,approved
+drought,noun,B2,,посуха,The ___ destroyed crops across the region.,drought,Посуха знищила врожаї в регіоні.,approved
+flood,noun,B2,,повінь,The heavy rain caused a severe ___.,flood,Сильна злива спричинила сильну повінь.,approved
+wildlife,noun,B2,,дика природа,The national park protects local ___.,wildlife,Національний парк охороняє місцеву дику природу.,approved
+habitat,noun,B2,,середовище існування,Deforestation destroys animal ___s.,habitats,Вирубка лісів знищує середовища існування тварин.,approved
+climate,noun,B2,,клімат,The ___ is changing faster than expected.,climate,"Клімат змінюється швидше, ніж очікувалося.",approved
+extinction,noun,B2,,вимирання,Many animals are facing ___.,extinction,Багато тварин стоять перед загрозою вимирання.,approved
+erosion,noun,B2,,ерозія,Coastal ___ destroyed several houses.,erosion,Прибережна ерозія знищила кілька будинків.,approved
+conservation,noun,B2,,охорона природи,The ___ of forests is a priority.,conservation,Охорона лісів — пріоритет.,approved
+fuel,noun,B2,,пальне,Electric cars need no petrol or diesel ___.,fuel,Електромобілям не потрібно бензину чи дизельного пального.,approved
+waste,noun,B2,,відходи,Households produce a lot of food ___.,waste,Домогосподарства виробляють багато харчових відходів.,approved
+rainforest,noun,B2,,тропічний ліс,Deforestation is destroying the ___.,rainforest,Вирубка лісів знищує тропічний ліс.,approved
+ozone,noun,B2,,озон,The hole in the ___ layer is shrinking.,ozone,Діра в озоновому шарі зменшується.,approved
+temperature,noun,B2,,температура,Average ___s have risen over the decades.,temperatures,Середні температури зросли за десятиліття.,approved
+crop,noun,B2,,урожай,Farmers lost their entire ___ in the storm.,crop,Фермери втратили весь урожай через бурю.,approved
+greenhouse,noun,B2,,парник,The farm grows tomatoes in a large ___.,greenhouse,Ферма вирощує помідори у великому парнику.,approved
+warming,noun,B2,,потепління,Ocean ___ affects fish populations.,warming,Потепління океану впливає на популяції риб.,approved
+pesticide,noun,B2,,пестицид,The farmers reduced their use of ___s.,pesticides,Фермери зменшили використання пестицидів.,approved
+landfill,noun,B2,,сміттєзвалище,Most of the waste ends up in a ___.,landfill,Більшість відходів потрапляє на сміттєзвалище.,approved
+sustainability,noun,B2,,сталість,The company reports on its ___ every year.,sustainability,Компанія щороку звітує про свою сталість.,approved
+hurricane,noun,B2,,ураган,The ___ destroyed hundreds of homes.,hurricane,Ураган знищив сотні будинків.,approved
+hazard,noun,B2,,небезпека,Flooding is a serious natural ___.,hazard,Повені — серйозна природна небезпека.,approved
+recycle,verb,B2,,переробляти,Please ___ plastic bottles and paper.,recycle,"Будь ласка, переробляйте пластикові пляшки та папір.",approved
+melt,verb,B2,,танути,The ice caps are beginning to ___.,melt,Полярні льодовики починають танути.,approved
+pollute,verb,B2,,забруднювати,The factory ___d the river for years.,polluted,Фабрика роками забруднювала річку.,approved
+protect,verb,B2,,захищати,We must ___ the environment for future generations.,protect,Ми маємо захищати довкілля для майбутніх поколінь.,approved
+dump,verb,B2,,скидати (сміття),It is illegal to ___ rubbish in the forest.,dump,Скидати сміття в лісі незаконно.,approved
+conserve,verb,B2,,зберігати,We must ___ water during the dry season.,conserve,Ми маємо зберігати воду в посушливий сезон.,approved
+renewable,adj,B2,,відновлюваний,Solar and wind are ___ sources of energy.,renewable,Сонячна і вітрова енергія — відновлювані джерела.,approved
+sustainable,adj,B2,,сталий,We need more ___ farming methods.,sustainable,Нам потрібні більш сталі методи землеробства.,approved
+endangered,adj,B2,,зникаючий,The tiger is an ___ species.,endangered,Тигр — зникаючий вид.,approved
+harmful,adj,B2,,шкідливий,Smoking is ___ to your health and to the planet.,harmful,Куріння шкідливе для здоров'я і для планети.,approved
+organic,adj,B2,,органічний,I buy ___ vegetables from the local farm.,organic,Я купую органічні овочі з місцевої ферми.,approved
+toxic,adj,B2,,токсичний,Some chemicals are ___ to fish.,toxic,Деякі хімікати токсичні для риб.,approved
+biodegradable,adj,B2,,біорозкладний,These bags are fully ___.,biodegradable,Ці пакети повністю біорозкладні.,approved
+global warming,phrase,B2,,глобальне потепління,___ is raising sea levels.,Global warming,Глобальне потепління підіймає рівень моря.,approved
+greenhouse gas,phrase,B2,,парниковий газ,Carbon dioxide is a major ___.,greenhouse gas,Вуглекислий газ — головний парниковий газ.,approved
+fossil fuel,phrase,B2,,викопне паливо,Coal and oil are ___s.,fossil fuels,Вугілля і нафта — викопне паливо.,approved
+deforestation,noun,C1,,вирубка лісів,___ contributes to climate change.,Deforestation,Вирубка лісів сприяє зміні клімату.,approved
+desertification,noun,C1,,опустелювання,Overgrazing causes ___ in dry areas.,desertification,Надмірний випас спричиняє опустелювання в посушливих районах.,approved
+biodiversity,noun,C1,,біорізноманіття,The reserve protects rich ___.,biodiversity,Заповідник охороняє багате біорізноманіття.,approved
+mitigation,noun,C1,,пом'якшення (наслідків),Climate ___ requires global cooperation.,mitigation,Пом'якшення наслідків зміни клімату потребує глобальної співпраці.,approved
+adaptation,noun,C1,,адаптація,Farmers need ___ to new weather patterns.,adaptation,Фермерам потрібна адаптація до нових погодних умов.,approved
+depletion,noun,C1,,виснаження,The ___ of fish stocks worries scientists.,depletion,Виснаження рибних запасів турбує вчених.,approved
+contamination,noun,C1,,забруднення,The ___ of groundwater was discovered.,contamination,Забруднення ґрунтових вод виявили.,approved
+monsoon,noun,C1,,мусон,The ___ arrived earlier than usual this year.,monsoon,"Мусон прийшов цього року раніше, ніж зазвичай.",approved
+permafrost,noun,C1,,вічна мерзлота,The ___ is thawing in the Arctic.,permafrost,В Арктиці тане вічна мерзлота.,approved
+precipitation,noun,C1,,опади,Annual ___ has decreased in the region.,precipitation,Річні опади в регіоні зменшилися.,approved
+ecocide,noun,C1,,екоцид,Activists call the spill an act of ___.,ecocide,Активісти називають розлив актом екоциду.,approved
+afforestation,noun,C1,,заліснення,___ helps restore damaged land.,Afforestation,Заліснення допомагає відновлювати пошкоджені землі.,approved
+irrigation,noun,C1,,зрошення,Modern ___ saves a lot of water.,irrigation,Сучасне зрошення економить багато води.,approved
+overfishing,noun,C1,,надмірний вилов риби,___ has reduced cod stocks dramatically.,Overfishing,Надмірний вилов риби різко зменшив запаси тріски.,approved
+carbon footprint,phrase,C1,,вуглецевий слід,Flying has a large ___.,carbon footprint,Авіаперельоти мають великий вуглецевий слід.,approved
+sequester,verb,C1,,секвеструвати,Forests help to ___ carbon dioxide.,sequester,Ліси допомагають секвеструвати вуглекислий газ.,approved
+offset,verb,C1,,компенсувати,The company tries to ___ its emissions by planting trees.,offset,Компанія намагається компенсувати свої викиди садінням дерев.,approved
+upcycle,verb,C1,,переробляти з користю,Artists ___ old furniture into new designs.,upcycle,Митці переробляють старі меблі в нові речі.,approved
+abate,verb,C1,,послаблюватися,The storm finally began to ___.,abate,Буря нарешті почала слабшати.,approved
+mitigate,verb,C1,,пом'якшувати,Planting trees can help ___ the heat.,mitigate,Посадка дерев може допомогти пом'якшити спеку.,approved
+ecological,adj,C1,,екологічний,The project has serious ___ consequences.,ecological,Проєкт має серйозні екологічні наслідки.,approved
+pristine,adj,C1,,незаймання,The lake remains ___ after decades.,pristine,Озеро і досі залишається незайманим після десятиліть.,approved
+arid,adj,C1,,посушливий,The region is very ___ and hot.,arid,Регіон дуже посушливий і спекотний.,approved
+emission-free,adj,C1,,безвикидний,The city wants to become ___ by 2040.,emission-free,Місто хоче стати безвикидним до 2040 року.,approved
+hazardous,adj,C1,,небезпечний,Workers handle ___ materials every day.,hazardous,Працівники щодня працюють з небезпечними матеріалами.,approved
+resilient,adj,C1,,стійкий,Coral reefs need to become more ___.,resilient,Коралові рифи мають стати стійкішими.,approved
+irreversible,adj,C1,,незворотний,The damage to the glacier is ___.,irreversible,Пошкодження льодовика незворотне.,approved
+catastrophic,adj,C1,,катастрофічний,The earthquake caused ___ damage.,catastrophic,Землетрус спричинив катастрофічні руйнування.,approved
+carbon-neutral,adj,C1,,вуглецево нейтральний,The city plans to become ___ by 2035.,carbon-neutral,Місто планує стати вуглецево нейтральним до 2035 року.,approved
+precautionary,adj,C1,,запобіжний,The government took ___ measures against floods.,precautionary,Уряд ужив запобіжних заходів проти повеней.,approved
+eco-friendly,adj,C1,,екологічний,Many shoppers prefer ___ packaging.,eco-friendly,Багато покупців віддають перевагу екологічному пакуванню.,approved
+geothermal,adj,C1,,геотермальний,The island uses ___ energy for heating.,geothermal,Острів використовує геотермальну енергію для опалення.,approved
+anthropogenic,adj,C2,,антропогенний,The warming is largely ___.,anthropogenic,Потепління здебільшого антропогенне.,approved
+allochthonous,adj,C2,,алохтонний,The ___ species arrived from another continent.,allochthonous,Алохтонний вид прибув з іншого континенту.,approved
+xeric,adj,C2,,ксерофітний,The plants are adapted to ___ conditions.,xeric,Рослини пристосовані до ксерофітних умов.,approved
+anoxic,adj,C2,,безкисневий,The lake bottom became ___ after the algae bloom.,anoxic,Дно озера стало безкисневим після цвітіння водоростей.,approved
+perennial,adj,C2,,багаторічний,The garden has many ___ plants.,perennial,У саду багато багаторічних рослин.,approved
+ephemeral,adj,C2,,короткочасний,The wetland is ___ and disappears in summer.,ephemeral,Водно-болотні угіддя короткочасні і зникають улітку.,approved
+inexorable,adj,C2,,невблаганний,The ___ rise in temperature continues.,inexorable,Невблаганне підвищення температури триває.,approved
+sylvan,adj,C2,,лісовий,The valley has a quiet ___ character.,sylvan,Долина має тихий лісовий характер.,approved
+mesic,adj,C2,,помірно вологий,The region has a ___ climate.,mesic,Регіон має помірно вологий клімат.,approved
+desertic,adj,C2,,пустельний,The landscape had a stark ___ character.,desertic,Ландшафт мав суворий пустельний характер.,approved
+insolation,noun,C2,,інсоляція,Solar panels depend on the level of ___.,insolation,Сонячні панелі залежать від рівня інсоляції.,approved
+albedo,noun,C2,,альбедо,Ice has a high ___ and reflects sunlight.,albedo,Лід має високе альбедо і відбиває сонячне світло.,approved
+eutrophication,noun,C2,,евтрофікація,Fertiliser runoff caused ___ of the lake.,eutrophication,Стік добрив спричинив евтрофікацію озера.,approved
+bioaccumulation,noun,C2,,біоакумуляція,Mercury undergoes ___ in the food chain.,bioaccumulation,Ртуть зазнає біоакумуляції в харчовому ланцюзі.,approved
+denudation,noun,C2,,оголення (ґрунту),Heavy rain caused ___ of the hillside.,denudation,Сильна злива спричинила оголення схилу.,approved
+aridity,noun,C2,,посушливість,Rising ___ threatens local agriculture.,aridity,Зростаюча посушливість загрожує місцевому сільському господарству.,approved
+degradation,noun,C2,,деградація,The ___ of soil reduces crop yields.,degradation,Деградація ґрунту знижує врожайність.,approved
+remediation,noun,C2,,рекультивація,The site needs costly ___.,remediation,Ділянка потребує дорогої рекультивації.,approved
+inundation,noun,C2,,затоплення,The village suffered a sudden ___.,inundation,Село зазнало раптового затоплення.,approved
+anoxia,noun,C2,,аноксія,"Lack of oxygen, or ___, killed the fish.",anoxia,"Брак кисню, або аноксія, вбив рибу.",approved
+bioremediation,noun,C2,,біоремедіація,___ uses microorganisms to clean polluted soil.,Bioremediation,Біоремедіація використовує мікроорганізми для очищення забрудненого ґрунту.,approved
+photosynthesis,noun,C2,,фотосинтез,Plants rely on ___ to produce energy.,photosynthesis,Рослини покладаються на фотосинтез для отримання енергії.,approved
+ecotone,noun,C2,,екотон,The forest edge forms a rich ___.,ecotone,Лісова опушка утворює багатий екотон.,approved
+mesophyte,noun,C2,,мезофіт,The plant is a typical ___ of temperate forests.,mesophyte,Рослина — типовий мезофіт помірних лісів.,approved
+perturbation,noun,C2,,збурення,Small ___s can trigger large changes in the climate.,perturbation,Невеликі збурення можуть спричинити великі зміни клімату.,approved
+desiccate,verb,C2,,висушувати,The heat began to ___ the soil.,desiccated,Спека почала висушувати ґрунт.,approved
+insolate,verb,C2,,піддавати сонячному опроміненню,The plants were ___d for the whole afternoon.,insolated,Рослини піддавали сонячному опроміненню цілий день.,approved

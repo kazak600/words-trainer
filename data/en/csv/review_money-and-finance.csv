@@ -1,0 +1,100 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+savings,noun,B2,,заощадження,She put her ___ into a special account.,savings,Вона відклала заощадження на спеціальний рахунок.,approved
+interest,noun,B2,,відсоток,The bank pays a low ___ on savings accounts.,interest,Банк платить низький відсоток за ощадними рахунками.,approved
+overdraft,noun,B2,,овердрафт,My account went into ___ after the rent was paid.,overdraft,Після оплати оренди мій рахунок пішов у мінус.,approved
+insurance,noun,B2,,страхування,Car ___ is compulsory in this country.,insurance,Страхування автомобіля в цій країні обов'язкове.,approved
+pension,noun,B2,,пенсія,She pays into a private ___ every month.,pension,Вона щомісяця відраховує на приватну пенсію.,approved
+refund,noun,B2,,повернення коштів,You will get a full ___ if the item is faulty.,refund,"Ви отримаєте повне повернення коштів, якщо товар несправний.",approved
+receipt,noun,B2,,чек; квитанція,Always keep the ___ in case you need to return the goods.,receipt,"Завжди зберігайте чек, якщо доведеться повернути товар.",approved
+bill,noun,B2,,рахунок,"Could we have the ___, please?",bill,"Можна нам рахунок, будь ласка?",approved
+cash,noun,B2,,готівка,Do you accept ___ or only cards?,cash,Ви приймаєте готівку чи лише картки?,approved
+invoice,noun,B2,,рахунок-фактура,The company sent us an ___ for the repairs.,invoice,Компанія надіслала нам рахунок-фактуру за ремонт.,approved
+fee,noun,B2,,плата; збір,There is a small ___ for using the service.,fee,За користування послугою стягується невелика плата.,approved
+discount,noun,B2,,знижка,The shop offers a ten percent ___ for students.,discount,Магазин пропонує студентам знижку десять відсотків.,approved
+bargain,noun,B2,,вигідна покупка,I found a real ___ in the sale.,bargain,Я знайшов справжню вигідну покупку на розпродажі.,approved
+expense,noun,B2,,витрата,Travel is a major ___ for our business.,expense,Подорожі — важлива витрата для нашого бізнесу.,approved
+income,noun,B2,,дохід,Her monthly ___ is lower than her costs.,income,Її щомісячний дохід нижчий за витрати.,approved
+tuition,noun,B2,,плата за навчання,The ___ at the university is high.,tuition,Плата за навчання в університеті висока.,approved
+debit,noun,B2,,дебет; списання,The bank shows a ___ of fifty pounds.,debit,Банк показує списання п'ятдесяти фунтів.,approved
+bonus,noun,B2,,премія; бонус,Staff received a year-end ___.,bonus,Персонал отримав новорічну премію.,approved
+tip,noun,B2,,чайові,It is customary to leave a ___ in restaurants.,tip,У ресторанах прийнято залишати чайові.,approved
+installment,noun,B2,,розстрочка; частковий платіж,We paid for the sofa in twelve monthly ___s.,installments,Ми оплатили диван дванадцятьма щомісячними платежами.,approved
+balance,noun,B2,,залишок (на рахунку),Check your account ___ before you pay.,balance,Перевірте залишок на рахунку перед оплатою.,approved
+credit card,phrase,B2,,кредитна картка,Please pay with a ___.,credit card,"Будь ласка, розплатіться кредитною карткою.",approved
+interest rate,phrase,B2,,процентна ставка,The central bank raised the ___.,interest rate,Центральний банк підвищив процентну ставку.,approved
+spend,verb,B2,,витрачати,We ___ too much money on holidays.,spend,Ми витрачаємо занадто багато грошей на відпустки.,approved
+afford,verb,B2,,дозволити собі,We cannot ___ a new car this year.,afford,Ми не можемо дозволити собі нову машину цього року.,approved
+earn,verb,B2,,заробляти,He ___ a good salary as an engineer.,earns,Він заробляє добру зарплату як інженер.,approved
+owe,verb,B2,,бути винним,I still ___ my brother two hundred euros.,owe,Я досі винен братові двісті євро.,approved
+budget,verb,B2,,планувати бюджет,You need to ___ carefully when you are a student.,budget,Студенту потрібно уважно планувати бюджет.,approved
+loan,verb,B2,,позичати,Could you ___ me some money until Friday?,loan,Чи можете ви позичити мені грошей до п'ятниці?,approved
+inherit,verb,B2,,успадковувати,She ___ a small house from her aunt.,inherited,Вона успадкувала від тітки невеликий будинок.,approved
+withdraw,verb,B2,,знімати (гроші),She went to the bank to ___ some cash.,withdraw,"Вона пішла в банк, щоб зняти готівку.",approved
+transfer,verb,B2,,переказувати,Please ___ the money to my account by Friday.,transfer,"Будь ласка, переведіть гроші на мій рахунок до п'ятниці.",approved
+deposit,verb,B2,,вносити (гроші),I ___ed my salary into the savings account.,deposited,Я вніс зарплату на ощадний рахунок.,approved
+wealthy,adj,B2,,заможний,The ___ family owns a large estate.,wealthy,Заможна родина володіє великим маєтком.,approved
+broke,adj,B2,,без грошей,I'm completely ___ until payday.,broke,До зарплати я зовсім без грошей.,approved
+pricey,adj,B2,,дорогий,The restaurant is a bit ___ for students.,pricey,Ресторан трохи дорогуватий для студентів.,approved
+thrifty,adj,B2,,ощадливий,My grandmother was very ___ and never wasted food.,thrifty,Моя бабуся була дуже ощадливою і ніколи не марнувала їжі.,approved
+affordable,adj,B2,,доступний,Good housing in the city is hard to find at an ___ price.,affordable,Хороше житло в місті важко знайти за доступною ціною.,approved
+frugal,adj,B2,,ощадливий,They lived a ___ life to pay off the loan.,frugal,"Вони жили ощадливо, щоб погасити кредит.",approved
+solvency,noun,C1,,платоспроможність,The bank's ___ was questioned after the scandal.,solvency,Після скандалу поставили під сумнів платоспроможність банку.,approved
+arrears,noun,C1,,заборгованість,The company is three months in ___ on rent.,arrears,Компанія має три місяці заборгованості з оренди.,approved
+collateral,noun,C1,,застава; забезпечення,The bank asked for property as ___.,collateral,Банк вимагав нерухомість як заставу.,approved
+annuity,noun,C1,,ануїтет; щорічна виплата,He receives a fixed ___ after retirement.,annuity,Після виходу на пенсію він отримує фіксовану щорічну виплату.,approved
+equity,noun,C1,,власний капітал; частка,She holds a small ___ stake in the startup.,equity,Вона володіє невеликою часткою капіталу в стартапі.,approved
+bond,noun,C1,,облігація,Government ___ are considered low-risk investments.,bonds,Державні облігації вважаються малоризиковими інвестиціями.,approved
+portfolio,noun,C1,,портфель (інвестицій),Her investment ___ is spread across several sectors.,portfolio,Її інвестиційний портфель розподілений між кількома секторами.,approved
+premium,noun,C1,,премія; страховий внесок,The insurance ___ rose after the accident.,premium,Страховий внесок зріс після аварії.,approved
+frugality,noun,C1,,ощадливість,Years of ___ allowed them to buy a flat in cash.,frugality,Роки ощадливості дозволили їм купити квартиру готівкою.,approved
+ledger,noun,C1,,бухгалтерська книга,Every transaction is recorded in the ___.,ledger,Кожна операція фіксується в бухгалтерській книзі.,approved
+surcharge,noun,C1,,надбавка,There is a ten percent ___ on weekend bookings.,surcharge,На бронювання на вихідні діє надбавка десять відсотків.,approved
+thrift,noun,C1,,ощадливість,___ is a virtue in uncertain times.,Thrift,В непевні часи ощадливість — чеснота.,approved
+mortgagee,noun,C1,,іпотекодержатель,The ___ can seize the house if payments stop.,mortgagee,"Іпотекодержатель може вилучити будинок, якщо платежі припиняться.",approved
+accountability,noun,C1,,підзвітність,The board demanded greater ___ for spending.,accountability,Правління вимагало більшої підзвітності за витрати.,approved
+foreclosure,noun,C1,,стягнення майна за борг,The bank began ___ proceedings on the house.,foreclosure,Банк почав процедуру стягнення будинку за борг.,approved
+dispersal,noun,C1,,розподіл (коштів),The fund's ___ of grants was delayed.,dispersal,Розподіл грантів фонду затримався.,approved
+deductible,adj,C1,,що віднімається з податків,Some business costs are ___ from taxable income.,deductible,Деякі витрати бізнесу віднімаються з оподатковуваного доходу.,approved
+extravagant,adj,C1,,марнотратний,Their ___ lifestyle drained their savings in a year.,extravagant,Їхній марнотратний спосіб життя за рік виснажив заощадження.,approved
+prudent,adj,C1,,розважливий,It is ___ to keep an emergency fund.,prudent,Розважливо мати аварійний фонд.,approved
+exempt,adj,C1,,звільнений,Small businesses are ___ from the new tax.,exempt,Малий бізнес звільнений від нового податку.,approved
+rewarding,adj,C1,,вигідний; корисний,Selling insurance can be a ___ career.,lucrative,Продаж страхування може бути прибутковою кар'єрою.,approved
+creditworthy,adj,C1,,кредитоспроможний,Banks only lend to ___ customers.,creditworthy,Банки позичають лише кредитоспроможним клієнтам.,approved
+extortionate,adj,C1,,грабіжницький,The landlord demanded an ___ rent.,extortionate,Орендодавець вимагав грабіжницької орендної плати.,approved
+prudential,adj,C1,,розсудливий,The regulator imposed ___ limits on lending.,prudential,Регулятор запровадив розсудливі обмеження на кредитування.,approved
+reimburse,verb,C1,,відшкодовувати,The company will ___ your travel costs.,reimburse,Компанія відшкодує ваші витрати на подорож.,approved
+defraud,verb,C1,,ошукувати,He was charged with trying to ___ the bank.,defraud,Йому висунули звинувачення в спробі ошукати банк.,approved
+embezzle,verb,C1,,привласнювати (кошти),The accountant was jailed for ___ing company funds.,embezzling,Бухгалтера ув'язнили за привласнення коштів компанії.,approved
+forfeit,verb,C1,,"втрачати (право, гроші)","If you cancel late, you will ___ the deposit.",forfeit,"Якщо скасуєте пізно, ви втратите завдаток.",approved
+levy,verb,C1,,стягувати (податок),The city council may ___ a new tax on hotels.,levy,Міська рада може стягувати новий податок з готелів.,approved
+audit,verb,C1,,перевіряти (фінансову звітність),External experts will ___ the accounts next month.,audit,Наступного місяця зовнішні експерти перевірять рахунки.,approved
+liquidate,verb,C1,,ліквідувати (активи),The firm had to ___ its property to repay creditors.,liquidate,"Фірмі довелося ліквідувати майно, щоб розрахуватися з кредиторами.",approved
+tax haven,phrase,C1,,податковий притулок,The company moved its profits to a ___.,tax haven,Компанія перевела свої прибутки до податкового притулку.,approved
+sovereign,noun,C2,,державна облігація,The country issued a new ___ to fund its debt.,sovereign,Країна випустила нові державні облігації для фінансування боргу.,approved
+escrow,noun,C2,,ескроу; умовний депозит,The money is held in ___ until the contract is signed.,escrow,Гроші зберігаються на умовному депозиті до підписання контракту.,approved
+bullion,noun,C2,,"зливки (золота, срібла)",The vault contained gold ___.,bullion,У сховищі містилися золоті зливки.,approved
+remittance,noun,C2,,грошовий переказ,Migrants send a large ___ home each month.,remittances,Мігранти щомісяця надсилають додому великі грошові перекази.,approved
+indebtedness,noun,C2,,заборгованість; боргове зобов'язання,Their ___ to the bank grew each year.,indebtedness,Їхня заборгованість перед банком зростала щороку.,approved
+spendthrift,noun,C2,,марнотратник,The ___ lost his fortune within a decade.,spendthrift,Марнотратник розтратив свій статок за десять років.,approved
+solvent,noun,C2,,розчинник,The factory used a toxic ___ in production.,solvent,На фабриці у виробництві використовували токсичний розчинник.,approved
+perquisite,noun,C2,,привілей; додаткова вигода,A company car is a common ___ for managers.,perquisite,Службовий автомобіль — звичайна додаткова вигода для керівників.,approved
+impecuniosity,noun,C2,,злиденність,Her ___ forced her to sell most of her books.,impecuniosity,Її злиденність змусила продати більшість книжок.,approved
+lien,noun,C2,,заставне право,The bank placed a ___ on the property.,lien,Банк наклав заставне право на нерухомість.,approved
+peculation,noun,C2,,розкрадання,The treasurer was charged with ___.,peculation,Казначея звинуватили у розкраданні.,approved
+usurp,verb,C2,,узурпувати,The bank tried to ___ the rights of the shareholders.,usurp,Банк намагався узурпувати права акціонерів.,approved
+scrimp,verb,C2,,жити ощадливо,The family had to ___ to pay for school fees.,scrimp,"Родині довелося жити ощадливо, щоб заплатити за навчання.",approved
+squander,verb,C2,,розтринькувати,He ___ his inheritance on gambling.,squandered,Він розтринькав спадок на азартні ігри.,approved
+bequeath,verb,C2,,заповідати,She ___ her library to the national museum.,bequeathed,Вона заповіла свою бібліотеку національному музею.,approved
+soar,verb,C2,,різко зростати (про ціни),Prices began to ___ again after the subsidy ended.,levitate,Ціни знову почали злітати після завершення субсидії.,approved
+amass,verb,C2,,накопичувати,He ___ a fortune in just twenty years.,amassed,Він накопичив статок лише за двадцять років.,approved
+disburse,verb,C2,,виплачувати,The fund will ___ the grants in March.,disburse,Фонд виплатить гранти в березні.,approved
+inveigle,verb,C2,,вмовляти (хитрощами),He ___d the investors into a risky scheme.,inveigled,Він хитрощами вмовив інвесторів на ризиковану схему.,approved
+plunder,verb,C2,,розграбовувати,The corrupt officials ___ed the public fund.,plundered,Корумповані посадовці розграбували державний фонд.,approved
+misappropriate,verb,C2,,привласнювати (кошти),The treasurer ___d the donations.,misappropriated,Скарбник привласнив пожертви.,approved
+miserly,adj,C2,,скупий,The ___ landlord refused to fix the heating.,miserly,Скупий орендодавець відмовився лагодити опалення.,approved
+penurious,adj,C2,,злиденний,They lived in ___ conditions after the factory closed.,penurious,Після закриття фабрики вони жили в злиденних умовах.,approved
+fiduciary,adj,C2,,довірчий,A financial adviser has a ___ duty to the client.,fiduciary,Фінансовий радник має довірчий обов'язок перед клієнтом.,approved
+parsimonious,adj,C2,,скупий; ощадливий,The ___ employer paid the lowest wages possible.,parsimonious,Скупий роботодавець платив найнижчі можливі зарплати.,approved
+usurious,adj,C2,,лихварський,The loan carried ___ interest rates.,usurious,Позика мала лихварські відсоткові ставки.,approved
+fraudulent,adj,C2,,шахрайський,The ___ invoices were discovered by the auditors.,fraudulent,Шахрайські рахунки виявили аудитори.,approved
+pecuniarily,adv,C2,,матеріально,The family was ___ secure after the inheritance.,pecuniarily,Після спадщини родина була матеріально забезпечена.,approved

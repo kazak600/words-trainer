@@ -1,0 +1,3 @@
+noun: hypothesis, experiment, theory, analysis, result, discovery, scientist, laboratory, microscope, chemical, molecule, gravity, energy, species, evolution, fossil, universe, dna, vaccine, variable, sample, observation, conclusion, measurement, technique, funding, equation, observatory
+verb: evidence, observe, measure, calculate, replicate, conclude, sample
+adj: accurate, precise, theoretical, empirical

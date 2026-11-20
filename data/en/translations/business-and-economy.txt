@@ -1,0 +1,113 @@
+# B2
+inflation | noun | інфляція | Rising prices are a sign of high ___. | inflation | Зростання цін — ознака високої інфляції.
+revenue | noun | виручка; дохід | The company's ___ doubled in five years. | revenue | Виручка компанії подвоїлася за п'ять років.
+profit | noun | прибуток | The shop made a small ___ last month. | profit | Минулого місяця магазин отримав невеликий прибуток.
+invest | verb | інвестувати | They decided to ___ in renewable energy. | invest | Вони вирішили інвестувати у відновлювану енергетику.
+budget | noun | бюджет | We need to reduce the ___ for advertising. | budget | Нам потрібно зменшити бюджет на рекламу.
+expand | verb | розширювати | The firm plans to ___ into Asian markets. | expand | Фірма планує вийти на азійські ринки.
+competitor | noun | конкурент | Our main ___ has lower prices. | competitor | Наш головний конкурент має нижчі ціни.
+demand | noun | попит | The ___ for electric cars keeps growing. | demand | Попит на електромобілі постійно зростає.
+supply | noun | пропозиція | ___ cannot keep up with demand. | Supply | Пропозиція не встигає за попитом.
+shareholder | noun | акціонер | The ___ approved the merger. | shareholders | Акціонери схвалили злиття.
+merger | noun | злиття | The ___ created the largest bank in the region. | merger | Злиття створило найбільший банк у регіоні.
+recession | noun | рецесія | The country entered a ___ last year. | recession | Минулого року країна увійшла в рецесію.
+export | verb | експортувати | The country ___ wine to over forty countries. | exports | Країна експортує вино в понад сорок країн.
+import | verb | імпортувати | We ___ most of our raw materials. | import | Ми імпортуємо більшість сировини.
+bankrupt | adj | збанкрутілий | The factory went ___ after losing its main client. | bankrupt | Фабрика збанкрутувала після втрати головного клієнта.
+sales | noun | продажі | ___ rose sharply during the holiday season. | Sales | Продажі різко зросли під час святкового сезону.
+loan | noun | позика; кредит | She took out a ___ to buy a flat. | loan | Вона взяла кредит на купівлю квартири.
+debt | noun | борг | The company is struggling to repay its ___. | debts | Компанія намагається погасити свої борги.
+tax | noun | податок | The new ___ will affect small businesses. | tax | Новий податок вплине на малий бізнес.
+trade | noun | торгівля | International ___ has grown rapidly. | trade | Міжнародна торгівля швидко зросла.
+consumer | noun | споживач | ___ want more transparent pricing. | Consumers | Споживачі хочуть прозорішого ціноутворення.
+goods | noun | товари | The price of basic ___ has gone up. | goods | Ціни на базові товари зросли.
+wage | noun | заробітна плата | Low ___ are a problem in many service jobs. | wages | Низька заробітна плата — проблема в багатьох сферах послуг.
+shortage | noun | нестача | There is a ___ of skilled workers in the region. | shortage | У регіоні є нестача кваліфікованих працівників.
+growth | noun | зростання | Economic ___ slowed down in the second quarter. | growth | Економічне зростання уповільнилося в другому кварталі.
+deficit | noun | дефіцит | The government reported a large budget ___. | deficit | Уряд оголосив про великий дефіцит бюджету.
+currency | noun | валюта | The ___ lost value against the dollar. | currency | Валюта втратила вартість щодо долара.
+exchange rate | phrase | обмінний курс | The ___ changes every day. | exchange rate | Обмінний курс щодня змінюється.
+subsidy | noun | субсидія | The farm receives a government ___. | subsidy | Ферма отримує державну субсидію.
+stock | noun | акції; запас | The company's ___ fell after the announcement. | stock | Акції компанії впали після оголошення.
+investor | noun | інвестор | The ___ wants to see quarterly results. | investor | Інвестор хоче бачити квартальні результати.
+brand | noun | бренд | This ___ is known for quality shoes. | brand | Цей бренд відомий якісним взуттям.
+margin | noun | маржа | The shop works on a small profit ___. | margin | Магазин працює з невеликою маржею.
+turnover | noun | оборот | Annual ___ reached two million euros. | turnover | Річний оборот сягнув двох мільйонів євро.
+overheads | noun | накладні витрати | Rent and wages are the main ___. | overheads | Оренда та зарплати — основні накладні витрати.
+forecast | noun | прогноз | The economists' ___ for growth is optimistic. | forecast | Прогноз економістів щодо зростання оптимістичний.
+quota | noun | квота | Each salesperson has a monthly sales ___. | quota | Кожен продавець має місячну квоту продажів.
+franchise | noun | франшиза | They bought a ___ for a coffee chain. | franchise | Вони купили франшизу мережі кав'ярень.
+outsource | verb | передавати на аутсорсинг | The firm decided to ___ its IT support. | outsource | Фірма вирішила передати ІТ-підтримку на аутсорсинг.
+sluggish | adj | млявий | Sales have been ___ since the spring. | sluggish | Продажі з весни були млявими.
+surplus | adj | зайвий | The warehouse sells ___ stock at a discount. | surplus | Склад продає зайвий товар зі знижкою.
+# C1
+fiscal | adj | фіскальний | The government announced new ___ measures. | fiscal | Уряд оголосив нові фіскальні заходи.
+liquidity | noun | ліквідність | The bank needs more ___ to survive the crisis. | liquidity | Банку потрібно більше ліквідності, щоб пережити кризу.
+dividend | noun | дивіденд | Shareholders received a generous ___ this year. | dividend | Цього року акціонери отримали щедрий дивіденд.
+conglomerate | noun | конгломерат | The ___ owns companies in finance, retail and media. | conglomerate | Конгломерат володіє компаніями у фінансах, роздрібній торгівлі та медіа.
+monopoly | noun | монополія | The government investigated the company for creating a ___. | monopoly | Уряд розслідував компанію за створення монополії.
+stimulus | noun | стимул | The government approved a large economic ___. | stimulus | Уряд схвалив великий економічний стимул.
+inflationary | adj | інфляційний | The central bank warned of ___ pressure on wages. | inflationary | Центральний банк попередив про інфляційний тиск на зарплати.
+solvent | adj | платоспроможний | The firm remained ___ despite heavy losses. | solvent | Фірма залишилася платоспроможною, попри великі збитки.
+asset | noun | актив | Her most valuable ___ is her brand. | asset | Її найцінніший актив — її бренд.
+surplus | noun | профіцит | The country ran a trade ___ last year. | surplus | Минулого року країна мала торговий профіцит.
+downturn | noun | спад | The industry suffered a sharp ___ in demand. | downturn | Галузь зазнала різкого спаду попиту.
+upturn | noun | пожвавлення | Analysts noticed an ___ in consumer spending. | upturn | Аналітики помітили пожвавлення споживчих витрат.
+commodity | noun | товар (сировинний) | Wheat is a key ___ in global trade. | commodity | Пшениця — ключовий сировинний товар у світовій торгівлі.
+tariff | noun | мито | The new ___ raised prices on imported cars. | tariff | Нове мито підвищило ціни на імпортні автомобілі.
+sanction | noun | санкція | The ___ restricted the company's access to foreign banks. | sanctions | Санкції обмежили доступ компанії до іноземних банків.
+hedge | verb | хеджувати | The company tried to ___ against currency risk. | hedge | Компанія намагалася захиститися від валютного ризику.
+bailout | noun | фінансова допомога | The government agreed to a ___ for the airline. | bailout | Уряд погодився на фінансову допомогу авіакомпанії.
+viability | noun | життєздатність | Doubts grew over the project's long-term ___. | viability | Зросли сумніви щодо довгострокової життєздатності проєкту.
+accrue | verb | нараховуватися | Interest will ___ on the unpaid balance. | accrue | Відсотки нараховуватимуться на несплачений залишок.
+amortize | verb | амортизувати | The company will ___ the cost over ten years. | amortize | Компанія амортизуватиме вартість протягом десяти років.
+depreciate | verb | знецінюватися | Cars ___ quickly in the first years. | depreciate | Автомобілі швидко знецінюються в перші роки.
+appreciate | verb | зростати у ціні | The value of the property has ___ by 20 percent. | appreciated | Вартість нерухомості зросла на 20 відсотків.
+slump | noun | різкий спад | Sales went into a ___ after the price increase. | slump | Після підвищення цін продажі різко впали.
+boom | noun | бум | The region experienced an economic ___ in the nineties. | boom | У дев'яностих регіон пережив економічний бум.
+outlook | noun | прогноз | The economic ___ for next year is uncertain. | outlook | Економічний прогноз на наступний рік невизначений.
+cartel | noun | картель | Regulators broke up the ___ within a year. | cartel | Регулятори розбили картель протягом року.
+arbitrage | noun | арбітраж | Traders make profits through ___ between markets. | arbitrage | Трейдери отримують прибуток через арбітраж між ринками.
+leverage | noun | кредитне плече | The firm used high ___ to finance its expansion. | leverage | Фірма використала велике кредитне плече для фінансування розширення.
+arbitrary | adj | довільний | The fee increase looked completely ___. | arbitrary | Підвищення комісії виглядало повністю довільним.
+deregulation | noun | дерегулювання | ___ opened the market to new rivals. | Deregulation | Дерегулювання відкрило ринок для нових конкурентів.
+protracted | adj | затяжний | The talks led to a ___ dispute. | protracted | Переговори призвели до затяжного спору.
+oversupply | noun | надлишкове постачання | An ___ of cheap oil pushed prices down. | oversupply | Надлишкове постачання дешевої нафти обвалило ціни.
+capitalization | noun | капіталізація | The firm's market ___ doubled in a year. | capitalization | Ринкова капіталізація фірми за рік подвоїлася.
+exponential | adj | експоненційний | The start-up enjoyed ___ growth. | exponential | Стартап переживав експоненційне зростання.
+insolvent | adj | неплатоспроможний | The company became ___ within months. | insolvent | Компанія стала неплатоспроможною протягом кількох місяців.
+spiral | verb | стрімко зростати (або падати) | Costs began to ___ out of control. | spiralled | Витрати почали стрімко виходити з-під контролю.
+stagflation | noun | стагфляція | The economy suffered from ___ for years. | stagflation | Економіка роками страждала від стагфляції.
+# C2
+fiscally | adv | фіскально | The reforms were designed to be ___ responsible. | fiscally | Реформи були задумані як фіскально відповідальні.
+usury | noun | лихварство | The law bans ___ on small loans. | usury | Закон забороняє лихварство щодо дрібних позик.
+oligopoly | noun | олігополія | A few giants dominate the market in an ___. | oligopoly | В олігополії кілька гігантів домінують на ринку.
+insolvency | noun | неплатоспроможність | The company filed for ___ after months of losses. | insolvency | Після кількох місяців збитків компанія подала заяву про неплатоспроможність.
+plutocracy | noun | плутократія | Critics say the country has become a ___. | plutocracy | Критики кажуть, що країна стала плутократією.
+protectionism | noun | протекціонізм | ___ raised the cost of imported goods. | Protectionism | Протекціонізм підвищив вартість імпортних товарів.
+laissez-faire | adj | невтручання | The government adopted a ___ approach to markets. | laissez-faire | Уряд обрав політику невтручання в ринки.
+mercantile | adj | торговельний | The city was built on ___ trade routes. | mercantile | Місто було побудоване на торговельних шляхах.
+fledgling | adj | молодий; незрілий | The ___ firm struggled to win its first clients. | fledgling | Молода фірма з трудом знаходила перших клієнтів.
+entrepreneurial | adj | підприємницький | She has a strong ___ spirit. | entrepreneurial | Вона має сильний підприємницький дух.
+pecuniary | adj | грошовий | The lawsuit sought ___ compensation for the damage. | pecuniary | Позов вимагав грошової компенсації за збитки.
+fungible | adj | взаємозамінний | Money is ___, so one banknote equals another. | fungible | Гроші взаємозамінні, тож одна банкнота дорівнює іншій.
+moratorium | noun | мораторій | The government imposed a ___ on new loans. | moratorium | Уряд ввів мораторій на нові позики.
+levy | noun | збір | A special ___ was imposed on luxury goods. | levy | На предмети розкоші запровадили спеціальний збір.
+insider | noun | інсайдер | The ___ sold his shares before the crash. | insider | Інсайдер продав свої акції перед крахом.
+bankroll | verb | фінансувати | A wealthy donor ___ the entire project. | bankrolled | Заможний донор профінансував увесь проєкт.
+oversubscribed | adj | переповнений заявками | The bond issue was heavily ___. | oversubscribed | Випуск облігацій значно перевищив попит.
+impecunious | adj | незаможний | The ___ artist could not afford a studio. | impecunious | Незаможний художник не міг дозволити собі майстерню.
+peddle | verb | торгувати; розпускати (чутки) | He ___ rumours about the company's finances. | peddled | Він поширював чутки про фінанси компанії.
+tycoon | noun | магнат | The oil ___ donated millions to the university. | tycoon | Нафтовий магнат пожертвував університету мільйони.
+parity | noun | паритет | The two currencies reached ___ for the first time. | parity | Дві валюти вперше досягли паритету.
+dearth | noun | брак | There is a ___ of investment in rural areas. | dearth | У сільських районах бракує інвестицій.
+fluctuate | verb | коливатися | Share prices ___ wildly during the week. | fluctuated | Ціни акцій протягом тижня різко коливалися.
+hoard | verb | накопичувати | Some people ___ cash during a crisis. | hoard | Деякі люди накопичують готівку під час кризи.
+bourgeoning | adj | бурхливо зростаючий | The ___ market attracted many investors. | bourgeoning | Бурхливо зростаючий ринок приваблював багатьох інвесторів.
+dirigisme | noun | дирижизм | The government's ___ alarmed free-market economists. | dirigisme | Дирижизм уряду стривожив економістів вільного ринку.
+haphazard | adj | безсистемний | The company's pricing was ___ and inconsistent. | haphazard | Ціноутворення компанії було безсистемним і непослідовним.
+inflationism | noun | інфляціонізм | Critics accused the bank of ___. | inflationism | Критики звинуватили банк в інфляціонізмі.
+rapacious | adj | жадібний | The ___ lender charged crippling interest. | rapacious | Жадібний кредитор стягував виснажливі відсотки.
+recalibrate | verb | перекалібрувати | The bank had to ___ its lending rules. | recalibrated | Банку довелося перекалібрувати правила кредитування.
+deflation | noun | дефляція | Falling prices signalled ___. | deflation | Падіння цін сигналізувало про дефляцію.
+laudable | adj | похвальний | Their effort to cut costs was ___. | laudable | Їхні зусилля скоротити витрати були похвальними.

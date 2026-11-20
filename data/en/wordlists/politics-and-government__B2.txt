@@ -1,0 +1,3 @@
+noun: election, government, policy, parliament, campaign, reform, constitution, protest, coalition, opposition, diplomat, treaty, citizen, democracy, legislation, minister, mayor, regime, rebel, ballot, statesman, propaganda, bureaucrat, sovereignty, candidate, vote, rally, pledge
+verb: vote, sanction, reform, tax, debate
+adj: parliamentary

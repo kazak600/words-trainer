@@ -1,0 +1,4 @@
+noun: software, algorithm, database, password, glitch, update, device, gadget, network, virus, hacker, interface, sensor, module, startup, browser, streaming, notification, feature, connectivity, subscription, spreadsheet, download
+verb: upload, download, encrypt, browse, install, crash, password, prototype, glitch
+phrase: artificial intelligence
+adj: online, digital, wireless, automated, compatible

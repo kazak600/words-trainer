@@ -1,0 +1,108 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+conversation,noun,B2,,розмова,Their ___ lasted until midnight.,conversation,Їхня розмова тривала до півночі.,approved
+misunderstanding,noun,B2,,непорозуміння,The ___ was caused by an unclear email.,misunderstanding,Непорозуміння сталося через неясний лист.,approved
+vocabulary,noun,B2,,словниковий запас,Reading helps you build your ___.,vocabulary,Читання допомагає розширити словниковий запас.,approved
+accent,noun,B2,,акцент,She speaks English with a French ___.,accent,Вона говорить англійською з французьким акцентом.,approved
+pronunciation,noun,B2,,вимова,Her ___ is very clear.,pronunciation,Її вимова дуже чітка.,approved
+grammar,noun,B2,,граматика,The ___ of this language is complicated.,grammar,Граматика цієї мови складна.,approved
+slang,noun,B2,,сленг,Teenagers often use new ___ words.,slang,Підлітки часто вживають нові слова сленгу.,approved
+dialect,noun,B2,,діалект,Each region has its own ___.,dialect,Кожен регіон має власний діалект.,approved
+phrase,noun,B2,,фраза,This ___ is used in formal letters.,phrase,Ця фраза використовується в офіційних листах.,approved
+expression,noun,B2,,вислів,"""Break a leg"" is a common ___.",expression,«Ні пуху ні пера» — поширений вислів.,approved
+gesture,noun,B2,,жест,A friendly ___ can break the ice.,gesture,Дружній жест може розрядити атмосферу.,approved
+tone,noun,B2,,тон,Her ___ of voice was calm and warm.,tone,Її тон голосу був спокійним і теплим.,approved
+dialogue,noun,B2,,діалог,The ___ between the two leaders lasted for hours.,dialogue,Діалог між двома лідерами тривав годинами.,approved
+recipient,noun,B2,,одержувач,The ___ of the letter did not reply.,recipient,Одержувач листа не відповів.,approved
+express,verb,B2,,висловлювати,It is hard to ___ my feelings in words.,express,Мені важко висловити свої почуття словами.,approved
+imply,verb,B2,,натякати; мати на увазі,Are you trying to ___ that I was lying?,imply,"Ви намагаєтеся натякнути, що я брехав?",approved
+admit,verb,B2,,визнавати,He refused to ___ his mistake.,admit,Він відмовився визнати свою помилку.,approved
+persuade,verb,B2,,переконувати,She tried to ___ him to join the club.,persuade,Вона намагалася переконати його вступити до клубу.,approved
+insist,verb,B2,,наполягати,My parents ___ on meeting my friends.,insist,Мої батьки наполягають на знайомстві з моїми друзями.,approved
+argue,verb,B2,,сперечатися,They often ___ about politics.,argue,Вони часто сперечаються про політику.,approved
+explain,verb,B2,,пояснювати,Could you ___ the rules again?,explain,Не могли б ви пояснити правила ще раз?,approved
+translate,verb,B2,,перекладати,Can you ___ this letter into English?,translate,Чи можете ви перекласти цього листа англійською?,approved
+interrupt,verb,B2,,перебивати,Please don't ___ while I'm speaking.,interrupt,"Будь ласка, не перебивайте, коли я говорю.",approved
+comment,verb,B2,,коментувати,The minister refused to ___ on the scandal.,comment,Міністр відмовився коментувати скандал.,approved
+reply,verb,B2,,відповідати,She did not ___ to my message.,reply,Вона не відповіла на моє повідомлення.,approved
+gesture,verb,B2,,жестикулювати,He ___d towards the door.,gestured,Він показав жестом у бік дверей.,approved
+hint,verb,B2,,натякати,She ___ed that she might leave early.,hinted,"Вона натякнула, що може піти раніше.",approved
+assume,verb,B2,,припускати,I ___ you are coming to the party.,assume,"Я припускаю, що ви прийдете на вечірку.",approved
+clarify,verb,B2,,уточнювати,Could you ___ what you mean?,clarify,"Чи не могли б ви уточнити, що ви маєте на увазі?",approved
+misinterpret,verb,B2,,неправильно тлумачити,Don't ___ my silence as agreement.,misinterpret,Не тлумачте моє мовчання як згоду.,approved
+vague,adj,B2,,туманний,His answer was too ___ to be useful.,vague,"Його відповідь була надто туманною, щоб бути корисною.",approved
+blunt,adj,B2,,прямолінійний,I appreciate your ___ feedback.,blunt,Я ціную твій прямолінійний відгук.,approved
+articulate,adj,B2,,красномовний,She is very ___ and speaks clearly.,articulate,Вона дуже красномовна і говорить чітко.,approved
+fluent,adj,B2,,вільний (у мові),He is ___ in four languages.,fluent,Він вільно володіє чотирма мовами.,approved
+polite,adj,B2,,ввічливий,Try to be ___ when you ask for help.,polite,"Намагайтеся бути ввічливим, коли просите про допомогу.",approved
+subtle,adj,B2,,тонкий,There is a ___ difference between the two words.,subtle,Між цими двома словами є тонка різниця.,approved
+concise,adj,B2,,стислий,Keep your summary short and ___.,concise,Тримайте резюме коротким і стислим.,approved
+sarcastic,adj,B2,,саркастичний,His ___ remark made everyone uncomfortable.,sarcastic,Його саркастичне зауваження збентежило всіх.,approved
+approachable,adj,B2,,доступний для спілкування,The manager is very ___ and friendly.,approachable,Менеджер дуже доступний для спілкування і привітний.,approved
+eloquent,adj,C1,,красномовний,The senator gave an ___ speech.,eloquent,Сенатор виголосив красномовну промову.,approved
+verbose,adj,C1,,многослівний,The report was too ___ and needed editing.,verbose,Звіт був надто многослівним і потребував редагування.,approved
+ambiguous,adj,C1,,двозначний,The contract's wording was ___.,ambiguous,Формулювання контракту було двозначним.,approved
+reticent,adj,C1,,стриманий (у словах),He was ___ about his personal life.,reticent,Він був стриманим щодо свого особистого життя.,approved
+lucid,adj,C1,,ясний,Her explanation was clear and ___.,lucid,Її пояснення було чітким і ясним.,approved
+cryptic,adj,C1,,загадковий,The message was short and ___.,cryptic,Повідомлення було коротким і загадковим.,approved
+emphatic,adj,C1,,рішучий,He was ___ that he had never met her.,emphatic,"Він рішуче заявив, що ніколи її не зустрічав.",approved
+terse,adj,C1,,лаконічний,His reply was ___ and rude.,terse,Його відповідь була лаконічною і грубою.,approved
+equivocal,adj,C1,,двозначний,The witness gave an ___ answer.,equivocal,Свідок дав двозначну відповідь.,approved
+pithy,adj,C1,,влучний,The speaker gave a ___ summary of the debate.,pithy,Промовець дав влучне резюме дебатів.,approved
+verbatim,adj,C1,,дослівний,He gave a ___ transcript of the interview.,verbatim,Він надав дослівну розшифровку інтерв'ю.,approved
+prolix,adj,C1,,многоречивий,The lecture was long and ___.,prolix,Лекція була довгою і многоречивою.,approved
+euphemistic,adj,C1,,евфемістичний,The ___ phrase hid the real problem.,euphemistic,Евфемістична фраза приховувала справжню проблему.,approved
+rhetoric,noun,C1,,риторика,The speech was full of empty ___.,rhetoric,Промова була сповнена порожньої риторики.,approved
+nuance,noun,C1,,відтінок (значення),The translator missed the subtle ___ of the poem.,nuance,Перекладач пропустив тонкий відтінок значення вірша.,approved
+connotation,noun,C1,,коннотація,The word has a negative ___.,connotation,Це слово має негативну конотацію.,approved
+idiom,noun,C1,,ідіома,Translating an ___ word for word rarely works.,idiom,Переклад ідіоми дослівно зазвичай не спрацьовує.,approved
+jargon,noun,C1,,жаргон,Avoid technical ___ in your presentation.,jargon,Уникайте технічного жаргону у презентації.,approved
+euphemism,noun,C1,,евфемізм,"""Passed away"" is a ___ for ""died"".",euphemism,«Пішов з життя» — евфемізм до слова «помер».,approved
+sarcasm,noun,C1,,сарказм,Her ___ was lost on the new employee.,sarcasm,Її сарказм залишився непоміченим новим працівником.,approved
+irony,noun,C1,,іронія,There was a bitter ___ in his voice.,irony,У його голосі відчувалася гірка іронія.,approved
+banter,noun,C1,,жартівливі перепалки,The colleagues enjoyed friendly ___ at lunch.,banter,Колеги з задоволенням жартували за обідом.,approved
+inflection,noun,C1,,інтонація,Her ___ suggested that she was not serious.,inflection,"Її інтонація натякала, що вона не серйозна.",approved
+diction,noun,C1,,дикція,Good ___ is vital for public speakers.,diction,Гарна дикція важлива для публічних промовців.,approved
+hyperbole,noun,C1,,гіпербола,"""I've told you a million times"" is a ___.",hyperbole,«Я тобі тисячу разів казав» — це гіпербола.,approved
+innuendo,noun,C1,,натяк,His speech was full of ___ about the rival.,innuendo,Його промова була повна натяків на суперника.,approved
+paraphrase,verb,C1,,перефразовувати,Please ___ the author's main argument.,paraphrase,"Будь ласка, перефразуйте основний аргумент автора.",approved
+articulate,verb,C1,,чітко формулювати,She struggled to ___ her ideas.,articulate,Їй було важко чітко сформулювати свої думки.,approved
+converse,verb,C1,,розмовляти,The two diplomats ___d in private.,conversed,Два дипломати розмовляли наодинці.,approved
+enunciate,verb,C1,,вимовляти чітко,Please ___ each word clearly.,enunciate,"Будь ласка, вимовляйте кожне слово чітко.",approved
+mumble,verb,C1,,бурмотіти,He ___d an apology and left the room.,mumbled,Він пробурмотів вибачення і вийшов з кімнати.,approved
+rebuke,verb,C1,,докоряти,The teacher ___d the pupil for rudeness.,rebuked,Учитель докорив учневі за грубість.,approved
+prevaricate,verb,C1,,ухилятися від прямої відповіді,The minister continued to ___ under questioning.,prevaricate,Міністр продовжував ухилятися від прямих відповідей під час допиту.,approved
+verbatim,adv,C1,,дослівно,The minutes were recorded ___.,verbatim,Протокол записали дослівно.,approved
+loquacious,adj,C2,,балакучий,The ___ guide talked throughout the entire tour.,loquacious,Балакучий гід говорив протягом усієї екскурсії.,approved
+taciturn,adj,C2,,мовчазний,My grandfather was a ___ man who rarely spoke.,taciturn,"Мій дідусь був мовчазною людиною, яка рідко розмовляла.",approved
+perspicacious,adj,C2,,проникливий,Her ___ remarks revealed the hidden motives.,perspicacious,Її проникливі зауваження розкрили приховані мотиви.,approved
+sesquipedalian,adj,C2,,многоскладний,His ___ vocabulary made the text hard to follow.,sesquipedalian,Його многоскладна лексика ускладнювала розуміння тексту.,approved
+garrulous,adj,C2,,балакучий,The ___ neighbour told us her whole life story.,garrulous,Балакуча сусідка розповіла нам усю свою життєву історію.,approved
+apposite,adj,C2,,доречний,Her quotation was ___ to the discussion.,apposite,Її цитата була доречною для обговорення.,approved
+rhetorical,adj,C2,,риторичний,The question was purely ___.,rhetorical,Це питання було суто риторичним.,approved
+mellifluous,adj,C2,,медовий (про голос),The narrator had a ___ voice.,mellifluous,Оповідач мав медовий голос.,approved
+vociferous,adj,C2,,голосний,The ___ crowd demanded answers.,vociferous,Голосний натовп вимагав відповідей.,approved
+ineffable,adj,C2,,невимовний,The beauty of the view was ___.,ineffable,Краса краєвиду була невимовною.,approved
+oblique,adj,C2,,непрямий,He made an ___ reference to the scandal.,oblique,Він зробив непряму згадку про скандал.,approved
+discursive,adj,C2,,розлогий,The essay was too ___ and needed focus.,discursive,Есе було надто розлогим і потребувало фокусу.,approved
+sibilant,adj,C2,,свистячий,The ___ sounds of the language are hard for learners.,sibilant,"Свистячі звуки цієї мови важкі для тих, хто вивчає.",approved
+phatic,adj,C2,,фатичний,"""How are you?"" is often a ___ greeting.",phatic,«Як справи?» — часто фатичне привітання.,approved
+hyperbolic,adj,C2,,гіперболічний,His description was ___ and exaggerated.,hyperbolic,Його опис був гіперболічним і перебільшеним.,approved
+allegorical,adj,C2,,алегоричний,The fable is ___ in nature.,allegorical,Байка має алегоричну природу.,approved
+lexicon,noun,C2,,лексикон,Medical students must learn a large ___.,lexicon,Студентам-медикам треба вивчити великий лексикон.,approved
+obfuscation,noun,C2,,затемнення змісту,The contract's language is full of ___.,obfuscation,Мова контракту сповнена затемнень змісту.,approved
+circumlocution,noun,C2,,описовість,His answer was an endless ___.,circumlocution,Його відповідь була нескінченною описовістю.,approved
+cacophony,noun,C2,,какофонія,A ___ of voices filled the hall.,cacophony,Залу наповнила какофонія голосів.,approved
+solecism,noun,C2,,мовна помилка,The speech contained a grammatical ___.,solecism,У промові була граматична помилка.,approved
+malapropism,noun,C2,,мовна помилка (через схожість слів),"Calling a ""surgeon"" a ""surgery"" is a ___.",malapropism,Називати «хірурга» «операцією» — це мовна помилка.,approved
+tautology,noun,C2,,тавтологія,"""Free gift"" is a ___.",tautology,«Безкоштовний подарунок» — тавтологія.,approved
+homily,noun,C2,,повчальна промова,The priest's ___ lasted nearly an hour.,homily,Повчальна промова священика тривала майже годину.,approved
+gibberish,noun,C2,,нісенітниця,The text was pure ___.,gibberish,Текст був суцільною нісенітницею.,approved
+palaver,noun,C2,,балаканина,"After hours of ___, nothing was decided.",palaver,Після годин балаканини нічого не вирішили.,approved
+vitriol,noun,C2,,їдкість,The article was full of personal ___.,vitriol,Стаття була сповнена особистої їдкості.,approved
+glossolalia,noun,C2,,глосолалія,The ___ in the religious service puzzled visitors.,glossolalia,Глосолалія під час релігійної служби спантеличила відвідувачів.,approved
+loquacity,noun,C2,,балакучість,His ___ wore out the patience of the listeners.,loquacity,Його балакучість вичерпала терпіння слухачів.,approved
+pleonasm,noun,C2,,плеоназм,"""Free gift"" is an example of ___.",pleonasm,«Безкоштовний подарунок» — приклад плеоназму.,approved
+apophthegm,noun,C2,,апофтегма,The old teacher quoted a wise ___.,apophthegm,Старий учитель навів мудру апофтегму.,approved
+verbiage,noun,C2,,словесна полова,The report was full of empty ___.,verbiage,Звіт був сповнений порожньої словесної полови.,approved
+prolixity,noun,C2,,многослівність,His ___ bored the committee.,prolixity,Його многослівність нудила комітет.,approved
+bowdlerize,verb,C2,,цензурувати (текст),The publisher ___d the novel for schools.,bowdlerized,Видавець відцензурував роман для шкіл.,approved

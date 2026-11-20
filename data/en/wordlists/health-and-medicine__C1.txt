@@ -1,0 +1,3 @@
+noun: pathogen, epidemic, pandemic, quarantine, prognosis, convalescence, sedative, antibiotic, rehabilitation, comorbidity, incision, transplant, dehydration, hypertension, arthritis, inflammation, ailment, pallor, lethargy, epidemiology, pharmacology, contraindication, diagnostic, analgesia, debilitation, hemorrhage, asthma
+adj: malignant, benign, acute, debilitating, palliative, asymptomatic, resistant, prophylactic, hygienic
+verb: sterilize

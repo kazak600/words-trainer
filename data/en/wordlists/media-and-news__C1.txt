@@ -1,0 +1,4 @@
+verb: disseminate, propagate, censure, syndicate, fabricate, leak
+noun: sensationalism, op-ed, dispatch, scoop, objectivity, exposé, misinformation, tabloid, bulletin, pundit, gaffe, soundbite, broadsheet, retraction, ratings, propagandist, demagoguery, slander, credibility, whistleblower, clickbait
+adj: credible, infallible, partisan, viral, vitriolic, newsworthy, impartial, sensational
+phrase: press release

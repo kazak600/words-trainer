@@ -1,0 +1,100 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+curriculum,noun,B2,,навчальна програма,The new ___ includes more practical projects.,curriculum,Нова навчальна програма включає більше практичних проєктів.,approved
+semester,noun,B2,,семестр,The ___ ends with final exams.,semester,Семестр закінчується підсумковими іспитами.,approved
+scholarship,noun,B2,,стипендія,She won a ___ to study abroad.,scholarship,Вона отримала стипендію на навчання за кордоном.,approved
+assignment,noun,B2,,завдання,The students must submit their ___ by Friday.,assignment,Студенти мають здати свої завдання до п'ятниці.,approved
+lecture,noun,B2,,лекція,The professor gave an interesting ___.,lecture,Професор прочитав цікаву лекцію.,approved
+degree,noun,B2,,ступінь; диплом,She has a ___ in chemistry.,degree,Вона має ступінь з хімії.,approved
+research,noun,B2,,дослідження,His ___ focuses on climate change.,research,Його дослідження стосується зміни клімату.,approved
+literacy,noun,B2,,грамотність,Adult ___ classes are free in the city.,literacy,Курси з ліквідації неграмотності для дорослих у місті безкоштовні.,approved
+pupil,noun,B2,,учень,Each ___ received a certificate.,pupil,Кожен учень отримав сертифікат.,approved
+tutor,noun,B2,,репетитор; викладач,I hired a ___ to help with maths.,tutor,"Я найняв репетитора, щоб допомагав з математикою.",approved
+diploma,noun,B2,,диплом,She received her ___ in a ceremony.,diploma,Вона отримала диплом на церемонії.,approved
+library,noun,B2,,бібліотека,The university ___ is open all night.,library,Університетська бібліотека відкрита всю ніч.,approved
+lecturer,noun,B2,,викладач,The ___ explained the theory with clear examples.,lecturer,Викладач пояснив теорію на зрозумілих прикладах.,approved
+assessment,noun,B2,,оцінювання,The ___ includes a written and an oral part.,assessment,Оцінювання включає письмову та усну частини.,approved
+graduation,noun,B2,,випуск,The ___ ceremony took place in the main hall.,graduation,Церемонія випуску відбулася в головній залі.,approved
+coursework,noun,B2,,навчальна робота,The ___ counts for forty percent of the grade.,coursework,Навчальна робота становить сорок відсотків оцінки.,approved
+educator,noun,B2,,педагог,The ___ spoke about new teaching methods.,educator,Педагог розповідав про нові методи викладання.,approved
+tutorial,noun,B2,,практичне заняття,The ___ focused on solving problems.,tutorial,Практичне заняття було зосереджене на розв'язанні задач.,approved
+graduate,verb,B2,,закінчувати (навчальний заклад),He will ___ from university next June.,graduate,Він закінчить університет наступного червня.,approved
+enrol,verb,B2,,записуватися,You must ___ before the deadline.,enrol,Вам треба записатися до закінчення терміну.,approved
+revise,verb,B2,,повторювати (матеріал),I need to ___ for my history test.,revise,Мені треба повторити матеріал для тесту з історії.,approved
+attend,verb,B2,,відвідувати,Most students ___ lectures regularly.,attend,Більшість студентів регулярно відвідують лекції.,approved
+assess,verb,B2,,оцінювати,Teachers ___ the students' progress every term.,assess,Вчителі оцінюють прогрес учнів кожного семестру.,approved
+memorize,verb,B2,,запам'ятовувати,You need to ___ the dates for the exam.,memorize,Вам треба запам'ятати дати для іспиту.,approved
+analyse,verb,B2,,аналізувати,Students must ___ the text in detail.,analyse,Студенти мають детально проаналізувати текст.,approved
+improve,verb,B2,,покращувати,Regular practice will help you ___ quickly.,improve,Регулярна практика допоможе вам швидко покращитися.,approved
+degree,verb,B2,,здобути ступінь,He hopes to ___ in physics.,degree,Він сподівається здобути ступінь з фізики.,approved
+motivated,adj,B2,,мотивований,The most ___ students always ask questions.,motivated,Найбільш мотивовані студенти завжди ставлять запитання.,approved
+gifted,adj,B2,,обдарований,She is a ___ student in mathematics.,gifted,Вона обдарована учениця з математики.,approved
+ignorant,adj,B2,,неосвічений,It is ___ to say that education is useless.,ignorant,"Казати, що освіта марна, — це необізнаність.",approved
+curious,adj,B2,,допитливий,Children are naturally ___ about the world.,curious,Діти від природи допитливі щодо світу.,approved
+academic,adj,B2,,академічний,She has an ___ background in biology.,academic,Вона має академічну освіту з біології.,approved
+optional,adj,B2,,факультативний,Art is ___ in this school.,optional,Мистецтво в цій школі факультативне.,approved
+compulsory,adj,B2,,обов'язковий,Maths is ___ for all students.,compulsory,Математика обов'язкова для всіх студентів.,approved
+boarding school,phrase,B2,,інтернат,He was sent to a ___ at the age of ten.,boarding school,Його відправили в інтернат у десять років.,approved
+term paper,phrase,B2,,курсова робота,She submitted her ___ on time.,term paper,Вона здала курсову роботу вчасно.,approved
+drop out,phrase,B2,,кидати навчання,Some students ___ in the first year.,drop out,Деякі студенти кидають навчання на першому курсі.,approved
+pedagogy,noun,C1,,педагогіка,Modern ___ focuses on active learning.,pedagogy,Сучасна педагогіка зосереджена на активному навчанні.,approved
+syllabus,noun,C1,,силабус; програма курсу,The ___ lists all the reading for the term.,syllabus,Силабус містить усю літературу на семестр.,approved
+thesis,noun,C1,,дисертація; курсова,Her ___ examined the causes of inflation.,thesis,Її дисертація досліджувала причини інфляції.,approved
+dissertation,noun,C1,,дисертація,He spent three years on his doctoral ___.,dissertation,Він витратив три роки на свою докторську дисертацію.,approved
+seminar,noun,C1,,семінар,The ___ discussed recent research papers.,seminar,Семінар обговорював останні наукові статті.,approved
+faculty,noun,C1,,факультет; викладацький склад,The ___ of medicine is very competitive.,faculty,На медичний факультет дуже великий конкурс.,approved
+rote,noun,C1,,механічне заучування,Learning by ___ rarely leads to understanding.,rote,Навчання механічним заучуванням рідко призводить до розуміння.,approved
+proficiency,noun,C1,,рівень володіння,The exam tests your ___ in English.,proficiency,Іспит перевіряє ваш рівень володіння англійською.,approved
+aptitude,noun,C1,,здібність,She showed a clear ___ for languages.,aptitude,Вона виявила чітку здібність до мов.,approved
+bursary,noun,C1,,грант; стипендія,He received a ___ to cover his fees.,bursary,Він отримав грант на покриття навчання.,approved
+tenure,noun,C1,,постійна посада (викладача),"After ten years, he was granted ___ at the college.",tenure,Після десяти років роботи йому надали постійну посаду в коледжі.,approved
+prerequisite,noun,C1,,передумова,A degree in maths is a ___ for this course.,prerequisite,Диплом з математики — передумова для цього курсу.,approved
+accreditation,noun,C1,,акредитація,The college lost its ___ last year.,accreditation,Коледж втратив акредитацію минулого року.,approved
+mnemonic,noun,C1,,мнемонічний прийом,Use a ___ to remember the planets.,mnemonic,"Використовуйте мнемонічний прийом, щоб запам'ятати планети.",approved
+scaffolding,noun,C1,,навчальна підтримка,Teachers provide ___ for weaker students.,scaffolding,Вчителі надають навчальну підтримку слабшим учням.,approved
+pupillage,noun,C1,,стажування (учнівство),Her ___ at the law firm lasted two years.,pupillage,Її стажування в юридичній фірмі тривало два роки.,approved
+credential,noun,C1,,кваліфікаційний документ,Employers check your ___s.,credentials,Роботодавці перевіряють ваші кваліфікаційні документи.,approved
+cramming,noun,C1,,зубріння перед іспитом,Last-minute ___ rarely helps.,cramming,Зубріння в останню хвилину рідко допомагає.,approved
+apprenticeship,noun,C1,,учнівство,She completed a three-year ___ in printing.,apprenticeship,Вона пройшла тримісячне учнівство з друку.,approved
+inquisitiveness,noun,C1,,допитливість,Her ___ led her to explore many subjects.,inquisitiveness,Її допитливість привела її до вивчення багатьох предметів.,approved
+verbosity,noun,C1,,многослів'я,The essay's ___ made it difficult to follow.,verbosity,Многослів'я есе ускладнювало його розуміння.,approved
+mentor,verb,C1,,наставляти,The senior teacher agreed to ___ the newcomers.,mentor,Старший учитель погодився наставляти новачків.,approved
+matriculate,verb,C1,,вступати до університету,He will ___ at the university next September.,matriculate,Він вступить до університету наступного вересня.,approved
+dissect,verb,C1,,ґрунтовно аналізувати,Students were asked to ___ the poem line by line.,dissect,Студентів попросили ґрунтовно проаналізувати вірш рядок за рядком.,approved
+cognitive,adj,C1,,пізнавальний,Reading improves ___ skills.,cognitive,Читання покращує пізнавальні навички.,approved
+pedantic,adj,C1,,педантичний,The lecturer was too ___ about formatting.,pedantic,Лектор був надто педантичним щодо оформлення.,approved
+erudite,adj,C1,,ерудований,The professor was an ___ historian.,erudite,Професор був ерудованим істориком.,approved
+intellectual,adj,C1,,інтелектуальний,The book is challenging and ___.,intellectual,Книга складна і інтелектуальна.,approved
+extracurricular,adj,C1,,позакласний,She is active in several ___ activities.,extracurricular,Вона активна в кількох позакласних заходах.,approved
+heuristic,adj,C1,,евристичний,The method is a ___ way of learning.,heuristic,Цей метод — евристичний спосіб навчання.,approved
+epistemic,adj,C1,,епістемічний,The course explores ___ questions about knowledge.,epistemic,Курс розглядає епістемічні питання про знання.,approved
+preparatory,adj,C1,,підготовчий,The ___ course helps students before university.,preparatory,Підготовчий курс допомагає студентам перед університетом.,approved
+pedagogical,adj,C1,,педагогічний,The ___ training includes classroom observation.,pedagogical,Педагогічна підготовка включає спостереження на уроках.,approved
+peer review,phrase,C1,,рецензування,The article passed ___ before publication.,peer review,Статтю перед публікацією пройшла рецензування.,approved
+academically,adv,C1,,академічно,She performed ___ better than her peers.,academically,Вона навчалася академічно краще за однолітків.,approved
+andragogy,noun,C2,,андрагогіка,Adult learners benefit from a method based on ___.,andragogy,"Дорослі учні отримують користь від методу, заснованого на андрагогіці.",approved
+erudition,noun,C2,,ерудиція,His ___ impressed the examiners.,erudition,Його ерудиція вразила екзаменаторів.,approved
+didacticism,noun,C2,,дидактизм,The novel's ___ spoils the story.,didacticism,Дидактизм роману псує сюжет.,approved
+epistemology,noun,C2,,епістемологія,The course covers the basics of ___.,epistemology,Курс охоплює основи епістемології.,approved
+hermeneutics,noun,C2,,герменевтика,Her research uses ___ to interpret ancient texts.,hermeneutics,Її дослідження використовує герменевтику для тлумачення давніх текстів.,approved
+exegesis,noun,C2,,екзегеза; тлумачення,The student's ___ of the poem was brilliant.,exegesis,Тлумачення вірша студентом було блискучим.,approved
+sophistry,noun,C2,,софістика,His argument was pure ___.,sophistry,Його аргумент був суцільною софістикою.,approved
+autodidact,noun,C2,,самоук,He became a famous scientist as a self-taught ___.,autodidact,"Він став відомим вченим, будучи самоуком.",approved
+bibliography,noun,C2,,бібліографія,The essay ends with a long ___.,bibliography,Есе закінчується довгою бібліографією.,approved
+pedagogue,noun,C2,,педагог,The old ___ inspired generations of students.,pedagogue,Старий педагог надихнув покоління студентів.,approved
+sinecure,noun,C2,,непрацююча посада,The professorship was a ___ with generous pay.,sinecure,Професура була синекурою з щедрою платнею.,approved
+academician,noun,C2,,академік,The ___ gave a lecture on ancient history.,academician,Академік прочитав лекцію з давньої історії.,approved
+heuristics,noun,C2,,евристика,The course introduces ___ for solving problems.,heuristics,Курс знайомить з евристикою розв'язання задач.,approved
+pedantry,noun,C2,,педантизм,His ___ annoyed his students.,pedantry,Його педантизм дратував студентів.,approved
+epigone,noun,C2,,епігон,The poet was dismissed as a mere ___.,epigone,Поета відкинули як простого епігона.,approved
+perspicacity,noun,C2,,проникливість,His ___ helped the students understand the theory.,perspicacity,Його проникливість допомогла студентам зрозуміти теорію.,approved
+sagacity,noun,C2,,мудрість,Her ___ guided the department through the reform.,sagacity,Її мудрість провела відділ через реформу.,approved
+prolegomena,noun,C2,,пролегомени,The book begins with long ___ on method.,prolegomena,Книга починається з довгих пролегомен про метод.,approved
+scholastic,adj,C2,,схоластичний; навчальний,The ___ debates of the medieval period were famously abstract.,scholastic,Схоластичні дебати середньовіччя були відомо абстрактними.,approved
+doctoral,adj,C2,,докторський,He is writing a ___ dissertation on Baltic folklore.,doctoral,Він пише докторську дисертацію з балтійського фольклору.,approved
+scholarly,adj,C2,,науковий,The journal publishes ___ articles.,scholarly,Журнал публікує наукові статті.,approved
+fastidious,adj,C2,,прискіпливий,The examiner was ___ about citations.,fastidious,Екзаменатор був прискіпливим щодо цитувань.,approved
+precocious,adj,C2,,не за віком розвинений,The ___ child started reading at three.,precocious,Не за віком розвинена дитина почала читати в три роки.,approved
+doctrinaire,adj,C2,,догматичний,The professor had a ___ approach to teaching.,doctrinaire,Професор мав догматичний підхід до викладання.,approved
+didactical,adj,C2,,дидактичний,The book has a ___ structure.,didactical,Книга має дидактичну структуру.,approved
+tabula rasa,phrase,C2,,чистий аркуш; неписаний,Children are not a ___ in the classroom.,tabula rasa,Діти в класі — не чистий аркуш.,approved
+didactically,adv,C2,,дидактично,The lesson was presented ___.,didactically,Урок подали дидактично.,approved

@@ -1,0 +1,102 @@
+# B2
+hypothesis | noun | гіпотеза | The team tested their ___ in the laboratory. | hypothesis | Команда перевірила свою гіпотезу в лабораторії.
+experiment | noun | експеримент | The ___ failed on the first attempt. | experiment | Експеримент провалився з першої спроби.
+theory | noun | теорія | Darwin's ___ of evolution changed biology. | theory | Теорія еволюції Дарвіна змінила біологію.
+analysis | noun | аналіз | The ___ of the samples took a week. | analysis | Аналіз зразків зайняв тиждень.
+result | noun | результат | The ___s of the study were surprising. | results | Результати дослідження були несподіваними.
+discovery | noun | відкриття | The ___ of penicillin saved millions of lives. | discovery | Відкриття пеніциліну врятувало мільйони життів.
+scientist | noun | науковець | The ___ won a prize for her research. | scientist | Науковиця отримала премію за свої дослідження.
+laboratory | noun | лабораторія | The ___ is equipped with modern machines. | laboratory | Лабораторія обладнана сучасними приладами.
+microscope | noun | мікроскоп | Put the sample under the ___. | microscope | Помістіть зразок під мікроскоп.
+chemical | noun | хімічна речовина | Be careful with these ___s. | chemicals | Будьте обережні з цими хімічними речовинами.
+molecule | noun | молекула | Water is made of ___s of hydrogen and oxygen. | molecules | Вода складається з молекул водню та кисню.
+gravity | noun | гравітація | ___ keeps the planets in orbit. | Gravity | Гравітація утримує планети на орбіті.
+energy | noun | енергія | Solar panels convert light into ___. | energy | Сонячні панелі перетворюють світло на енергію.
+species | noun | вид (біол.) | Many ___ are endangered today. | species | Багато видів сьогодні перебувають під загрозою.
+evolution | noun | еволюція | The ___ of birds took millions of years. | evolution | Еволюція птахів тривала мільйони років.
+fossil | noun | скам'янілість | The ___ was found in a limestone cave. | fossil | Скам'янілість знайшли в вапняковій печері.
+universe | noun | Всесвіт | Astronomers study the ___ far beyond our galaxy. | universe | Астрономи вивчають Всесвіт далеко за межами нашої галактики.
+dna | noun | ДНК | The ___ contains genetic instructions. | DNA | ДНК містить генетичні інструкції.
+vaccine | noun | вакцина | The ___ was tested on thousands of volunteers. | vaccine | Вакцину випробували на тисячах волонтерів.
+variable | noun | змінна | Keep all other ___s constant. | variables | Тримайте всі інші змінні незмінними.
+sample | noun | зразок | The ___ was sent to the lab for testing. | sample | Зразок відправили в лабораторію для аналізу.
+evidence | verb | підтверджувати | The data ___s the theory. | evidences | Дані підтверджують теорію.
+observe | verb | спостерігати | Scientists ___ the stars every night. | observe | Учені щоночі спостерігають за зірками.
+measure | verb | вимірювати | We need to ___ the temperature every hour. | measure | Нам потрібно вимірювати температуру щогодини.
+calculate | verb | обчислювати | Engineers ___ the load on the bridge. | calculate | Інженери обчислюють навантаження на міст.
+replicate | verb | відтворювати | Other scientists could not ___ the results. | replicate | Інші науковці не змогли відтворити результати.
+conclude | verb | робити висновок | The researchers ___d that the drug was safe. | concluded | Дослідники дійшли висновку, що препарат безпечний.
+accurate | adj | точний | The measurements must be ___. | accurate | Вимірювання мають бути точними.
+precise | adj | точний | He gave a very ___ description of the process. | precise | Він дав дуже точний опис процесу.
+theoretical | adj | теоретичний | The ___ model predicts the outcome. | theoretical | Теоретична модель передбачає результат.
+empirical | adj | емпіричний | The study provides ___ evidence. | empirical | Дослідження надає емпіричні докази.
+sample | verb | брати зразки | The team will ___ water from the lake. | sample | Команда братиме зразки води з озера.
+observation | noun | спостереження | Careful ___ revealed a new pattern. | observation | Уважне спостереження виявило нову закономірність.
+conclusion | noun | висновок | The study reached a clear ___. | conclusion | Дослідження дійшло чіткого висновку.
+measurement | noun | вимірювання | The ___s must be repeated twice. | measurements | Вимірювання треба повторити двічі.
+technique | noun | метод | The team developed a new ___ for testing. | technique | Команда розробила новий метод тестування.
+funding | noun | фінансування | The project lost its ___ last year. | funding | Проєкт втратив фінансування минулого року.
+equation | noun | рівняння | The physicist solved the complex ___. | equation | Фізик розв'язав складне рівняння.
+observatory | noun | обсерваторія | The team works at the mountain ___. | observatory | Команда працює в гірській обсерваторії.
+# C1
+methodology | noun | методологія | The ___ of the study was criticized by peers. | methodology | Методологію дослідження розкритикували колеги.
+correlation | noun | кореляція | There is a strong ___ between the two variables. | correlation | Між цими двома змінними є сильна кореляція.
+anomaly | noun | аномалія | The data showed an unexpected ___. | anomaly | Дані показали несподівану аномалію.
+phenomenon | noun | явище | The northern lights are a natural ___. | phenomenon | Північне сяйво — природне явище.
+inference | noun | висновок (логічний) | The ___ was drawn from limited data. | inference | Висновок зробили з обмежених даних.
+replication | noun | відтворення (експерименту) | ___ of the study failed. | Replication | Відтворення дослідження не вдалося.
+spectrum | noun | спектр | The light was split into a ___. | spectrum | Світло розклали на спектр.
+isotope | noun | ізотоп | Carbon ___ can be used to date fossils. | isotopes | Ізотопи вуглецю можна використовувати для датування скам'янілостей.
+catalyst | noun | каталізатор | The enzyme acts as a ___. | catalyst | Фермент діє як каталізатор.
+synthesis | noun | синтез | The ___ of the compound took several steps. | synthesis | Синтез сполуки складався з кількох етапів.
+serendipity | noun | щасливий випадок | Many discoveries happened by ___. | serendipity | Багато відкриттів сталися завдяки щасливому випадку.
+paradigm | noun | парадигма | The discovery shifted the scientific ___. | paradigm | Відкриття змінило наукову парадигму.
+empiricism | noun | емпіризм | The school of ___ relies on observation. | empiricism | Школа емпіризму спирається на спостереження.
+quantum | noun | квант | The ___ theory describes tiny particles. | quantum | Квантова теорія описує найдрібніші частинки.
+genome | noun | геном | Scientists sequenced the human ___. | genome | Учені розшифрували геном людини.
+ecosystem | noun | екосистема | The lake is a fragile ___. | ecosystem | Озеро — крихка екосистема.
+mutation | noun | мутація | The virus developed a new ___. | mutation | Вірус розвинув нову мутацію.
+prototype | noun | прототип | The engineers built a working ___. | prototype | Інженери створили робочий прототип.
+hypothesize | verb | висувати гіпотезу | The scientists ___d that the virus mutates quickly. | hypothesized | Учені висунули гіпотезу, що вірус швидко мутує.
+quantify | verb | кількісно вимірювати | It is hard to ___ the effects of stress. | quantify | Важко кількісно виміряти ефекти стресу.
+extrapolate | verb | екстраполювати | You cannot ___ these results to the whole population. | extrapolate | Ці результати не можна екстраполювати на всю популяцію.
+rigorous | adj | ретельний | The study followed a ___ protocol. | rigorous | Дослідження дотримувалося ретельного протоколу.
+plausible | adj | правдоподібний | The explanation sounded ___ but was not tested. | plausible | Пояснення звучало правдоподібно, але не було перевірене.
+reproducible | adj | відтворюваний | Results must be ___ to be trusted. | reproducible | Результати мають бути відтворюваними, щоб їм довіряли.
+hypothesis-driven | adj | керований гіпотезою | The project followed a ___ approach. | hypothesis-driven | Проєкт дотримувався підходу, керованого гіпотезою.
+heterogeneous | adj | неоднорідний | The sample was ___ in age and background. | heterogeneous | Вибірка була неоднорідною за віком і походженням.
+homogeneous | adj | однорідний | The mixture must be ___ before testing. | homogeneous | Суміш має бути однорідною перед перевіркою.
+sedimentary | adj | осадовий | The rocks are ___ and contain fossils. | sedimentary | Породи осадові та містять скам'янілості.
+falsify | verb | фальсифікувати | The researcher was accused of ___ing the data. | falsifying | Дослідника звинуватили у фальсифікації даних.
+heterodox | adj | неортодоксальний | His ___ theory challenged the consensus. | heterodox | Його неортодоксальна теорія кинула виклик консенсусу.
+interdisciplinary | adj | міждисциплінарний | The project is highly ___. | interdisciplinary | Проєкт є високо міждисциплінарним.
+provisional | adj | тимчасовий | The results are only ___ until verified. | provisional | Результати є лише тимчасовими, доки їх не перевірять.
+methodical | adj | методичний | She is ___ in her approach to experiments. | methodical | Вона методична у своєму підході до експериментів.
+phenomenal | adj | феноменальний | The results were ___. | phenomenal | Результати були феноменальними.
+convergence | noun | збіг | The ___ of evidence from three studies is striking. | convergence | Збіг доказів з трьох досліджень вражає.
+radioactivity | noun | радіоактивність | The lab measured the level of ___. | radioactivity | Лабораторія виміряла рівень радіоактивності.
+# C2
+ontological | adj | онтологічний | The debate had an ___ dimension. | ontological | Дебати мали онтологічний вимір.
+inveterate | adj | закоренілий | He was an ___ sceptic of new theories. | inveterate | Він був закоренілим скептиком щодо нових теорій.
+abstruse | adj | незрозумілий | The paper was too ___ for most readers. | abstruse | Стаття була надто незрозумілою для більшості читачів.
+esoteric | adj | вузькоспеціалізований | The article discussed an ___ branch of mathematics. | esoteric | Стаття розглядала вузькоспеціалізовану галузь математики.
+intricate | adj | складний | The molecule has an ___ structure. | intricate | Молекула має складну структуру.
+tangential | adj | другорядний | The comment was ___ to the main question. | tangential | Коментар був другорядним до головного питання.
+serendipitous | adj | випадковий (щасливий) | The discovery was entirely ___. | serendipitous | Відкриття було цілком випадковим і щасливим.
+stochastic | adj | стохастичний | The model includes a ___ component. | stochastic | Модель містить стохастичний компонент.
+apodictic | adj | доказовий | The result was not ___ proof of anything. | apodictic | Результат не був доказовим доказом чогось.
+ineluctable | adj | неминучий | The conclusion seemed ___ after the data. | ineluctable | Висновок здавався неминучим після цих даних.
+reductionism | noun | редукціонізм | The critics accused the study of ___. | reductionism | Критики звинуватили дослідження в редукціонізмі.
+falsifiability | noun | фальсифікованість | A theory needs ___ to be scientific. | falsifiability | Теорія має бути фальсифікованою, щоб бути науковою.
+conjecture | noun | припущення | The paper offers a bold ___ about the origins of life. | conjecture | Стаття пропонує сміливе припущення щодо походження життя.
+axiom | noun | аксіома | The argument rests on an unproven ___. | axiom | Аргумент спирається на недоведену аксіому.
+corroborate | verb | підтверджувати | Later studies ___d the original findings. | corroborated | Пізніші дослідження підтвердили початкові висновки.
+refute | verb | спростовувати | The new evidence ___d the claim. | refuted | Нові докази спростували твердження.
+ascertain | verb | з'ясовувати | The team tried to ___ the cause of the error. | ascertain | Команда намагалася з'ясувати причину помилки.
+ratiocination | noun | логічне міркування | His ___ was precise and unhurried. | ratiocination | Його логічні міркування були точними і неквапливими.
+corroboration | noun | підтвердження | The study needs independent ___. | corroboration | Дослідженню потрібне незалежне підтвердження.
+reification | noun | реіфікація | The critic warned of ___ in the model. | reification | Критик попередив про реіфікацію в моделі.
+falsification | noun | фальсифікація | ___ is a key criterion of scientific theories. | Falsification | Фальсифікація — ключовий критерій наукових теорій.
+perspicuous | adj | ясний | Her explanation was ___ and clear. | perspicuous | Її пояснення було ясним і зрозумілим.
+spurious | adj | хибний | The correlation proved to be ___. | spurious | Кореляція виявилася хибною.
+heuristically | adv | евристично | The problem was approached ___. | heuristically | До проблеми підійшли евристично.

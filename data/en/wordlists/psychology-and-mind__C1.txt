@@ -1,0 +1,4 @@
+noun: cognition, introspection, resilience, dissociation, rumination, heuristic, phobia, compulsion, inhibition, epiphany, ambivalence, impulsivity, neurosis, mindfulness, conditioning, projection, ego, self-awareness, psychoanalysis
+phrase: cognitive dissonance
+adj: subliminal, lethargic, obsessive, introverted, catatonic, sentient, cognitive-behavioural, hypnotic, innate, ingrained, apathetic
+verb: dissociate

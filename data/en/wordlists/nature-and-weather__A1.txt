@@ -1,2 +1,0 @@
-noun: weather, sun, rain, snow, wind, cloud, sky, tree, flower, river, sea, mountain, forest, beach, animal, dog, cat, bird
-adj: hot, cold, sunny, rainy

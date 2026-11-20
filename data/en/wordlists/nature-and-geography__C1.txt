@@ -1,0 +1,3 @@
+noun: topography, escarpment, isthmus, fjord, archipelago, plateau, estuary, delta, tributary, moraine, karst, savanna, steppe, oasis, ravine, sinkhole, bedrock, oxbow, bluff, moor, strait, basin, crevasse, hummock, outcrop
+adj: alluvial, temperate, boreal, rugged, verdant, serene, sheer
+verb: meander, sprawl, delta

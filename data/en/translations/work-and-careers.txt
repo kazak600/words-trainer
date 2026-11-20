@@ -1,0 +1,104 @@
+# B2
+promotion | noun | підвищення на посаді | After two years of hard work, she finally got a ___. | promotion | Після двох років наполегливої праці вона нарешті отримала підвищення.
+deadline | noun | кінцевий термін | We must finish the report before the ___. | deadline | Ми мусимо закінчити звіт до кінцевого терміну.
+workload | noun | обсяг роботи | Her ___ increased after her colleague left. | workload | Її обсяг роботи збільшився після того, як колега звільнився.
+vacancy | noun | вакансія | There is a ___ in the accounts department. | vacancy | У відділі бухгалтерії є вакансія.
+qualification | noun | кваліфікація; диплом | A degree is a basic ___ for this job. | qualification | Диплом — базова кваліфікація для цієї роботи.
+responsibility | noun | відповідальність | Managers have a ___ to support their staff. | responsibility | Керівники мають відповідальність підтримувати свій персонал.
+overtime | noun | понаднормові | He often works ___ to finish projects. | overtime | Він часто працює понаднормово, щоб закінчити проєкти.
+mentor | noun | наставник | Her ___ helped her prepare for the exam. | mentor | Її наставник допоміг їй підготуватися до іспиту.
+expertise | noun | фахові знання | The consultant brought valuable ___ to the project. | expertise | Консультант приніс проєкту цінні фахові знання.
+shift | noun | зміна (робочий час) | I work the night ___ at the hospital. | shift | Я працюю в нічну зміну в лікарні.
+workplace | noun | робоче місце | The ___ should be safe and comfortable. | workplace | Робоче місце має бути безпечним і зручним.
+supervisor | noun | керівник | My ___ reviews my work every month. | supervisor | Мій керівник щомісяця переглядає мою роботу.
+burnout | noun | емоційне виснаження | Constant pressure can lead to ___. | burnout | Постійний тиск може призвести до емоційного виснаження.
+career | noun | кар'єра | She changed her ___ and became a teacher. | career | Вона змінила кар'єру і стала вчителькою.
+recruit | verb | наймати персонал | The company plans to ___ ten engineers this year. | recruit | Компанія планує найняти цього року десять інженерів.
+resign | verb | звільнятися за власним бажанням | He decided to ___ after a disagreement with the board. | resign | Він вирішив звільнитися після конфлікту з правлінням.
+negotiate | verb | домовлятися; вести переговори | We ___ a higher salary before accepting the offer. | negotiated | Ми домовилися про вищу зарплату, перш ніж прийняти пропозицію.
+achieve | verb | досягати | You can ___ great things if you stay focused. | achieve | Ти можеш досягти великих речей, якщо зосередишся.
+retire | verb | виходити на пенсію | My father plans to ___ at sixty-five. | retire | Мій батько планує вийти на пенсію у шістдесят п'ять.
+hire | verb | наймати | The shop ___ two extra staff for the summer. | hired | Магазин найняв двох додаткових працівників на літо.
+dismiss | verb | звільняти | The employer ___ him for repeated lateness. | dismissed | Роботодавець звільнив його за часті запізнення.
+accomplish | verb | досягати; виконувати | She ___ her goals within a year. | accomplished | Вона досягла своїх цілей протягом року.
+delegate | verb | делегувати | A good leader learns to ___ tasks. | delegate | Добрий лідер навчається делегувати завдання.
+experienced | adj | досвідчений | We need someone ___ in sales. | experienced | Нам потрібна людина з досвідом у продажах.
+freelance | adj | фріланс; позаштатний | She works as a ___ designer from home. | freelance | Вона працює фрилансеркою-дизайнеркою вдома.
+productive | adj | продуктивний | Our most ___ hours are in the morning. | productive | Найпродуктивніші години в нас — вранці.
+demanding | adj | вимогливий; виснажливий | Nursing is a physically ___ job. | demanding | Медсестринство — фізично виснажлива робота.
+proficient | adj | майстерний; умілий | He is ___ in three programming languages. | proficient | Він володіє трьома мовами програмування.
+pay rise | phrase | підвищення зарплати | He asked for a ___ after a year of excellent results. | pay rise | Він попросив підвищити зарплату після року відмінних результатів.
+redundant | adj | зайвий; без потреби | After the merger, three managers became ___. | redundant | Після злиття три менеджери опинилися зайвими.
+commission | noun | комісія | Sales staff earn a monthly ___ on every contract. | commission | Персонал з продажів отримує щомісячну комісію з кожного контракту.
+probation | noun | випробувальний термін | New staff serve a three-month ___ period. | probation | Нові співробітники проходять трьохмісячний випробувальний термін.
+hands-on | adj | практичний | She prefers a ___ approach to management. | hands-on | Вона віддає перевагу практичному підходу до керівництва.
+shortlist | verb | вносити до короткого списку | The panel will ___ six applicants this week. | shortlist | Комісія цього тижня внесе шістьох заявників до короткого списку.
+appraisal | noun | оцінка роботи | The annual ___ takes place in March. | appraisal | Річна оцінка роботи відбувається в березні.
+handover | noun | передача справ | The ___ took two days because of the complex projects. | handover | Передача справ тривала два дні через складні проєкти.
+mentee | noun | підопічний | The ___ asked for advice about her next step. | mentee | Підопічна попросила поради щодо наступного кроку.
+# C1
+diligent | adj | старанний | Her ___ work earned her the respect of the whole team. | diligent | Її старанна праця принесла їй повагу всієї команди.
+mediocre | adj | посередній | The results were ___, not what the board had hoped for. | mediocre | Результати були посередніми, не такими, на які сподівалося правління.
+vocational | adj | професійний; фаховий | She enrolled in a ___ course in carpentry. | vocational | Вона записалася на фахові курси столярної справи.
+cutthroat | adj | жорсткий; безжальний | The advertising industry is ___ and fast-paced. | cutthroat | Рекламна індустрія жорстка й швидкоплинна.
+entrepreneur | noun | підприємець | At twenty-five, she was already a successful ___. | entrepreneur | У двадцять п'ять вона вже була успішною підприємицею.
+incentive | noun | стимул | Bonuses are a strong ___ to work harder. | incentive | Премії — сильний стимул працювати краще.
+sabbatical | noun | творча відпустка | After ten years, he took a year's ___ to write a book. | sabbatical | Після десяти років роботи він узяв річну творчу відпустку, щоб написати книгу.
+redundancy | noun | скорочення штату | Several staff faced ___ after the merger. | redundancy | Після злиття кільком працівникам загрожувало скорочення.
+hierarchy | noun | ієрархія | Every large organization has a clear ___. | hierarchy | Кожна велика організація має чітку ієрархію.
+bureaucracy | noun | бюрократія | The ___ slowed down every application. | bureaucracy | Бюрократія уповільнювала розгляд кожної заявки.
+remuneration | noun | винагорода; оплата праці | The ___ package includes health insurance. | remuneration | Пакет винагороди включає медичну страховку.
+networking | noun | налагодження зв'язків | ___ at conferences helped her find new clients. | Networking | Налагодження зв'язків на конференціях допомогло їй знайти нових клієнтів.
+onboarding | noun | адаптація нового працівника | Good ___ helps new staff settle in quickly. | onboarding | Добра адаптація допомагає новим працівникам швидко освоїтися.
+prospect | noun | перспектива | The new project offers excellent career ___. | prospects | Новий проєкт пропонує чудові кар'єрні перспективи.
+résumé | noun | резюме | Please send your ___ and a cover letter. | résumé | Будь ласка, надішліть своє резюме та супровідний лист.
+internship | noun | стажування | He got an ___ at a major law firm. | internship | Він отримав стажування у великій юридичній фірмі.
+leverage | verb | використовувати як важіль | The firm ___ its reputation to win new contracts. | leveraged | Фірма використала свою репутацію, щоб виграти нові контракти.
+spearhead | verb | очолювати | She ___ the campaign to modernize the company. | spearheaded | Вона очолила кампанію з модернізації компанії.
+streamline | verb | спрощувати | We ___ the approval process to save time. | streamlined | Ми спростили процес погодження, щоб заощадити час.
+stagnate | verb | застоюватися | Without new challenges, your career may ___. | stagnate | Без нових викликів твоя кар'єра може застопоритися.
+juggle | verb | поєднувати (обов'язки) | She has to ___ a job and two children. | juggle | Їй доводиться поєднувати роботу і двох дітей.
+implement | verb | впроваджувати | The new policy will be ___ next month. | implemented | Нова політика буде впроваджена наступного місяця.
+facilitate | verb | сприяти; полегшувати | The manager ___ the discussion between departments. | facilitated | Керівник сприяв обговоренню між відділами.
+lay off | phrase | звільняти через скорочення | The factory had to ___ workers during the crisis. | lay off | Під час кризи фабриці довелося звільнити працівників.
+take on | phrase | наймати; брати на себе | The firm plans to ___ more graduates next year. | take on | Фірма планує найняти більше випускників наступного року.
+attrition | noun | плинність кадрів | High ___ forced the company to rethink its benefits. | attrition | Висока плинність кадрів змусила компанію переглянути пільги.
+delegation | noun | делегування | Good managers practise careful ___ of tasks. | delegation | Добрі менеджери дбайливо делегують завдання.
+endeavour | noun | прагнення; справа | The new venture was a bold ___. | endeavour | Новий проєкт був сміливою справою.
+consultancy | noun | консалтингова фірма | She left the bank to join a management ___. | consultancy | Вона пішла з банку, щоб приєднатися до консалтингової фірми.
+accountable | adj | підзвітний | Every department head is ___ for the budget. | accountable | Кожен керівник відділу підзвітний за бюджет.
+coerce | verb | примушувати | Employees should never be ___d into overtime. | coerced | Працівників ніколи не слід примушувати до понаднормових.
+headhunter | noun | рекрутер | A ___ contacted him about a senior role. | headhunter | Рекрутер зв'язався з ним щодо посади старшого рівня.
+adept | adj | умілий | He is ___ at handling difficult clients. | adept | Він умілий у роботі з важкими клієнтами.
+meritocratic | adj | меритократичний | The firm claims a ___ promotion system. | meritocratic | Фірма стверджує, що має меритократичну систему просування.
+# C2
+perfunctory | adj | формальний; поверховий | He gave the report a ___ glance before signing it. | perfunctory | Він поверхово глянув на звіт, перш ніж його підписати.
+indispensable | adj | незамінний | She soon became ___ to the whole department. | indispensable | Невдовзі вона стала незамінною для всього відділу.
+superfluous | adj | зайвий | Several ___ layers of approval slowed everything down. | superfluous | Кілька зайвих рівнів погодження все уповільнювали.
+lucrative | adj | прибутковий | He found a ___ position in the energy sector. | lucrative | Він знайшов прибуткову посаду в енергетичному секторі.
+tedious | adj | нудний; монотонний | Filing thousands of documents is ___ work. | tedious | Складання тисяч документів — нудна монотонна робота.
+gratuitous | adj | безпідставний | The manager's ___ criticism demoralized the team. | gratuitous | Безпідставна критика керівника деморалізувала команду.
+cogent | adj | переконливий | She presented a ___ argument for the new budget. | cogent | Вона навела переконливий аргумент на користь нового бюджету.
+deft | adj | спритний; вправний | He made a ___ move to secure the contract. | deft | Він спритно зробив хід, щоб закріпити контракт.
+vicarious | adj | опосередкований | He gets ___ pleasure from watching others succeed. | vicarious | Він отримує опосередковану насолоду, спостерігаючи за успіхами інших.
+vocation | noun | покликання | Teaching was more a ___ than a job for her. | vocation | Для неї викладання було скоріше покликанням, ніж роботою.
+emolument | noun | винагорода; платня | His ___ include a car and a generous pension. | emoluments | Його винагорода включає автомобіль і щедру пенсію.
+meritocracy | noun | меритократія | The firm claims to be a ___, promoting by talent alone. | meritocracy | Фірма стверджує, що вона меритократична і просуває лише за талантом.
+sycophant | noun | підлабузник | Nobody trusted him; he was a ___. | sycophant | Йому ніхто не довіряв: він був підлабузником.
+diligence | noun | старанність | Her ___ impressed every examiner. | diligence | Її старанність вразила кожного екзаменатора.
+acumen | noun | кмітливість | Her business ___ made the company profitable. | acumen | Її ділова кмітливість зробила компанію прибутковою.
+incumbent | noun | чинний посадовець | The ___ manager was re-elected for another term. | incumbent | Чинного керівника переобрали на новий термін.
+remit | noun | сфера повноважень | Financial decisions are outside my ___. | remit | Фінансові рішення не входять до моєї сфери повноважень.
+apprise | verb | повідомляти | The director ___ the staff of the new schedule. | apprised | Директор повідомив персонал про новий графік.
+dispatch | verb | швидко відправляти | The team ___ the urgent order within an hour. | dispatched | Команда швидко відправила термінове замовлення протягом години.
+orchestrate | verb | організовувати; координувати | She ___ the entire conference from a single office. | orchestrated | Вона координувала всю конференцію з одного офісу.
+yield | verb | давати (результат) | The investment ___ a steady return. | yielded | Інвестиція принесла стабільний дохід.
+abdicate | verb | відмовлятися (від відповідальності) | He ___ responsibility for the failed launch. | abdicated | Він відмовився від відповідальності за провальний запуск.
+deputize | verb | призначати заступником | The director ___ her during his absence. | deputized | Директор призначив її заступницею на час своєї відсутності.
+abnegation | noun | самозречення | Her ___ of personal gain impressed the board. | abnegation | Її самозречення заради особистої вигоди вразило правління.
+doggedness | noun | вперте завзяття | Her ___ carried the project to completion. | doggedness | Її вперте завзяття довело проєкт до завершення.
+resourcefulness | noun | кмітливість | His ___ saved the project from collapse. | resourcefulness | Його кмітливість врятувала проєкт від краху.
+nepotist | noun | прихильник кумівства | The board accused him of being a ___. | nepotist | Правління звинуватило його в прихильності до кумівства.
+precarious | adj | ненадійний | Freelancers often face ___ incomes. | precarious | Фрилансери часто мають ненадійний дохід.
+exacting | adj | вимогливий | The client set ___ standards for every deliverable. | exacting | Клієнт встановив вимогливі стандарти для кожного результату.
+ineptitude | noun | некомпетентність | His ___ cost the firm a major contract. | ineptitude | Його некомпетентність коштувала фірмі великого контракту.

@@ -1,0 +1,4 @@
+noun: deforestation, desertification, biodiversity, mitigation, adaptation, depletion, contamination, monsoon, permafrost, precipitation, ecocide, afforestation, irrigation, overfishing
+phrase: carbon footprint
+verb: sequester, offset, upcycle, abate, mitigate
+adj: ecological, pristine, arid, emission-free, hazardous, resilient, irreversible, catastrophic, carbon-neutral, precautionary, eco-friendly, geothermal

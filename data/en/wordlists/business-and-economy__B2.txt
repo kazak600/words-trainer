@@ -1,0 +1,4 @@
+noun: inflation, revenue, profit, budget, competitor, demand, supply, shareholder, merger, recession, sales, loan, debt, tax, trade, consumer, goods, wage, shortage, growth, deficit, currency, subsidy, stock, investor, brand, margin, turnover, overheads, forecast, quota, franchise
+verb: invest, expand, export, import, outsource
+adj: bankrupt, sluggish, surplus
+phrase: exchange rate

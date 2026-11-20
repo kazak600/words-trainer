@@ -1,0 +1,3 @@
+noun: urbanization, metropolis, hamlet, conurbation, brownfield, zoning, amenity, tenement, bungalow, penthouse, insulation, ventilation, plumbing, eyesore, cul-de-sac, commuter, brownstone, renovation, apartheid, blight, inhabitant, thoroughfare
+adj: dilapidated, congested, overcrowded, cosmopolitan, vibrant, sprawling, infrastructural, urban, gentrified
+verb: pedestrianize, gentrify, revitalize

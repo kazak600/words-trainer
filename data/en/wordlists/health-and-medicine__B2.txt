@@ -1,0 +1,3 @@
+noun: symptom, diagnosis, treatment, prescription, infection, recovery, allergy, injury, surgery, vaccination, fatigue, nutrition, hygiene, bruise, painkiller, pharmacy, nursing, stress, injection, pharmacist, wound, tablet, ward, remedy
+adj: chronic, severe, contagious, immune, dizzy
+verb: hospitalize, prescribe, recover, diagnose, inject, sprain

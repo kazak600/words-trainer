@@ -1,0 +1,4 @@
+noun: andragogy, erudition, didacticism, epistemology, hermeneutics, exegesis, sophistry, autodidact, bibliography, pedagogue, sinecure, academician, heuristics, pedantry, epigone, perspicacity, sagacity, prolegomena
+adj: scholastic, doctoral, scholarly, fastidious, precocious, doctrinaire, didactical
+phrase: tabula rasa
+adv: didactically

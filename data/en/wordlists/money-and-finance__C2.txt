@@ -1,0 +1,4 @@
+noun: sovereign, escrow, bullion, remittance, indebtedness, spendthrift, solvent, perquisite, impecuniosity, lien, peculation
+verb: usurp, scrimp, squander, bequeath, soar, amass, disburse, inveigle, plunder, misappropriate
+adj: miserly, penurious, fiduciary, parsimonious, usurious, fraudulent
+adv: pecuniarily

@@ -15,7 +15,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))  # python -I drops the 
 
 from lang import ENRICHED_COLUMNS, get_lang
 
-LEVELS = {"A1": 0, "A2": 1, "B1": 2, "B2": 3}
+LEVELS = {"A1": 0, "A2": 1, "B1": 2, "B2": 3, "C1": 4, "C2": 5}
 POS = {
     "noun", "propn", "verb", "adj", "adv", "pron",
     "prep", "conj", "num", "part", "interj", "phrase",

@@ -1,0 +1,107 @@
+# B2
+verdict | noun | вирок; вердикт | The jury reached a ___ after two days. | verdict | Присяжні винесли вердикт через два дні.
+lawyer | noun | юрист; адвокат | She hired a good ___ to defend her case. | lawyer | Вона найняла хорошого адвоката для захисту своєї справи.
+evidence | noun | докази | The police found new ___ at the scene. | evidence | Поліція знайшла нові докази на місці злочину.
+witness | noun | свідок | A ___ saw the car leave the parking lot. | witness | Свідок бачив, як машина виїжджала з парковки.
+suspect | noun | підозрюваний | The ___ was arrested at the airport. | suspect | Підозрюваного заарештували в аеропорту.
+court | noun | суд | The case will go to ___ next month. | court | Справа піде до суду наступного місяця.
+penalty | noun | покарання; штраф | The ___ for speeding is a heavy fine. | penalty | Покаранням за перевищення швидкості є великий штраф.
+theft | noun | крадіжка | The ___ of the painting shocked the city. | theft | Крадіжка картини шокувала місто.
+fraud | noun | шахрайство | The company was accused of ___. | fraud | Компанію звинуватили у шахрайстві.
+assault | noun | напад | The victim described the ___ in detail. | assault | Потерпіла детально описала напад.
+prison | noun | в'язниця | He spent five years in ___. | prison | Він провів п'ять років у в'язниці.
+appeal | noun | апеляція | They decided to file an ___ against the ruling. | appeal | Вони вирішили подати апеляцію на рішення.
+bail | noun | застава | He was released on ___ until the trial. | bail | Його відпустили під заставу до суду.
+crime | noun | злочин | Robbery is a serious ___. | crime | Грабіж — серйозний злочин.
+offence | noun | правопорушення | Speeding is a minor traffic ___. | offence | Перевищення швидкості — незначне дорожнє правопорушення.
+burglary | noun | пограбування (зі зломом) | The house was broken into during a ___. | burglary | Під час пограбування до будинку вдерлися.
+violence | noun | насильство | Domestic ___ is a serious problem. | violence | Домашнє насильство — серйозна проблема.
+contract | noun | договір | The ___ must be signed by both parties. | contract | Договір має підписати обидві сторони.
+liability | noun | відповідальність | The company accepted ___ for the damage. | liability | Компанія визнала відповідальність за збитки.
+rights | noun | права | Everyone has basic human ___. | rights | Кожен має основні людські права.
+jury | noun | присяжні | The ___ listened to all the evidence. | jury | Присяжні вислухали всі докази.
+sentence | verb | засуджувати | The judge will ___ him next week. | sentence | Суддя засудить його наступного тижня.
+investigate | verb | розслідувати | The police are trying to ___ the accident. | investigate | Поліція намагається розслідувати аварію.
+testify | verb | давати свідчення | The doctor agreed to ___ in court. | testify | Лікар погодився дати свідчення в суді.
+accuse | verb | звинувачувати | They ___ him of stealing money. | accused | Його звинуватили у крадіжці грошей.
+acquit | verb | виправдовувати | The court decided to ___ the defendant. | acquit | Суд вирішив виправдати обвинуваченого.
+fine | verb | штрафувати | The company was ___d for pollution. | fined | Компанію оштрафували за забруднення.
+innocent | adj | невинний | She was found ___ of all charges. | innocent | Її визнали невинною за всіма звинуваченнями.
+legal | adj | легальний; юридичний | You need ___ advice before signing. | legal | Перед підписанням вам потрібна юридична консультація.
+illegal | adj | незаконний | Parking here is ___. | illegal | Паркування тут незаконне.
+judge | noun | суддя | The ___ ordered a new trial. | judge | Суддя призначив новий розгляд справи.
+defence | noun | захист | The ___ argued that the evidence was unreliable. | defence | Захист стверджував, що докази ненадійні.
+prosecutor | noun | прокурор | The ___ asked for a ten-year sentence. | prosecutor | Прокурор попросив десять років ув'язнення.
+arrest | verb | арештувати | The police will ___ the suspect at dawn. | arrest | Поліція арештує підозрюваного на світанку.
+criminal | noun | злочинець | The ___ was caught after a long chase. | criminal | Злочинця спіймали після довгої погоні.
+hearing | noun | слухання | The court's ___ lasted all morning. | hearing | Судове слухання тривало весь ранок.
+guilt | noun | провина | He admitted his ___ in front of the judge. | guilt | Він визнав свою провину перед суддею.
+witness | verb | бути свідком | Several neighbours ___ed the accident. | witnessed | Кілька сусідів були свідками аварії.
+# C1
+perjury | noun | лжесвідчення | He was charged with ___ after lying under oath. | perjury | Його звинуватили у лжесвідченні після брехні під присягою.
+plaintiff | noun | позивач | The ___ demanded compensation for the damage. | plaintiff | Позивач вимагав компенсації за збитки.
+defendant | noun | відповідач; обвинувачений | The ___ denied all charges. | defendant | Обвинувачений заперечував усі звинувачення.
+precedent | noun | прецедент | The ruling set an important ___ for future cases. | precedent | Рішення створило важливий прецедент для майбутніх справ.
+statute | noun | статут; закон | The ___ of limitations has expired. | statute | Строк давності за статутом минув.
+misdemeanour | noun | правопорушення | Shoplifting is treated as a ___ in this state. | misdemeanour | У цьому штаті крадіжку з магазину розглядають як правопорушення.
+embezzlement | noun | розкрадання | The manager was convicted of ___. | embezzlement | Менеджера засудили за розкрадання.
+racketeering | noun | рекет | The gang was charged with ___. | racketeering | Банду звинуватили у рекеті.
+conspiracy | noun | змова | The police uncovered a ___ to smuggle drugs. | conspiracy | Поліція розкрила змову з контрабанди наркотиків.
+acquittal | noun | виправдання | The ___ surprised many observers. | acquittal | Виправдання здивувало багатьох спостерігачів.
+indictment | noun | обвинувальний акт | The prosecutor filed an ___ against the banker. | indictment | Прокурор подав обвинувальний акт проти банкіра.
+testimony | noun | свідчення | Her ___ was crucial to the case. | testimony | Її свідчення були вирішальними у справі.
+deposition | noun | письмові свідчення | The lawyer read the witness's ___ aloud. | deposition | Адвокат зачитав вголос письмові свідчення свідка.
+sentencing | noun | винесення вироку | The ___ was postponed until next month. | sentencing | Винесення вироку відклали на наступний місяць.
+parole | noun | умовно-дострокове звільнення | He was released on ___ after eight years. | parole | Його звільнили умовно-достроково після восьми років.
+vandalism | noun | вандалізм | The park suffered serious ___ last week. | vandalism | Минулого тижня парк зазнав серйозного вандалізму.
+forgery | noun | підробка | The painting turned out to be a ___. | forgery | Картина виявилася підробкою.
+perpetrator | noun | злочинець; виконавець злочину | The police identified the ___ within a day. | perpetrator | Поліція встановила злочинця протягом доби.
+accomplice | noun | співучасник | The ___ testified against the gang leader. | accomplice | Співучасник дав свідчення проти ватажка банди.
+custody | noun | опіка; утримання під вартою | The mother was granted ___ of the children. | custody | Матері присудили опіку над дітьми.
+injunction | noun | судова заборона | The court issued an ___ against the publication. | injunction | Суд видав судову заборону на публікацію.
+arbitration | noun | арбітраж | The two companies agreed to ___. | arbitration | Дві компанії погодилися на арбітраж.
+affidavit | noun | письмова присяга | The witness signed a sworn ___. | affidavit | Свідок підписав письмову присягу.
+litigation | noun | судовий процес | The dispute ended in lengthy ___. | litigation | Суперечка закінчилася тривалим судовим процесом.
+extradite | verb | екстрадувати | The government agreed to ___ the suspect. | extradite | Уряд погодився екстрадувати підозрюваного.
+verdict | verb | вирішувати | The panel was asked to ___ on the complaint. | verdict | Комісію попросили винести рішення щодо скарги.
+due process | phrase | належна правова процедура | Everyone deserves ___ under the law. | due process | Кожен заслуговує на належну правову процедуру за законом.
+subornation | noun | підкуп свідків | The lawyer was accused of ___. | subornation | Адвоката звинуватили у підкупі свідків.
+extenuating | adj | пом'якшувальний | The judge considered ___ circumstances. | extenuating | Суддя розглянув пом'якшувальні обставини.
+stipulate | verb | обумовлювати | The contract ___s the conditions of payment. | stipulates | Контракт обумовлює умови оплати.
+jurisprudence | noun | юриспруденція | The case set a new ___ on digital privacy. | jurisprudence | Справа створила нову юриспруденцію щодо цифрової приватності.
+warrant | noun | ордер | Police needed a ___ to search the house. | warrant | Поліції потрібен був ордер, щоб обшукати будинок.
+incarceration | noun | ув'язнення | Long ___ rarely deters crime. | incarceration | Тривале ув'язнення рідко стримує злочинність.
+fraudster | noun | шахрай | The ___ was caught stealing online accounts. | fraudster | Шахрая спіймали на крадіжці онлайн-облікових записів.
+exculpate | verb | виправдовувати | New evidence helped to ___ the suspect. | exculpate | Нові докази допомогли виправдати підозрюваного.
+# C2
+mens rea | phrase | умисел (юр.) | The prosecution had to prove ___ beyond doubt. | mens rea | Обвинувачення мало довести умисел поза розумним сумнівом.
+recidivism | noun | рецидивізм | The programme aims to reduce ___ among young offenders. | recidivism | Програма спрямована на зниження рецидивізму серед молодих правопорушників.
+subpoena | noun | повістка до суду | She received a ___ to appear in court. | subpoena | Вона отримала повістку з викликом до суду.
+collusion | noun | змова | The auditors found evidence of ___ between the directors. | collusion | Аудитори знайшли докази змови між директорами.
+malfeasance | noun | службове зловживання | The official was removed for ___. | malfeasance | Посадовця усунули за службове зловживання.
+extortion | noun | вимагання | He was charged with ___ and blackmail. | extortion | Йому висунули звинувачення у вимаганні та шантажі.
+impunity | noun | безкарність | Corrupt officials acted with complete ___. | impunity | Корумповані посадовці діяли з повною безкарністю.
+ordinance | noun | муніципальний припис | The city passed a new noise ___. | ordinance | Місто ухвалило новий припис щодо шуму.
+fiduciary | noun | довірена особа | The ___ must act in the client's best interest. | fiduciary | Довірена особа має діяти в інтересах клієнта.
+vagrancy | noun | бродяжництво | The city passed a law against ___. | vagrancy | Місто ухвалило закон проти бродяжництва.
+culprit | noun | винуватець | The ___ confessed on the second day. | culprit | Винуватець зізнався на другий день.
+precursor | noun | попередник; ознака | The arrest was a ___ to a larger investigation. | precursor | Арешт був попередником ширшого розслідування.
+nefarious | adj | злочинний | The villain planned a ___ scheme. | nefarious | Лиходій планував злочинну схему.
+pernicious | adj | шкідливий | The ___ influence of the cartel affected the whole region. | pernicious | Згубний вплив картелю зачепив увесь регіон.
+culpable | adj | винний | The court found the manager ___ of negligence. | culpable | Суд визнав менеджера винним у недбалості.
+malfeasant | adj | зловживаючий посадою | The ___ officer was dismissed. | malfeasant | Посадовця, що зловживав посадою, звільнили.
+perpetrate | verb | скоювати | The gang ___d a series of robberies. | perpetrated | Банда скоїла серію пограбувань.
+abscond | verb | втекти (від правосуддя) | The accountant tried to ___ with the funds. | abscond | Бухгалтер намагався втекти з коштами.
+exonerate | verb | виправдати | The new evidence ___d the prisoner. | exonerated | Нові докази виправдали ув'язненого.
+connive | verb | потурати; змовлятися | The guard ___d with the thieves. | connived | Охоронець змовився із злодіями.
+indemnify | verb | відшкодовувати збитки | The insurer agreed to ___ the owner. | indemnify | Страховик погодився відшкодувати збитки власнику.
+expunge | verb | стерти (запис про судимість) | The record of the minor offence was ___d. | expunged | Запис про незначне правопорушення стерли.
+disbar | verb | позбавити права на адвокатську практику | The lawyer was ___ed for fraud. | disbarred | Адвоката позбавили права на адвокатську практику за шахрайство.
+culpability | noun | винуватість | The jury debated his ___ for two days. | culpability | Присяжні два дні обговорювали його винуватість.
+adjudicate | verb | виносити рішення | The court will ___ the dispute next month. | adjudicate | Суд винесе рішення у спорі наступного місяця.
+mendacity | noun | брехливість | The court exposed the ___ of the witness. | mendacity | Суд викрив брехливість свідка.
+absolve | verb | звільняти від провини | The inquiry ___d the officer of any wrongdoing. | absolved | Розслідування звільнило офіцера від будь-якої провини.
+malevolent | adj | злобний | The ___ gang terrorised the district. | malevolent | Злобна банда тероризувала район.
+transgress | verb | порушувати (закон) | He ___ed the rules of the contract. | transgressed | Він порушив умови контракту.
+lacuna | noun | прогалина (в законі) | The law has a serious ___ on digital crime. | lacuna | Закон має серйозну прогалину щодо цифрових злочинів.
+peccadillo | noun | дрібний проступок | The judge dismissed the case as a ___. | peccadillo | Суддя відхилив справу як дрібний проступок.

@@ -1,0 +1,106 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+symptom,noun,B2,,симптом,A cough is a common ___ of a cold.,symptom,Кашель — поширений симптом застуди.,approved
+diagnosis,noun,B2,,діагноз,The doctor made a quick ___.,diagnosis,Лікар швидко поставив діагноз.,approved
+treatment,noun,B2,,лікування,The ___ takes several weeks.,treatment,Лікування триває кілька тижнів.,approved
+prescription,noun,B2,,рецепт (на ліки),I need a ___ for these tablets.,prescription,Мені потрібен рецепт на ці таблетки.,approved
+infection,noun,B2,,інфекція,The wound developed an ___.,infection,У рані розвинулася інфекція.,approved
+recovery,noun,B2,,одужання,Her ___ after surgery was quick.,recovery,Її одужання після операції було швидким.,approved
+allergy,noun,B2,,алергія,She has an ___ to peanuts.,allergy,У неї алергія на арахіс.,approved
+injury,noun,B2,,травма,He suffered a serious knee ___.,injury,Він отримав серйозну травму коліна.,approved
+surgery,noun,B2,,хірургія; операція,She had ___ on her wrist.,surgery,Їй зробили операцію на зап'ясті.,approved
+vaccination,noun,B2,,щеплення,The ___ campaign reached millions of people.,vaccination,Кампанія щеплень охопила мільйони людей.,approved
+fatigue,noun,B2,,втома,Constant ___ made it hard to work.,fatigue,Постійна втома ускладнювала роботу.,approved
+nutrition,noun,B2,,харчування,Good ___ is important for children.,nutrition,Правильне харчування важливе для дітей.,approved
+hygiene,noun,B2,,гігієна,Good ___ prevents many illnesses.,hygiene,Добра гігієна запобігає багатьом хворобам.,approved
+bruise,noun,B2,,синець,The fall left a large ___ on her arm.,bruise,Падіння залишило великий синець на її руці.,approved
+painkiller,noun,B2,,знеболювальне,Take a ___ if the headache continues.,painkiller,"Прийміть знеболювальне, якщо головний біль не минає.",approved
+pharmacy,noun,B2,,аптека,I bought the cream at the ___.,pharmacy,Я купив крем в аптеці.,approved
+nursing,noun,B2,,медсестринство,She studied ___ at the college.,nursing,Вона вивчала медсестринство в коледжі.,approved
+stress,noun,B2,,стрес,Too much ___ can damage your health.,stress,Надто великий стрес може нашкодити здоров'ю.,approved
+injection,noun,B2,,укол,The nurse gave me a flu ___.,injection,Медсестра зробила мені укол від грипу.,approved
+pharmacist,noun,B2,,фармацевт,The ___ explained how to take the tablets.,pharmacist,"Фармацевт пояснив, як приймати таблетки.",approved
+wound,noun,B2,,рана,The ___ needed three stitches.,wound,Рані потрібно було накласти три шви.,approved
+tablet,noun,B2,,таблетка,Take one ___ after each meal.,tablet,Приймайте одну таблетку після кожного прийому їжі.,approved
+ward,noun,B2,,палата,She spent two nights on the children's ___.,ward,Вона провела дві ночі в дитячій палаті.,approved
+remedy,noun,B2,,засіб лікування,Rest is the best ___ for a cold.,remedy,Відпочинок — найкращий засіб від застуди.,approved
+chronic,adj,B2,,хронічний,He suffers from a ___ back problem.,chronic,Він страждає від хронічної проблеми зі спиною.,approved
+severe,adj,B2,,сильний,She had a ___ headache all day.,severe,У неї цілий день був сильний головний біль.,approved
+contagious,adj,B2,,заразний,Measles is highly ___.,contagious,Кір дуже заразний.,approved
+immune,adj,B2,,імунний,Most adults are ___ to this virus.,immune,Більшість дорослих імунні до цього вірусу.,approved
+dizzy,adj,B2,,запаморочений,I felt ___ after standing up too fast.,dizzy,"Мені запаморочилося, коли я встав занадто швидко.",approved
+hospitalize,verb,B2,,госпіталізувати,The patient had to be ___d after the accident.,hospitalized,Після аварії пацієнта довелося госпіталізувати.,approved
+prescribe,verb,B2,,призначати (ліки),The doctor ___d antibiotics.,prescribed,Лікар призначив антибіотики.,approved
+recover,verb,B2,,одужувати,It took him weeks to ___ from the flu.,recover,"Йому знадобилося кілька тижнів, щоб одужати від грипу.",approved
+diagnose,verb,B2,,діагностувати,The doctor ___d him with diabetes.,diagnosed,Лікар діагностував у нього діабет.,approved
+inject,verb,B2,,робити укол,The nurse ___ed the medicine into my arm.,injected,Медсестра зробила укол ліків мені в руку.,approved
+sprain,verb,B2,,розтягнути (зв'язку),She ___ed her ankle playing football.,sprained,"Вона розтягнула щиколотку, граючи у футбол.",approved
+pathogen,noun,C1,,патоген,The ___ spreads through contaminated water.,pathogen,Патоген поширюється через забруднену воду.,approved
+epidemic,noun,C1,,епідемія,The city faced a serious ___ of flu.,epidemic,Місто зіткнулося з серйозною епідемією грипу.,approved
+pandemic,noun,C1,,пандемія,The ___ changed working habits worldwide.,pandemic,Пандемія змінила робочі звички у всьому світі.,approved
+quarantine,noun,C1,,карантин,The family was placed in ___ for two weeks.,quarantine,Родину помістили на карантин на два тижні.,approved
+prognosis,noun,C1,,прогноз,The doctor gave a positive ___.,prognosis,Лікар дав позитивний прогноз.,approved
+convalescence,noun,C1,,одужання,His ___ took several months.,convalescence,Його одужання тривало кілька місяців.,approved
+sedative,noun,C1,,заспокійливий засіб,The doctor prescribed a mild ___.,sedative,Лікар призначив легкий заспокійливий засіб.,approved
+antibiotic,noun,C1,,антибіотик,You should finish the whole course of ___s.,antibiotics,Варто пройти весь курс антибіотиків.,approved
+rehabilitation,noun,C1,,реабілітація,His ___ after the stroke was long.,rehabilitation,Його реабілітація після інсульту тривала довго.,approved
+comorbidity,noun,C1,,супутня хвороба,The study examined ___ among elderly patients.,comorbidity,Дослідження розглядало супутні хвороби серед літніх пацієнтів.,approved
+incision,noun,C1,,розріз,The surgeon made a small ___.,incision,Хірург зробив невеликий розріз.,approved
+transplant,noun,C1,,трансплантація,The ___ saved her life.,transplant,Трансплантація врятувала їй життя.,approved
+dehydration,noun,C1,,зневоднення,Severe ___ can be dangerous for children.,dehydration,Сильне зневоднення може бути небезпечним для дітей.,approved
+hypertension,noun,C1,,гіпертонія,His doctor treats him for ___.,hypertension,Лікар лікує його від гіпертонії.,approved
+arthritis,noun,C1,,артрит,The ___ makes her fingers stiff.,arthritis,Артрит робить її пальці скутими.,approved
+inflammation,noun,C1,,запалення,The ___ spread to the joint.,inflammation,Запалення поширилося на суглоб.,approved
+ailment,noun,C1,,хвороба,He complained of a minor ___.,ailment,Він скаржився на незначну хворобу.,approved
+pallor,noun,C1,,блідість,Her ___ worried the nurses.,pallor,Її блідість турбувала медсестер.,approved
+lethargy,noun,C1,,млявість,The fever caused extreme ___.,lethargy,Гарячка спричинила сильну млявість.,approved
+epidemiology,noun,C1,,епідеміологія,She studies ___ at the public health institute.,epidemiology,Вона вивчає епідеміологію в інституті громадського здоров'я.,approved
+pharmacology,noun,C1,,фармакологія,His research focuses on ___.,pharmacology,Його дослідження зосереджені на фармакології.,approved
+contraindication,noun,C1,,протипоказання,Pregnancy is a ___ for this drug.,contraindication,Вагітність — протипоказання для цього препарату.,approved
+diagnostic,noun,C1,,діагностичний тест,The ___ took only fifteen minutes.,diagnostic,Діагностичний тест зайняв лише п'ятнадцять хвилин.,approved
+analgesia,noun,C1,,знеболювання,The surgeon ensured full ___ during the operation.,analgesia,Хірург забезпечив повне знеболювання під час операції.,approved
+debilitation,noun,C1,,виснаження,Long illness led to severe ___.,debilitation,Тривала хвороба призвела до сильного виснаження.,approved
+hemorrhage,noun,C1,,кровотеча,The doctors stopped the internal ___.,hemorrhage,Лікарі зупинили внутрішню кровотечу.,approved
+asthma,noun,C1,,астма,Her ___ is controlled with an inhaler.,asthma,Її астма контролюється інгалятором.,approved
+malignant,adj,C1,,злоякісний,The tumour was ___.,malignant,Пухлина була злоякісною.,approved
+benign,adj,C1,,доброякісний,"Fortunately, the growth is ___.",benign,"На щастя, новоутворення доброякісне.",approved
+acute,adj,C1,,гострий,She felt an ___ pain in her side.,acute,Вона відчувала гострий біль у боці.,approved
+debilitating,adj,C1,,виснажливий,The disease can be ___ over time.,debilitating,З часом хвороба може стати виснажливою.,approved
+palliative,adj,C1,,паліативний,The hospice provides ___ care.,palliative,Хоспіс надає паліативну допомогу.,approved
+asymptomatic,adj,C1,,безсимптомний,Many carriers are ___.,asymptomatic,Багато носіїв безсимптомні.,approved
+resistant,adj,C1,,стійкий,Some bacteria are ___ to common drugs.,resistant,Деякі бактерії стійкі до звичайних ліків.,approved
+prophylactic,adj,C1,,профілактичний,Doctors recommended ___ treatment.,prophylactic,Лікарі рекомендували профілактичне лікування.,approved
+hygienic,adj,C1,,гігієнічний,The clinic keeps very ___ conditions.,hygienic,У клініці дуже гігієнічні умови.,approved
+sterilize,verb,C1,,стерилізувати,The instruments must be ___d before use.,sterilized,Інструменти перед використанням треба стерилізувати.,approved
+aetiology,noun,C2,,етіологія,The ___ of the disease remains unclear.,aetiology,Етіологія хвороби досі неясна.,approved
+prodrome,noun,C2,,продромальний період,A headache can be a ___ of migraine.,prodrome,Головний біль може бути продромальним періодом мігрені.,approved
+sequela,noun,C2,,наслідок (хвороби),The infection left a lasting ___.,sequela,Інфекція залишила стійкий наслідок.,approved
+catatonia,noun,C2,,кататонія,The patient showed signs of ___.,catatonia,У пацієнта були ознаки кататонії.,approved
+edema,noun,C2,,набряк,The swelling was a sign of ___.,edema,Набряк був ознакою набряку тканин.,approved
+ischaemia,noun,C2,,ішемія,The doctors diagnosed ___ of the heart muscle.,ischaemia,Лікарі діагностували ішемію серцевого м'яза.,approved
+sepsis,noun,C2,,сепсис,The infection spread and caused ___.,sepsis,Інфекція поширилася і спричинила сепсис.,approved
+morbidity,noun,C2,,захворюваність,Researchers studied the rates of ___ in the region.,morbidity,Дослідники вивчали рівні захворюваності в регіоні.,approved
+mortality,noun,C2,,смертність,The campaign reduced infant ___.,mortality,Кампанія знизила дитячу смертність.,approved
+prophylaxis,noun,C2,,профілактика,Antiviral ___ is given to close contacts.,prophylaxis,Противірусну профілактику призначають близьким контактам.,approved
+pathology,noun,C2,,патологія,The ___ report confirmed the diagnosis.,pathology,Звіт патології підтвердив діагноз.,approved
+analgesic,noun,C2,,знеболювальний засіб,He took an ___ for the pain.,analgesic,Він прийняв знеболювальний засіб від болю.,approved
+lesion,noun,C2,,ураження,The scan revealed a small ___.,lesion,Сканування виявило невелике ураження.,approved
+cachexia,noun,C2,,кахексія,The patient showed severe ___.,cachexia,У пацієнта була важка кахексія.,approved
+antipyretic,noun,C2,,жарознижувальний засіб,Take an ___ if your temperature rises.,antipyretic,"Приймайте жарознижувальний засіб, якщо піднімається температура.",approved
+dyspnoea,noun,C2,,задишка,The patient complained of severe ___.,dyspnoea,Пацієнт скаржився на сильну задишку.,approved
+neuropathy,noun,C2,,нейропатія,Diabetes can cause painful ___.,neuropathy,Діабет може спричинити болючу нейропатію.,approved
+oedema,noun,C2,,набряк,The doctor noticed ___ in his ankles.,oedema,Лікар помітив набряк на його щиколотках.,approved
+pyrexia,noun,C2,,гарячка,Persistent ___ required further tests.,pyrexia,Стійка гарячка потребувала додаткових обстежень.,approved
+tachycardia,noun,C2,,тахікардія,He was treated for sudden ___.,tachycardia,Його лікували від раптової тахікардії.,approved
+vertigo,noun,C2,,запаморочення,The sudden ___ made her sit down.,vertigo,Раптове запаморочення змусило її сісти.,approved
+iatrogenic,adj,C2,,ятрогенний,The complication was ___ and caused by the treatment.,iatrogenic,Ускладнення було ятрогенним і спричинене лікуванням.,approved
+nosocomial,adj,C2,,внутрішньолікарняний,The bacteria caused a ___ infection.,nosocomial,Бактерії спричинили внутрішньолікарняну інфекцію.,approved
+hepatic,adj,C2,,печінковий,The drug can damage ___ function.,hepatic,Цей препарат може пошкодити печінкову функцію.,approved
+endemic,adj,C2,,ендемічний,The disease is ___ in tropical areas.,endemic,Ця хвороба ендемічна в тропічних районах.,approved
+emaciated,adj,C2,,виснажений,The ___ patient needed special care.,emaciated,Виснаженому пацієнту потрібен був особливий догляд.,approved
+febrile,adj,C2,,фебрильний,The child remained ___ for three days.,febrile,Дитина три дні залишалася з високою температурою.,approved
+insidious,adj,C2,,прихований,The disease developed in an ___ way.,insidious,Хвороба розвивалася прихованим чином.,approved
+latent,adj,C2,,прихований,The virus can remain ___ for years.,latent,Вірус може залишатися прихованим роками.,approved
+myocardial,adj,C2,,міокардіальний,The ___ infarction required urgent treatment.,myocardial,Міокардіальний інфаркт вимагав невідкладного лікування.,approved
+nephrotic,adj,C2,,нефротичний,The child had a ___ syndrome.,nephrotic,У дитини був нефротичний синдром.,approved
+atrophy,verb,C2,,атрофуватися,Muscles ___ without regular exercise.,atrophy,М'язи атрофуються без регулярних вправ.,approved
+debilitate,verb,C2,,виснажувати,The illness ___d the patient over months.,debilitated,Хвороба виснажувала пацієнта протягом місяців.,approved

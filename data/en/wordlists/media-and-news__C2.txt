@@ -1,0 +1,4 @@
+phrase: yellow journalism
+noun: ideologue, polemicist, cynosure, disinformation, mudslinging, calumny, obloquy, mudrake
+adj: prurient, sanctimonious, inflammatory, lacklustre, mendacious, gossamer, prosaic, verisimilar, tendentious
+verb: obfuscate, pontificate, ventriloquize

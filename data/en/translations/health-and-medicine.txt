@@ -1,0 +1,108 @@
+# B2
+symptom | noun | симптом | A cough is a common ___ of a cold. | symptom | Кашель — поширений симптом застуди.
+diagnosis | noun | діагноз | The doctor made a quick ___. | diagnosis | Лікар швидко поставив діагноз.
+treatment | noun | лікування | The ___ takes several weeks. | treatment | Лікування триває кілька тижнів.
+prescription | noun | рецепт (на ліки) | I need a ___ for these tablets. | prescription | Мені потрібен рецепт на ці таблетки.
+infection | noun | інфекція | The wound developed an ___. | infection | У рані розвинулася інфекція.
+recovery | noun | одужання | Her ___ after surgery was quick. | recovery | Її одужання після операції було швидким.
+allergy | noun | алергія | She has an ___ to peanuts. | allergy | У неї алергія на арахіс.
+injury | noun | травма | He suffered a serious knee ___. | injury | Він отримав серйозну травму коліна.
+surgery | noun | хірургія; операція | She had ___ on her wrist. | surgery | Їй зробили операцію на зап'ясті.
+vaccination | noun | щеплення | The ___ campaign reached millions of people. | vaccination | Кампанія щеплень охопила мільйони людей.
+fatigue | noun | втома | Constant ___ made it hard to work. | fatigue | Постійна втома ускладнювала роботу.
+nutrition | noun | харчування | Good ___ is important for children. | nutrition | Правильне харчування важливе для дітей.
+hygiene | noun | гігієна | Good ___ prevents many illnesses. | hygiene | Добра гігієна запобігає багатьом хворобам.
+bruise | noun | синець | The fall left a large ___ on her arm. | bruise | Падіння залишило великий синець на її руці.
+painkiller | noun | знеболювальне | Take a ___ if the headache continues. | painkiller | Прийміть знеболювальне, якщо головний біль не минає.
+pharmacy | noun | аптека | I bought the cream at the ___. | pharmacy | Я купив крем в аптеці.
+nursing | noun | медсестринство | She studied ___ at the college. | nursing | Вона вивчала медсестринство в коледжі.
+stress | noun | стрес | Too much ___ can damage your health. | stress | Надто великий стрес може нашкодити здоров'ю.
+chronic | adj | хронічний | He suffers from a ___ back problem. | chronic | Він страждає від хронічної проблеми зі спиною.
+severe | adj | сильний | She had a ___ headache all day. | severe | У неї цілий день був сильний головний біль.
+contagious | adj | заразний | Measles is highly ___. | contagious | Кір дуже заразний.
+immune | adj | імунний | Most adults are ___ to this virus. | immune | Більшість дорослих імунні до цього вірусу.
+dizzy | adj | запаморочений | I felt ___ after standing up too fast. | dizzy | Мені запаморочилося, коли я встав занадто швидко.
+hospitalize | verb | госпіталізувати | The patient had to be ___d after the accident. | hospitalized | Після аварії пацієнта довелося госпіталізувати.
+prescribe | verb | призначати (ліки) | The doctor ___d antibiotics. | prescribed | Лікар призначив антибіотики.
+recover | verb | одужувати | It took him weeks to ___ from the flu. | recover | Йому знадобилося кілька тижнів, щоб одужати від грипу.
+diagnose | verb | діагностувати | The doctor ___d him with diabetes. | diagnosed | Лікар діагностував у нього діабет.
+inject | verb | робити укол | The nurse ___ed the medicine into my arm. | injected | Медсестра зробила укол ліків мені в руку.
+sprain | verb | розтягнути (зв'язку) | She ___ed her ankle playing football. | sprained | Вона розтягнула щиколотку, граючи у футбол.
+injection | noun | укол | The nurse gave me a flu ___. | injection | Медсестра зробила мені укол від грипу.
+pharmacist | noun | фармацевт | The ___ explained how to take the tablets. | pharmacist | Фармацевт пояснив, як приймати таблетки.
+wound | noun | рана | The ___ needed three stitches. | wound | Рані потрібно було накласти три шви.
+tablet | noun | таблетка | Take one ___ after each meal. | tablet | Приймайте одну таблетку після кожного прийому їжі.
+ward | noun | палата | She spent two nights on the children's ___. | ward | Вона провела дві ночі в дитячій палаті.
+remedy | noun | засіб лікування | Rest is the best ___ for a cold. | remedy | Відпочинок — найкращий засіб від застуди.
+# C1
+pathogen | noun | патоген | The ___ spreads through contaminated water. | pathogen | Патоген поширюється через забруднену воду.
+epidemic | noun | епідемія | The city faced a serious ___ of flu. | epidemic | Місто зіткнулося з серйозною епідемією грипу.
+pandemic | noun | пандемія | The ___ changed working habits worldwide. | pandemic | Пандемія змінила робочі звички у всьому світі.
+quarantine | noun | карантин | The family was placed in ___ for two weeks. | quarantine | Родину помістили на карантин на два тижні.
+prognosis | noun | прогноз | The doctor gave a positive ___. | prognosis | Лікар дав позитивний прогноз.
+convalescence | noun | одужання | His ___ took several months. | convalescence | Його одужання тривало кілька місяців.
+sedative | noun | заспокійливий засіб | The doctor prescribed a mild ___. | sedative | Лікар призначив легкий заспокійливий засіб.
+antibiotic | noun | антибіотик | You should finish the whole course of ___s. | antibiotics | Варто пройти весь курс антибіотиків.
+rehabilitation | noun | реабілітація | His ___ after the stroke was long. | rehabilitation | Його реабілітація після інсульту тривала довго.
+comorbidity | noun | супутня хвороба | The study examined ___ among elderly patients. | comorbidity | Дослідження розглядало супутні хвороби серед літніх пацієнтів.
+incision | noun | розріз | The surgeon made a small ___. | incision | Хірург зробив невеликий розріз.
+transplant | noun | трансплантація | The ___ saved her life. | transplant | Трансплантація врятувала їй життя.
+dehydration | noun | зневоднення | Severe ___ can be dangerous for children. | dehydration | Сильне зневоднення може бути небезпечним для дітей.
+hypertension | noun | гіпертонія | His doctor treats him for ___. | hypertension | Лікар лікує його від гіпертонії.
+arthritis | noun | артрит | The ___ makes her fingers stiff. | arthritis | Артрит робить її пальці скутими.
+inflammation | noun | запалення | The ___ spread to the joint. | inflammation | Запалення поширилося на суглоб.
+ailment | noun | хвороба | He complained of a minor ___. | ailment | Він скаржився на незначну хворобу.
+pallor | noun | блідість | Her ___ worried the nurses. | pallor | Її блідість турбувала медсестер.
+lethargy | noun | млявість | The fever caused extreme ___. | lethargy | Гарячка спричинила сильну млявість.
+malignant | adj | злоякісний | The tumour was ___. | malignant | Пухлина була злоякісною.
+benign | adj | доброякісний | Fortunately, the growth is ___. | benign | На щастя, новоутворення доброякісне.
+acute | adj | гострий | She felt an ___ pain in her side. | acute | Вона відчувала гострий біль у боці.
+debilitating | adj | виснажливий | The disease can be ___ over time. | debilitating | З часом хвороба може стати виснажливою.
+palliative | adj | паліативний | The hospice provides ___ care. | palliative | Хоспіс надає паліативну допомогу.
+asymptomatic | adj | безсимптомний | Many carriers are ___. | asymptomatic | Багато носіїв безсимптомні.
+resistant | adj | стійкий | Some bacteria are ___ to common drugs. | resistant | Деякі бактерії стійкі до звичайних ліків.
+prophylactic | adj | профілактичний | Doctors recommended ___ treatment. | prophylactic | Лікарі рекомендували профілактичне лікування.
+sterilize | verb | стерилізувати | The instruments must be ___d before use. | sterilized | Інструменти перед використанням треба стерилізувати.
+epidemiology | noun | епідеміологія | She studies ___ at the public health institute. | epidemiology | Вона вивчає епідеміологію в інституті громадського здоров'я.
+pharmacology | noun | фармакологія | His research focuses on ___. | pharmacology | Його дослідження зосереджені на фармакології.
+contraindication | noun | протипоказання | Pregnancy is a ___ for this drug. | contraindication | Вагітність — протипоказання для цього препарату.
+diagnostic | noun | діагностичний тест | The ___ took only fifteen minutes. | diagnostic | Діагностичний тест зайняв лише п'ятнадцять хвилин.
+analgesia | noun | знеболювання | The surgeon ensured full ___ during the operation. | analgesia | Хірург забезпечив повне знеболювання під час операції.
+debilitation | noun | виснаження | Long illness led to severe ___. | debilitation | Тривала хвороба призвела до сильного виснаження.
+hemorrhage | noun | кровотеча | The doctors stopped the internal ___. | hemorrhage | Лікарі зупинили внутрішню кровотечу.
+asthma | noun | астма | Her ___ is controlled with an inhaler. | asthma | Її астма контролюється інгалятором.
+hygienic | adj | гігієнічний | The clinic keeps very ___ conditions. | hygienic | У клініці дуже гігієнічні умови.
+# C2
+aetiology | noun | етіологія | The ___ of the disease remains unclear. | aetiology | Етіологія хвороби досі неясна.
+prodrome | noun | продромальний період | A headache can be a ___ of migraine. | prodrome | Головний біль може бути продромальним періодом мігрені.
+sequela | noun | наслідок (хвороби) | The infection left a lasting ___. | sequela | Інфекція залишила стійкий наслідок.
+catatonia | noun | кататонія | The patient showed signs of ___. | catatonia | У пацієнта були ознаки кататонії.
+edema | noun | набряк | The swelling was a sign of ___. | edema | Набряк був ознакою набряку тканин.
+ischaemia | noun | ішемія | The doctors diagnosed ___ of the heart muscle. | ischaemia | Лікарі діагностували ішемію серцевого м'яза.
+sepsis | noun | сепсис | The infection spread and caused ___. | sepsis | Інфекція поширилася і спричинила сепсис.
+morbidity | noun | захворюваність | Researchers studied the rates of ___ in the region. | morbidity | Дослідники вивчали рівні захворюваності в регіоні.
+mortality | noun | смертність | The campaign reduced infant ___. | mortality | Кампанія знизила дитячу смертність.
+prophylaxis | noun | профілактика | Antiviral ___ is given to close contacts. | prophylaxis | Противірусну профілактику призначають близьким контактам.
+pathology | noun | патологія | The ___ report confirmed the diagnosis. | pathology | Звіт патології підтвердив діагноз.
+analgesic | noun | знеболювальний засіб | He took an ___ for the pain. | analgesic | Він прийняв знеболювальний засіб від болю.
+lesion | noun | ураження | The scan revealed a small ___. | lesion | Сканування виявило невелике ураження.
+cachexia | noun | кахексія | The patient showed severe ___. | cachexia | У пацієнта була важка кахексія.
+antipyretic | noun | жарознижувальний засіб | Take an ___ if your temperature rises. | antipyretic | Приймайте жарознижувальний засіб, якщо піднімається температура.
+iatrogenic | adj | ятрогенний | The complication was ___ and caused by the treatment. | iatrogenic | Ускладнення було ятрогенним і спричинене лікуванням.
+nosocomial | adj | внутрішньолікарняний | The bacteria caused a ___ infection. | nosocomial | Бактерії спричинили внутрішньолікарняну інфекцію.
+hepatic | adj | печінковий | The drug can damage ___ function. | hepatic | Цей препарат може пошкодити печінкову функцію.
+endemic | adj | ендемічний | The disease is ___ in tropical areas. | endemic | Ця хвороба ендемічна в тропічних районах.
+emaciated | adj | виснажений | The ___ patient needed special care. | emaciated | Виснаженому пацієнту потрібен був особливий догляд.
+febrile | adj | фебрильний | The child remained ___ for three days. | febrile | Дитина три дні залишалася з високою температурою.
+insidious | adj | прихований | The disease developed in an ___ way. | insidious | Хвороба розвивалася прихованим чином.
+latent | adj | прихований | The virus can remain ___ for years. | latent | Вірус може залишатися прихованим роками.
+atrophy | verb | атрофуватися | Muscles ___ without regular exercise. | atrophy | М'язи атрофуються без регулярних вправ.
+debilitate | verb | виснажувати | The illness ___d the patient over months. | debilitated | Хвороба виснажувала пацієнта протягом місяців.
+dyspnoea | noun | задишка | The patient complained of severe ___. | dyspnoea | Пацієнт скаржився на сильну задишку.
+myocardial | adj | міокардіальний | The ___ infarction required urgent treatment. | myocardial | Міокардіальний інфаркт вимагав невідкладного лікування.
+nephrotic | adj | нефротичний | The child had a ___ syndrome. | nephrotic | У дитини був нефротичний синдром.
+neuropathy | noun | нейропатія | Diabetes can cause painful ___. | neuropathy | Діабет може спричинити болючу нейропатію.
+oedema | noun | набряк | The doctor noticed ___ in his ankles. | oedema | Лікар помітив набряк на його щиколотках.
+pyrexia | noun | гарячка | Persistent ___ required further tests. | pyrexia | Стійка гарячка потребувала додаткових обстежень.
+tachycardia | noun | тахікардія | He was treated for sudden ___. | tachycardia | Його лікували від раптової тахікардії.
+vertigo | noun | запаморочення | The sudden ___ made her sit down. | vertigo | Раптове запаморочення змусило її сісти.

@@ -1,0 +1,3 @@
+adj: loquacious, taciturn, perspicacious, sesquipedalian, garrulous, apposite, rhetorical, mellifluous, vociferous, ineffable, oblique, discursive, sibilant, phatic, hyperbolic, allegorical
+noun: lexicon, obfuscation, circumlocution, cacophony, solecism, malapropism, tautology, homily, gibberish, palaver, vitriol, glossolalia, loquacity, pleonasm, apophthegm, verbiage, prolixity
+verb: bowdlerize

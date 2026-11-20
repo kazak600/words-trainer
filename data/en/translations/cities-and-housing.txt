@@ -1,0 +1,99 @@
+# B2
+apartment | noun | квартира | They rented a small ___ near the centre. | apartment | Вони орендували невелику квартиру біля центру.
+rent | noun | орендна плата | The ___ has gone up again this year. | rent | Орендна плата знову зросла цього року.
+landlord | noun | орендодавець | Our ___ fixed the heating quickly. | landlord | Наш орендодавець швидко полагодив опалення.
+tenant | noun | орендар | The ___ must pay the bills on time. | tenant | Орендар має вчасно сплачувати рахунки.
+deposit | noun | завдаток; застава | You have to pay a ___ before moving in. | deposit | Перед заселенням треба внести завдаток.
+property | noun | нерухомість | The ___ prices in the city are very high. | property | Ціни на нерухомість у місті дуже високі.
+suburb | noun | передмістя | They moved to a quiet ___ outside the city. | suburb | Вони переїхали в тихе передмістя за містом.
+downtown | noun | центр міста | The office is located in the ___ area. | downtown | Офіс розташований у центральній частині міста.
+infrastructure | noun | інфраструктура | The city invested in new roads and ___. | infrastructure | Місто інвестувало в нові дороги та інфраструктуру.
+pavement | noun | тротуар | Please keep off the ___. | pavement | Будь ласка, не ходіть по тротуару.
+pollution | noun | забруднення | Traffic causes serious air ___. | pollution | Транспорт спричиняє серйозне забруднення повітря.
+noise | noun | шум | The ___ from the construction site is terrible. | noise | Шум з будівельного майданчика жахливий.
+gentrification | noun | джентрифікація | ___ has changed the neighbourhood completely. | Gentrification | Джентрифікація повністю змінила район.
+skyline | noun | обрис міста | The city's ___ changed after the new towers were built. | skyline | Обрис міста змінився після будівництва нових веж.
+landmark | noun | пам'ятка | The old clock tower is a famous ___. | landmark | Стара вежа з годинником — відома пам'ятка.
+crowded | adj | переповнений | The city centre is very ___ at rush hour. | crowded | Центр міста дуже переповнений у час пік.
+spacious | adj | просторий | The flat is ___ and bright. | spacious | Квартира просторна і світла.
+cosy | adj | затишний | The cafe is small and ___. | cosy | Кафе маленьке і затишне.
+modern | adj | сучасний | They live in a ___ building with a lift. | modern | Вони живуть у сучасному будинку з ліфтом.
+run-down | adj | занедбаний | The old district looks ___. | run-down | Старий район виглядає занедбаним.
+furnished | adj | мебльований | The flat is ___ and ready to move into. | furnished | Квартира мебльована і готова до заселення.
+renovate | verb | ремонтувати | They plan to ___ the old house. | renovate | Вони планують відремонтувати старий будинок.
+demolish | verb | зносити | The council decided to ___ the factory. | demolish | Рада вирішила знести фабрику.
+construct | verb | будувати | The company will ___ a new bridge. | construct | Компанія збудує новий міст.
+commute | verb | їздити на роботу | Many people ___ from the suburbs. | commute | Багато людей їздять на роботу з передмість.
+move | verb | переїжджати | We are going to ___ to a new flat next month. | move | Наступного місяця ми переїжджаємо в нову квартиру.
+settle | verb | оселятися | The family decided to ___ in the countryside. | settle | Родина вирішила оселитися в сільській місцевості.
+public transport | phrase | громадський транспорт | The city has excellent ___. | public transport | У місті відмінний громадський транспорт.
+boulevard | noun | бульвар | The café sits on a wide tree-lined ___. | boulevard | Кафе розташоване на широкому бульварі, обсадженому деревами.
+block | noun | квартал | We live on the same ___ as the school. | block | Ми живемо в тому ж кварталі, що й школа.
+balcony | noun | балкон | They drink coffee on the ___ every morning. | balcony | Вони щоранку п'ють каву на балконі.
+basement | noun | підвал | The bike is stored in the ___. | basement | Велосипед зберігається в підвалі.
+mortgage | noun | іпотека | They are still paying off their ___. | mortgage | Вони досі виплачують іпотеку.
+resident | noun | мешканець | The ___s signed a petition against the new road. | residents | Мешканці підписали петицію проти нової дороги.
+district | noun | округ | The old ___ has a lot of charm. | district | Старий район має багато шарму.
+estate | noun | житловий масив | They grew up on a large housing ___. | estate | Вони виросли у великому житловому масиві.
+hallway | noun | коридор | Shoes are kept in the ___. | hallway | Взуття зберігають у коридорі.
+# C1
+urbanization | noun | урбанізація | Rapid ___ has changed the region. | urbanization | Стрімка урбанізація змінила регіон.
+metropolis | noun | мегаполіс | London is a huge ___. | metropolis | Лондон — величезний мегаполіс.
+hamlet | noun | хутір | The ___ has only twenty houses. | hamlet | У хуторі лише двадцять будинків.
+conurbation | noun | конурбація | The city is part of a large ___. | conurbation | Місто є частиною великої конурбації.
+brownfield | noun | промислова зона (забудована) | The council plans to build homes on a ___ site. | brownfield | Рада планує будувати житло на забудованій промисловій ділянці.
+zoning | noun | зонування | New ___ rules limit building heights. | zoning | Нові правила зонування обмежують висоту будівель.
+amenity | noun | зручність | The building has a gym and other ___s. | amenities | У будинку є спортзал та інші зручності.
+tenement | noun | багатоквартирний будинок | They lived in a crowded old ___. | tenement | Вони жили в переповненому старому багатоквартирному будинку.
+bungalow | noun | бунгало | Her parents retired to a small ___. | bungalow | Її батьки вийшли на пенсію і переїхали в маленьке бунгало.
+penthouse | noun | пентхаус | The ___ has a view of the whole city. | penthouse | З пентхаусу видно все місто.
+insulation | noun | ізоляція | Good ___ keeps the flat warm in winter. | insulation | Гарна ізоляція тримає квартиру теплою взимку.
+ventilation | noun | вентиляція | The room has poor ___. | ventilation | У кімнаті погана вентиляція.
+plumbing | noun | сантехніка | The ___ in the old building needs replacing. | plumbing | Сантехніку в старому будинку треба замінити.
+eyesore | noun | потворна споруда | The derelict factory is an ___. | eyesore | Занедбана фабрика — потворна споруда.
+cul-de-sac | noun | глухий кут (вулиця) | Their house is at the end of a quiet ___. | cul-de-sac | Їхній будинок розташований у кінці тихої глухої вулиці.
+dilapidated | adj | занедбаний | The ___ building was closed for safety. | dilapidated | Занедбану будівлю закрили через безпеку.
+congested | adj | перевантажений | The roads were badly ___ after the accident. | congested | Після аварії дороги були сильно перевантажені.
+overcrowded | adj | переповнений | The school is ___ this year. | overcrowded | Школа цього року переповнена.
+cosmopolitan | adj | космополітичний | The city has a ___ population. | cosmopolitan | Місто має космополітичне населення.
+vibrant | adj | жвавий | The district is ___ and full of life. | vibrant | Район жвавий і повний життя.
+sprawling | adj | розростаючийся | The city has a ___ suburban area. | sprawling | Місто має розростаючийся приміський район.
+infrastructural | adj | інфраструктурний | The project needs ___ investment. | infrastructural | Проєкт потребує інфраструктурних інвестицій.
+pedestrianize | verb | зробити пішохідною | The council wants to ___ the main square. | pedestrianize | Рада хоче зробити головну площу пішохідною.
+gentrify | verb | джентрифікувати | Rising prices began to ___ the district. | gentrify | Зростання цін почало джентрифікувати район.
+revitalize | verb | відроджувати | The new park helped to ___ the area. | revitalize | Новий парк допоміг відродити район.
+urban | adj | міський | The ___ population has doubled since 1980. | urban | Міське населення подвоїлося з 1980 року.
+commuter | noun | приміський пасажир | Thousands of ___s cross the bridge each morning. | commuters | Тисячі приміських пасажирів щоранку перетинають міст.
+brownstone | noun | бурштиновий будинок | The street is lined with old ___s. | brownstones | Вулицю обрамляють старі будинки з бурого каменю.
+renovation | noun | реновація | The ___ of the market took three years. | renovation | Реновація ринку тривала три роки.
+apartheid | noun | сегрегація | Urban ___ left deep scars on the city. | apartheid | Міська сегрегація залишила глибокі рани в місті.
+blight | noun | занепад | The empty factories were a sign of urban ___. | blight | Порожні фабрики були ознакою міського занепаду.
+inhabitant | noun | житель | The city's ___s are proud of their park. | inhabitants | Жителі міста пишаються своїм парком.
+thoroughfare | noun | магістраль | The main ___ is closed for repairs. | thoroughfare | Головна магістраль закрита на ремонт.
+gentrified | adj | джентрифікований | The ___ streets now have expensive cafés. | gentrified | Джентрифіковані вулиці тепер мають дорогі кафе.
+# C2
+conurbate | verb | зливатися у конурбацію | The villages ___d into one large urban area. | conurbated | Села злилися в одну велику міську агломерацію.
+brutalism | noun | брутализм | The estate is an example of 1960s ___. | brutalism | Цей житловий комплекс — приклад бруталізму 1960-х.
+dormitory | noun | гуртожиток | The students live in a large ___. | dormitory | Студенти живуть у великому гуртожитку.
+tenancy | noun | оренда | The ___ agreement lasts six months. | tenancy | Договір оренди триває шість місяців.
+bailiwick | noun | сфера впливу | The old district is her local ___. | bailiwick | Старий район — її місцева сфера впливу.
+cityscape | noun | міський пейзаж | The painting shows a dusky ___. | cityscape | На картині зображено сутінковий міський пейзаж.
+exurb | noun | екзурбія | The ___s are growing fast beyond the commuter belt. | exurbs | Екзурбії швидко ростуть за межами зони щоденних поїздок на роботу.
+gentry | noun | дворянство (нижче) | The old ___ still owns many houses here. | gentry | Старе дрібне дворянство досі володіє тут багатьма будинками.
+palatial | adj | палацовий | The mansion had ___ halls. | palatial | Особняк мав палацові зали.
+antediluvian | adj | допотопний | The heating system was ___. | antediluvian | Система опалення була допотопною.
+ramshackle | adj | ветхий | They lived in a ___ hut by the river. | ramshackle | Вони жили в ветхій хатині біля річки.
+ornamental | adj | декоративний | The gate has ___ ironwork. | ornamental | Ворота мають декоративне кування.
+utilitarian | adj | практичний | The flats are plain and ___. | utilitarian | Квартири прості й практичні.
+genteel | adj | пристойний | The neighbourhood has a ___ atmosphere. | genteel | У районі пристойна атмосфера.
+urbane | adj | витончений | The hotel manager was calm and ___. | urbane | Менеджер готелю був спокійним і витонченим.
+bijou | adj | мініатюрний | The cafe is a ___ place with four tables. | bijou | Кафе — мініатюрне місце з чотирма столиками.
+crepuscular | adj | сутінковий | The streets look magical in the ___ light. | crepuscular | Вулиці виглядають чарівними в сутінковому світлі.
+exurbia | noun | екзурбія | Families are moving out to ___. | exurbia | Родини переїжджають до екзурбії.
+arcade | noun | аркада | Shops line the old stone ___. | arcade | Магазини вишикувалися вздовж старої кам'яної аркади.
+hovel | noun | халупа | The poor family lived in a damp ___. | hovel | Бідна родина жила у вогкій халупі.
+villa | noun | вілла | They rented a seaside ___ for the summer. | villa | Вони орендували приморську віллу на літо.
+lodging | noun | житло | Student ___ near the campus are scarce. | lodging | Студентського житла біля кампусу бракує.
+brownfield | adj | забудований | The ___ site was cleaned and sold. | brownfield | Забудовану ділянку очистили і продали.
+brutalist | adj | брутальний | The ___ tower block divided opinion. | brutalist | Брутальна висотка розділила думки.
+caravanserai | noun | караван-сарай | The old ___ is now a museum. | caravanserai | Старий караван-сарай тепер музей.

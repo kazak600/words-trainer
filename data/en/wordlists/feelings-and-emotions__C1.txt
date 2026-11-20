@@ -1,0 +1,3 @@
+adj: apprehensive, exasperated, elated, despondent, complacent, perturbed, wistful, jubilant, irritable, ambivalent, bewildered, contrite, exhilarated, crestfallen, disconcerted, wretched, bittersweet
+noun: resentment, melancholy, bitterness, contentment, empathy, indignation, nostalgia, serenity, compassion, euphoria, remorse, dismay, rapture, trepidation, animosity, apathy, apprehension, contempt, gratitude, dejection
+verb: dread

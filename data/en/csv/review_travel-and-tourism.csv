@@ -1,0 +1,90 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+itinerary,noun,B2,,маршрут,Our ___ included three museums in one day.,itinerary,Наш маршрут включав три музеї за один день.,approved
+destination,noun,B2,,пункт призначення,Rome is a popular ___ for tourists.,destination,Рим — популярний пункт призначення для туристів.,approved
+journey,noun,B2,,подорож,The ___ to the mountains took six hours.,journey,Подорож до гір тривала шість годин.,approved
+excursion,noun,B2,,екскурсія,We booked a day ___ to the island.,excursion,Ми замовили одноденну екскурсію на острів.,approved
+booking,noun,B2,,бронювання,I made a hotel ___ for next week.,booking,Я забронював готель на наступний тиждень.,approved
+luggage,noun,B2,,багаж,Please keep your ___ with you at all times.,luggage,"Будь ласка, тримайте багаж при собі весь час.",approved
+departure,noun,B2,,відправлення,The ___ time is printed on the ticket.,departure,Час відправлення вказаний на квитку.,approved
+arrival,noun,B2,,прибуття,The ___ of the train was delayed.,arrival,Прибуття поїзда затрималося.,approved
+passport,noun,B2,,паспорт,Don't forget your ___ at the airport.,passport,Не забудьте паспорт в аеропорту.,approved
+souvenir,noun,B2,,сувенір,I bought a small ___ from the market.,souvenir,Я купив невеликий сувенір на ринку.,approved
+guidebook,noun,B2,,путівник,She read a ___ before visiting the castle.,guidebook,Вона прочитала путівник перед відвідуванням замку.,approved
+scenery,noun,B2,,краєвид,The ___ on the coast road was stunning.,scenery,Краєвид на прибережній дорозі був приголомшливим.,approved
+accommodation,noun,B2,,житло,Finding ___ in the city centre was difficult.,accommodation,Знайти житло в центрі міста було важко.,approved
+delay,noun,B2,,затримка,There was a long ___ at the border.,delay,На кордоні була довга затримка.,approved
+hostel,noun,B2,,хостел,We stayed in a cheap ___ near the station.,hostel,Ми зупинилися в дешевому хостелі біля вокзалу.,approved
+tourism,noun,B2,,туризм,___ is the main income of the island.,Tourism,Туризм — головне джерело доходів острова.,approved
+expedition,noun,B2,,експедиція,The ___ reached the summit in May.,expedition,Експедиція досягла вершини в травні.,approved
+pilgrimage,noun,B2,,паломництво,Thousands make a ___ to the holy city every year.,pilgrimage,Тисячі людей щороку здійснюють паломництво до священного міста.,approved
+brochure,noun,B2,,буклет,The travel agency gave us a colourful ___.,brochure,Турагенція дала нам яскравий буклет.,approved
+cruise,noun,B2,,круїз,We went on a week-long ___ in the Mediterranean.,cruise,Ми відправилися на тижневий круїз Середземним морем.,approved
+transit,noun,B2,,транзит,The goods were held in ___ for a week.,transit,Товари тримали в транзиті тиждень.,approved
+passenger,noun,B2,,пасажир,The ___s boarded the train quickly.,passengers,Пасажири швидко сіли в потяг.,approved
+tour,verb,B2,,подорожувати (оглядати),We ___ed the old town on foot.,toured,Ми оглянули старе місто пішки.,approved
+explore,verb,B2,,досліджувати,Let's ___ the narrow streets of the old city.,explore,Давайте дослідимо вузькі вулички старого міста.,approved
+book,verb,B2,,бронювати,You should ___ the tickets in advance.,book,Квитки варто бронювати заздалегідь.,approved
+cancel,verb,B2,,скасовувати,The airline had to ___ several flights.,cancel,Авіакомпанії довелося скасувати кілька рейсів.,approved
+visa,verb,B2,,візувати,The embassy will ___ the document tomorrow.,visa,Посольство завтра проставить візу в документі.,approved
+souvenir,verb,B2,,сувенір,He wanted something to ___ the trip.,souvenir,Він хотів щось на згадку про подорож.,approved
+accommodate,verb,B2,,розміщувати,The hotel can ___ two hundred guests.,accommodate,Готель може розмістити двісті гостей.,approved
+local,adj,B2,,місцевий,Try the ___ food in every village.,local,Спробуйте місцеву їжу в кожному селі.,approved
+scenic,adj,B2,,мальовничий,We took the ___ route along the lake.,scenic,Ми поїхали мальовничим маршрутом уздовж озера.,approved
+remote,adj,B2,,віддалений,The village is in a very ___ area.,remote,Село розташоване у дуже віддаленому районі.,approved
+authentic,adj,B2,,автентичний,The restaurant serves ___ Thai dishes.,authentic,Ресторан подає автентичні тайські страви.,approved
+wanderlust,noun,C1,,жага до подорожей,Her ___ took her across five continents.,wanderlust,Її жага до подорожей привела її на п'ять континентів.,approved
+sojourn,noun,C1,,перебування,Her ___ in Paris lasted a year.,sojourn,Її перебування в Парижі тривало рік.,approved
+stopover,noun,C1,,зупинка (в дорозі),Our flight had a long ___ in Istanbul.,stopover,У нашому рейсі була довга зупинка в Стамбулі.,approved
+layover,noun,C1,,пересадка,The ___ was over six hours.,layover,Пересадка тривала понад шість годин.,approved
+hinterland,noun,C1,,глибинка,We explored the ___ far from the coast.,hinterland,Ми дослідили глибинку далеко від узбережжя.,approved
+fare,noun,C1,,плата за проїзд,The taxi ___ was higher than expected.,fare,"Плата за таксі була вищою, ніж очікувалося.",approved
+visa,noun,C1,,віза,I need a ___ to enter the country.,visa,"Мені потрібна віза, щоб в'їхати в країну.",approved
+customs,noun,C1,,митниця,We waited an hour at ___.,customs,Ми чекали годину на митниці.,approved
+jaunt,noun,C1,,коротка подорож,We took a short ___ to the coast.,jaunt,Ми зробили коротку подорож до узбережжя.,approved
+globetrotter,noun,C1,,мандрівник,He is a true ___ who has visited every continent.,globetrotter,"Він справжній мандрівник, який відвідав кожен континент.",approved
+concierge,noun,C1,,консьєрж,The hotel ___ booked our table.,concierge,Консьєрж готелю замовив нам столик.,approved
+gratuity,noun,C1,,чайові,A small ___ is usual in restaurants.,gratuity,Невеликі чайові в ресторанах — це звичайна річ.,approved
+immigration,noun,C1,,імміграційний контроль,The ___ queue was very long.,immigration,Черга на імміграційний контроль була дуже довгою.,approved
+boardwalk,noun,C1,,дерев'яний настил,We walked along the seafront ___.,boardwalk,Ми гуляли вздовж набережної по дерев'яному настилу.,approved
+sightseeing,noun,C1,,огляд визначних місць,Our ___ took the whole afternoon.,sightseeing,Наш огляд визначних місць зайняв цілий день.,approved
+itinerant,noun,C1,,мандрівник,The ___ played music for coins in the square.,itinerant,Мандрівник грав музику за монети на площі.,approved
+itinerant,adj,C1,,мандрівний,An ___ musician played in the square.,itinerant,Мандрівний музикант грав на площі.,approved
+bespoke,adj,C1,,індивідуальний,They arranged a ___ tour for the group.,bespoke,Вони організували індивідуальний тур для групи.,approved
+off-beat,adj,C1,,незвичний,The guide suggested an ___ route through the hills.,off-beat,Гід запропонував незвичний маршрут через пагорби.,approved
+picturesque,adj,C1,,живописний,The village is ___ and very quiet.,picturesque,Село живописне і дуже тихе.,approved
+exorbitant,adj,C1,,непомірний,Hotel prices in the resort were ___.,exorbitant,Ціни на готель у курорті були непомірними.,approved
+inaccessible,adj,C1,,недоступний,The monastery is ___ in winter.,inaccessible,Монастир недоступний взимку.,approved
+itinerary,adj,C1,,подорожній,The ___ notes were very detailed.,itinerary,Подорожні нотатки були дуже детальними.,approved
+embark,verb,C1,,сідати (на борт),Passengers will ___ in ten minutes.,embark,Пасажири сядуть на борт через десять хвилин.,approved
+disembark,verb,C1,,зійти (з борту),The travellers ___ed at the port.,disembarked,Мандрівники зійшли в порту.,approved
+reroute,verb,C1,,змінити маршрут,The storm forced us to ___ the flight.,reroute,Буря змусила нас змінити маршрут польоту.,approved
+trek,verb,C1,,йти в похід,We ___ed across the mountains for a week.,trekked,Ми йшли через гори цілий тиждень.,approved
+overbook,verb,C1,,перебронювати,The airline tends to ___ its flights.,overbook,Авіакомпанія має звичку перебронювати рейси.,approved
+hitchhike,verb,C1,,подорожувати автостопом,They ___d across the country for a summer.,hitchhiked,Вони подорожували країною автостопом протягом літа.,approved
+hospitality industry,phrase,C1,,сфера гостинності,She works in the ___.,hospitality industry,Вона працює в сфері гостинності.,approved
+peregrination,noun,C2,,мандрівка,His ___ through Asia lasted a decade.,peregrination,Його мандрівка Азією тривала десятиліття.,approved
+vagabond,noun,C2,,волоцюга,The ___ slept under the bridge.,vagabond,Волоцюга спав під мостом.,approved
+sybarite,noun,C2,,гедоніст,The hotel attracts wealthy ___s.,sybarites,Готель приваблює заможних гедоністів.,approved
+exoticism,noun,C2,,екзотика,The brochure relied on ___ to sell the trip.,exoticism,"Буклет покладався на екзотику, щоб продати поїздку.",approved
+odyssey,noun,C2,,одіссея,Their trip became a long ___ across the desert.,odyssey,Їхня подорож перетворилася на довгу одіссею пустелею.,approved
+interstice,noun,C2,,проміжок,The town lies in an ___ between two rivers.,interstice,Місто розташоване в проміжку між двома річками.,approved
+pilgrim,noun,C2,,паломник,Each ___ carried a wooden staff.,pilgrim,Кожен паломник ніс дерев'яний посох.,approved
+transhumance,noun,C2,,відгінне скотарство,The shepherds practise ___ each spring.,transhumance,Пастухи щовесни практикують відгінне скотарство.,approved
+hegira,noun,C2,,втеча; переселення,The family's ___ to the coast changed their lives.,hegira,Переселення родини на узбережжя змінило їхнє життя.,approved
+wayfarer,noun,C2,,мандрівник,The old ___ shared stories around the fire.,wayfarer,Старий мандрівник ділився історіями біля вогню.,approved
+emissary,noun,C2,,посланець,The ___ carried a message from the island.,emissary,Посланець приніс повідомлення з острова.,approved
+nomad,noun,C2,,кочівник,The ___s moved with their herds each season.,nomads,Кочівники переміщувалися зі своїми стадами щосезону.,approved
+wanderer,noun,C2,,мандрівник,The ___ rested in the shade of an old oak.,wanderer,Мандрівник відпочивав у тіні старого дуба.,approved
+roaming,noun,C2,,роумінг,___ charges can be very expensive.,Roaming,Плата за роумінг може бути дуже дорогою.,approved
+excursionist,noun,C2,,екскурсант,The ___s gathered at the harbour.,excursionists,Екскурсанти зібралися в гавані.,approved
+ecotourism,noun,C2,,екотуризм,The region is growing as a centre of ___.,ecotourism,Регіон розвивається як центр екотуризму.,approved
+tramp,noun,C2,,мандрівник пішки,The ___ slept under the stars for weeks.,tramp,Мандрівник тижнями спав під зорями.,approved
+bucolic,adj,C2,,буколічний,The valley had a ___ charm.,bucolic,Долина мала буколічну чарівність.,approved
+halcyon,adj,C2,,безтурботний,They remembered those ___ summers by the sea.,halcyon,Вони згадували ті безтурботні літа біля моря.,approved
+vertiginous,adj,C2,,паморочливий,The path was steep and ___.,vertiginous,Стежка була крутою і паморочливою.,approved
+insular,adj,C2,,замкнений,The island community was quite ___.,insular,Спільнота острова була досить замкненою.,approved
+wayfaring,adj,C2,,мандрівний,The ___ monks walked from village to village.,wayfaring,Мандрівні ченці ходили від села до села.,approved
+viatic,adj,C2,,дорожній,The ___ allowance covered the journey.,viatic,Дорожня допомога покривала подорож.,approved
+tourist trap,phrase,C2,,туристична пастка,The square is a ___ with overpriced cafés.,tourist trap,Площа — туристична пастка з переоціненими кафе.,approved
+terra incognita,phrase,C2,,невідома територія,The explorers entered ___.,terra incognita,Дослідники увійшли в невідому територію.,approved
+peregrinate,verb,C2,,мандрувати,The pilgrims ___d across the continent.,peregrinated,Паломники мандрували по всьому континенту.,approved
