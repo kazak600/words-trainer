@@ -123,14 +123,7 @@ export function HomePage() {
       <ul className="topics">
         {topics?.map((topic) => (
           <li key={topic.id}>
-            <button
-              type="button"
-              className="topic"
-              disabled={starting}
-              onClick={() =>
-                start(() => startTopicSession(deck.slug, topic.id))
-              }
-            >
+            <Link to={`/topics/${topic.id}`} className="topic">
               <span className="topic-title">
                 {topic.title} <span className="muted">{topic.titleUk}</span>
               </span>
@@ -145,7 +138,7 @@ export function HomePage() {
                 {topic.counts.new} new · {topic.counts.learning} learning ·{' '}
                 {topic.counts.learned} learned
               </span>
-            </button>
+            </Link>
           </li>
         ))}
       </ul>

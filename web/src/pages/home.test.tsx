@@ -77,7 +77,7 @@ describe('Home', () => {
       await screen.findByRole('button', { name: 'Review · 12 due' }),
     ).toBeEnabled();
     expect(screen.getByText('New today: 3 / 10')).toBeInTheDocument();
-    const topic = screen.getByRole('button', { name: /Home/ });
+    const topic = screen.getByRole('link', { name: /^Home Дім/ });
     expect(within(topic).getByText('A1')).toBeInTheDocument();
     expect(within(topic).getByText('A2')).toBeInTheDocument();
     expect(topic).toHaveTextContent('7 new · 2 learning · 1 learned');
@@ -123,38 +123,22 @@ describe('Home', () => {
     ).toBeDisabled();
   });
 
-  it('starts a topic session with the topic id', async () => {
-    const bodies: unknown[] = [];
+  it('opens the topic page when a topic is pressed', async () => {
     setup({
-      'POST /api/decks/lv-uk/sessions': ({ body }) => {
-        bodies.push(body);
-        return { ...session(1), status: 201 };
-      },
-      'GET /api/decks/lv-uk/sessions/current': () => session(1),
+      'GET /api/decks/lv-uk/topics/2/words': () => ({ body: [] }),
     });
     const user = userEvent.setup();
 
     await user.click(
-      await screen.findByRole('button', { name: /Food and drink/ }),
+      await screen.findByRole('link', { name: /Food and drink/ }),
     );
 
-    expect(bodies).toEqual([{ topicId: 2, learn: true, tzOffset: 0 }]);
-    expect(await screen.findByText('maize')).toBeInTheDocument();
-  });
-
-  it.each([
-    [409, 'daily_cap_reached', 'Daily limit of new words reached.'],
-    [409, 'nothing_to_study', 'Nothing to study right now.'],
-    [500, 'error', 'Could not start the session. Try again.'],
-  ])('explains a failed start (%i %s)', async (status, error, message) => {
-    setup({
-      'POST /api/decks/lv-uk/sessions': () => ({ status, body: { error } }),
-    });
-    const user = userEvent.setup();
-
-    await user.click(await screen.findByRole('button', { name: /Home/ }));
-
-    expect(await screen.findByRole('alert')).toHaveTextContent(message);
+    expect(
+      await screen.findByRole('heading', { name: /Food and drink/ }),
+    ).toBeInTheDocument();
+    expect(
+      screen.queryByRole('button', { name: 'Review · 12 due' }),
+    ).toBeNull();
   });
 
   it('offers to continue an unfinished session', async () => {

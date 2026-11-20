@@ -10,6 +10,7 @@ import { ReviewPage } from './pages/ReviewPage';
 import { SettingsPage } from './pages/SettingsPage';
 import { AppShell } from './shell/AppShell';
 import { SessionPage } from './pages/SessionPage';
+import { TopicPage } from './pages/TopicPage';
 import { LoginPage } from './pages/LoginPage';
 
 function Gate() {
@@ -42,6 +43,7 @@ function Gate() {
             <Route path="/stats/leeches" element={<LeechPage />} />
             <Route path="/settings" element={<SettingsPage />} />
             <Route path="/session" element={<SessionPage />} />
+            <Route path="/topics/:topicId" element={<TopicPage />} />
           </Route>
         </Route>
         <Route path="*" element={<Navigate to="/" replace />} />
