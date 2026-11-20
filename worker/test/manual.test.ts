@@ -171,7 +171,7 @@ describe('POST /api/decks/:deck/words', () => {
     ['an empty lemma', { lemma: '  ' }],
     ['an empty translation', { translation: '' }],
     ['an unknown part of speech', { pos: 'thing' }],
-    ['an unknown level', { level: 'C1' }],
+    ['an unknown level', { level: 'C3' }],
     ['a 101-character lemma', { lemma: 'a'.repeat(101) }],
     ['a non-string lemma', { lemma: 5 }],
     [
@@ -203,7 +203,7 @@ describe('POST /api/decks/:deck/words', () => {
 
   it('answers 404 for a topic that does not exist or belongs to another language', async () => {
     const english = (await t.db
-      .prepare("SELECT id FROM topics WHERE lang = 'en' AND slug = 'home'")
+      .prepare("SELECT id FROM topics WHERE lang = 'en' AND slug = 'work-and-careers'")
       .first<{ id: number }>())!.id;
 
     expect((await add({ topicId: 99_999 })).status).toBe(404);

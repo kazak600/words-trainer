@@ -36,16 +36,16 @@ async function seedEnglish() {
   await seedWord(t.db, {
     lang: 'en',
     lemma: 'bread',
-    topic: 'food-and-drink',
-    level: 'A1',
+    topic: 'food-and-cooking',
+    level: 'B2',
     ukrainian: 'хліб',
     sentence: { gap: 'I eat ___.', answer: 'bread', hint: 'Я їм хліб.' },
   });
   await seedWord(t.db, {
     lang: 'en',
     lemma: 'cheese',
-    topic: 'food-and-drink',
-    level: 'A1',
+    topic: 'food-and-cooking',
+    level: 'B2',
     ukrainian: 'сир',
   });
   await seedWord(t.db, {
@@ -75,7 +75,7 @@ describe('the en-uk deck', () => {
     const english = await topics('en-uk');
     const latvian = await topics('lv-uk');
 
-    expect(english.find((x) => x.slug === 'food-and-drink')?.counts.new).toBe(
+    expect(english.find((x) => x.slug === 'food-and-cooking')?.counts.new).toBe(
       2,
     );
     expect(latvian.find((x) => x.slug === 'food-and-drink')?.counts.new).toBe(
@@ -87,7 +87,7 @@ describe('the en-uk deck', () => {
   it('studies English words through the same session flow, never mixing in Latvian ones', async () => {
     await seedEnglish();
     const food = (await topics('en-uk')).find(
-      (x) => x.slug === 'food-and-drink',
+      (x) => x.slug === 'food-and-cooking',
     )!;
 
     const res = await call('/api/decks/en-uk/sessions', 'POST', {
@@ -122,7 +122,7 @@ describe('the en-uk deck', () => {
   it('passes a one-letter English typo and shows it as a typo', async () => {
     await seedEnglish();
     const food = (await topics('en-uk')).find(
-      (x) => x.slug === 'food-and-drink',
+      (x) => x.slug === 'food-and-cooking',
     )!;
     const session = (await (
       await call('/api/decks/en-uk/sessions', 'POST', {

@@ -92,11 +92,13 @@ describe('database schema', () => {
       )
       .all() as { slug: string; title: string; title_uk: string }[];
 
-    expect(topics.map((t) => t.slug)).toEqual(slugs);
-    expect(topics[0]).toMatchObject({
-      title: mapRows[0]!.title_en,
-      title_uk: mapRows[0]!.title_uk,
-    });
+    expect(topics.map((t) => t.slug).sort()).toEqual([...slugs].sort());
+    for (const row of mapRows) {
+      expect(topics.find((t) => t.slug === row.topic_slug)).toMatchObject({
+        title: row.title_en,
+        title_uk: row.title_uk,
+      });
+    }
   });
 
   describe('constraints', () => {

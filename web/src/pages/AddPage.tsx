@@ -18,7 +18,7 @@ const POS_OPTIONS = [
   ['part', 'Particle'],
   ['interj', 'Interjection'],
 ];
-const LEVELS = ['A1', 'A2', 'B1', 'B2'];
+const LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
 const TOPIC_KEY = 'add.topic';
 
 function storedTopic(): number | null {

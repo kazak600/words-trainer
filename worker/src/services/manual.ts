@@ -13,7 +13,7 @@ import {
 import { wordExistsInLang } from '../repositories/leeches';
 
 const MAX_LENGTH = 100;
-const LEVELS = ['A1', 'A2', 'B1', 'B2'];
+const LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
 const DEFAULT_LEVEL = 'A2';
 const POS = [
   'noun',
