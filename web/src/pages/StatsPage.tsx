@@ -124,7 +124,7 @@ export function StatsPage() {
               {stats.topics.map((t) => (
                 <tr key={t.topicId}>
                   <th scope="row">
-                    {t.title} <span className="muted">{t.titleUk}</span>
+                    {t.title}
                   </th>
                   <td>
                     {t.learned} / {t.total}
