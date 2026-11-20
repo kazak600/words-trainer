@@ -35,7 +35,7 @@ const topics = [
 const review = (due: number, newToday = 3, leeches = 0) => ({
   due,
   newToday,
-  newCap: 15,
+  newCap: 10,
   leeches,
   cards: [],
 });
@@ -76,7 +76,7 @@ describe('Home', () => {
     expect(
       await screen.findByRole('button', { name: 'Review · 12 due' }),
     ).toBeEnabled();
-    expect(screen.getByText('New today: 3 / 15')).toBeInTheDocument();
+    expect(screen.getByText('New today: 3 / 10')).toBeInTheDocument();
     const topic = screen.getByRole('button', { name: /Home/ });
     expect(within(topic).getByText('A1')).toBeInTheDocument();
     expect(within(topic).getByText('A2')).toBeInTheDocument();
@@ -138,12 +138,12 @@ describe('Home', () => {
       await screen.findByRole('button', { name: /Food and drink/ }),
     );
 
-    expect(bodies).toEqual([{ topicId: 2, tzOffset: 0 }]);
+    expect(bodies).toEqual([{ topicId: 2, learn: true, tzOffset: 0 }]);
     expect(await screen.findByText('maize')).toBeInTheDocument();
   });
 
   it.each([
-    [409, 'daily_cap_reached', 'Daily limit reached: 15 new words today.'],
+    [409, 'daily_cap_reached', 'Daily limit of new words reached.'],
     [409, 'nothing_to_study', 'Nothing to study right now.'],
     [500, 'error', 'Could not start the session. Try again.'],
   ])('explains a failed start (%i %s)', async (status, error, message) => {

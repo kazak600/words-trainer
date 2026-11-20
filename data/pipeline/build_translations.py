@@ -8,16 +8,16 @@ Line format (one word per line, '#' starts a comment):
 The gap ___ stands for the answer, which is the form of the word used in the sentence.
 """
 
+import argparse
 import csv
 import re
+import sys
 from dataclasses import dataclass
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[2]
-ENRICHED = ROOT / "data" / "csv" / "words_lv_enriched.csv"
-SOURCE_DIR = ROOT / "data" / "translations"
-TRANSLATIONS_OUT = ROOT / "data" / "csv" / "translations_uk.csv"
-SENTENCES_OUT = ROOT / "data" / "csv" / "sentences_lv.csv"
+sys.path.insert(0, str(Path(__file__).resolve().parent))  # python -I drops the script dir
+
+from lang import get_lang
 
 GAP = "___"
 CYRILLIC = re.compile(r"[а-яіїєґА-ЯІЇЄҐ]")
@@ -55,7 +55,7 @@ def check_entry(entry: Entry) -> list[str]:
     if not entry.answer:
         errors.append("empty answer")
     if CYRILLIC.search(entry.sentence) or CYRILLIC.search(entry.answer):
-        errors.append("cyrillic in the Latvian sentence")
+        errors.append("cyrillic in the sentence")
     if not CYRILLIC.search(entry.hint) or RUSSIAN_ONLY.search(entry.hint):
         errors.append("sentence translation is not Ukrainian")
     return errors
@@ -114,21 +114,24 @@ def write_csv(path: Path, header: list[str], rows: list[list[str]]) -> None:
 
 
 def main() -> None:
-    with ENRICHED.open(encoding="utf-8", newline="") as f:
+    parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
+    parser.add_argument("--lang", default="lv")
+    lang = get_lang(parser.parse_args().lang)
+    with lang.enriched_csv.open(encoding="utf-8", newline="") as f:
         words = list(csv.DictReader(f))
-    entries, errors = load_entries(SOURCE_DIR)
+    entries, errors = load_entries(lang.translations_dir)
     errors += find_duplicates(entries)
     missing, unknown = coverage(entries, words)
 
     order = {(w["lemma"], w["pos"]): i for i, w in enumerate(words)}
     entries = sorted((e for e in entries if (e.lemma, e.pos) in order), key=lambda e: order[(e.lemma, e.pos)])
     write_csv(
-        TRANSLATIONS_OUT,
+        lang.translations_csv,
         ["lemma", "pos", "ukrainian", "review_status"],
         [[e.lemma, e.pos, e.ukrainian, "pending"] for e in entries],
     )
     write_csv(
-        SENTENCES_OUT,
+        lang.sentences_csv,
         ["lemma", "pos", "text_with_gap", "answer", "hint_uk", "review_status"],
         [[e.lemma, e.pos, e.sentence, e.answer, e.hint, "pending"] for e in entries],
     )

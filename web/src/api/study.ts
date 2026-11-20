@@ -11,7 +11,7 @@ export type Topic = {
 
 export type Card = {
   index: number;
-  kind: 'recognition' | 'production' | 'cloze';
+  kind: 'intro' | 'practice' | 'recognition' | 'production' | 'cloze';
   retry: boolean;
   wordId: number;
   pos: string;
@@ -80,7 +80,7 @@ export const fetchCurrentSession = (deck: string) =>
 export const startTopicSession = (deck: string, topicId: number) =>
   api<SessionView>(`/api/decks/${deck}/sessions`, {
     method: 'POST',
-    body: { topicId, tzOffset: tzOffset() },
+    body: { topicId, learn: true, tzOffset: tzOffset() },
   });
 export const startReviewSession = (deck: string) =>
   api<SessionView>(`/api/decks/${deck}/sessions`, {

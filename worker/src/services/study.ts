@@ -40,7 +40,7 @@ import {
 } from '../repositories/sentences';
 import { listWordsByIds, type WordCoreRow } from '../repositories/words';
 
-export const NEW_WORDS_PER_DAY = 15;
+export const NEW_WORDS_PER_DAY = 10;
 const TOPIC_SESSION_SIZE = 10;
 const REVIEW_SESSION_SIZE = 20;
 const MODES = {
@@ -54,12 +54,15 @@ const MAX_TYPED_LENGTH = 100;
 const NO_FLAGS: CardFlags = { suspended: false, leech: false };
 
 type StudyKind = 'recognition' | 'production' | 'cloze';
-type PayloadCard = {
+// Learning steps teach a new word (intro) and make the user type it right away (practice); they are never scheduled.
+type LearnKind = 'intro' | 'practice';
+type PayloadBase = {
   wordId: number;
-  kind: StudyKind;
   sentenceId?: number | null;
   retry: boolean;
 };
+type PayloadCard =
+  (PayloadBase & { kind: StudyKind }) | (PayloadBase & { kind: LearnKind });
 type Payload = {
   id: string;
   topicId: number | null;
@@ -80,7 +83,7 @@ type Payload = {
 
 export type CardView = {
   index: number;
-  kind: StudyKind;
+  kind: StudyKind | LearnKind;
   retry: boolean;
   wordId: number;
   pos: string;
@@ -120,7 +123,8 @@ export type AnswerView = {
   next: CardView | null;
   summary?: { cards: number; correct: number; wrong: number };
 };
-export type SessionTarget = { topicId: number } | { review: true };
+export type SessionTarget =
+  { topicId: number; learn?: boolean } | { review: true };
 
 export type StudyErrorCode =
   | 'deck_not_found'
@@ -184,7 +188,7 @@ async function toCardView(
     pos: word.pos,
     translation: word.translation,
   };
-  if (card.kind === 'recognition') {
+  if (card.kind === 'recognition' || card.kind === 'intro') {
     view.lemma = word.lemma;
     view.grammar = word.grammar_json ? JSON.parse(word.grammar_json) : null;
     view.forms = word.forms_json ? JSON.parse(word.forms_json) : null;
@@ -221,6 +225,7 @@ async function topicCards(
   topicId: number,
   tzOffsetMinutes: number,
   now: number,
+  learn: boolean,
 ): Promise<PayloadCard[]> {
   if (!(await findTopic(db, deck.source_lang, topicId)))
     throw new StudyError('topic_not_found');
@@ -235,7 +240,17 @@ async function topicCards(
   });
   if (ids.length === 0) throw new StudyError('nothing_to_study');
   if (remaining === 0) throw new StudyError('daily_cap_reached');
-  return ids.map((wordId) => ({ wordId, kind: 'recognition', retry: false }));
+  const recognition = ids.map((wordId): PayloadCard => ({
+    wordId,
+    kind: 'recognition',
+    retry: false,
+  }));
+  if (!learn) return recognition;
+  const teaching = ids.flatMap((wordId): PayloadCard[] => [
+    { wordId, kind: 'intro', retry: false },
+    { wordId, kind: 'practice', retry: false },
+  ]);
+  return [...teaching, ...recognition];
 }
 
 async function reviewCards(
@@ -275,7 +290,15 @@ export async function startSession(
   const deck = await requireDeck(db, deckSlug);
   const cards =
     'topicId' in target
-      ? await topicCards(db, deck, userId, target.topicId, tzOffsetMinutes, now)
+      ? await topicCards(
+          db,
+          deck,
+          userId,
+          target.topicId,
+          tzOffsetMinutes,
+          now,
+          target.learn === true,
+        )
       : await reviewCards(db, deck, userId, now);
   if (cards.length === 0) throw new StudyError('nothing_to_study');
 
@@ -352,6 +375,57 @@ function judge(
   };
 }
 
+// Intro and practice steps teach a new word. They write no card, log row or cap use;
+// a failed practice is asked again right away, so the word is typed correctly once before it is scheduled.
+async function answerLearnStep(
+  db: D1Database,
+  deck: DeckRow,
+  userId: number,
+  payload: Payload,
+  card: PayloadCard,
+  word: WordCoreRow,
+  input: AnswerInput,
+  now: number,
+): Promise<AnswerView> {
+  let passed = true;
+  let judgement: ReturnType<typeof checkAnswer> | null = null;
+  if (card.kind === 'practice') {
+    if (
+      typeof input.typed !== 'string' ||
+      input.typed.length > MAX_TYPED_LENGTH
+    )
+      throw new StudyError('bad_answer');
+    judgement = checkAnswer(input.typed, word.lemma, word.lang);
+    passed = judgement.verdict !== 'wrong';
+    if (!passed)
+      payload.cards.splice(payload.index + 1, 0, { ...card, retry: true });
+  }
+  payload.index++;
+  payload.lastExact = undefined;
+  await upsertSessionStatement(
+    db,
+    userId,
+    deck.id,
+    JSON.stringify(payload),
+    now,
+  ).run();
+  return {
+    grade: 'good',
+    verdict: judgement?.verdict,
+    correct: passed,
+    leech: false,
+    expected: word.lemma,
+    pos: word.pos,
+    grammar: word.grammar_json ? JSON.parse(word.grammar_json) : null,
+    forms: word.forms_json ? JSON.parse(word.forms_json) : null,
+    diff: judgement?.diff,
+    learned: false,
+    canRaise: false,
+    finished: false,
+    next: await toCardView(db, deck, payload, payload.cards[payload.index]!),
+  };
+}
+
 export async function answerCard(
   db: D1Database,
   userId: number,
@@ -368,6 +442,9 @@ export async function answerCard(
   const card = payload.cards[payload.index]!;
   const [word] = await listWordsByIds(db, [card.wordId], deck.target_lang);
   if (!word) throw new StudyError('session_not_found');
+
+  if (card.kind === 'intro' || card.kind === 'practice')
+    return answerLearnStep(db, deck, userId, payload, card, word, input, now);
 
   const sentence: SentenceRow | null =
     card.kind === 'cloze' && card.sentenceId
@@ -494,7 +571,9 @@ export async function answerCard(
       : await toCardView(db, deck, payload, payload.cards[payload.index]!),
     summary: finished
       ? {
-          cards: payload.cards.length,
+          cards: payload.cards.filter(
+            (c) => c.kind !== 'intro' && c.kind !== 'practice',
+          ).length,
           correct: payload.correct,
           wrong: payload.wrong,
         }

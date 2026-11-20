@@ -1,0 +1,23 @@
+shop | noun | магазин | The ___ opens at nine. | shop | Магазин відчиняється о дев'ятій.
+market | noun | ринок | We buy fruit at the ___. | market | Ми купуємо фрукти на ринку.
+money | noun | гроші | I have no ___ with me. | money | У мене немає з собою грошей.
+price | noun | ціна | The ___ is too high. | price | Ціна занадто висока.
+cheap | adj | дешевий | This bag is ___. | cheap | Ця сумка дешева.
+expensive | adj | дорогий | That coat is ___. | expensive | То пальто дороге.
+buy | verb | купувати | I want to ___ a present. | buy | Я хочу купити подарунок.
+sell | verb | продавати | They ___ fresh bread. | sell | Вони продають свіжий хліб.
+pay | verb | платити | I will ___ by card. | pay | Я заплачу карткою.
+bag | noun | сумка; пакет | Can I have a ___, please? | bag | Можна пакет, будь ласка?
+shirt | noun | сорочка | He wears a white ___. | shirt | Він носить білу сорочку.
+dress | noun | сукня | She has a red ___. | dress | У неї червона сукня.
+trousers | noun | штани | These ___ are too long. | trousers | Ці штани задовгі.
+jacket | noun | куртка | Take your ___, it is cold. | jacket | Візьми куртку, холодно.
+shoes | noun | взуття; черевики | I need new ___. | shoes | Мені потрібне нове взуття.
+hat | noun | капелюх; шапка | She wears a warm ___. | hat | Вона носить теплу шапку.
+size | noun | розмір | What ___ do you wear? | size | Який розмір ти носиш?
+colour | noun | колір | Red is my favourite ___. | colour | Червоний — мій улюблений колір.
+red | adj | червоний | The apple is ___. | red | Яблуко червоне.
+blue | adj | синій; блакитний | The sky is ___. | blue | Небо блакитне.
+green | adj | зелений | The grass is ___. | green | Трава зелена.
+black | adj | чорний | He has a ___ cat. | black | У нього чорний кіт.
+white | adj | білий | Snow is ___. | white | Сніг білий.

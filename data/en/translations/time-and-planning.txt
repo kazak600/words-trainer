@@ -1,0 +1,23 @@
+time | noun | час | What ___ is it? | time | Котра година?
+hour | noun | година | The film is two ___ long. | hours | Фільм триває дві години.
+minute | noun | хвилина | Wait a ___, please. | minute | Зачекай хвилинку, будь ласка.
+day | noun | день | It is a sunny ___. | day | Сьогодні сонячний день.
+week | noun | тиждень | I work five days a ___. | week | Я працюю п'ять днів на тиждень.
+month | noun | місяць | There are twelve ___ in a year. | months | У році дванадцять місяців.
+year | noun | рік | This ___ is special. | year | Цей рік особливий.
+today | adv | сьогодні | ___ is Monday. | Today | Сьогодні понеділок.
+tomorrow | adv | завтра | See you ___. | tomorrow | Побачимося завтра.
+yesterday | adv | вчора | I was at home ___. | yesterday | Вчора я був удома.
+now | adv | зараз | I am busy ___. | now | Зараз я зайнятий.
+soon | adv | скоро | Dinner will be ready ___. | soon | Вечеря скоро буде готова.
+Monday | noun | понеділок | We have a test on ___. | Monday | У понеділок у нас контрольна.
+Friday | noun | п'ятниця | I am free on ___. | Friday | У п'ятницю я вільний.
+Saturday | noun | субота | We rest on ___. | Saturday | У суботу ми відпочиваємо.
+Sunday | noun | неділя | Shops are closed on ___. | Sunday | У неділю магазини зачинені.
+weekend | noun | вихідні | What are you doing at the ___? | weekend | Що ти робиш на вихідних?
+January | noun | січень | It is cold in ___. | January | У січні холодно.
+summer | noun | літо | We travel in ___. | summer | Ми подорожуємо влітку.
+winter | noun | зима | I like ___ and snow. | winter | Я люблю зиму і сніг.
+plan | noun | план | Do you have a ___ for tomorrow? | plan | У тебе є план на завтра?
+meeting | noun | зустріч; нарада | The ___ is at ten. | meeting | Нарада о десятій.
+birthday | noun | день народження | Today is my ___. | birthday | Сьогодні мій день народження.

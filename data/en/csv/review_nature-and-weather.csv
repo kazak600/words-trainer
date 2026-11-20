@@ -1,0 +1,23 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+weather,noun,A1,,погода,The ___ is nice today.,weather,Сьогодні гарна погода.,pending
+sun,noun,A1,,сонце,The ___ is shining.,sun,Сонце світить.,pending
+rain,noun,A1,,дощ,I do not like the ___.,rain,Я не люблю дощ.,pending
+snow,noun,A1,,сніг,There is a lot of ___ in winter.,snow,Узимку багато снігу.,pending
+wind,noun,A1,,вітер,The ___ is strong today.,wind,Сьогодні сильний вітер.,pending
+cloud,noun,A1,,хмара,There is a big ___ in the sky.,cloud,На небі велика хмара.,pending
+sky,noun,A1,,небо,The ___ is clear.,sky,Небо чисте.,pending
+tree,noun,A1,,дерево,The cat is in the ___.,tree,Кіт на дереві.,pending
+flower,noun,A1,,квітка,She gave me a ___.,flower,Вона подарувала мені квітку.,pending
+river,noun,A1,,річка,We swim in the ___.,river,Ми плаваємо в річці.,pending
+sea,noun,A1,,море,I love the ___.,sea,Я люблю море.,pending
+mountain,noun,A1,,гора,We climb the ___.,mountain,Ми піднімаємося на гору.,pending
+forest,noun,A1,,ліс,We pick mushrooms in the ___.,forest,Ми збираємо гриби в лісі.,pending
+beach,noun,A1,,пляж,The children play on the ___.,beach,Діти граються на пляжі.,pending
+animal,noun,A1,,тварина,A dog is a friendly ___.,animal,Собака — дружелюбна тварина.,pending
+dog,noun,A1,,собака,My ___ likes walks.,dog,Мій собака любить прогулянки.,pending
+cat,noun,A1,,кіт,The ___ sleeps on the sofa.,cat,Кіт спить на дивані.,pending
+bird,noun,A1,,птах,A ___ sings in the tree.,bird,Птах співає на дереві.,pending
+hot,adj,A1,,гарячий; спекотний,It is very ___ today.,hot,Сьогодні дуже спекотно.,pending
+cold,adj,A1,,холодний,The water is ___.,cold,Вода холодна.,pending
+sunny,adj,A1,,сонячний,We need sunglasses. It is very ___.,sunny,Нам потрібні сонцезахисні окуляри. Надворі дуже сонячно.,pending
+rainy,adj,A1,,дощовий,It is a ___ morning.,rainy,Сьогодні дощовий ранок.,pending

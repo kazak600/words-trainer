@@ -1,0 +1,23 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+morning,noun,A1,,ранок,I run in the ___.,morning,Я бігаю вранці.,pending
+afternoon,noun,A1,,день (після полудня),We have lessons in the ___.,afternoon,У нас уроки після обіду.,pending
+evening,noun,A1,,вечір,I read in the ___.,evening,Я читаю ввечері.,pending
+night,noun,A1,,ніч,The baby sleeps all ___.,night,Немовля спить усю ніч.,pending
+shower,noun,A1,,душ,I take a ___ every morning.,shower,Я приймаю душ щоранку.,pending
+wake up,phrase,A1,,прокидатися,I ___ at seven.,wake up,Я прокидаюся о сьомій.,pending
+get up,phrase,A1,,вставати,He ___ early.,gets up,Він встає рано.,pending
+go to bed,phrase,A1,,лягати спати,We ___ late on Saturdays.,go to bed,У суботу ми лягаємо спати пізно.,pending
+wash,verb,A1,,мити; вмиватися,I ___ my hands before dinner.,wash,Я мию руки перед вечерею.,pending
+brush,verb,A1,,чистити (зуби),___ your teeth twice a day.,Brush,Чисти зуби двічі на день.,pending
+dress,verb,A1,,одягатися; вдягати,She ___ the child quickly.,dresses,Вона швидко вдягає дитину.,pending
+work,verb,A1,,працювати,My sister ___ in a bank.,works,Моя сестра працює в банку.,pending
+start,verb,A1,,починати; починатися,The film ___ at eight.,starts,Фільм починається о восьмій.,pending
+finish,verb,A1,,закінчувати,I ___ work at five.,finish,Я закінчую роботу о п'ятій.,pending
+sleep,verb,A1,,спати,I need to ___ more.,sleep,Мені треба більше спати.,pending
+clean,verb,A1,,прибирати,We ___ the flat on Sunday.,clean,Ми прибираємо квартиру в неділю.,pending
+walk,verb,A1,,гуляти; ходити пішки,I ___ to school.,walk,Я ходжу до школи пішки.,pending
+usually,adv,A1,,зазвичай,I ___ eat at home.,usually,Зазвичай я їм удома.,pending
+always,adv,A1,,завжди,She is ___ on time.,always,Вона завжди вчасно.,pending
+never,adv,A1,,ніколи,He is ___ late.,never,Він ніколи не запізнюється.,pending
+early,adv,A1,,рано,We get up ___.,early,Ми встаємо рано.,pending
+late,adv,A1,,пізно,Don't come home ___.,late,Не приходь додому пізно.,pending

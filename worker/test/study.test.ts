@@ -61,7 +61,7 @@ type AnswerView = {
 
 async function topicId(slug: string): Promise<number> {
   return (await t.db
-    .prepare('SELECT id FROM topics WHERE slug = ?')
+    .prepare("SELECT id FROM topics WHERE lang = 'lv' AND slug = ?")
     .bind(slug)
     .first<{ id: number }>())!.id;
 }
@@ -237,9 +237,9 @@ describe('daily cap', () => {
     vi.setSystemTime(NOON * 1000);
   });
 
-  it('refuses a topic session once 15 new words were started today', async () => {
+  it('refuses a topic session once 10 new words were started today', async () => {
     await seedMany(5);
-    for (let i = 0; i < 15; i++) await reviewedAt(NOON - 3600, `r${i}`);
+    for (let i = 0; i < 10; i++) await reviewedAt(NOON - 3600, `r${i}`);
 
     const { res, body } = await start();
 
@@ -249,20 +249,20 @@ describe('daily cap', () => {
 
   it('shrinks the session to the remaining cap', async () => {
     await seedMany(12);
-    for (let i = 0; i < 10; i++) await reviewedAt(NOON - 3600, `r${i}`);
+    for (let i = 0; i < 7; i++) await reviewedAt(NOON - 3600, `r${i}`);
 
-    expect((await start()).body.total).toBe(5);
+    expect((await start()).body.total).toBe(3);
   });
 
   it('says nothing_to_study, not cap reached, when the topic has no new words', async () => {
-    for (let i = 0; i < 15; i++) await reviewedAt(NOON - 3600, `r${i}`);
+    for (let i = 0; i < 10; i++) await reviewedAt(NOON - 3600, `r${i}`);
 
     expect((await start()).body).toEqual({ error: 'nothing_to_study' });
   });
 
   it('does not count first reviews from before the local day', async () => {
     await seedMany(12);
-    for (let i = 0; i < 15; i++) await reviewedAt(NOON - 86_400, `r${i}`);
+    for (let i = 0; i < 10; i++) await reviewedAt(NOON - 86_400, `r${i}`);
 
     expect((await start()).body.total).toBe(10);
   });
@@ -270,7 +270,7 @@ describe('daily cap', () => {
   it('uses the local day: 00:10 local no longer sees 23:30 local of the day before', async () => {
     vi.setSystemTime(iso('2026-03-09T22:10:00Z') * 1000); // 00:10 at +02:00
     await seedMany(12);
-    for (let i = 0; i < 15; i++)
+    for (let i = 0; i < 10; i++)
       await reviewedAt(iso('2026-03-09T21:30:00Z'), `r${i}`); // 23:30 yesterday
 
     const { body } = await start({
@@ -286,7 +286,7 @@ describe('daily cap', () => {
     await seedMany(12);
     for (let i = 0; i < 4; i++)
       await reviewedAt(iso('2026-03-10T01:00:00Z'), `in${i}`); // 20:00 local, today
-    for (let i = 0; i < 15; i++)
+    for (let i = 0; i < 10; i++)
       await reviewedAt(iso('2026-03-09T04:59:00Z'), `out${i}`); // 23:59 local, yesterday
 
     const { body } = await start({
@@ -294,12 +294,12 @@ describe('daily cap', () => {
       tzOffset: -300,
     });
 
-    expect(body.total).toBe(10);
+    expect(body.total).toBe(6);
   });
 
   it('counts a word reviewed yesterday and again today only yesterday', async () => {
     await seedMany(12);
-    for (let i = 0; i < 15; i++) {
+    for (let i = 0; i < 10; i++) {
       const id = await reviewedAt(NOON - 86_400, `r${i}`);
       await seedReviewLog(t.db, userId, id, NOON - 60);
     }

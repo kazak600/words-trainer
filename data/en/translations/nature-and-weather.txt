@@ -1,0 +1,22 @@
+weather | noun | погода | The ___ is nice today. | weather | Сьогодні гарна погода.
+sun | noun | сонце | The ___ is shining. | sun | Сонце світить.
+rain | noun | дощ | I do not like the ___. | rain | Я не люблю дощ.
+snow | noun | сніг | There is a lot of ___ in winter. | snow | Узимку багато снігу.
+wind | noun | вітер | The ___ is strong today. | wind | Сьогодні сильний вітер.
+cloud | noun | хмара | There is a big ___ in the sky. | cloud | На небі велика хмара.
+sky | noun | небо | The ___ is clear. | sky | Небо чисте.
+tree | noun | дерево | The cat is in the ___. | tree | Кіт на дереві.
+flower | noun | квітка | She gave me a ___. | flower | Вона подарувала мені квітку.
+river | noun | річка | We swim in the ___. | river | Ми плаваємо в річці.
+sea | noun | море | I love the ___. | sea | Я люблю море.
+mountain | noun | гора | We climb the ___. | mountain | Ми піднімаємося на гору.
+forest | noun | ліс | We pick mushrooms in the ___. | forest | Ми збираємо гриби в лісі.
+beach | noun | пляж | The children play on the ___. | beach | Діти граються на пляжі.
+animal | noun | тварина | A dog is a friendly ___. | animal | Собака — дружелюбна тварина.
+dog | noun | собака | My ___ likes walks. | dog | Мій собака любить прогулянки.
+cat | noun | кіт | The ___ sleeps on the sofa. | cat | Кіт спить на дивані.
+bird | noun | птах | A ___ sings in the tree. | bird | Птах співає на дереві.
+hot | adj | гарячий; спекотний | It is very ___ today. | hot | Сьогодні дуже спекотно.
+cold | adj | холодний | The water is ___. | cold | Вода холодна.
+sunny | adj | сонячний | We need sunglasses. It is very ___. | sunny | Нам потрібні сонцезахисні окуляри. Надворі дуже сонячно.
+rainy | adj | дощовий | It is a ___ morning. | rainy | Сьогодні дощовий ранок.

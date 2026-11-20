@@ -1,0 +1,23 @@
+house | noun | будинок | We have a small ___. | house | У нас невеликий будинок.
+flat | noun | квартира | Their ___ is on the third floor. | flat | Їхня квартира на третьому поверсі.
+room | noun | кімната | My ___ is very quiet. | room | Моя кімната дуже тиха.
+kitchen | noun | кухня | Mum is in the ___. | kitchen | Мама на кухні.
+bedroom | noun | спальня | The ___ is next to the bathroom. | bedroom | Спальня поруч із ванною.
+bathroom | noun | ванна кімната | The ___ is clean. | bathroom | У ванній чисто.
+living room | phrase | вітальня | We watch TV in the ___. | living room | Ми дивимося телевізор у вітальні.
+door | noun | двері | Someone is at the ___. | door | Хтось стоїть біля дверей.
+window | noun | вікно | Open the ___, it is hot. | window | Відчини вікно, спекотно.
+floor | noun | підлога; поверх | The ___ is wet. | floor | Підлога мокра.
+wall | noun | стіна | There is a picture on the ___. | wall | На стіні висить картина.
+table | noun | стіл | The book is on the ___. | table | Книга лежить на столі.
+chair | noun | стілець | Sit on this ___. | chair | Сідай на цей стілець.
+bed | noun | ліжко | The cat sleeps on my ___. | bed | Кіт спить на моєму ліжку.
+sofa | noun | диван | The cat is on the ___. | sofa | Кіт на дивані.
+lamp | noun | лампа | Turn on the ___. | lamp | Увімкни лампу.
+key | noun | ключ | I lost my ___. | key | Я загубив свій ключ.
+garden | noun | сад | They have a beautiful ___. | garden | У них гарний сад.
+fridge | noun | холодильник | The milk is in the ___. | fridge | Молоко в холодильнику.
+television | noun | телевізор | The ___ is too loud. | television | Телевізор занадто гучний.
+clean | adj | чистий | The kitchen is ___. | clean | На кухні чисто.
+big | adj | великий | We live in a ___ house. | big | Ми живемо у великому будинку.
+small | adj | маленький | My room is ___. | small | Моя кімната маленька.

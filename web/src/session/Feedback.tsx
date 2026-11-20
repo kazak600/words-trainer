@@ -5,13 +5,21 @@ import { DiffWord } from './DiffWord';
 
 type Props = {
   lang: string;
+  practice?: boolean;
   reply: AnswerView;
   typed?: string;
   onRaise: () => Promise<{ learned: boolean } | null>;
   onContinue: () => void;
 };
 
-export function Feedback({ lang, reply, typed, onRaise, onContinue }: Props) {
+export function Feedback({
+  lang,
+  practice = false,
+  reply,
+  typed,
+  onRaise,
+  onContinue,
+}: Props) {
   const [raised, setRaised] = useState(false);
   const [raising, setRaising] = useState(false);
   const [learnedByRaise, setLearnedByRaise] = useState(false);
@@ -41,9 +49,9 @@ export function Feedback({ lang, reply, typed, onRaise, onContinue }: Props) {
         )}
         {variant !== 'ok' &&
           (reply.diff && reply.diff.length > 0 ? (
-            <DiffWord diff={reply.diff} />
+            <DiffWord diff={reply.diff} lang={lang} />
           ) : (
-            <span className="diff-word" lang="lv">
+            <span className="diff-word" lang={lang}>
               {reply.expected}
             </span>
           ))}
@@ -55,7 +63,7 @@ export function Feedback({ lang, reply, typed, onRaise, onContinue }: Props) {
             This card keeps failing. It moved to the Leech Workshop.
           </span>
         )}
-        {variant === 'typo' && (
+        {variant === 'typo' && !practice && (
           <span className="muted">Short interval, no promotion.</span>
         )}
       </div>
@@ -80,7 +88,7 @@ export function Feedback({ lang, reply, typed, onRaise, onContinue }: Props) {
         autoFocus
         onClick={onContinue}
       >
-        Continue
+        {practice && !reply.correct ? 'Try again' : 'Continue'}
       </button>
     </>
   );

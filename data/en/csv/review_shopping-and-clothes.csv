@@ -1,0 +1,24 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+shop,noun,A1,,магазин,The ___ opens at nine.,shop,Магазин відчиняється о дев'ятій.,pending
+market,noun,A1,,ринок,We buy fruit at the ___.,market,Ми купуємо фрукти на ринку.,pending
+money,noun,A1,,гроші,I have no ___ with me.,money,У мене немає з собою грошей.,pending
+price,noun,A1,,ціна,The ___ is too high.,price,Ціна занадто висока.,pending
+bag,noun,A1,,сумка; пакет,"Can I have a ___, please?",bag,"Можна пакет, будь ласка?",pending
+shirt,noun,A1,,сорочка,He wears a white ___.,shirt,Він носить білу сорочку.,pending
+dress,noun,A1,,сукня,She has a red ___.,dress,У неї червона сукня.,pending
+trousers,noun,A1,,штани,These ___ are too long.,trousers,Ці штани задовгі.,pending
+jacket,noun,A1,,куртка,"Take your ___, it is cold.",jacket,"Візьми куртку, холодно.",pending
+shoes,noun,A1,,взуття; черевики,I need new ___.,shoes,Мені потрібне нове взуття.,pending
+hat,noun,A1,,капелюх; шапка,She wears a warm ___.,hat,Вона носить теплу шапку.,pending
+size,noun,A1,,розмір,What ___ do you wear?,size,Який розмір ти носиш?,pending
+colour,noun,A1,,колір,Red is my favourite ___.,colour,Червоний — мій улюблений колір.,pending
+cheap,adj,A1,,дешевий,This bag is ___.,cheap,Ця сумка дешева.,pending
+expensive,adj,A1,,дорогий,That coat is ___.,expensive,То пальто дороге.,pending
+red,adj,A1,,червоний,The apple is ___.,red,Яблуко червоне.,pending
+blue,adj,A1,,синій; блакитний,The sky is ___.,blue,Небо блакитне.,pending
+green,adj,A1,,зелений,The grass is ___.,green,Трава зелена.,pending
+black,adj,A1,,чорний,He has a ___ cat.,black,У нього чорний кіт.,pending
+white,adj,A1,,білий,Snow is ___.,white,Сніг білий.,pending
+buy,verb,A1,,купувати,I want to ___ a present.,buy,Я хочу купити подарунок.,pending
+sell,verb,A1,,продавати,They ___ fresh bread.,sell,Вони продають свіжий хліб.,pending
+pay,verb,A1,,платити,I will ___ by card.,pay,Я заплачу карткою.,pending

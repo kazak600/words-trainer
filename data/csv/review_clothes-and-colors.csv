@@ -1,0 +1,28 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+drēbes,noun,A2,clothes,одяг; речі,Es mazgāju ___.,drēbes,Я перу одяг.,pending
+džinsi,noun,A2,,джинси,Viņš valkā zilus ___.,džinsus,Він носить сині джинси.,pending
+sandales,noun,A2,,сандалі,Vasarā es valkāju ___.,sandales,Влітку я ношу сандалі.,pending
+josta,noun,A2,belt,пасок,Man vajag ___ pie biksēm.,jostu,Мені потрібен пасок до штанів.,pending
+kaklasaite,noun,A2,necktie,краватка,Viņš valkā uzvalku un ___.,kaklasaiti,Він носить костюм і краватку.,pending
+uzvalks,noun,A2,suit,костюм,Viņam ir jauns ___.,uzvalks,У нього новий костюм.,pending
+pidžama,noun,A2,,піжама,Bērns guļ ___.,pidžamā,Дитина спить у піжамі.,pending
+peldkostīms,noun,A2,,купальник; плавки,Pludmalē es valkāju ___.,peldkostīmu,На пляжі я ношу купальник.,pending
+audums,noun,A2,"Fabric, cloth or textile.",тканина,Šis ___ ir ļoti mīksts.,audums,Ця тканина дуже м'яка.,pending
+kokvilna,noun,A2,cotton,бавовна,Šis krekls ir no ___.,kokvilnas,Ця сорочка з бавовни.,pending
+vilna,noun,A2,wool,вовна,Šis džemperis ir no ___.,vilnas,Цей светр з вовни.,pending
+āda,noun,A2,skin,шкіра,Šīs kurpes ir no ___.,ādas,Це взуття зі шкіри.,pending
+kabata,noun,A2,pocket,кишеня,Telefons ir manā ___.,kabatā,Телефон у моїй кишені.,pending
+poga,noun,A2,button,гудзик,Krekla ___ ir nokritusi.,poga,Гудзик на сорочці відірвався.,pending
+rāvējslēdzējs,noun,A2,"zip fastener, zipper, zip",блискавка (на одязі),Jakai ir salūzis ___.,rāvējslēdzējs,У куртки зламалася блискавка.,pending
+mode,noun,A2,,мода,Šī kleita ir pēc jaunākās ___.,modes,Ця сукня за останньою модою.,pending
+stils,noun,A2,,стиль,Man patīk viņas ___.,stils,Мені подобається її стиль.,pending
+saģērbties,verb,A2,,одягнутися,Es ātri ___.,saģērbjos,Я швидко одягаюся.,pending
+noģērbties,verb,A2,,роздягнутися,Bērns grib ___.,noģērbties,Дитина хоче роздягнутися.,pending
+apāvt,verb,A2,,взути,Es nevaru ___ jaunos apavus.,apāvt,Я не можу взути нове взуття.,pending
+šūt,verb,A2,to sew,шити,Mana mamma māk ___.,šūt,Моя мама вміє шити.,pending
+žāvēt,verb,A2,to dry,сушити,Es ___ veļu uz balkona.,žāvēju,Я сушу білизну на балконі.,pending
+piestāvēt,verb,A2,,личити,Šī krāsa tev ļoti ___.,piestāv,Цей колір тобі дуже личить.,pending
+moderns,adj,A2,modern,модний; сучасний,Šī jaka ir ļoti ___.,moderna,Ця куртка дуже модна.,pending
+elegants,adj,A2,,елегантний,Viņš ir ļoti ___ vīrietis.,elegants,Він дуже елегантний чоловік.,pending
+raibs,adj,A2,,строкатий,Viņai ir ___ šalle.,raiba,У неї строкатий шарф.,pending
+vienkrāsains,adj,A2,,однотонний,Man patīk ___ krekli.,vienkrāsaini,Мені подобаються однотонні сорочки.,pending

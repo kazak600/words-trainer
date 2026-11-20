@@ -15,7 +15,7 @@ let headers: { cookie: string };
 
 async function topicId(slug: string): Promise<number> {
   const row = await t.db
-    .prepare('SELECT id FROM topics WHERE slug = ?')
+    .prepare("SELECT id FROM topics WHERE lang = 'lv' AND slug = ?")
     .bind(slug)
     .first<{ id: number }>();
   return row!.id;
@@ -32,7 +32,7 @@ afterEach(async () => {
 });
 
 describe('GET /api/decks', () => {
-  it('lists the seeded deck', async () => {
+  it('lists the seeded decks', async () => {
     const res = await app.request('/api/decks', { headers }, env);
 
     expect(res.status).toBe(200);
@@ -42,6 +42,12 @@ describe('GET /api/decks', () => {
         sourceLang: 'lv',
         targetLang: 'uk',
         title: 'Latvian → Ukrainian',
+      },
+      {
+        slug: 'en-uk',
+        sourceLang: 'en',
+        targetLang: 'uk',
+        title: 'English → Ukrainian',
       },
     ]);
   });

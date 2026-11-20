@@ -1,0 +1,22 @@
+school | noun | школа | The children are at ___. | school | Діти в школі.
+student | noun | студент; учень | She is a ___ at the university. | student | Вона студентка університету.
+teacher | noun | вчитель | Our ___ is very patient. | teacher | Наш вчитель дуже терплячий.
+lesson | noun | урок | The ___ starts at nine. | lesson | Урок починається о дев'ятій.
+book | noun | книга | I am reading a good ___. | book | Я читаю гарну книгу.
+pen | noun | ручка | Can I borrow your ___? | pen | Можна позичити твою ручку?
+pencil | noun | олівець | Draw it with a ___. | pencil | Намалюй це олівцем.
+notebook | noun | зошит | Write it in your ___. | notebook | Запиши це у свій зошит.
+computer | noun | комп'ютер | I work on a ___. | computer | Я працюю за комп'ютером.
+question | noun | питання | I have a ___. | question | У мене є питання.
+answer | noun | відповідь | What is the ___? | answer | Яка відповідь?
+homework | noun | домашнє завдання | She does her ___ every evening. | homework | Вона щовечора робить домашнє завдання.
+exam | noun | іспит | The ___ is tomorrow. | exam | Іспит завтра.
+job | noun | робота; посада | He has a good ___. | job | У нього гарна робота.
+office | noun | офіс | She works in an ___. | office | Вона працює в офісі.
+boss | noun | начальник | My ___ is very kind. | boss | Мій начальник дуже добрий.
+colleague | noun | колега | My ___ helps me. | colleague | Мій колега мені допомагає.
+learn | verb | вчити; навчатися | I want to ___ English. | learn | Я хочу вчити англійську.
+study | verb | вчитися | She ___ medicine. | studies | Вона вивчає медицину.
+read | verb | читати | Please ___ the text. | read | Будь ласка, прочитайте текст.
+write | verb | писати | I ___ a letter. | write | Я пишу листа.
+understand | verb | розуміти | I do not ___ this word. | understand | Я не розумію цього слова.

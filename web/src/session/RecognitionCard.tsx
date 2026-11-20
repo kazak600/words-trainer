@@ -29,7 +29,7 @@ export function RecognitionCard({ card, lang, busy, onGrade }: Props) {
         disabled={revealed}
       >
         <span className="tag">{card.pos}</span>
-        <span className="lemma" lang="lv">
+        <span className="lemma" lang={lang}>
           {card.lemma}
         </span>
         {revealed ? (

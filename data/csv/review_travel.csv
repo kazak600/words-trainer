@@ -1,0 +1,25 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+tūrists,noun,A2,tourist,турист,Rīgā ir daudz ___.,tūristu,У Ризі багато туристів.,pending
+tūrisms,noun,A2,tourism,туризм,___ ir svarīga nozare.,Tūrisms,Туризм — важлива галузь.,pending
+brauciens,noun,A2,"trip, ride, journey",поїздка,Tas bija jauks ___.,brauciens,Це була чудова поїздка.,pending
+izbraukums,noun,A2,,поїздка за місто,Svētdien mums ir ___ uz laukiem.,izbraukums,У неділю в нас поїздка на село.,pending
+mugursoma,noun,A2,"backpack, knapsack, rucksack",рюкзак,Mana ___ ir ļoti smaga.,mugursoma,Мій рюкзак дуже важкий.,pending
+vīza,noun,A2,visa,віза,Man vajag ___.,vīzu,Мені потрібна віза.,pending
+hostelis,noun,A2,,хостел,Mēs apmetāmies lētā ___.,hostelī,Ми зупинилися в дешевому хостелі.,pending
+kempings,noun,A2,,кемпінг,Vasarā mēs dzīvojam ___.,kempingā,Влітку ми живемо в кемпінгу.,pending
+telts,noun,A2,tent,намет,Mēs uzslējām ___.,telti,Ми поставили намет.,pending
+robeža,noun,A2,border,кордон,Mēs šķērsojām ___.,robežu,Ми перетнули кордон.,pending
+muita,noun,A2,customs,митниця,Pie ___ jāparāda pase.,muitas,На митниці треба показати паспорт.,pending
+kalni,noun,A2,"mountain, hill",гори,Mēs gribam braukt uz ___.,kalniem,Ми хочемо поїхати в гори.,pending
+galamērķis,noun,A2,"destination, final destination",пункт призначення,Mūsu ___ ir Rīga.,galamērķis,Наш пункт призначення — Рига.,pending
+pieturvieta,noun,A2,,зупинка (місце),Kur ir tuvākā ___?,pieturvieta,Де найближча зупинка?,pending
+apskates vieta,phrase,A2,,пам'ятка; визначне місце,Šī ir slavena ___.,apskates vieta,Це відома пам'ятка.,pending
+izpakot,verb,A2,,розпакувати,Es gribu ___ koferi.,izpakot,Я хочу розпакувати валізу.,pending
+izbraukt,verb,A2,,виїхати,Mēs gribam ___ agri no rīta.,izbraukt,Ми хочемо виїхати рано вранці.,pending
+nolaisties,verb,A2,,приземлитися,Lidmašīna ___ pulksten desmitos.,nolaižas,Літак приземляється о десятій.,pending
+izrakstīties,verb,A2,,виписатися,Mēs ___ no viesnīcas pulksten divpadsmitos.,izrakstāmies,Ми виселяємося з готелю о дванадцятій.,pending
+izmitināties,verb,A2,,оселитися,Mēs ___ mazā viesnīcā.,izmitinājāmies,Ми оселилися в маленькому готелі.,pending
+apmaldīties,verb,A2,,заблукати,Es negribu ___.,apmaldīties,Я не хочу заблукати.,pending
+iespaidīgs,adj,A2,impressive,вражаючий,Šī pils ir ļoti ___.,iespaidīga,Цей замок дуже вражаючий.,pending
+pārpildīts,adj,A2,,переповнений,Autobuss ir ___.,pārpildīts,Автобус переповнений.,pending
+tiešs,adj,A2,direct,прямий,Mums ir ___ reiss uz Parīzi.,tiešs,У нас прямий рейс до Парижа.,pending

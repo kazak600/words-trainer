@@ -14,9 +14,9 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))  # python -I drops the script dir
 
-from review import ENRICHED, ROOT, load_stores, read_csv
+from lang import ROOT, get_lang
+from review import load_stores, read_csv
 
-LANG = "lv"
 TARGET_LANG = "uk"
 LOADABLE = ("approved", "edited")
 OUTPUT = ROOT / "data" / ".cache" / "load_words.sql"
@@ -31,7 +31,7 @@ def nullable(value):
     return quote(value) if value else "NULL"
 
 
-def build_sql(words, translations, sentences):
+def build_sql(words, translations, sentences, lang="lv"):
     word_id = "(SELECT id FROM words WHERE lang = {lang} AND lemma = {lemma} AND pos = {pos})"
     statements = []
     for w in words:
@@ -39,11 +39,11 @@ def build_sql(words, translations, sentences):
         t, s = translations.get(key), sentences.get(key)
         if not t or not s or t["review_status"] not in LOADABLE or s["review_status"] not in LOADABLE:
             continue
-        ref = word_id.format(lang=quote(LANG), lemma=quote(w["lemma"]), pos=quote(w["pos"]))
+        ref = word_id.format(lang=quote(lang), lemma=quote(w["lemma"]), pos=quote(w["pos"]))
         statements.append(
             "INSERT INTO words (lang, lemma, pos, topic_id, level, grammar_json, forms_json) VALUES "
-            f"({quote(LANG)}, {quote(w['lemma'])}, {quote(w['pos'])}, "
-            f"(SELECT id FROM topics WHERE lang = {quote(LANG)} AND slug = {quote(w['topic_slug'])}), "
+            f"({quote(lang)}, {quote(w['lemma'])}, {quote(w['pos'])}, "
+            f"(SELECT id FROM topics WHERE lang = {quote(lang)} AND slug = {quote(w['topic_slug'])}), "
             f"{quote(w['level'])}, {nullable(w['grammar_json'])}, {nullable(w['forms_json'])}) "
             "ON CONFLICT (lang, lemma, pos) DO UPDATE SET topic_id = excluded.topic_id, "
             "level = excluded.level, grammar_json = excluded.grammar_json, forms_json = excluded.forms_json;"
@@ -71,13 +71,15 @@ def build_sql(words, translations, sentences):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
+    parser.add_argument("--lang", default="lv")
     target = parser.add_mutually_exclusive_group()
     target.add_argument("--local", action="store_true")
     target.add_argument("--remote", action="store_true")
     args = parser.parse_args()
 
-    translations, sentences = load_stores()
-    sql = build_sql(read_csv(ENRICHED), translations, sentences)
+    language = get_lang(args.lang)
+    translations, sentences = load_stores(language)
+    sql = build_sql(read_csv(language.enriched_csv), translations, sentences, language.code)
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(sql, encoding="utf-8")
     loaded = sql.count("INSERT INTO words")

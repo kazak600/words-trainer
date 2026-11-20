@@ -41,7 +41,7 @@ function call(
 
 const topicId = async (slug: string) =>
   (await t.db
-    .prepare('SELECT id FROM topics WHERE slug = ?')
+    .prepare("SELECT id FROM topics WHERE lang = 'lv' AND slug = ?")
     .bind(slug)
     .first<{ id: number }>())!.id;
 
@@ -202,12 +202,9 @@ describe('POST /api/decks/:deck/words', () => {
   });
 
   it('answers 404 for a topic that does not exist or belongs to another language', async () => {
-    await t.db
-      .prepare(
-        "INSERT INTO topics (lang, slug, title, title_uk) VALUES ('en', 'x', 'X', 'Х')",
-      )
-      .run();
-    const english = await topicId('x');
+    const english = (await t.db
+      .prepare("SELECT id FROM topics WHERE lang = 'en' AND slug = 'home'")
+      .first<{ id: number }>())!.id;
 
     expect((await add({ topicId: 99_999 })).status).toBe(404);
     expect(await (await add({ topicId: english })).json()).toEqual({

@@ -1,0 +1,3 @@
+noun: shop, market, money, price, bag, shirt, dress, trousers, jacket, shoes, hat, size, colour
+adj: cheap, expensive, red, blue, green, black, white
+verb: buy, sell, pay

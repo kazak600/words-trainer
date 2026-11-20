@@ -1,7 +1,7 @@
 """Review round-trip: export words to data/csv/review_<topic>.csv, import the edited files back.
 
-    python3 -I data/pipeline/review.py export [--topic SLUG ...] [--level A2]
-    python3 -I data/pipeline/review.py import [FILE ...]
+    python3 -I data/pipeline/review.py [--lang en] export [--topic SLUG ...] [--level A2]
+    python3 -I data/pipeline/review.py [--lang en] import [FILE ...]
 
 Columns lemma, pos, level and english are context only. The user edits ukrainian, sentence,
 answer, sentence_uk and sets status to approved. Any changed cell makes the status `edited`.
@@ -15,12 +15,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))  # python -I drops the script dir
 
 from build_translations import Entry, check_entry
-
-ROOT = Path(__file__).resolve().parents[2]
-CSV_DIR = ROOT / "data" / "csv"
-ENRICHED = CSV_DIR / "words_lv_enriched.csv"
-TRANSLATIONS = CSV_DIR / "translations_uk.csv"
-SENTENCES = CSV_DIR / "sentences_lv.csv"
+from lang import ROOT, get_lang
 
 REVIEW_COLUMNS = ["lemma", "pos", "level", "english", "ukrainian", "sentence", "answer", "sentence_uk", "status"]
 STATUSES = {"pending", "approved", "edited"}
@@ -90,26 +85,26 @@ def write_csv(path, columns, rows):
         writer.writerows(rows)
 
 
-def load_stores():
-    translations = {(r["lemma"], r["pos"]): r for r in read_csv(TRANSLATIONS)}
-    sentences = {(r["lemma"], r["pos"]): r for r in read_csv(SENTENCES)}
+def load_stores(lang):
+    translations = {(r["lemma"], r["pos"]): r for r in read_csv(lang.translations_csv)}
+    sentences = {(r["lemma"], r["pos"]): r for r in read_csv(lang.sentences_csv)}
     return translations, sentences
 
 
-def run_export(topics, level):
-    words = read_csv(ENRICHED)
-    translations, sentences = load_stores()
+def run_export(lang, topics, level):
+    words = read_csv(lang.enriched_csv)
+    translations, sentences = load_stores(lang)
     for slug in topics or sorted({w["topic_slug"] for w in words}):
         rows = export_rows(words, translations, sentences, topic=slug, level=level)
         if not rows:
             continue
-        path = CSV_DIR / f"review_{slug}.csv"
+        path = lang.csv_dir / f"review_{slug}.csv"
         write_csv(path, REVIEW_COLUMNS, rows)
         print(f"wrote {len(rows)} rows to {path.relative_to(ROOT)}")
 
 
-def run_import(files):
-    translations, sentences = load_stores()
+def run_import(lang, files):
+    translations, sentences = load_stores(lang)
     all_errors = []
     for path in files:
         errors = apply_review(read_csv(path), translations, sentences)
@@ -118,8 +113,8 @@ def run_import(files):
         print("\n".join(all_errors))
         print(f"{len(all_errors)} errors, nothing imported")
         sys.exit(1)
-    write_csv(TRANSLATIONS, TRANSLATION_COLUMNS, translations.values())
-    write_csv(SENTENCES, SENTENCE_COLUMNS, sentences.values())
+    write_csv(lang.translations_csv, TRANSLATION_COLUMNS, translations.values())
+    write_csv(lang.sentences_csv, SENTENCE_COLUMNS, sentences.values())
     counts = {}
     for t in translations.values():
         counts[t["review_status"]] = counts.get(t["review_status"], 0) + 1
@@ -128,6 +123,7 @@ def run_import(files):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
+    parser.add_argument("--lang", default="lv")
     sub = parser.add_subparsers(dest="command", required=True)
     export = sub.add_parser("export")
     export.add_argument("--topic", action="append")
@@ -135,10 +131,11 @@ def main():
     imp = sub.add_parser("import")
     imp.add_argument("files", nargs="*", type=Path)
     args = parser.parse_args()
+    lang = get_lang(args.lang)
     if args.command == "export":
-        run_export(args.topic, args.level)
+        run_export(lang, args.topic, args.level)
     else:
-        run_import(args.files or sorted(CSV_DIR.glob("review_*.csv")))
+        run_import(lang, args.files or sorted(lang.csv_dir.glob("review_*.csv")))
 
 
 if __name__ == "__main__":

@@ -1,0 +1,7 @@
+interj: hello, goodbye, welcome
+adv: please
+phrase: thank you, phone number
+adj: sorry, nice
+noun: name, surname, age, country, city, address, email, nationality, language
+verb: meet, speak, live
+prep: from

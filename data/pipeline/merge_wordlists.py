@@ -4,15 +4,16 @@ A word generated in several (topic, level) cells is kept once: lowest level
 first, then textbook topics before extra ones, then the earlier cell.
 """
 
+import argparse
 import csv
+import sys
 from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[2]
-TOPIC_MAP = ROOT / "data" / "topic_map.csv"
-WORDLISTS = ROOT / "data" / "wordlists"
-OUTPUT = ROOT / "data" / "csv" / "words_lv.csv"
+sys.path.insert(0, str(Path(__file__).resolve().parent))  # python -I drops the script dir
+
+from lang import ENRICHED_COLUMNS, get_lang
 
 LEVELS = {"A1": 0, "A2": 1, "B1": 2, "B2": 3}
 POS = {
@@ -104,15 +105,25 @@ def merge(cells: list[Cell]) -> tuple[list[Row], dict[str, int]]:
 
 
 def main() -> None:
-    cells, missing = load_cells(TOPIC_MAP, WORDLISTS)
+    parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
+    parser.add_argument("--lang", default="lv")
+    lang = get_lang(parser.parse_args().lang)
+    cells, missing = load_cells(lang.topic_map, lang.wordlists)
     rows, stats = merge(cells)
 
-    OUTPUT.parent.mkdir(parents=True, exist_ok=True)
-    with OUTPUT.open("w", encoding="utf-8", newline="") as f:
+    lang.words_csv.parent.mkdir(parents=True, exist_ok=True)
+    with lang.words_csv.open("w", encoding="utf-8", newline="") as f:
         writer = csv.writer(f, lineterminator="\n")
         writer.writerow(["lemma", "pos", "topic_slug", "level"])
         writer.writerows((r.lemma, r.pos, r.topic, r.level) for r in rows)
 
+    if not lang.enriched_by_pipeline:
+        with lang.enriched_csv.open("w", encoding="utf-8", newline="") as f:
+            writer = csv.DictWriter(f, ENRICHED_COLUMNS, lineterminator="\n")
+            writer.writeheader()
+            writer.writerows(
+                {"lemma": r.lemma, "pos": r.pos, "topic_slug": r.topic, "level": r.level} for r in rows
+            )
     print(f"{stats['generated']} generated, {stats['duplicates']} duplicates dropped, {len(rows)} words kept")
     print("by level:", dict(sorted(Counter(r.level for r in rows).items())))
     by_topic = Counter(r.topic for r in rows)

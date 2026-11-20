@@ -72,7 +72,7 @@ Wiktionary data is CC BY-SA 4.0: show a short attribution line in the app footer
 
 Risk: Wiktionary's Latvian verb tables may be incomplete. Check coverage in step 3 before promising verb forms in the UI.
 
-The pipeline is written per language: a small adapter for each source language (word list, enrichment, grammar fields), with shared steps for translation, sentences, review and load. English → Ukrainian later reuses the same steps with an English adapter (kaikki English dump).
+The pipeline is written per language: a small adapter for each source language (word list, enrichment, grammar fields), with shared steps for translation, sentences, review and load. English → Ukrainian reuses the same steps with `--lang en` (`data/pipeline/lang.py` holds the per-language paths); the English adapter has no enrichment step, so its word lists are authored directly and carry no grammar data.
 
 ## 4. Data model (D1)
 
@@ -128,7 +128,7 @@ Rules for the code, so adding English later is data plus a small UI change:
 2. **Production** (Ukrainian → Latvian): the user types the word.
 3. **Cloze**: a Latvian sentence with a gap and the Ukrainian translation as a hint; the user types the form in the sentence. This trains case and verb endings.
 
-A new word starts as a recognition card. Its production card is created after the first recognition review that is not Again. Its cloze cards are created after the production card first passes. A word counts as **learned** when its production card is in review state with stability of at least 21 days. There is no multiple-choice card.
+In a topic session a new word is first taught: an intro step shows the word with its translation and grammar, then the user types it right away (a wrong answer shows the correction and is asked again). These two steps are practice only; they create no card and nothing is scheduled. After all words of the session were taught, each gets its recognition card. A new word starts as a recognition card. Its production card is created after the first recognition review that is not Again. Its cloze cards are created after the production card first passes. A word counts as **learned** when its production card is in review state with stability of at least 21 days. There is no multiple-choice card.
 
 ### Writing checker
 
@@ -144,13 +144,13 @@ A card with 5 lapses is marked a leech and suspended. The Leech Workshop lists t
 ### Session shape
 
 - **Review queue:** all due cards from every topic, oldest first.
-- **Topic session:** up to 10 new words from one topic, limited by the daily cap of **15 new words per deck per day**. Sessions per day are unlimited.
+- **Topic session:** up to 10 new words from one topic, limited by the daily cap of **10 new words per deck per day**. Sessions per day are unlimited.
 - Progress is saved after every card, so closing Safari loses nothing.
 
 ## 7. Screens
 
 1. **Login**
-2. **Home**: a Review button with the due count, the topics list with new / learning / learned counts and level chips, and "new today: n / 15". Tapping a topic starts a session. Also entries for Quick add and the Leech Workshop.
+2. **Home**: a Review button with the due count, the topics list with new / learning / learned counts and level chips, and "new today: n / 10". Tapping a topic starts a session. Also entries for Quick add and the Leech Workshop.
 3. **Session**: one card at a time, large thumb-reachable buttons, a progress bar, an exit button that saves state.
 4. **Stats**: words by state, learned count, a calendar of study days, reviews per day.
 5. **Quick add** and **Leech Workshop**.
@@ -190,7 +190,7 @@ Each phase ends with something usable.
 ## 10. Open questions
 
 1. **Review tool** for the Ukrainian translations: CSV/spreadsheet round-trip in repo, I review manually.
-2. **Daily new-word cap**: 15 new words per deck per day; sessions are unlimited (changed from "no cap" with the learning mechanics v2).
+2. **Daily new-word cap**: 10 new words per deck per day; sessions are unlimited (changed from "no cap" with the learning mechanics v2).
 3. **Diacritics**: no longer strict. A missing mark is a typo that passes but does not promote the card (changed with the learning mechanics v2).
 4. **A1 and A2 in the first dataset, A2 first**: One session is one topic, but words could be from different levels. Confirmed: a topic is a theme merging units across levels; each word keeps its own level.
 

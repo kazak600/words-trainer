@@ -98,7 +98,7 @@ describe('unreachable server', () => {
                 },
               ]
             : url.includes('/review')
-              ? { due: 0, newToday: 0, newCap: 15, cards: [] }
+              ? { due: 0, newToday: 0, newCap: 10, cards: [] }
               : [];
       return new Response(JSON.stringify(body), { status: 200 });
     });

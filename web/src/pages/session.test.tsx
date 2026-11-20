@@ -392,6 +392,82 @@ describe('production card', () => {
   });
 });
 
+describe('learning a new word', () => {
+  const intro = {
+    ...base,
+    index: 0,
+    kind: 'intro',
+    lemma: 'maize',
+    grammar: { gender: 'f', declension: 5 },
+    forms: { singular: { nominative: 'maize', genitive: 'maizes' } },
+  };
+  const practice = { ...base, index: 1, kind: 'practice' };
+
+  it('shows the word with its translation and grammar, then moves on with Got it', async () => {
+    const { bodies } = setup(intro, () => ({
+      body: reply({ next: practice }),
+    }));
+    const user = userEvent.setup();
+
+    expect(await screen.findByText('Got it')).toBeInTheDocument();
+    expect(
+      screen.getByText('maize', { selector: '.lemma' }),
+    ).toBeInTheDocument();
+    expect(screen.getByText('хліб')).toBeInTheDocument();
+    expect(screen.getByText('feminine · 5th declension')).toBeInTheDocument();
+    expect(screen.getByText('Forms')).toBeInTheDocument();
+    expect(screen.queryByRole('textbox')).toBeNull();
+    expect(screen.queryByRole('button', { name: 'Again' })).toBeNull();
+
+    await user.click(screen.getByRole('button', { name: 'Got it' }));
+
+    expect(bodies).toEqual([{ cardIndex: 0, grade: 'good' }]);
+    expect(await screen.findByRole('textbox')).toBeInTheDocument();
+    expect(screen.getByText('хліб')).toBeInTheDocument();
+  });
+
+  it('asks to type the word, and says nothing about scheduling', async () => {
+    const { bodies } = setup(practice, () => ({
+      body: reply({ expected: 'maize', next: nextCard }),
+    }));
+
+    await typeAndCheck('maize');
+
+    expect(bodies).toEqual([{ cardIndex: 1, typed: 'maize' }]);
+    expect(await screen.findByText('Correct')).toBeInTheDocument();
+    expect(screen.queryByRole('button', { name: 'Mark as easy' })).toBeNull();
+  });
+
+  it('shows the correction and offers Try again after a wrong answer', async () => {
+    setup(practice, () => ({
+      body: reply({
+        correct: false,
+        verdict: 'wrong',
+        grade: 'again',
+        expected: 'maize',
+        next: { ...practice, index: 2 },
+      }),
+    }));
+    const user = await typeAndCheck('ūdens');
+
+    expect(await screen.findByText('Not quite')).toBeInTheDocument();
+    await user.click(screen.getByRole('button', { name: 'Try again' }));
+
+    expect(await screen.findByRole('textbox')).toHaveValue('');
+  });
+
+  it('does not call a typo in practice a short interval', async () => {
+    setup(practice, () => ({
+      body: reply({ correct: true, verdict: 'typo', expected: 'maize' }),
+    }));
+
+    await typeAndCheck('maze');
+
+    expect(await screen.findByText('Pass with typo')).toBeInTheDocument();
+    expect(screen.queryByText(/short interval/i)).toBeNull();
+  });
+});
+
 describe('cloze card', () => {
   it('shows the sentence with a blank and the hint, never the answer', async () => {
     setup(cloze, () => ({ body: reply() }));
@@ -432,7 +508,7 @@ describe('session flow', () => {
   });
 
   it.each([
-    [7, { topicId: 7, tzOffset: 0 }],
+    [7, { topicId: 7, learn: true, tzOffset: 0 }],
     [null, { review: true, tzOffset: 0 }],
   ])(
     '"Another session" for topic %s repeats the same kind',
@@ -481,7 +557,7 @@ describe('session flow', () => {
     );
 
     expect(await screen.findByRole('alert')).toHaveTextContent(
-      'Daily limit reached: 15 new words today.',
+      'Daily limit of new words reached.',
     );
   });
 

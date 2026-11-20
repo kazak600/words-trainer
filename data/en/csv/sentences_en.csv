@@ -1,0 +1,301 @@
+lemma,pos,text_with_gap,answer,hint_uk,review_status
+hello,interj,"___, my name is Anna.",Hello,"Привіт, мене звати Анна.",pending
+goodbye,interj,Say ___ to your mother.,goodbye,Попрощайся з мамою.,pending
+welcome,interj,___ to our home!,Welcome,Ласкаво просимо до нашого дому!,pending
+please,adv,"Can I have some water, ___?",please,"Можна мені води, будь ласка?",pending
+thank you,phrase,___ for your help.,Thank you,Дякую за твою допомогу.,pending
+phone number,phrase,Can I have your ___?,phone number,Можна ваш номер телефону?,pending
+sorry,adj,I am ___ I am late.,sorry,"Вибач, що я спізнився.",pending
+nice,adj,It is ___ to meet you.,nice,Приємно з вами познайомитися.,pending
+name,noun,My ___ is Peter.,name,Мене звати Петро.,pending
+surname,noun,What is your ___?,surname,Яке твоє прізвище?,pending
+age,noun,Her ___ is twenty.,age,Їй двадцять років.,pending
+country,noun,Which ___ are you from?,country,З якої ти країни?,pending
+city,noun,I live in a big ___.,city,Я живу у великому місті.,pending
+address,noun,Please write your ___ here.,address,"Будь ласка, напишіть тут вашу адресу.",pending
+email,noun,I will send you an ___.,email,Я надішлю тобі електронного листа.,pending
+nationality,noun,My ___ is Ukrainian.,nationality,Моя національність українська.,pending
+language,noun,English is a useful ___.,language,Англійська — корисна мова.,pending
+meet,verb,Nice to ___ you.,meet,Приємно познайомитися.,pending
+speak,verb,Do you ___ English?,speak,Ти розмовляєш англійською?,pending
+live,verb,They ___ in London.,live,Вони живуть у Лондоні.,pending
+from,prep,I am ___ Ukraine.,from,Я з України.,pending
+family,noun,I have a big ___.,family,У мене велика родина.,pending
+mother,noun,My ___ works in a school.,mother,Моя мама працює в школі.,pending
+father,noun,His ___ is a doctor.,father,Його батько — лікар.,pending
+parent,noun,Her ___ live in Kyiv.,parents,Її батьки живуть у Києві.,pending
+brother,noun,My ___ plays football.,brother,Мій брат грає у футбол.,pending
+sister,noun,Her ___ is very kind.,sister,Її сестра дуже добра.,pending
+son,noun,They have one ___.,son,У них один син.,pending
+daughter,noun,Their ___ is five years old.,daughter,Їхній доньці п'ять років.,pending
+husband,noun,Her ___ cooks dinner.,husband,Її чоловік готує вечерю.,pending
+wife,noun,His ___ is a teacher.,wife,Його дружина — вчителька.,pending
+grandmother,noun,My ___ makes great soup.,grandmother,Моя бабуся варить чудовий суп.,pending
+grandfather,noun,My ___ reads the newspaper.,grandfather,Мій дідусь читає газету.,pending
+child,noun,The ___ is sleeping.,child,Дитина спить.,pending
+baby,noun,The ___ is crying.,baby,Немовля плаче.,pending
+boy,noun,The ___ is eating an apple.,boy,Хлопчик їсть яблуко.,pending
+girl,noun,That ___ is my cousin.,girl,Та дівчинка — моя двоюрідна сестра.,pending
+friend,noun,She is my best ___.,friend,Вона моя найкраща подруга.,pending
+neighbour,noun,Our ___ has a dog.,neighbour,У нашого сусіда є собака.,pending
+uncle,noun,My ___ lives in Poland.,uncle,Мій дядько живе в Польщі.,pending
+aunt,noun,My ___ visits us in summer.,aunt,Моя тітка приїздить до нас улітку.,pending
+cousin,noun,I play with my ___.,cousin,Я граю зі своїм двоюрідним братом.,pending
+married,adj,They are ___.,married,Вони одружені.,pending
+house,noun,We have a small ___.,house,У нас невеликий будинок.,pending
+flat,noun,Their ___ is on the third floor.,flat,Їхня квартира на третьому поверсі.,pending
+room,noun,My ___ is very quiet.,room,Моя кімната дуже тиха.,pending
+kitchen,noun,Mum is in the ___.,kitchen,Мама на кухні.,pending
+bedroom,noun,The ___ is next to the bathroom.,bedroom,Спальня поруч із ванною.,pending
+bathroom,noun,The ___ is clean.,bathroom,У ванній чисто.,pending
+door,noun,Someone is at the ___.,door,Хтось стоїть біля дверей.,pending
+window,noun,"Open the ___, it is hot.",window,"Відчини вікно, спекотно.",pending
+floor,noun,The ___ is wet.,floor,Підлога мокра.,pending
+wall,noun,There is a picture on the ___.,wall,На стіні висить картина.,pending
+table,noun,The book is on the ___.,table,Книга лежить на столі.,pending
+chair,noun,Sit on this ___.,chair,Сідай на цей стілець.,pending
+bed,noun,The cat sleeps on my ___.,bed,Кіт спить на моєму ліжку.,pending
+sofa,noun,The cat is on the ___.,sofa,Кіт на дивані.,pending
+lamp,noun,Turn on the ___.,lamp,Увімкни лампу.,pending
+key,noun,I lost my ___.,key,Я загубив свій ключ.,pending
+garden,noun,They have a beautiful ___.,garden,У них гарний сад.,pending
+fridge,noun,The milk is in the ___.,fridge,Молоко в холодильнику.,pending
+television,noun,The ___ is too loud.,television,Телевізор занадто гучний.,pending
+living room,phrase,We watch TV in the ___.,living room,Ми дивимося телевізор у вітальні.,pending
+clean,adj,The kitchen is ___.,clean,На кухні чисто.,pending
+big,adj,We live in a ___ house.,big,Ми живемо у великому будинку.,pending
+small,adj,My room is ___.,small,Моя кімната маленька.,pending
+food,noun,I like Italian ___.,food,Я люблю італійську їжу.,pending
+bread,noun,We buy ___ every day.,bread,Ми купуємо хліб щодня.,pending
+butter,noun,Put some ___ on the bread.,butter,Намаж хліб маслом.,pending
+cheese,noun,I would like some ___.,cheese,Я хотів би трохи сиру.,pending
+egg,noun,He eats an ___ for breakfast.,egg,Він їсть яйце на сніданок.,pending
+milk,noun,Do you want ___ in your tea?,milk,Ти хочеш молока в чай?,pending
+meat,noun,She does not eat ___.,meat,Вона не їсть м'яса.,pending
+fish,noun,We have ___ for dinner.,fish,У нас на вечерю риба.,pending
+rice,noun,I cook ___ with vegetables.,rice,Я готую рис з овочами.,pending
+soup,noun,The ___ is hot.,soup,Суп гарячий.,pending
+salad,noun,I made a green ___.,salad,Я приготував зелений салат.,pending
+apple,noun,An ___ a day is good for you.,apple,Яблуко на день корисне для тебе.,pending
+banana,noun,The monkey eats a ___.,banana,Мавпа їсть банан.,pending
+potato,noun,I want a baked ___.,potato,Я хочу запечену картоплину.,pending
+vegetable,noun,Eat more ___.,vegetables,Їж більше овочів.,pending
+fruit,noun,We buy fresh ___ at the market.,fruit,Ми купуємо свіжі фрукти на ринку.,pending
+water,noun,Can I have a glass of ___?,water,Можна склянку води?,pending
+tea,noun,I drink ___ in the morning.,tea,Я п'ю чай уранці.,pending
+coffee,noun,He likes strong ___.,coffee,Він любить міцну каву.,pending
+juice,noun,"A glass of orange ___, please.",juice,"Склянку апельсинового соку, будь ласка.",pending
+breakfast,noun,We have ___ at eight.,breakfast,Ми снідаємо о восьмій.,pending
+lunch,noun,___ is at one o'clock.,Lunch,Обід о першій годині.,pending
+dinner,noun,What is for ___?,dinner,Що на вечерю?,pending
+eat,verb,Let's ___ together.,eat,Давай поїмо разом.,pending
+drink,verb,I ___ a lot of water.,drink,Я п'ю багато води.,pending
+cook,verb,My father likes to ___.,cook,Мій тато любить готувати.,pending
+hungry,adj,"Let's eat, I am ___.",hungry,"Давай поїмо, я голодний.",pending
+delicious,adj,This cake is ___.,delicious,Цей торт смачний.,pending
+morning,noun,I run in the ___.,morning,Я бігаю вранці.,pending
+afternoon,noun,We have lessons in the ___.,afternoon,У нас уроки після обіду.,pending
+evening,noun,I read in the ___.,evening,Я читаю ввечері.,pending
+night,noun,The baby sleeps all ___.,night,Немовля спить усю ніч.,pending
+shower,noun,I take a ___ every morning.,shower,Я приймаю душ щоранку.,pending
+wake up,phrase,I ___ at seven.,wake up,Я прокидаюся о сьомій.,pending
+get up,phrase,He ___ early.,gets up,Він встає рано.,pending
+go to bed,phrase,We ___ late on Saturdays.,go to bed,У суботу ми лягаємо спати пізно.,pending
+wash,verb,I ___ my hands before dinner.,wash,Я мию руки перед вечерею.,pending
+brush,verb,___ your teeth twice a day.,Brush,Чисти зуби двічі на день.,pending
+dress,verb,She ___ the child quickly.,dresses,Вона швидко вдягає дитину.,pending
+work,verb,My sister ___ in a bank.,works,Моя сестра працює в банку.,pending
+start,verb,The film ___ at eight.,starts,Фільм починається о восьмій.,pending
+finish,verb,I ___ work at five.,finish,Я закінчую роботу о п'ятій.,pending
+sleep,verb,I need to ___ more.,sleep,Мені треба більше спати.,pending
+clean,verb,We ___ the flat on Sunday.,clean,Ми прибираємо квартиру в неділю.,pending
+walk,verb,I ___ to school.,walk,Я ходжу до школи пішки.,pending
+usually,adv,I ___ eat at home.,usually,Зазвичай я їм удома.,pending
+always,adv,She is ___ on time.,always,Вона завжди вчасно.,pending
+never,adv,He is ___ late.,never,Він ніколи не запізнюється.,pending
+early,adv,We get up ___.,early,Ми встаємо рано.,pending
+late,adv,Don't come home ___.,late,Не приходь додому пізно.,pending
+time,noun,What ___ is it?,time,Котра година?,pending
+hour,noun,The film is two ___ long.,hours,Фільм триває дві години.,pending
+minute,noun,"Wait a ___, please.",minute,"Зачекай хвилинку, будь ласка.",pending
+day,noun,It is a sunny ___.,day,Сьогодні сонячний день.,pending
+week,noun,I work five days a ___.,week,Я працюю п'ять днів на тиждень.,pending
+month,noun,There are twelve ___ in a year.,months,У році дванадцять місяців.,pending
+year,noun,This ___ is special.,year,Цей рік особливий.,pending
+Monday,noun,We have a test on ___.,Monday,У понеділок у нас контрольна.,pending
+Friday,noun,I am free on ___.,Friday,У п'ятницю я вільний.,pending
+Saturday,noun,We rest on ___.,Saturday,У суботу ми відпочиваємо.,pending
+Sunday,noun,Shops are closed on ___.,Sunday,У неділю магазини зачинені.,pending
+weekend,noun,What are you doing at the ___?,weekend,Що ти робиш на вихідних?,pending
+January,noun,It is cold in ___.,January,У січні холодно.,pending
+summer,noun,We travel in ___.,summer,Ми подорожуємо влітку.,pending
+winter,noun,I like ___ and snow.,winter,Я люблю зиму і сніг.,pending
+plan,noun,Do you have a ___ for tomorrow?,plan,У тебе є план на завтра?,pending
+meeting,noun,The ___ is at ten.,meeting,Нарада о десятій.,pending
+birthday,noun,Today is my ___.,birthday,Сьогодні мій день народження.,pending
+today,adv,___ is Monday.,Today,Сьогодні понеділок.,pending
+tomorrow,adv,See you ___.,tomorrow,Побачимося завтра.,pending
+yesterday,adv,I was at home ___.,yesterday,Вчора я був удома.,pending
+now,adv,I am busy ___.,now,Зараз я зайнятий.,pending
+soon,adv,Dinner will be ready ___.,soon,Вечеря скоро буде готова.,pending
+town,noun,I live in a small ___.,town,Я живу в невеликому містечку.,pending
+street,noun,The shop is on this ___.,street,Магазин на цій вулиці.,pending
+road,noun,The ___ is busy.,road,На дорозі багато машин.,pending
+bridge,noun,We cross the ___.,bridge,Ми переходимо міст.,pending
+park,noun,The children play in the ___.,park,Діти граються в парку.,pending
+square,noun,The market is on the main ___.,square,Ринок на центральній площі.,pending
+station,noun,The ___ is near the park.,station,Вокзал поруч із парком.,pending
+bus,noun,I go to work by ___.,bus,Я їжджу на роботу автобусом.,pending
+train,noun,The ___ leaves at six.,train,Потяг відправляється о шостій.,pending
+tram,noun,Take the ___ to the centre.,tram,Їдь трамваєм до центру.,pending
+car,noun,He has a new ___.,car,У нього нова машина.,pending
+bike,noun,I ride my ___ to school.,bike,Я їжджу до школи на велосипеді.,pending
+plane,noun,The ___ is late.,plane,Літак спізнюється.,pending
+ticket,noun,I need one ___ to Lviv.,ticket,Мені потрібен один квиток до Львова.,pending
+airport,noun,We are at the ___.,airport,Ми в аеропорту.,pending
+map,noun,Look at the ___.,map,Подивися на мапу.,pending
+left,adv,Turn ___ at the corner.,left,На розі поверни ліворуч.,pending
+right,adv,Turn ___ at the lights.,right,На світлофорі поверни праворуч.,pending
+straight,adv,Go ___ on.,straight,Йдіть прямо.,pending
+far,adv,Is it ___ from here?,far,Це далеко звідси?,pending
+near,prep,The hotel is ___ the station.,near,Готель поблизу вокзалу.,pending
+drive,verb,My father ___ to work.,drives,Мій тато їде на роботу машиною.,pending
+travel,verb,I like to ___ by train.,travel,Я люблю подорожувати потягом.,pending
+shop,noun,The ___ opens at nine.,shop,Магазин відчиняється о дев'ятій.,pending
+market,noun,We buy fruit at the ___.,market,Ми купуємо фрукти на ринку.,pending
+money,noun,I have no ___ with me.,money,У мене немає з собою грошей.,pending
+price,noun,The ___ is too high.,price,Ціна занадто висока.,pending
+bag,noun,"Can I have a ___, please?",bag,"Можна пакет, будь ласка?",pending
+shirt,noun,He wears a white ___.,shirt,Він носить білу сорочку.,pending
+dress,noun,She has a red ___.,dress,У неї червона сукня.,pending
+trousers,noun,These ___ are too long.,trousers,Ці штани задовгі.,pending
+jacket,noun,"Take your ___, it is cold.",jacket,"Візьми куртку, холодно.",pending
+shoes,noun,I need new ___.,shoes,Мені потрібне нове взуття.,pending
+hat,noun,She wears a warm ___.,hat,Вона носить теплу шапку.,pending
+size,noun,What ___ do you wear?,size,Який розмір ти носиш?,pending
+colour,noun,Red is my favourite ___.,colour,Червоний — мій улюблений колір.,pending
+cheap,adj,This bag is ___.,cheap,Ця сумка дешева.,pending
+expensive,adj,That coat is ___.,expensive,То пальто дороге.,pending
+red,adj,The apple is ___.,red,Яблуко червоне.,pending
+blue,adj,The sky is ___.,blue,Небо блакитне.,pending
+green,adj,The grass is ___.,green,Трава зелена.,pending
+black,adj,He has a ___ cat.,black,У нього чорний кіт.,pending
+white,adj,Snow is ___.,white,Сніг білий.,pending
+buy,verb,I want to ___ a present.,buy,Я хочу купити подарунок.,pending
+sell,verb,They ___ fresh bread.,sell,Вони продають свіжий хліб.,pending
+pay,verb,I will ___ by card.,pay,Я заплачу карткою.,pending
+body,noun,Sport is good for the ___.,body,Спорт корисний для тіла.,pending
+head,noun,I have a pain in my ___.,head,У мене болить голова.,pending
+face,noun,Wash your ___.,face,Вмий обличчя.,pending
+eye,noun,She has blue ___.,eyes,У неї сині очі.,pending
+ear,noun,My left ___ hurts.,ear,У мене болить ліве вухо.,pending
+nose,noun,He has a cold ___.,nose,У нього холодний ніс.,pending
+mouth,noun,Open your ___.,mouth,Відкрий рота.,pending
+tooth,noun,I have a bad ___.,tooth,У мене болить зуб.,pending
+hand,noun,She waved her ___.,hands,Вона помахала рукою.,pending
+arm,noun,He broke his ___.,arm,Він зламав руку.,pending
+leg,noun,My ___ hurts after running.,leg,У мене болить нога після бігу.,pending
+foot,noun,My right ___ is cold.,foot,Моя права ступня холодна.,pending
+back,noun,"Do not lift it, you will hurt your ___.",back,"Не піднімай це, ти пошкодиш спину.",pending
+doctor,noun,I must see a ___.,doctor,Мені треба до лікаря.,pending
+hospital,noun,He is in the ___.,hospital,Він у лікарні.,pending
+medicine,noun,Take this ___ twice a day.,medicine,Приймай ці ліки двічі на день.,pending
+pain,noun,I feel a sharp ___.,pain,Я відчуваю різкий біль.,pending
+cold,noun,I stayed at home with a ___.,cold,Я залишився вдома через застуду.,pending
+ill,adj,My son is ___.,ill,Мій син хворий.,pending
+healthy,adj,Fruit is ___.,healthy,Фрукти корисні для здоров'я.,pending
+tired,adj,I am very ___.,tired,Я дуже втомився.,pending
+hurt,verb,My head ___.,hurts,У мене болить голова.,pending
+weather,noun,The ___ is nice today.,weather,Сьогодні гарна погода.,pending
+sun,noun,The ___ is shining.,sun,Сонце світить.,pending
+rain,noun,I do not like the ___.,rain,Я не люблю дощ.,pending
+snow,noun,There is a lot of ___ in winter.,snow,Узимку багато снігу.,pending
+wind,noun,The ___ is strong today.,wind,Сьогодні сильний вітер.,pending
+cloud,noun,There is a big ___ in the sky.,cloud,На небі велика хмара.,pending
+sky,noun,The ___ is clear.,sky,Небо чисте.,pending
+tree,noun,The cat is in the ___.,tree,Кіт на дереві.,pending
+flower,noun,She gave me a ___.,flower,Вона подарувала мені квітку.,pending
+river,noun,We swim in the ___.,river,Ми плаваємо в річці.,pending
+sea,noun,I love the ___.,sea,Я люблю море.,pending
+mountain,noun,We climb the ___.,mountain,Ми піднімаємося на гору.,pending
+forest,noun,We pick mushrooms in the ___.,forest,Ми збираємо гриби в лісі.,pending
+beach,noun,The children play on the ___.,beach,Діти граються на пляжі.,pending
+animal,noun,A dog is a friendly ___.,animal,Собака — дружелюбна тварина.,pending
+dog,noun,My ___ likes walks.,dog,Мій собака любить прогулянки.,pending
+cat,noun,The ___ sleeps on the sofa.,cat,Кіт спить на дивані.,pending
+bird,noun,A ___ sings in the tree.,bird,Птах співає на дереві.,pending
+hot,adj,It is very ___ today.,hot,Сьогодні дуже спекотно.,pending
+cold,adj,The water is ___.,cold,Вода холодна.,pending
+sunny,adj,We need sunglasses. It is very ___.,sunny,Нам потрібні сонцезахисні окуляри. Надворі дуже сонячно.,pending
+rainy,adj,It is a ___ morning.,rainy,Сьогодні дощовий ранок.,pending
+school,noun,The children are at ___.,school,Діти в школі.,pending
+student,noun,She is a ___ at the university.,student,Вона студентка університету.,pending
+teacher,noun,Our ___ is very patient.,teacher,Наш вчитель дуже терплячий.,pending
+lesson,noun,The ___ starts at nine.,lesson,Урок починається о дев'ятій.,pending
+book,noun,I am reading a good ___.,book,Я читаю гарну книгу.,pending
+pen,noun,Can I borrow your ___?,pen,Можна позичити твою ручку?,pending
+pencil,noun,Draw it with a ___.,pencil,Намалюй це олівцем.,pending
+notebook,noun,Write it in your ___.,notebook,Запиши це у свій зошит.,pending
+computer,noun,I work on a ___.,computer,Я працюю за комп'ютером.,pending
+question,noun,I have a ___.,question,У мене є питання.,pending
+answer,noun,What is the ___?,answer,Яка відповідь?,pending
+homework,noun,She does her ___ every evening.,homework,Вона щовечора робить домашнє завдання.,pending
+exam,noun,The ___ is tomorrow.,exam,Іспит завтра.,pending
+job,noun,He has a good ___.,job,У нього гарна робота.,pending
+office,noun,She works in an ___.,office,Вона працює в офісі.,pending
+boss,noun,My ___ is very kind.,boss,Мій начальник дуже добрий.,pending
+colleague,noun,My ___ helps me.,colleague,Мій колега мені допомагає.,pending
+learn,verb,I want to ___ English.,learn,Я хочу вчити англійську.,pending
+study,verb,She ___ medicine.,studies,Вона вивчає медицину.,pending
+read,verb,Please ___ the text.,read,"Будь ласка, прочитайте текст.",pending
+write,verb,I ___ a letter.,write,Я пишу листа.,pending
+understand,verb,I do not ___ this word.,understand,Я не розумію цього слова.,pending
+be,verb,I want to ___ a doctor.,be,Я хочу бути лікарем.,pending
+have,verb,We ___ two children.,have,У нас двоє дітей.,pending
+do,verb,I always ___ the dishes after dinner.,do,Після вечері я завжди мию посуд.,pending
+go,verb,I ___ to school by bus.,go,Я їжджу до школи автобусом.,pending
+come,verb,Please ___ in.,come,"Будь ласка, заходьте.",pending
+see,verb,I can ___ the sea.,see,Я бачу море.,pending
+look,verb,___ at this picture.,Look,Подивися на цю картину.,pending
+hear,verb,I cannot ___ you.,hear,Я вас не чую.,pending
+say,verb,What did he ___?,say,Що він сказав?,pending
+tell,verb,___ me your name.,Tell,Скажи мені своє ім'я.,pending
+ask,verb,I will ___ the teacher.,ask,Я запитаю вчителя.,pending
+give,verb,"___ me the book, please.",Give,"Дай мені книгу, будь ласка.",pending
+take,verb,I ___ the bus to work.,take,Я їжджу на роботу автобусом.,pending
+make,verb,He ___ mistakes when he is tired.,makes,"Коли він утомлений, він робить помилки.",pending
+know,verb,I ___ her very well.,know,Я знаю її дуже добре.,pending
+think,verb,I ___ it is a good idea.,think,"Я думаю, що це гарна ідея.",pending
+want,verb,I ___ a cup of tea.,want,Я хочу чашку чаю.,pending
+like,verb,I ___ music.,like,Мені подобається музика.,pending
+love,verb,I ___ my family.,love,Я люблю свою родину.,pending
+need,verb,We ___ more time.,need,Нам потрібно більше часу.,pending
+help,verb,Can you ___ me?,help,Ти можеш мені допомогти?,pending
+play,verb,The boys ___ football.,play,Хлопці грають у футбол.,pending
+open,verb,"___ the window, please.",Open,"Відчини вікно, будь ласка.",pending
+close,verb,Please ___ the door.,close,"Будь ласка, зачини двері.",pending
+wait,verb,___ for me here.,Wait,Зачекай на мене тут.,pending
+find,verb,I cannot ___ my keys.,find,Я не можу знайти свої ключі.,pending
+use,verb,Can I ___ your phone?,use,Можна скористатися твоїм телефоном?,pending
+good,adj,This is a ___ book.,good,Це хороша книга.,pending
+bad,adj,The weather is ___.,bad,Погода погана.,pending
+new,adj,I have a ___ phone.,new,У мене новий телефон.,pending
+old,adj,My grandfather is ___.,old,Мій дідусь старий.,pending
+young,adj,She is a ___ teacher.,young,Вона молода вчителька.,pending
+long,adj,It is a ___ road.,long,Це довга дорога.,pending
+short,adj,The film is ___.,short,Фільм короткий.,pending
+tall,adj,My brother is very ___.,tall,Мій брат дуже високий.,pending
+happy,adj,I am ___ today.,happy,Сьогодні я щасливий.,pending
+sad,adj,He looks ___.,sad,Він виглядає сумним.,pending
+easy,adj,The test is ___.,easy,Тест легкий.,pending
+difficult,adj,This word is ___.,difficult,Це слово складне.,pending
+fast,adj,A plane is ___.,fast,Літак швидкий.,pending
+slow,adj,The bus is ___.,slow,Автобус повільний.,pending
+beautiful,adj,What a ___ day!,beautiful,Який прекрасний день!,pending
+busy,adj,She is too ___ to talk.,busy,"Вона надто зайнята, щоб говорити.",pending
+free,adj,Are you ___ tomorrow?,free,Ти вільний завтра?,pending
+ready,adj,Dinner is ___.,ready,Вечеря готова.,pending
+right,adj,Your answer is ___.,right,Твоя відповідь правильна.,pending
+wrong,adj,This is the ___ number.,wrong,Це неправильний номер.,pending
+heavy,adj,The bag is ___.,heavy,Сумка важка.,pending
+light,adj,The room is ___.,light,У кімнаті світло.,pending

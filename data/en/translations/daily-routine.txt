@@ -1,0 +1,22 @@
+morning | noun | ранок | I run in the ___. | morning | Я бігаю вранці.
+afternoon | noun | день (після полудня) | We have lessons in the ___. | afternoon | У нас уроки після обіду.
+evening | noun | вечір | I read in the ___. | evening | Я читаю ввечері.
+night | noun | ніч | The baby sleeps all ___. | night | Немовля спить усю ніч.
+wake up | phrase | прокидатися | I ___ at seven. | wake up | Я прокидаюся о сьомій.
+get up | phrase | вставати | He ___ early. | gets up | Він встає рано.
+wash | verb | мити; вмиватися | I ___ my hands before dinner. | wash | Я мию руки перед вечерею.
+brush | verb | чистити (зуби) | ___ your teeth twice a day. | Brush | Чисти зуби двічі на день.
+dress | verb | одягатися; вдягати | She ___ the child quickly. | dresses | Вона швидко вдягає дитину.
+shower | noun | душ | I take a ___ every morning. | shower | Я приймаю душ щоранку.
+work | verb | працювати | My sister ___ in a bank. | works | Моя сестра працює в банку.
+start | verb | починати; починатися | The film ___ at eight. | starts | Фільм починається о восьмій.
+finish | verb | закінчувати | I ___ work at five. | finish | Я закінчую роботу о п'ятій.
+go to bed | phrase | лягати спати | We ___ late on Saturdays. | go to bed | У суботу ми лягаємо спати пізно.
+sleep | verb | спати | I need to ___ more. | sleep | Мені треба більше спати.
+clean | verb | прибирати | We ___ the flat on Sunday. | clean | Ми прибираємо квартиру в неділю.
+walk | verb | гуляти; ходити пішки | I ___ to school. | walk | Я ходжу до школи пішки.
+usually | adv | зазвичай | I ___ eat at home. | usually | Зазвичай я їм удома.
+always | adv | завжди | She is ___ on time. | always | Вона завжди вчасно.
+never | adv | ніколи | He is ___ late. | never | Він ніколи не запізнюється.
+early | adv | рано | We get up ___. | early | Ми встаємо рано.
+late | adv | пізно | Don't come home ___. | late | Не приходь додому пізно.

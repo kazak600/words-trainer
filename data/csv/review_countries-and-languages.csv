@@ -1,0 +1,55 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+Francija,propn,A2,France,Франція,Parīze ir ___ galvaspilsēta.,Francijas,Париж — столиця Франції.,pending
+Itālija,propn,A2,Italy,Італія,Roma atrodas ___.,Itālijā,Рим розташований в Італії.,pending
+Spānija,propn,A2,Spain,Іспанія,Es gribu braukt uz ___.,Spāniju,Я хочу поїхати до Іспанії.,pending
+Zviedrija,propn,A2,Sweden,Швеція,Stokholma ir ___ galvaspilsēta.,Zviedrijas,Стокгольм — столиця Швеції.,pending
+Somija,propn,A2,Finland,Фінляндія,Helsinki atrodas ___.,Somijā,Гельсінкі розташований у Фінляндії.,pending
+Norvēģija,propn,A2,Norway,Норвегія,Oslo ir ___ galvaspilsēta.,Norvēģijas,Осло — столиця Норвегії.,pending
+Dānija,propn,A2,Denmark,Данія,Kopenhāgena atrodas ___.,Dānijā,Копенгаген розташований у Данії.,pending
+Polija,propn,A2,Poland,Польща,Varšava ir ___ galvaspilsēta.,Polijas,Варшава — столиця Польщі.,pending
+Čehija,propn,A2,"Czech Republic, Czechia",Чехія,Prāga atrodas ___.,Čehijā,Прага розташована в Чехії.,pending
+Grieķija,propn,A2,Greece,Греція,Atēnas ir ___ galvaspilsēta.,Grieķijas,Афіни — столиця Греції.,pending
+Turcija,propn,A2,Turkey,Туреччина,Vasarā mēs braucām uz ___.,Turciju,Влітку ми їздили до Туреччини.,pending
+Ķīna,propn,A2,China,Китай,___ ir ļoti liela valsts.,Ķīna,Китай — дуже велика країна.,pending
+Japāna,propn,A2,Japan,Японія,Tokija ir ___ galvaspilsēta.,Japānas,Токіо — столиця Японії.,pending
+Kanāda,propn,A2,Canada,Канада,Mans onkulis dzīvo ___.,Kanādā,Мій дядько живе в Канаді.,pending
+Āzija,propn,A2,Asia,Азія,Ķīna un Japāna atrodas ___.,Āzijā,Китай і Японія розташовані в Азії.,pending
+Āfrika,propn,A2,Africa,Африка,Lauvas dzīvo ___.,Āfrikā,Леви живуть в Африці.,pending
+Austrālija,propn,A2,Australia,Австралія,Ķengurs dzīvo ___.,Austrālijā,Кенгуру живе в Австралії.,pending
+kontinents,noun,A2,continent,континент,Eiropa ir ___.,kontinents,Європа — континент.,pending
+francūzis,noun,A2,Frenchman,француз,"Viņš ir no Francijas, viņš ir ___.",francūzis,"Він з Франції, він француз.",pending
+itālis,noun,A2,Italic; a member of the ancient Italic peoples of primitive Italy,італієць,"Viņš ir no Itālijas, viņš ir ___.",itālis,"Він з Італії, він італієць.",pending
+spānis,noun,A2,Spaniard,іспанець,"Viņš ir no Spānijas, viņš ir ___.",spānis,"Він з Іспанії, він іспанець.",pending
+zviedrs,noun,A2,a,швед,"Viņš ir no Zviedrijas, viņš ir ___.",zviedrs,"Він зі Швеції, він швед.",pending
+soms,noun,A2,"a Finn, a Finnish man",фін,"Viņš ir no Somijas, viņš ir ___.",soms,"Він з Фінляндії, він фін.",pending
+polis,noun,A2,"a Pole, a Polish man, a man born in Poland",поляк,"Viņš ir no Polijas, viņš ir ___.",polis,"Він з Польщі, він поляк.",pending
+poliete,noun,A2,"a Polish woman, a woman from Poland",полька,"Viņa ir no Polijas, viņa ir ___.",poliete,"Вона з Польщі, вона полька.",pending
+ķīnietis,noun,A2,"a Chinese man, a man from China or of Chinese descent",китаєць,"Viņš ir no Ķīnas, viņš ir ___.",ķīnietis,"Він з Китаю, він китаєць.",pending
+japānis,noun,A2,"a Japanese man, a man born in Japan or of Japanese descent",японець,"Viņš ir no Japānas, viņš ir ___.",japānis,"Він з Японії, він японець.",pending
+turks,noun,A2,"a Turk, a Turkish man, a man from Turkey or of Turkish descent",турок,"Viņš ir no Turcijas, viņš ir ___.",turks,"Він з Туреччини, він турок.",pending
+lietuvietis,noun,A2,a,литовець,"Viņš ir no Lietuvas, viņš ir ___.",lietuvietis,"Він з Литви, він литовець.",pending
+lietuviete,noun,A2,a,литовка,"Viņa ir no Lietuvas, viņa ir ___.",lietuviete,"Вона з Литви, вона литовка.",pending
+igaunis,noun,A2,"an Estonian man, a man born in Estonia",естонець,"Viņš ir no Igaunijas, viņš ir ___.",igaunis,"Він з Естонії, він естонець.",pending
+igauniete,noun,A2,a,естонка,"Viņa ir no Igaunijas, viņa ir ___.",igauniete,"Вона з Естонії, вона естонка.",pending
+imigrants,noun,A2,,імігрант,Šis ___ dzīvo Latvijā jau trīs gadus.,imigrants,Цей імігрант живе в Латвії вже три роки.,pending
+emigrants,noun,A2,,емігрант,Mans onkulis ir ___ Kanādā.,emigrants,Мій дядько — емігрант у Канаді.,pending
+ārzemju viesis,noun,A2,,іноземний гість,Pie mums ir ___.,ārzemju viesis,У нас іноземний гість.,pending
+franču valoda,phrase,A2,French language,французька мова,Mana māsa mācās ___.,franču valodu,Моя сестра вчить французьку мову.,pending
+spāņu valoda,phrase,A2,Spanish language,іспанська мова,Viņš runā ___.,spāņu valodā,Він розмовляє іспанською мовою.,pending
+itāļu valoda,phrase,A2,Italian,італійська мова,Es gribu iemācīties ___.,itāļu valodu,Я хочу вивчити італійську мову.,pending
+poļu valoda,phrase,A2,Polish language,польська мова,Viņa zina arī ___.,poļu valodu,Вона знає також польську мову.,pending
+ķīniešu valoda,phrase,A2,Chinese language,китайська мова,___ ir ļoti sarežģīta.,Ķīniešu valoda,Китайська мова дуже складна.,pending
+dzimtā valoda,phrase,A2,"native language, mother tongue, mother language",рідна мова,Kāda ir jūsu ___?,dzimtā valoda,Яка ваша рідна мова?,pending
+tulkot,verb,A2,to translate,перекладати,Viņš var ___ no latviešu valodas.,tulkot,Він може перекладати з латиської мови.,pending
+dzimt,verb,A2,to be born,народжуватися,Es ___ Ukrainā.,dzimu,Я народився в Україні.,pending
+izcelties,verb,A2,,походити; вирізнятися,Mana ģimene ___ no Latvijas.,izceļas,Моя родина походить з Латвії.,pending
+emigrēt,verb,A2,,емігрувати,Daudzi cilvēki grib ___ uz ārzemēm.,emigrēt,Багато людей хочуть емігрувати за кордон.,pending
+franciski,adv,A2,"French, in French; adverbial form of francisks",французькою,Parīzē runā ___.,franciski,У Парижі розмовляють французькою.,pending
+spāniski,adv,A2,"Spanish, in Spanish; adverbial form of spānisks",іспанською,Madridē runā ___.,spāniski,У Мадриді розмовляють іспанською.,pending
+itāliski,adv,A2,"Italian, in Italian; adverbial form of itālisks",італійською,Romā runā ___.,itāliski,У Римі розмовляють італійською.,pending
+poliski,adv,A2,"Polish, in Polish; adverbial form of polisks",польською,Varšavā runā ___.,poliski,У Варшаві розмовляють польською.,pending
+ārzemju,adj,A2,,іноземний; закордонний,Viņam ir daudz ___ draugu.,ārzemju,У нього багато іноземних друзів.,pending
+vietējais,adj,A2,,місцевий,Viņš ir ___ iedzīvotājs.,vietējais,Він місцевий мешканець.,pending
+starptautisks,adj,A2,international,міжнародний,Tas ir ___ konkurss.,starptautisks,Це міжнародний конкурс.,pending
+daudzvalodu,adj,A2,,багатомовний,Rīga ir ___ pilsēta.,daudzvalodu,Рига — багатомовне місто.,pending
+dzimtais,adj,A2,,рідний,Rīga ir mana ___ pilsēta.,dzimtā,Рига — моє рідне місто.,pending

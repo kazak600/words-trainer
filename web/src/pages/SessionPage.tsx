@@ -15,6 +15,7 @@ import {
 } from '../api/study';
 import { useDeck } from '../decks/DeckContext';
 import { Feedback } from '../session/Feedback';
+import { IntroCard } from '../session/IntroCard';
 import { RecognitionCard } from '../session/RecognitionCard';
 import { TypedCard } from '../session/TypedCard';
 import { describeStartError } from './startSession';
@@ -166,7 +167,15 @@ export function SessionPage() {
         />
       </header>
 
-      {card.kind === 'recognition' ? (
+      {card.kind === 'intro' ? (
+        <IntroCard
+          key={card.index}
+          card={card}
+          lang={deck.sourceLang}
+          busy={busy}
+          onContinue={() => grade('good')}
+        />
+      ) : card.kind === 'recognition' ? (
         <RecognitionCard
           key={card.index}
           card={card}
@@ -179,6 +188,7 @@ export function SessionPage() {
           key={card.index}
           card={card}
           language={languageName(deck.sourceLang)}
+          lang={deck.sourceLang}
           locked={checked !== null}
           busy={busy}
           onSubmit={type}
@@ -193,6 +203,7 @@ export function SessionPage() {
       {checked && (
         <Feedback
           lang={deck.sourceLang}
+          practice={card.kind === 'practice'}
           reply={checked.reply}
           typed={checked.typed}
           onRaise={raise}

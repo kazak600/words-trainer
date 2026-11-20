@@ -44,14 +44,20 @@ describe('database schema', () => {
     expect(row).toBeUndefined();
   });
 
-  it('seeds the lv-uk deck', () => {
-    const deck = db.prepare('SELECT * FROM decks').all();
+  it('seeds the lv-uk and en-uk decks', () => {
+    const decks = db.prepare('SELECT * FROM decks ORDER BY id').all();
 
-    expect(deck).toEqual([
+    expect(decks).toEqual([
       expect.objectContaining({
         slug: 'lv-uk',
         source_lang: 'lv',
         target_lang: 'uk',
+      }),
+      expect.objectContaining({
+        slug: 'en-uk',
+        source_lang: 'en',
+        target_lang: 'uk',
+        title: 'English → Ukrainian',
       }),
     ]);
   });
@@ -62,7 +68,7 @@ describe('database schema', () => {
       mapRows.map((r) => [r.topic_slug!, [r.title_lv, r.title_uk]]),
     );
     const topics = db
-      .prepare('SELECT slug, title, title_uk FROM topics')
+      .prepare("SELECT slug, title, title_uk FROM topics WHERE lang = 'lv'")
       .all() as { slug: string; title: string; title_uk: string }[];
 
     expect(expected.size).toBe(25);
@@ -73,6 +79,24 @@ describe('database schema', () => {
     for (const row of mapRows) {
       expect(topics.map((t) => t.slug)).toContain(row.topic_slug);
     }
+  });
+
+  it('seeds the English topics from the English topic map', () => {
+    const mapRows = parseCsv(
+      join(import.meta.dirname, '../../data/en/topic_map.csv'),
+    );
+    const slugs = [...new Set(mapRows.map((r) => r.topic_slug!))];
+    const topics = db
+      .prepare(
+        "SELECT slug, title, title_uk FROM topics WHERE lang = 'en' ORDER BY id",
+      )
+      .all() as { slug: string; title: string; title_uk: string }[];
+
+    expect(topics.map((t) => t.slug)).toEqual(slugs);
+    expect(topics[0]).toMatchObject({
+      title: mapRows[0]!.title_en,
+      title_uk: mapRows[0]!.title_uk,
+    });
   });
 
   describe('constraints', () => {

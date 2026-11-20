@@ -1,0 +1,2 @@
+noun: time, hour, minute, day, week, month, year, Monday, Friday, Saturday, Sunday, weekend, January, summer, winter, plan, meeting, birthday
+adv: today, tomorrow, yesterday, now, soon

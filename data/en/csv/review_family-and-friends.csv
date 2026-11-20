@@ -1,0 +1,23 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+family,noun,A1,,родина,I have a big ___.,family,У мене велика родина.,pending
+mother,noun,A1,,мати,My ___ works in a school.,mother,Моя мама працює в школі.,pending
+father,noun,A1,,батько,His ___ is a doctor.,father,Його батько — лікар.,pending
+parent,noun,A1,,один із батьків,Her ___ live in Kyiv.,parents,Її батьки живуть у Києві.,pending
+brother,noun,A1,,брат,My ___ plays football.,brother,Мій брат грає у футбол.,pending
+sister,noun,A1,,сестра,Her ___ is very kind.,sister,Її сестра дуже добра.,pending
+son,noun,A1,,син,They have one ___.,son,У них один син.,pending
+daughter,noun,A1,,донька,Their ___ is five years old.,daughter,Їхній доньці п'ять років.,pending
+husband,noun,A1,,чоловік,Her ___ cooks dinner.,husband,Її чоловік готує вечерю.,pending
+wife,noun,A1,,дружина,His ___ is a teacher.,wife,Його дружина — вчителька.,pending
+grandmother,noun,A1,,бабуся,My ___ makes great soup.,grandmother,Моя бабуся варить чудовий суп.,pending
+grandfather,noun,A1,,дідусь,My ___ reads the newspaper.,grandfather,Мій дідусь читає газету.,pending
+child,noun,A1,,дитина,The ___ is sleeping.,child,Дитина спить.,pending
+baby,noun,A1,,немовля,The ___ is crying.,baby,Немовля плаче.,pending
+boy,noun,A1,,хлопчик,The ___ is eating an apple.,boy,Хлопчик їсть яблуко.,pending
+girl,noun,A1,,дівчинка,That ___ is my cousin.,girl,Та дівчинка — моя двоюрідна сестра.,pending
+friend,noun,A1,,друг; подруга,She is my best ___.,friend,Вона моя найкраща подруга.,pending
+neighbour,noun,A1,,сусід,Our ___ has a dog.,neighbour,У нашого сусіда є собака.,pending
+uncle,noun,A1,,дядько,My ___ lives in Poland.,uncle,Мій дядько живе в Польщі.,pending
+aunt,noun,A1,,тітка,My ___ visits us in summer.,aunt,Моя тітка приїздить до нас улітку.,pending
+cousin,noun,A1,,двоюрідний брат; двоюрідна сестра,I play with my ___.,cousin,Я граю зі своїм двоюрідним братом.,pending
+married,adj,A1,,одружений; заміжня,They are ___.,married,Вони одружені.,pending

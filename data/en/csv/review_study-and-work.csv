@@ -1,0 +1,23 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+school,noun,A1,,школа,The children are at ___.,school,Діти в школі.,pending
+student,noun,A1,,студент; учень,She is a ___ at the university.,student,Вона студентка університету.,pending
+teacher,noun,A1,,вчитель,Our ___ is very patient.,teacher,Наш вчитель дуже терплячий.,pending
+lesson,noun,A1,,урок,The ___ starts at nine.,lesson,Урок починається о дев'ятій.,pending
+book,noun,A1,,книга,I am reading a good ___.,book,Я читаю гарну книгу.,pending
+pen,noun,A1,,ручка,Can I borrow your ___?,pen,Можна позичити твою ручку?,pending
+pencil,noun,A1,,олівець,Draw it with a ___.,pencil,Намалюй це олівцем.,pending
+notebook,noun,A1,,зошит,Write it in your ___.,notebook,Запиши це у свій зошит.,pending
+computer,noun,A1,,комп'ютер,I work on a ___.,computer,Я працюю за комп'ютером.,pending
+question,noun,A1,,питання,I have a ___.,question,У мене є питання.,pending
+answer,noun,A1,,відповідь,What is the ___?,answer,Яка відповідь?,pending
+homework,noun,A1,,домашнє завдання,She does her ___ every evening.,homework,Вона щовечора робить домашнє завдання.,pending
+exam,noun,A1,,іспит,The ___ is tomorrow.,exam,Іспит завтра.,pending
+job,noun,A1,,робота; посада,He has a good ___.,job,У нього гарна робота.,pending
+office,noun,A1,,офіс,She works in an ___.,office,Вона працює в офісі.,pending
+boss,noun,A1,,начальник,My ___ is very kind.,boss,Мій начальник дуже добрий.,pending
+colleague,noun,A1,,колега,My ___ helps me.,colleague,Мій колега мені допомагає.,pending
+learn,verb,A1,,вчити; навчатися,I want to ___ English.,learn,Я хочу вчити англійську.,pending
+study,verb,A1,,вчитися,She ___ medicine.,studies,Вона вивчає медицину.,pending
+read,verb,A1,,читати,Please ___ the text.,read,"Будь ласка, прочитайте текст.",pending
+write,verb,A1,,писати,I ___ a letter.,write,Я пишу листа.,pending
+understand,verb,A1,,розуміти,I do not ___ this word.,understand,Я не розумію цього слова.,pending

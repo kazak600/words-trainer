@@ -1,0 +1,4 @@
+noun: town, street, road, bridge, park, square, station, bus, train, tram, car, bike, plane, ticket, airport, map
+adv: left, right, straight, far
+prep: near
+verb: drive, travel

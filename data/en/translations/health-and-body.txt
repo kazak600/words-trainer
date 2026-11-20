@@ -1,0 +1,22 @@
+body | noun | тіло | Sport is good for the ___. | body | Спорт корисний для тіла.
+head | noun | голова | I have a pain in my ___. | head | У мене болить голова.
+face | noun | обличчя | Wash your ___. | face | Вмий обличчя.
+eye | noun | око | She has blue ___. | eyes | У неї сині очі.
+ear | noun | вухо | My left ___ hurts. | ear | У мене болить ліве вухо.
+nose | noun | ніс | He has a cold ___. | nose | У нього холодний ніс.
+mouth | noun | рот | Open your ___. | mouth | Відкрий рота.
+tooth | noun | зуб | I have a bad ___. | tooth | У мене болить зуб.
+hand | noun | рука (кисть) | She waved her ___. | hands | Вона помахала рукою.
+arm | noun | рука (від плеча) | He broke his ___. | arm | Він зламав руку.
+leg | noun | нога | My ___ hurts after running. | leg | У мене болить нога після бігу.
+foot | noun | ступня | My right ___ is cold. | foot | Моя права ступня холодна.
+back | noun | спина | Do not lift it, you will hurt your ___. | back | Не піднімай це, ти пошкодиш спину.
+doctor | noun | лікар | I must see a ___. | doctor | Мені треба до лікаря.
+hospital | noun | лікарня | He is in the ___. | hospital | Він у лікарні.
+medicine | noun | ліки | Take this ___ twice a day. | medicine | Приймай ці ліки двічі на день.
+pain | noun | біль | I feel a sharp ___. | pain | Я відчуваю різкий біль.
+ill | adj | хворий | My son is ___. | ill | Мій син хворий.
+healthy | adj | здоровий | Fruit is ___. | healthy | Фрукти корисні для здоров'я.
+tired | adj | втомлений | I am very ___. | tired | Я дуже втомився.
+hurt | verb | боліти | My head ___. | hurts | У мене болить голова.
+cold | noun | застуда | I stayed at home with a ___. | cold | Я залишився вдома через застуду.

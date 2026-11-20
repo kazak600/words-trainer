@@ -116,7 +116,7 @@ class LoadWordsTest(unittest.TestCase):
         db = new_db()
         db.executescript(build_sql(WORDS, *stores({"māja": "pending", "ēst": "pending", "istaba": "pending"})))
         db.execute("INSERT INTO words (lang, lemma, pos, topic_id, level, source) "
-                   "VALUES ('lv', 'māja', 'noun', (SELECT id FROM topics WHERE slug = 'home'), 'A2', 'manual')")
+                   "VALUES ('lv', 'māja', 'noun', (SELECT id FROM topics WHERE lang = 'lv' AND slug = 'home'), 'A2', 'manual')")
         word_id = db.execute("SELECT id FROM words WHERE lemma = 'māja'").fetchone()[0]
         db.execute("INSERT INTO sentences (word_id, text_with_gap, answer, hint_target_lang, hint, "
                    "review_status, source) VALUES (?, 'Mana ___', 'māja', 'uk', 'моя', 'approved', 'manual')",

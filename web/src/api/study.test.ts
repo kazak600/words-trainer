@@ -42,12 +42,12 @@ describe('study api', () => {
     ]);
   });
 
-  it('starts a topic session with the topic and the timezone offset', async () => {
+  it('starts a topic session that teaches new words first, with the timezone offset', async () => {
     const { bodies } = recorded('POST /api/decks/lv-uk/sessions');
 
     await startTopicSession('lv-uk', 7);
 
-    expect(bodies).toEqual([{ topicId: 7, tzOffset: 0 }]);
+    expect(bodies).toEqual([{ topicId: 7, learn: true, tzOffset: 0 }]);
   });
 
   it('starts a review session', async () => {

@@ -1,0 +1,40 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+profesija,noun,A2,profession,професія,Kāda ir jūsu ___?,profesija,Яка ваша професія?,pending
+skolotāja,noun,A2,teacher,вчителька,Mana mamma ir ___.,skolotāja,Моя мама — вчителька.,pending
+farmaceits,noun,A2,,фармацевт,___ aptiekā pārdod zāles.,Farmaceits,Фармацевт в аптеці продає ліки.,pending
+advokāts,noun,A2,lawyer,адвокат,Viņš ir labs ___.,advokāts,Він хороший адвокат.,pending
+tiesnesis,noun,A2,judge,суддя,___ pieņem lēmumu.,Tiesnesis,Суддя ухвалює рішення.,pending
+policists,noun,A2,"police officer, policeman",поліцейський,___ pārbauda dokumentus.,Policists,Поліцейський перевіряє документи.,pending
+ugunsdzēsējs,noun,A2,"firefighter, fireman",пожежник,___ dzēš uguni.,Ugunsdzēsējs,Пожежник гасить вогонь.,pending
+kareivis,noun,A2,"soldier, private",солдат,___ dien armijā.,Kareivis,Солдат служить в армії.,pending
+kasieris,noun,A2,,касир,___ veikalā pieņem naudu.,Kasieris,Касир у магазині приймає гроші.,pending
+frizieris,noun,A2,"hairdresser, barber",перукар,___ griež matus.,Frizieris,Перукар стриже волосся.,pending
+pilots,noun,A2,pilot,пілот,___ vada lidmašīnu.,Pilots,Пілот керує літаком.,pending
+stjuarte,noun,A2,,бортпровідниця,___ lidmašīnā nes ēdienu.,Stjuarte,Бортпровідниця в літаку несе їжу.,pending
+pavārs,noun,A2,cook,кухар,___ gatavo ēdienu restorānā.,Pavārs,Кухар готує їжу в ресторані.,pending
+bārmenis,noun,A2,,бармен,___ pagatavo dzērienu.,Bārmenis,Бармен готує напій.,pending
+celtnieks,noun,A2,,будівельник,___ būvē māju.,Celtnieks,Будівельник будує будинок.,pending
+elektriķis,noun,A2,,електрик,___ salaboja lampu.,Elektriķis,Електрик полагодив лампу.,pending
+santehniķis,noun,A2,plumber,сантехнік,___ salaboja krānu.,Santehniķis,Сантехнік полагодив кран.,pending
+mehāniķis,noun,A2,"mechanic, operator, machinist",механік,___ labo automašīnu.,Mehāniķis,Механік ремонтує автомобіль.,pending
+inženieris,noun,A2,,інженер,Mans tēvs ir ___.,inženieris,Мій батько — інженер.,pending
+programmētājs,noun,A2,programmer,програміст,___ raksta programmas.,Programmētājs,Програміст пише програми.,pending
+grāmatvedis,noun,A2,accountant,бухгалтер,___ strādā ar skaitļiem.,Grāmatvedis,Бухгалтер працює з числами.,pending
+sekretāre,noun,A2,,секретарка,___ atbild uz zvaniem.,Sekretāre,Секретарка відповідає на дзвінки.,pending
+direktors,noun,A2,director,директор,Mūsu ___ ir ļoti stingrs.,direktors,Наш директор дуже суворий.,pending
+menedžeris,noun,A2,,менеджер,___ vada komandu.,Menedžeris,Менеджер керує командою.,pending
+žurnālists,noun,A2,journalist,журналіст,___ raksta rakstus.,Žurnālists,Журналіст пише статті.,pending
+aktieris,noun,A2,actor,актор,___ spēlē teātrī.,Aktieris,Актор грає в театрі.,pending
+mākslinieks,noun,A2,artist,художник,___ glezno gleznas.,Mākslinieks,Художник малює картини.,pending
+mūziķis,noun,A2,musician,музикант,___ spēlē ģitāru.,Mūziķis,Музикант грає на гітарі.,pending
+rakstnieks,noun,A2,writer,письменник,___ raksta grāmatas.,Rakstnieks,Письменник пише книжки.,pending
+zinātnieks,noun,A2,"scientist, scholar",науковець,___ pēta dabu.,Zinātnieks,Науковець досліджує природу.,pending
+lauksaimnieks,noun,A2,,землероб,___ audzē kviešus.,Lauksaimnieks,Землероб вирощує пшеницю.,pending
+zvejnieks,noun,A2,fisherman,рибалка,___ zvejo jūrā.,Zvejnieks,Рибалка ловить рибу в морі.,pending
+bibliotekārs,noun,A2,librarian,бібліотекар,___ strādā bibliotēkā.,Bibliotekārs,Бібліотекар працює в бібліотеці.,pending
+tulks,noun,A2,"translator, interpreter",перекладач,___ tulko no angļu valodas.,Tulks,Перекладач перекладає з англійської мови.,pending
+arhitekts,noun,A2,architect,архітектор,___ zīmē mājas.,Arhitekts,Архітектор проєктує будинки.,pending
+dizainers,noun,A2,designer,дизайнер,___ izdomā jaunu apģērbu.,Dizainers,Дизайнер вигадує новий одяг.,pending
+darba devējs,phrase,A2,,роботодавець,___ maksā algu.,Darba devējs,Роботодавець платить зарплату.,pending
+nodarboties,verb,A2,,займатися,Ar ko jūs ___?,nodarbojaties,Чим ви займаєтеся?,pending
+būvēt,verb,A2,"to build, to construct",будувати,Viņi ___ jaunu māju.,būvē,Вони будують новий будинок.,pending

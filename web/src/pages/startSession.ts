@@ -5,7 +5,7 @@ import { ApiError } from '../api/client';
 export function describeStartError(error: unknown): string {
   if (error instanceof ApiError && error.status === 409) {
     return error.code === 'daily_cap_reached'
-      ? 'Daily limit reached: 15 new words today.'
+      ? 'Daily limit of new words reached.'
       : 'Nothing to study right now.';
   }
   return 'Could not start the session. Try again.';

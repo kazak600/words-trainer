@@ -56,7 +56,7 @@ describe('GET /api/decks/:deck/review', () => {
     expect(await res.json()).toEqual({
       due: 2,
       newToday: 0,
-      newCap: 15,
+      newCap: 10,
       leeches: 0,
       cards: [
         { cardId: cardB, wordId: b, kind: 'production' },

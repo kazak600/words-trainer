@@ -1,0 +1,37 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+lielisks,adj,A2,"great, wonderful",чудовий,Tas ir ___ piedāvājums.,lielisks,Це чудова пропозиція.,pending
+laimīgs,adj,A2,happy,щасливий,Es esmu ļoti ___.,laimīgs,Я дуже щасливий.,pending
+vienīgs,adj,A2,"only, unique",єдиний,Tā ir mana ___ iespēja.,vienīgā,Це мій єдиний шанс.,pending
+iespējams,adj,A2,possible,можливий,Tas ir ___.,iespējams,Це можливо.,pending
+galvenais,adj,A2,"main, chief, primary, key",головний,Tā ir ___ iela.,galvenā,Це головна вулиця.,pending
+pārējais,adj,A2,,решта; інший,___ laiku es strādāju.,Pārējo,Решту часу я працюю.,pending
+traks,adj,A2,"mad, rabid",божевільний,Tā ir ___ ideja.,trakā,Це божевільна ідея.,pending
+pilnīgs,adj,A2,"complete, total, full, perfect, absolute",повний; цілковитий,Tā ir ___ patiesība.,pilnīga,Це цілковита правда.,pending
+patiess,adj,A2,"true, sincere, authentic",правдивий; щирий,Viņš ir ļoti ___ cilvēks.,patiess,Він дуже щира людина.,pending
+noteikts,adj,A2,definite,певний; визначений,Mums ir ___ laiks.,noteikts,У нас є визначений час.,pending
+svešs,adj,A2,"unknown, foreign",чужий,Šis cilvēks man ir ___.,svešs,Ця людина мені чужа.,pending
+spēcīgs,adj,A2,strong,сильний,Viņam ir ___ rokas.,spēcīgas,У нього сильні руки.,pending
+bagāts,adj,A2,"rich, wealthy",багатий,Šis cilvēks ir ļoti ___.,bagāts,Ця людина дуже багата.,pending
+nabadzīgs,adj,A2,poor,бідний,Viņa ģimene bija ___.,nabadzīga,Її родина була бідною.,pending
+vispārējs,adj,A2,,загальний,Tas ir ___ noteikums.,vispārējs,Це загальне правило.,pending
+tipisks,adj,A2,typical,типовий,Tas ir ___ latviešu ēdiens.,tipisks,Це типова латиська страва.,pending
+parasts,adj,A2,"normal, ordinary, plain",звичайний,Šodien ir ___ diena.,parasta,Сьогодні звичайний день.,pending
+neparasts,adj,A2,"rare, uncommon, unusual",незвичайний,Tas ir ___ gadījums.,neparasts,Це незвичайний випадок.,pending
+dīvains,adj,A2,"strange, odd, unusual, surprising",дивний,Šī ir ___ vieta.,dīvaina,Це дивне місце.,pending
+vienkāršs,adj,A2,common,простий,Receptes ir ļoti ___.,vienkāršas,Рецепти дуже прості.,pending
+sarežģīts,adj,A2,complex,складний,Šis jautājums ir ļoti ___.,sarežģīts,Це питання дуже складне.,pending
+atbildīgs,adj,A2,,відповідальний,Viņš ir ļoti ___ cilvēks.,atbildīgs,Він дуже відповідальна людина.,pending
+noslēgts,adj,A2,,замкнений; закритий,Šīs durvis ir ___.,noslēgtas,Ці двері зачинені.,pending
+zems,adj,A2,"low, short",низький,Šī māja ir ļoti ___.,zema,Цей будинок дуже низький.,pending
+augsts,adj,A2,"high, tall",високий,Šis koks ir ļoti ___.,augsts,Це дерево дуже високе.,pending
+dziļš,adj,A2,deep,глибокий,Šis ezers ir ļoti ___.,dziļš,Це озеро дуже глибоке.,pending
+sekls,adj,A2,shallow,мілкий,Upe šeit ir ___.,sekla,Тут річка мілка.,pending
+ciets,adj,A2,solid,твердий,Akmens ir ___.,ciets,Камінь твердий.,pending
+mīksts,adj,A2,soft,м'який,Šis dīvāns ir ļoti ___.,mīksts,Цей диван дуже м'який.,pending
+smags,adj,A2,heavy,важкий,Mana soma ir ļoti ___.,smaga,Моя сумка дуже важка.,pending
+lieliski,adv,A2,"great, wonderful, excellent, wonderfully, excellently; adverbial form of lielisks",чудово,Viss ir ___!,lieliski,Усе чудово!,pending
+noteikti,adv,A2,definitely,напевно; обов'язково,Es ___ atnākšu.,noteikti,Я обов'язково прийду.,pending
+smieklīgi,adv,A2,"funny, amusing, ridiculous, funnily, amusingly, ridiculously; adverbial form of smieklīgs",смішно,Man ir ___.,smieklīgi,Мені смішно.,pending
+forši,adv,A2,"cool, great, in a cool, great way; adverbial form of foršs",круто,Tas ir ___!,forši,Це круто!,pending
+citādi,adv,A2,,інакше,Es to daru ___.,citādi,Я роблю це інакше.,pending
+tāli,adv,A2,,далеко,Viņš dzīvo ļoti ___.,tāli,Він живе дуже далеко.,pending

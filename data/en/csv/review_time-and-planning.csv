@@ -1,0 +1,24 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+time,noun,A1,,час,What ___ is it?,time,Котра година?,pending
+hour,noun,A1,,година,The film is two ___ long.,hours,Фільм триває дві години.,pending
+minute,noun,A1,,хвилина,"Wait a ___, please.",minute,"Зачекай хвилинку, будь ласка.",pending
+day,noun,A1,,день,It is a sunny ___.,day,Сьогодні сонячний день.,pending
+week,noun,A1,,тиждень,I work five days a ___.,week,Я працюю п'ять днів на тиждень.,pending
+month,noun,A1,,місяць,There are twelve ___ in a year.,months,У році дванадцять місяців.,pending
+year,noun,A1,,рік,This ___ is special.,year,Цей рік особливий.,pending
+Monday,noun,A1,,понеділок,We have a test on ___.,Monday,У понеділок у нас контрольна.,pending
+Friday,noun,A1,,п'ятниця,I am free on ___.,Friday,У п'ятницю я вільний.,pending
+Saturday,noun,A1,,субота,We rest on ___.,Saturday,У суботу ми відпочиваємо.,pending
+Sunday,noun,A1,,неділя,Shops are closed on ___.,Sunday,У неділю магазини зачинені.,pending
+weekend,noun,A1,,вихідні,What are you doing at the ___?,weekend,Що ти робиш на вихідних?,pending
+January,noun,A1,,січень,It is cold in ___.,January,У січні холодно.,pending
+summer,noun,A1,,літо,We travel in ___.,summer,Ми подорожуємо влітку.,pending
+winter,noun,A1,,зима,I like ___ and snow.,winter,Я люблю зиму і сніг.,pending
+plan,noun,A1,,план,Do you have a ___ for tomorrow?,plan,У тебе є план на завтра?,pending
+meeting,noun,A1,,зустріч; нарада,The ___ is at ten.,meeting,Нарада о десятій.,pending
+birthday,noun,A1,,день народження,Today is my ___.,birthday,Сьогодні мій день народження.,pending
+today,adv,A1,,сьогодні,___ is Monday.,Today,Сьогодні понеділок.,pending
+tomorrow,adv,A1,,завтра,See you ___.,tomorrow,Побачимося завтра.,pending
+yesterday,adv,A1,,вчора,I was at home ___.,yesterday,Вчора я був удома.,pending
+now,adv,A1,,зараз,I am busy ___.,now,Зараз я зайнятий.,pending
+soon,adv,A1,,скоро,Dinner will be ready ___.,soon,Вечеря скоро буде готова.,pending

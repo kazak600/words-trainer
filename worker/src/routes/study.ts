@@ -53,7 +53,7 @@ studyRoutes.post('/decks/:deck/sessions', async (c) => {
   const tzOffset = parseTzOffset(body?.tzOffset);
   if (tzOffset === null) return c.json({ error: 'invalid tzOffset' }, 400);
   const target = Number.isInteger(body?.topicId)
-    ? { topicId: body.topicId as number }
+    ? { topicId: body.topicId as number, learn: body?.learn === true }
     : body?.review === true
       ? { review: true as const }
       : null;

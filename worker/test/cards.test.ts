@@ -213,7 +213,7 @@ describe('due cards', () => {
     const rows = await findDueCards(t.db, {
       ...scope(),
       topicId: (await t.db
-        .prepare("SELECT id FROM topics WHERE slug = 'home'")
+        .prepare("SELECT id FROM topics WHERE lang = 'lv' AND slug = 'home'")
         .first<{ id: number }>())!.id,
     });
 
@@ -247,7 +247,9 @@ describe('new words', () => {
     });
     await seedCard(t.db, { userId, wordId });
     const topicId = (await t.db
-      .prepare("SELECT id FROM topics WHERE slug = 'food-and-drink'")
+      .prepare(
+        "SELECT id FROM topics WHERE lang = 'lv' AND slug = 'food-and-drink'",
+      )
       .first<{ id: number }>())!.id;
 
     const ids = await findNewWordIds(t.db, {
@@ -265,7 +267,7 @@ describe('new words', () => {
 describe('new word order', () => {
   it('puts hand-added words before dataset words of the same topic', async () => {
     const topicId = (await t.db
-      .prepare("SELECT id FROM topics WHERE slug = 'home'")
+      .prepare("SELECT id FROM topics WHERE lang = 'lv' AND slug = 'home'")
       .first<{ id: number }>())!.id;
     const dataset = await seedWord(t.db, {
       lemma: 'a1',

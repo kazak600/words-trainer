@@ -32,6 +32,7 @@ export async function createTestD1(): Promise<TestD1> {
 }
 
 export type WordSeed = {
+  lang?: string;
   lemma: string;
   pos?: string;
   topic: string;
@@ -48,10 +49,11 @@ export async function seedWord(db: D1Database, w: WordSeed): Promise<number> {
   const word = await db
     .prepare(
       `INSERT INTO words (lang, lemma, pos, topic_id, level, grammar_json, forms_json)
-       VALUES ('lv', ?, ?, (SELECT id FROM topics WHERE lang = 'lv' AND slug = ?), ?, ?, ?)
+       VALUES (?1, ?2, ?3, (SELECT id FROM topics WHERE lang = ?1 AND slug = ?4), ?5, ?6, ?7)
        RETURNING id`,
     )
     .bind(
+      w.lang ?? 'lv',
       w.lemma,
       pos,
       w.topic,

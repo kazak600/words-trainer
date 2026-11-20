@@ -1,0 +1,301 @@
+lemma,pos,ukrainian,review_status
+hello,interj,привіт,pending
+goodbye,interj,до побачення,pending
+welcome,interj,ласкаво просимо,pending
+please,adv,будь ласка,pending
+thank you,phrase,дякую,pending
+phone number,phrase,номер телефону,pending
+sorry,adj,вибачте; мені шкода,pending
+nice,adj,приємний; гарний,pending
+name,noun,ім'я,pending
+surname,noun,прізвище,pending
+age,noun,вік,pending
+country,noun,країна,pending
+city,noun,місто,pending
+address,noun,адреса,pending
+email,noun,електронний лист; електронна пошта,pending
+nationality,noun,національність; громадянство,pending
+language,noun,мова,pending
+meet,verb,зустрічати; знайомитися,pending
+speak,verb,говорити,pending
+live,verb,жити,pending
+from,prep,з; від,pending
+family,noun,родина,pending
+mother,noun,мати,pending
+father,noun,батько,pending
+parent,noun,один із батьків,pending
+brother,noun,брат,pending
+sister,noun,сестра,pending
+son,noun,син,pending
+daughter,noun,донька,pending
+husband,noun,чоловік,pending
+wife,noun,дружина,pending
+grandmother,noun,бабуся,pending
+grandfather,noun,дідусь,pending
+child,noun,дитина,pending
+baby,noun,немовля,pending
+boy,noun,хлопчик,pending
+girl,noun,дівчинка,pending
+friend,noun,друг; подруга,pending
+neighbour,noun,сусід,pending
+uncle,noun,дядько,pending
+aunt,noun,тітка,pending
+cousin,noun,двоюрідний брат; двоюрідна сестра,pending
+married,adj,одружений; заміжня,pending
+house,noun,будинок,pending
+flat,noun,квартира,pending
+room,noun,кімната,pending
+kitchen,noun,кухня,pending
+bedroom,noun,спальня,pending
+bathroom,noun,ванна кімната,pending
+door,noun,двері,pending
+window,noun,вікно,pending
+floor,noun,підлога; поверх,pending
+wall,noun,стіна,pending
+table,noun,стіл,pending
+chair,noun,стілець,pending
+bed,noun,ліжко,pending
+sofa,noun,диван,pending
+lamp,noun,лампа,pending
+key,noun,ключ,pending
+garden,noun,сад,pending
+fridge,noun,холодильник,pending
+television,noun,телевізор,pending
+living room,phrase,вітальня,pending
+clean,adj,чистий,pending
+big,adj,великий,pending
+small,adj,маленький,pending
+food,noun,їжа,pending
+bread,noun,хліб,pending
+butter,noun,масло,pending
+cheese,noun,сир,pending
+egg,noun,яйце,pending
+milk,noun,молоко,pending
+meat,noun,м'ясо,pending
+fish,noun,риба,pending
+rice,noun,рис,pending
+soup,noun,суп,pending
+salad,noun,салат,pending
+apple,noun,яблуко,pending
+banana,noun,банан,pending
+potato,noun,картопля,pending
+vegetable,noun,овоч,pending
+fruit,noun,фрукт,pending
+water,noun,вода,pending
+tea,noun,чай,pending
+coffee,noun,кава,pending
+juice,noun,сік,pending
+breakfast,noun,сніданок,pending
+lunch,noun,обід,pending
+dinner,noun,вечеря,pending
+eat,verb,їсти,pending
+drink,verb,пити,pending
+cook,verb,готувати,pending
+hungry,adj,голодний,pending
+delicious,adj,смачний,pending
+morning,noun,ранок,pending
+afternoon,noun,день (після полудня),pending
+evening,noun,вечір,pending
+night,noun,ніч,pending
+shower,noun,душ,pending
+wake up,phrase,прокидатися,pending
+get up,phrase,вставати,pending
+go to bed,phrase,лягати спати,pending
+wash,verb,мити; вмиватися,pending
+brush,verb,чистити (зуби),pending
+dress,verb,одягатися; вдягати,pending
+work,verb,працювати,pending
+start,verb,починати; починатися,pending
+finish,verb,закінчувати,pending
+sleep,verb,спати,pending
+clean,verb,прибирати,pending
+walk,verb,гуляти; ходити пішки,pending
+usually,adv,зазвичай,pending
+always,adv,завжди,pending
+never,adv,ніколи,pending
+early,adv,рано,pending
+late,adv,пізно,pending
+time,noun,час,pending
+hour,noun,година,pending
+minute,noun,хвилина,pending
+day,noun,день,pending
+week,noun,тиждень,pending
+month,noun,місяць,pending
+year,noun,рік,pending
+Monday,noun,понеділок,pending
+Friday,noun,п'ятниця,pending
+Saturday,noun,субота,pending
+Sunday,noun,неділя,pending
+weekend,noun,вихідні,pending
+January,noun,січень,pending
+summer,noun,літо,pending
+winter,noun,зима,pending
+plan,noun,план,pending
+meeting,noun,зустріч; нарада,pending
+birthday,noun,день народження,pending
+today,adv,сьогодні,pending
+tomorrow,adv,завтра,pending
+yesterday,adv,вчора,pending
+now,adv,зараз,pending
+soon,adv,скоро,pending
+town,noun,містечко,pending
+street,noun,вулиця,pending
+road,noun,дорога,pending
+bridge,noun,міст,pending
+park,noun,парк,pending
+square,noun,площа,pending
+station,noun,станція; вокзал,pending
+bus,noun,автобус,pending
+train,noun,потяг,pending
+tram,noun,трамвай,pending
+car,noun,машина,pending
+bike,noun,велосипед,pending
+plane,noun,літак,pending
+ticket,noun,квиток,pending
+airport,noun,аеропорт,pending
+map,noun,мапа,pending
+left,adv,ліворуч,pending
+right,adv,праворуч,pending
+straight,adv,прямо,pending
+far,adv,далеко,pending
+near,prep,поблизу,pending
+drive,verb,їхати (за кермом),pending
+travel,verb,подорожувати,pending
+shop,noun,магазин,pending
+market,noun,ринок,pending
+money,noun,гроші,pending
+price,noun,ціна,pending
+bag,noun,сумка; пакет,pending
+shirt,noun,сорочка,pending
+dress,noun,сукня,pending
+trousers,noun,штани,pending
+jacket,noun,куртка,pending
+shoes,noun,взуття; черевики,pending
+hat,noun,капелюх; шапка,pending
+size,noun,розмір,pending
+colour,noun,колір,pending
+cheap,adj,дешевий,pending
+expensive,adj,дорогий,pending
+red,adj,червоний,pending
+blue,adj,синій; блакитний,pending
+green,adj,зелений,pending
+black,adj,чорний,pending
+white,adj,білий,pending
+buy,verb,купувати,pending
+sell,verb,продавати,pending
+pay,verb,платити,pending
+body,noun,тіло,pending
+head,noun,голова,pending
+face,noun,обличчя,pending
+eye,noun,око,pending
+ear,noun,вухо,pending
+nose,noun,ніс,pending
+mouth,noun,рот,pending
+tooth,noun,зуб,pending
+hand,noun,рука (кисть),pending
+arm,noun,рука (від плеча),pending
+leg,noun,нога,pending
+foot,noun,ступня,pending
+back,noun,спина,pending
+doctor,noun,лікар,pending
+hospital,noun,лікарня,pending
+medicine,noun,ліки,pending
+pain,noun,біль,pending
+cold,noun,застуда,pending
+ill,adj,хворий,pending
+healthy,adj,здоровий,pending
+tired,adj,втомлений,pending
+hurt,verb,боліти,pending
+weather,noun,погода,pending
+sun,noun,сонце,pending
+rain,noun,дощ,pending
+snow,noun,сніг,pending
+wind,noun,вітер,pending
+cloud,noun,хмара,pending
+sky,noun,небо,pending
+tree,noun,дерево,pending
+flower,noun,квітка,pending
+river,noun,річка,pending
+sea,noun,море,pending
+mountain,noun,гора,pending
+forest,noun,ліс,pending
+beach,noun,пляж,pending
+animal,noun,тварина,pending
+dog,noun,собака,pending
+cat,noun,кіт,pending
+bird,noun,птах,pending
+hot,adj,гарячий; спекотний,pending
+cold,adj,холодний,pending
+sunny,adj,сонячний,pending
+rainy,adj,дощовий,pending
+school,noun,школа,pending
+student,noun,студент; учень,pending
+teacher,noun,вчитель,pending
+lesson,noun,урок,pending
+book,noun,книга,pending
+pen,noun,ручка,pending
+pencil,noun,олівець,pending
+notebook,noun,зошит,pending
+computer,noun,комп'ютер,pending
+question,noun,питання,pending
+answer,noun,відповідь,pending
+homework,noun,домашнє завдання,pending
+exam,noun,іспит,pending
+job,noun,робота; посада,pending
+office,noun,офіс,pending
+boss,noun,начальник,pending
+colleague,noun,колега,pending
+learn,verb,вчити; навчатися,pending
+study,verb,вчитися,pending
+read,verb,читати,pending
+write,verb,писати,pending
+understand,verb,розуміти,pending
+be,verb,бути,pending
+have,verb,мати,pending
+do,verb,робити,pending
+go,verb,йти; їхати,pending
+come,verb,приходити,pending
+see,verb,бачити,pending
+look,verb,дивитися,pending
+hear,verb,чути,pending
+say,verb,казати,pending
+tell,verb,розповідати,pending
+ask,verb,питати,pending
+give,verb,давати,pending
+take,verb,брати,pending
+make,verb,робити; виготовляти,pending
+know,verb,знати,pending
+think,verb,думати,pending
+want,verb,хотіти,pending
+like,verb,подобатися,pending
+love,verb,любити,pending
+need,verb,потребувати,pending
+help,verb,допомагати,pending
+play,verb,грати,pending
+open,verb,відчиняти,pending
+close,verb,зачиняти,pending
+wait,verb,чекати,pending
+find,verb,знаходити,pending
+use,verb,користуватися,pending
+good,adj,хороший; добрий,pending
+bad,adj,поганий,pending
+new,adj,новий,pending
+old,adj,старий,pending
+young,adj,молодий,pending
+long,adj,довгий,pending
+short,adj,короткий,pending
+tall,adj,високий,pending
+happy,adj,щасливий,pending
+sad,adj,сумний,pending
+easy,adj,легкий (нескладний),pending
+difficult,adj,важкий; складний,pending
+fast,adj,швидкий,pending
+slow,adj,повільний,pending
+beautiful,adj,красивий; прекрасний,pending
+busy,adj,зайнятий,pending
+free,adj,вільний,pending
+ready,adj,готовий,pending
+right,adj,правильний,pending
+wrong,adj,неправильний,pending
+heavy,adj,важкий (за вагою),pending
+light,adj,легкий (за вагою); світлий,pending

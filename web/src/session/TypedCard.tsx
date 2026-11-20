@@ -11,12 +11,13 @@ import { QuickBar } from './QuickBar';
 type Props = {
   card: Card;
   language: string;
+  lang: string;
   locked: boolean;
   busy: boolean;
   onSubmit: (typed: string) => void;
 };
 
-function Sentence({ text }: { text: string }) {
+function Sentence({ text, lang }: { text: string; lang: string }) {
   const parts = text.split('___');
   const pieces: ReactNode[] = [];
   parts.forEach((part, i) => {
@@ -27,13 +28,20 @@ function Sentence({ text }: { text: string }) {
     pieces.push(part);
   });
   return (
-    <p className="sentence" lang="lv">
+    <p className="sentence" lang={lang}>
       {pieces}
     </p>
   );
 }
 
-export function TypedCard({ card, language, locked, busy, onSubmit }: Props) {
+export function TypedCard({
+  card,
+  language,
+  lang,
+  locked,
+  busy,
+  onSubmit,
+}: Props) {
   const [typed, setTyped] = useState('');
   const input = useRef<HTMLInputElement>(null);
   const caret = useRef<number | null>(null);
@@ -66,7 +74,7 @@ export function TypedCard({ card, language, locked, busy, onSubmit }: Props) {
         {card.kind === 'cloze' ? (
           <>
             <span className="tag">Type the missing word</span>
-            <Sentence text={card.textWithGap ?? ''} />
+            <Sentence text={card.textWithGap ?? ''} lang={lang} />
             <p className="hint">{card.hint}</p>
           </>
         ) : (
@@ -82,14 +90,14 @@ export function TypedCard({ card, language, locked, busy, onSubmit }: Props) {
         value={typed}
         onChange={(e) => setTyped(e.target.value)}
         disabled={locked || busy}
-        lang="lv"
+        lang={lang}
         autoComplete="off"
         autoCapitalize="none"
         autoCorrect="off"
         spellCheck={false}
         autoFocus
       />
-      {!locked && <QuickBar onInsert={insert} />}
+      {!locked && <QuickBar lang={lang} onInsert={insert} />}
       {!locked && (
         <button
           type="submit"

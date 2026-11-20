@@ -91,13 +91,13 @@ function LeechCard({ item, onReturned }: Props) {
   return (
     <article className="card leech" aria-label={item.lemma}>
       <header className="row">
-        <h2 lang="lv">{item.lemma}</h2>
+        <h2 lang={deck.sourceLang}>{item.lemma}</h2>
         <span className="badge">Failed {item.lapses} times</span>
       </header>
       <p className="translation">{item.translation}</p>
       {item.kind === 'cloze' && (
         <p className="muted">
-          <span lang="lv">{item.textWithGap}</span>
+          <span lang={deck.sourceLang}>{item.textWithGap}</span>
           <br />
           {item.hint}
         </p>
@@ -116,7 +116,7 @@ function LeechCard({ item, onReturned }: Props) {
           value={similarWord}
           onChange={(e) => setSimilarWord(e.target.value)}
           maxLength={500}
-          lang="lv"
+          lang={deck.sourceLang}
         />
       </label>
       <fieldset>
@@ -126,7 +126,7 @@ function LeechCard({ item, onReturned }: Props) {
           <input
             value={gap}
             onChange={(e) => setGap(e.target.value)}
-            lang="lv"
+            lang={deck.sourceLang}
             autoCapitalize="none"
             autoCorrect="off"
             spellCheck={false}
@@ -137,7 +137,7 @@ function LeechCard({ item, onReturned }: Props) {
           <input
             value={answer}
             onChange={(e) => setAnswer(e.target.value)}
-            lang="lv"
+            lang={deck.sourceLang}
             autoCapitalize="none"
             autoCorrect="off"
             spellCheck={false}

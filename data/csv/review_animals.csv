@@ -1,0 +1,50 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+zvērs,noun,A2,beast,звір,Mežā dzīvo daudz ___.,zvēru,У лісі живе багато звірів.,pending
+lācis,noun,A2,bear,ведмідь,___ ziemā guļ.,Lācis,Ведмідь узимку спить.,pending
+vilks,noun,A2,wolf,вовк,___ dzīvo mežā.,Vilks,Вовк живе в лісі.,pending
+lapsa,noun,A2,fox,лисиця,___ ir viltīga.,Lapsa,Лисиця хитра.,pending
+zaķis,noun,A2,hare,заєць,Ātrs ___ skrien pa pļavu.,zaķis,Швидкий заєць біжить по лузі.,pending
+ezis,noun,A2,hedgehog,їжак,Mežā mēs redzējām ___.,ezi,У лісі ми бачили їжака.,pending
+briedis,noun,A2,"deer, stag",олень,Mežā dzīvo ___.,briedis,У лісі живе олень.,pending
+alnis,noun,A2,"elk, moose",лось,___ ir liels dzīvnieks.,Alnis,Лось — велика тварина.,pending
+mežacūka,noun,A2,wild boar,дикий кабан,Mežā var sastapt ___.,mežacūku,У лісі можна зустріти дикого кабана.,pending
+vāvere,noun,A2,squirrel,білка,___ kāpj kokā.,Vāvere,Білка лізе на дерево.,pending
+žurka,noun,A2,rat,щур,___ dzīvo pagrabā.,Žurka,Щур живе в підвалі.,pending
+ērglis,noun,A2,eagle,орел,___ lido augstu.,Ērglis,Орел літає високо.,pending
+pūce,noun,A2,owl,сова,___ medī naktī.,Pūce,Сова полює вночі.,pending
+gulbis,noun,A2,swan,лебідь,Ezerā peld balts ___.,gulbis,На озері пливе білий лебідь.,pending
+stārķis,noun,A2,stork,лелека,___ dzīvo uz jumta.,Stārķis,Лелека живе на даху.,pending
+strazds,noun,A2,"starling, thrush, throstle",дрізд,Dārzā dzied ___.,strazds,У саду співає дрізд.,pending
+zvirbulis,noun,A2,sparrow,горобець,___ ir mazs putns.,Zvirbulis,Горобець — маленький птах.,pending
+vārna,noun,A2,crow,ворона,Uz koka sēž melna ___.,vārna,На дереві сидить чорна ворона.,pending
+dzenis,noun,A2,woodpecker,дятел,___ dauza koku.,Dzenis,Дятел довбе дерево.,pending
+dzērve,noun,A2,crane,журавель,___ lido uz dienvidiem.,Dzērve,Журавель летить на південь.,pending
+gailis,noun,A2,"rooster, cock",півень,___ dzied no rīta.,Gailis,Півень співає зранку.,pending
+kukainis,noun,A2,"insect, bug",комаха,Bite ir ___.,kukainis,Бджола — комаха.,pending
+bite,noun,A2,bee,бджола,___ dod medu.,Bite,Бджола дає мед.,pending
+tauriņš,noun,A2,butterfly,метелик,Dārzā lido ___.,tauriņš,У саду літає метелик.,pending
+skudra,noun,A2,ant,мурашка,___ ir ļoti strādīga.,Skudra,Мурашка дуже працьовита.,pending
+muša,noun,A2,fly,муха,Virtuvē lido ___.,muša,На кухні літає муха.,pending
+ods,noun,A2,"gnat, mosquito",комар,Vasarā mežā ir daudz ___.,odu,Влітку в лісі багато комарів.,pending
+zirneklis,noun,A2,spider,павук,Stūrī sēž ___.,zirneklis,У куті сидить павук.,pending
+odze,noun,A2,"viper, adder",гадюка,Mežā ir ___.,odze,У лісі є гадюка.,pending
+čūska,noun,A2,snake,змія,Es baidos no ___.,čūskām,Я боюся змій.,pending
+varde,noun,A2,frog,жаба,Dīķī lēkā ___.,varde,У ставку стрибає жаба.,pending
+krupis,noun,A2,toad,ропуха,___ dzīvo dārzā.,Krupis,Ропуха живе в саду.,pending
+bruņurupucis,noun,A2,"tortoise, turtle",черепаха,___ iet ļoti lēni.,Bruņurupucis,Черепаха йде дуже повільно.,pending
+zilonis,noun,A2,elephant,слон,___ ir ļoti liels.,Zilonis,Слон дуже великий.,pending
+lauva,noun,A2,lion in general,лев,___ ir ļoti bīstams zvērs.,Lauva,Лев — дуже небезпечний звір.,pending
+tīģeris,noun,A2,tiger,тигр,___ dzīvo Āzijā.,Tīģeris,Тигр живе в Азії.,pending
+pērtiķis,noun,A2,monkey,мавпа,___ ēd banānus.,Pērtiķis,Мавпа їсть банани.,pending
+žirafe,noun,A2,giraffe,жирафа,___ ir garš kakls.,Žirafei,У жирафи довга шия.,pending
+delfīns,noun,A2,dolphin,дельфін,___ ir gudrs dzīvnieks.,Delfīns,Дельфін — розумна тварина.,pending
+valis,noun,A2,whale,кит,___ ir lielākais dzīvnieks.,Valis,Кит — найбільша тварина.,pending
+haizivs,noun,A2,shark,акула,___ ir bīstama zivs.,Haizivs,Акула — небезпечна риба.,pending
+ķengurs,noun,A2,kangaroo,кенгуру,___ lēkā ļoti tālu.,Ķengurs,Кенгуру стрибає дуже далеко.,pending
+medīt,verb,A2,to hunt,полювати,Vilks ___ naktī.,medī,Вовк полює вночі.,pending
+rāpot,verb,A2,to crawl,повзти,Čūska ___.,rāpo,Змія повзе.,pending
+dzelt,verb,A2,to sting,жалити,Bite var ___.,dzelt,Бджола може вжалити.,pending
+kost,verb,A2,"to bite, to take a bite",кусати,Suns var ___.,kost,Пес може вкусити.,pending
+mežonīgs,adj,A2,,дикий,Vilks ir ___ dzīvnieks.,mežonīgs,Вовк — дикий звір.,pending
+savvaļas,adj,A2,,дикий (вільний),Šeit dzīvo ___ dzīvnieki.,savvaļas,Тут живуть дикі тварини.,pending
+bīstams,adj,A2,"dangerous, perilous, scary",небезпечний,Šis suns ir ___.,bīstams,Цей пес небезпечний.,pending

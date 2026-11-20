@@ -1,0 +1,23 @@
+town | noun | містечко | I live in a small ___. | town | Я живу в невеликому містечку.
+street | noun | вулиця | The shop is on this ___. | street | Магазин на цій вулиці.
+road | noun | дорога | The ___ is busy. | road | На дорозі багато машин.
+bridge | noun | міст | We cross the ___. | bridge | Ми переходимо міст.
+park | noun | парк | The children play in the ___. | park | Діти граються в парку.
+square | noun | площа | The market is on the main ___. | square | Ринок на центральній площі.
+station | noun | станція; вокзал | The ___ is near the park. | station | Вокзал поруч із парком.
+bus | noun | автобус | I go to work by ___. | bus | Я їжджу на роботу автобусом.
+train | noun | потяг | The ___ leaves at six. | train | Потяг відправляється о шостій.
+tram | noun | трамвай | Take the ___ to the centre. | tram | Їдь трамваєм до центру.
+car | noun | машина | He has a new ___. | car | У нього нова машина.
+bike | noun | велосипед | I ride my ___ to school. | bike | Я їжджу до школи на велосипеді.
+plane | noun | літак | The ___ is late. | plane | Літак спізнюється.
+ticket | noun | квиток | I need one ___ to Lviv. | ticket | Мені потрібен один квиток до Львова.
+airport | noun | аеропорт | We are at the ___. | airport | Ми в аеропорту.
+map | noun | мапа | Look at the ___. | map | Подивися на мапу.
+left | adv | ліворуч | Turn ___ at the corner. | left | На розі поверни ліворуч.
+right | adv | праворуч | Turn ___ at the lights. | right | На світлофорі поверни праворуч.
+straight | adv | прямо | Go ___ on. | straight | Йдіть прямо.
+near | prep | поблизу | The hotel is ___ the station. | near | Готель поблизу вокзалу.
+far | adv | далеко | Is it ___ from here? | far | Це далеко звідси?
+drive | verb | їхати (за кермом) | My father ___ to work. | drives | Мій тато їде на роботу машиною.
+travel | verb | подорожувати | I like to ___ by train. | travel | Я люблю подорожувати потягом.

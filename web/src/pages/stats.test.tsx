@@ -38,7 +38,7 @@ function setup(body: object = stats, leeches = 0) {
     appRoutes({
       'GET /api/decks/lv-uk/stats?tzOffset=0': () => ({ body }),
       'GET /api/decks/lv-uk/review?tzOffset=0': () => ({
-        body: { due: 0, newToday: 0, newCap: 15, leeches, cards: [] },
+        body: { due: 0, newToday: 0, newCap: 10, leeches, cards: [] },
       }),
     }),
   );

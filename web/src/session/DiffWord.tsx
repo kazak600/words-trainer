@@ -7,13 +7,13 @@ const HINTS: Record<string, string> = {
   extra: 'There is an extra letter.',
 };
 
-export function DiffWord({ diff }: { diff: DiffItem[] }) {
+export function DiffWord({ diff, lang }: { diff: DiffItem[]; lang: string }) {
   const kinds = [
     ...new Set(diff.map((d) => d.kind).filter((k) => k !== 'match')),
   ];
   return (
     <>
-      <span className="diff-word" lang="lv">
+      <span className="diff-word" lang={lang}>
         {diff.map((item, i) =>
           item.kind === 'match' ? (
             <span key={i}>{item.expected}</span>

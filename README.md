@@ -52,4 +52,11 @@ Dataset pipeline (Python 3, standard library only, run from the repo root):
 | `python3 -I data/pipeline/load_words.py [--local\|--remote]` | Write `data/.cache/load_words.sql` (upserts for approved and edited words only) and run it with `wrangler d1 execute`; safe to run twice |
 | `python3 -I data/pipeline/crosscheck_frequency.py` | Write `data/csv/frequency_gaps.csv` (frequent lemmas missing from the list; needs network) |
 
-Topics seed: after editing `data/topic_map.csv`, run `python3 -I data/pipeline/seed_topics.py` to regenerate `worker/migrations/0003_seed_topics.sql`. Needs Node 22.13+ (schema tests use `node:sqlite`).
+Every pipeline command takes `--lang` (default `lv`); `--lang en` reads and writes `data/en/` instead (`topic_map.csv`, `wordlists/`, `translations/`, `csv/`). English has no enrichment step: `merge_wordlists.py --lang en` writes `words_en_enriched.csv` with the enrichment columns empty. English review and load:
+
+```
+python3 -I data/pipeline/review.py --lang en import      # after setting status to approved in data/en/csv/review_*.csv
+python3 -I data/pipeline/load_words.py --lang en --local # or --remote
+```
+
+Topics seed: after editing `data/topic_map.csv`, run `python3 -I data/pipeline/seed_topics.py` to regenerate `worker/migrations/0003_seed_topics.sql`; `seed_topics.py --lang en` regenerates `0010_seed_english.sql` (English topics and the `en-uk` deck row) and is only for a database that has not applied 0010 yet; topics added later need a new hand-written migration that inserts just the new topics. Needs Node 22.13+ (schema tests use `node:sqlite`).
