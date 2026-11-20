@@ -785,18 +785,91 @@ summary {
 }
 
 .calendar {
+  width: 100%;
+}
+
+.show-toggle {
+  display: block;
+  min-height: 28px;
+  margin: 8px auto 0;
+  padding: 0 14px;
+  font-size: 0.8rem;
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.cal-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.cal-head strong {
+  font-size: 0.95rem;
+}
+
+button.cal-nav {
+  min-height: 36px;
+  width: 36px;
+  padding: 0;
+  border-radius: 50%;
+  font-size: 1.1rem;
+}
+
+.cal-weekdays,
+.cal-grid {
   display: grid;
   grid-template-columns: repeat(7, 1fr);
-  grid-auto-flow: row;
   gap: 4px;
+  text-align: center;
 }
 
-.calendar .day {
-  aspect-ratio: 1;
-  border-radius: 4px;
-  background: var(--input);
+.cal-weekdays {
+  font-size: 0.7rem;
+  color: var(--muted);
+  margin-bottom: 4px;
 }
 
-.calendar .day.studied {
+.cal-day {
+  height: 36px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.85rem;
+  position: relative;
+}
+
+.cal-day.out {
+  color: var(--muted);
+  opacity: 0.35;
+}
+
+.cal-day.studied {
+  background: var(--ok-soft);
+}
+
+.cal-day.studied::after {
+  content: '';
+  position: absolute;
+  bottom: 4px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
   background: var(--ok);
+}
+
+.cal-day.today {
+  box-shadow: inset 0 0 0 2px var(--accent);
+  font-weight: 700;
+}
+
+.cal-foot {
+  margin: 10px 0 0;
+  font-size: 0.8rem;
+  text-align: center;
 }

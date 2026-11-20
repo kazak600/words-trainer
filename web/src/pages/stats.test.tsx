@@ -1,3 +1,4 @@
+import userEvent from '@testing-library/user-event';
 import { render, screen, within } from '@testing-library/react';
 import { MemoryRouter } from 'react-router-dom';
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
@@ -90,7 +91,13 @@ describe('stats page', () => {
       within(recent).getByRole('row', { name: /2026-11-18/ }),
     ).toHaveTextContent('12');
     const rows = within(recent).getAllByRole('row');
-    expect(rows).toHaveLength(14);
+    expect(rows).toHaveLength(5);
+    await userEvent.setup().click(
+      within(recent.parentElement!).getByRole('button', {
+        name: 'Show more',
+      }),
+    );
+    expect(within(recent).getAllByRole('row')).toHaveLength(14);
     expect(rows[0]).toHaveTextContent('2026-11-20');
     expect(
       within(recent).getByRole('row', { name: /2026-11-19/ }),
@@ -115,5 +122,74 @@ describe('stats page', () => {
     });
 
     expect(await screen.findByText('No reviews yet.')).toBeInTheDocument();
+  });
+});
+
+describe('Study calendar month view', () => {
+  it('shows the current month with its totals and pages back and forward', async () => {
+    setup();
+    const user = userEvent.setup();
+
+    expect(await screen.findByText('November 2026')).toBeInTheDocument();
+    expect(
+      screen.getByText('2 study days · 17 reviews this month'),
+    ).toBeInTheDocument();
+    expect(screen.getByRole('button', { name: 'Next month' })).toBeDisabled();
+
+    await user.click(screen.getByRole('button', { name: 'Previous month' }));
+
+    expect(screen.getByText('October 2026')).toBeInTheDocument();
+    expect(
+      screen.getByText('0 study days · 0 reviews this month'),
+    ).toBeInTheDocument();
+    await user.click(screen.getByRole('button', { name: 'Next month' }));
+    expect(screen.getByText('November 2026')).toBeInTheDocument();
+  });
+
+  it('stops paging back at the start of the 90-day window', async () => {
+    setup();
+    const user = userEvent.setup({ advanceTimers: () => {} });
+    await screen.findByText('November 2026');
+
+    for (let i = 0; i < 3; i++) {
+      await user.click(screen.getByRole('button', { name: 'Previous month' }));
+    }
+
+    expect(screen.getByText('August 2026')).toBeInTheDocument();
+    expect(
+      screen.getByRole('button', { name: 'Previous month' }),
+    ).toBeDisabled();
+  });
+});
+
+describe('Stats lists', () => {
+  const manyTopics = Array.from({ length: 7 }, (_, i) => ({
+    topicId: i + 1,
+    title: `Topic ${i + 1}`,
+    titleUk: `Тема ${i + 1}`,
+    total: 4,
+    learned: 1,
+  }));
+
+  it('shows five topics and expands the full list with Show more', async () => {
+    setup({ ...stats, topics: manyTopics });
+    const user = userEvent.setup();
+    const topics = await screen.findByRole('table', { name: 'By topic' });
+    const toggle = () => topics.nextElementSibling as HTMLElement;
+
+    expect(within(topics).getAllByRole('row')).toHaveLength(5);
+    expect(toggle()).toHaveTextContent('Show more');
+    await user.click(toggle());
+    expect(within(topics).getAllByRole('row')).toHaveLength(7);
+    expect(toggle()).toHaveTextContent('Show less');
+    await user.click(toggle());
+    expect(within(topics).getAllByRole('row')).toHaveLength(5);
+  });
+
+  it('shows no toggle when the topic list fits in five rows', async () => {
+    setup();
+
+    const topics = await screen.findByRole('table', { name: 'By topic' });
+    expect(topics.nextElementSibling?.tagName).toBe('H2');
   });
 });

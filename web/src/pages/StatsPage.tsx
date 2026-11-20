@@ -4,9 +4,12 @@ import { fetchStats, type Stats } from '../api/stats';
 import { fetchReview } from '../api/study';
 import { useDeck } from '../decks/DeckContext';
 
-const WEEKS = 12;
 const RECENT_DAYS = 14;
 const DAY_MS = 86_400_000;
+// Matches CALENDAR_DAYS in the Worker: the stats response has no study days older than this.
+const CALENDAR_WINDOW_DAYS = 90;
+const WEEKDAYS = ['Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa', 'Su'];
+const SHORT_LIST = 5;
 
 const STATES = [
   ['new', 'New'],
@@ -16,16 +19,6 @@ const STATES = [
 ] as const;
 
 const isoDay = (ms: number) => new Date(ms).toISOString().slice(0, 10);
-
-// Mon-Sun rows for the last WEEKS weeks; days after today stay empty.
-function calendarDays(todayMs: number): (string | null)[] {
-  const weekday = (new Date(todayMs).getUTCDay() + 6) % 7;
-  const start = todayMs - weekday * DAY_MS - (WEEKS - 1) * 7 * DAY_MS;
-  return Array.from({ length: WEEKS * 7 }, (_, i) => {
-    const ms = start + i * DAY_MS;
-    return ms > todayMs ? null : isoDay(ms);
-  });
-}
 
 // The last RECENT_DAYS calendar days, newest first, with 0 for days without reviews.
 function lastDays(days: Stats['days']): Stats['days'] {
@@ -38,23 +31,115 @@ function lastDays(days: Stats['days']): Stats['days'] {
   });
 }
 
+function ToggleList({
+  expanded,
+  onToggle,
+}: {
+  expanded: boolean;
+  onToggle: () => void;
+}) {
+  return (
+    <button type="button" className="show-toggle" onClick={onToggle}>
+      {expanded ? 'Show less' : 'Show more'}
+    </button>
+  );
+}
+
+function shiftMonth(view: string, by: number): string {
+  const first = new Date(
+    Date.UTC(Number(view.slice(0, 4)), Number(view.slice(5, 7)) - 1 + by, 1),
+  );
+  return first.toISOString().slice(0, 7);
+}
+
 function Calendar({ days }: { days: Stats['days'] }) {
   const offsetMs = -new Date().getTimezoneOffset() * 60_000;
+  const today = isoDay(Date.now() + offsetMs);
+  const windowStart = isoDay(
+    Date.parse(`${today}T00:00:00Z`) - (CALENDAR_WINDOW_DAYS - 1) * DAY_MS,
+  );
   const counts = new Map(days.map((d) => [d.day, d.reviews]));
+  const [view, setView] = useState(today.slice(0, 7));
+
+  const [year, month] = [Number(view.slice(0, 4)), Number(view.slice(5, 7))];
+  const first = Date.UTC(year, month - 1, 1);
+  const lead = (new Date(first).getUTCDay() + 6) % 7;
+  const daysInMonth = new Date(Date.UTC(year, month, 0)).getUTCDate();
+  const canGoBack = isoDay(Date.UTC(year, month - 1, 0)) >= windowStart;
+  const canGoForward = view < today.slice(0, 7);
+
+  let studied = 0;
+  let reviewTotal = 0;
+  const cells = Array.from({ length: daysInMonth }, (_, i) => {
+    const day = isoDay(first + i * DAY_MS);
+    const future = day > today;
+    const outside = day < windowStart;
+    const reviews = counts.get(day) ?? 0;
+    if (!future && !outside && reviews > 0) {
+      studied += 1;
+      reviewTotal += reviews;
+    }
+    const className = [
+      'cal-day',
+      reviews > 0 && !future && !outside && 'studied',
+      day === today && 'today',
+      (future || outside) && 'out',
+    ]
+      .filter(Boolean)
+      .join(' ');
+    const label = outside
+      ? undefined
+      : `${day}: ${reviews === 0 ? 'no reviews' : `${reviews} reviews`}`;
+    return (
+      <span key={day} role="gridcell" aria-label={label} className={className}>
+        {i + 1}
+      </span>
+    );
+  });
+
   return (
-    <div role="grid" aria-label="Study days" className="calendar">
-      {calendarDays(Date.now() + offsetMs).map((day, i) => {
-        if (day === null) return <span key={i} aria-hidden="true" />;
-        const reviews = counts.get(day) ?? 0;
-        return (
-          <span
-            key={day}
-            role="gridcell"
-            aria-label={`${day}: ${reviews === 0 ? 'no reviews' : `${reviews} reviews`}`}
-            className={`day${reviews > 0 ? ' studied' : ''}`}
-          />
-        );
-      })}
+    <div className="calendar">
+      <div className="cal-head">
+        <button
+          type="button"
+          className="cal-nav"
+          aria-label="Previous month"
+          disabled={!canGoBack}
+          onClick={() => setView(shiftMonth(view, -1))}
+        >
+          ‹
+        </button>
+        <strong>
+          {new Date(first).toLocaleString('en', {
+            month: 'long',
+            year: 'numeric',
+            timeZone: 'UTC',
+          })}
+        </strong>
+        <button
+          type="button"
+          className="cal-nav"
+          aria-label="Next month"
+          disabled={!canGoForward}
+          onClick={() => setView(shiftMonth(view, 1))}
+        >
+          ›
+        </button>
+      </div>
+      <div className="cal-weekdays" aria-hidden="true">
+        {WEEKDAYS.map((d) => (
+          <span key={d}>{d}</span>
+        ))}
+      </div>
+      <div role="grid" aria-label="Study days" className="cal-grid">
+        {Array.from({ length: lead }, (_, i) => (
+          <span key={`lead-${i}`} aria-hidden="true" />
+        ))}
+        {cells}
+      </div>
+      <p className="cal-foot muted">
+        {studied} study days · {reviewTotal} reviews this month
+      </p>
     </div>
   );
 }
@@ -64,6 +149,8 @@ export function StatsPage() {
   const [leeches, setLeeches] = useState(0);
   const [stats, setStats] = useState<Stats | null>(null);
   const [failed, setFailed] = useState(false);
+  const [allTopics, setAllTopics] = useState(false);
+  const [allDays, setAllDays] = useState(false);
 
   useEffect(() => {
     let current = true;
@@ -81,6 +168,11 @@ export function StatsPage() {
   }, [deck.slug]);
 
   const recent = stats ? lastDays(stats.days) : [];
+  const shownTopics =
+    stats && !allTopics
+      ? stats.topics.slice(0, SHORT_LIST)
+      : (stats?.topics ?? []);
+  const shownDays = allDays ? recent : recent.slice(0, SHORT_LIST);
 
   return (
     <section>
@@ -121,11 +213,9 @@ export function StatsPage() {
           <h2>By topic</h2>
           <table aria-label="By topic" className="stat-table">
             <tbody>
-              {stats.topics.map((t) => (
+              {shownTopics.map((t) => (
                 <tr key={t.topicId}>
-                  <th scope="row">
-                    {t.title}
-                  </th>
+                  <th scope="row">{t.title}</th>
                   <td>
                     {t.learned} / {t.total}
                   </td>
@@ -133,6 +223,13 @@ export function StatsPage() {
               ))}
             </tbody>
           </table>
+
+          {stats.topics.length > SHORT_LIST && (
+            <ToggleList
+              expanded={allTopics}
+              onToggle={() => setAllTopics(!allTopics)}
+            />
+          )}
 
           <h2>Study days</h2>
           <Calendar days={stats.days} />
@@ -143,7 +240,7 @@ export function StatsPage() {
           ) : (
             <table aria-label="Reviews per day" className="stat-table">
               <tbody>
-                {recent.map((d) => (
+                {shownDays.map((d) => (
                   <tr key={d.day}>
                     <th scope="row">{d.day}</th>
                     <td>{d.reviews}</td>
@@ -151,6 +248,12 @@ export function StatsPage() {
                 ))}
               </tbody>
             </table>
+          )}
+          {recent.length > SHORT_LIST && (
+            <ToggleList
+              expanded={allDays}
+              onToggle={() => setAllDays(!allDays)}
+            />
           )}
         </>
       )}
