@@ -27,3 +27,37 @@ apstiprināt,verb,A2,second-person plural present indicative of apstiprināt,п�
 parīt,adv,A2,the day after tomorrow,післязавтра,___ mēs braucam uz Rīgu.,Parīt,Післязавтра ми їдемо до Риги.,approved
 drīz,adv,A2,soon,незабаром,Vilciens ___ atnāks.,drīz,Поїзд незабаром прийде.,approved
 nesen,adv,A2,,нещодавно,Es ___ pārcēlos uz Rīgu.,nesen,Я нещодавно переїхав до Риги.,approved
+pirmdiena,noun,A1,Monday,понеділок,Pēc svētdienas nāk ___.,pirmdiena,Після неділі йде понеділок.,approved
+otrdiena,noun,A1,Tuesday,вівторок,Pēc pirmdienas nāk ___.,otrdiena,Після понеділка йде вівторок.,approved
+trešdiena,noun,A1,Wednesday,середа,Pēc otrdienas nāk ___.,trešdiena,Після вівторка йде середа.,approved
+ceturtdiena,noun,A1,Thursday,четвер,Pēc trešdienas nāk ___.,ceturtdiena,Після середи йде четвер.,approved
+piektdiena,noun,A1,Friday,п'ятниця,Pēc ceturtdienas nāk ___.,piektdiena,Після четверга йде п'ятниця.,approved
+sestdiena,noun,A1,Saturday,субота,Pēc piektdienas nāk ___.,sestdiena,Після п'ятниці йде субота.,approved
+svētdiena,noun,A1,Sunday,неділя,Pēc sestdienas nāk ___.,svētdiena,Після суботи йде неділя.,approved
+janvāris,noun,A1,the month of January,січень,Pēc decembra nāk ___.,janvāris,Після грудня йде січень.,approved
+februāris,noun,A1,the month of February,лютий,Pēc janvāra nāk ___.,februāris,Після січня йде лютий.,approved
+marts,noun,A1,the month of March,березень,Pēc februāra nāk ___.,marts,Після лютого йде березень.,approved
+aprīlis,noun,A1,the month of April,квітень,Pēc marta nāk ___.,aprīlis,Після березня йде квітень.,approved
+maijs,noun,A1,the month of May,травень,Pēc aprīļa nāk ___.,maijs,Після квітня йде травень.,approved
+jūnijs,noun,A1,the month of June,червень,Pēc maija nāk ___.,jūnijs,Після травня йде червень.,approved
+jūlijs,noun,A1,the month of July,липень,Pēc jūnija nāk ___.,jūlijs,Після червня йде липень.,approved
+augusts,noun,A1,the month of August,серпень,Pēc jūlija nāk ___.,augusts,Після липня йде серпень.,approved
+septembris,noun,A1,the month of September,вересень,Pēc augusta nāk ___.,septembris,Після серпня йде вересень.,approved
+oktobris,noun,A1,the month of October,жовтень,Pēc septembra nāk ___.,oktobris,Після вересня йде жовтень.,approved
+novembris,noun,A1,the month of November,листопад,Pēc oktobra nāk ___.,novembris,Після жовтня йде листопад.,approved
+decembris,noun,A1,the month of December,грудень,Pēc novembra nāk ___.,decembris,Після листопада йде грудень.,approved
+nedēļa,noun,A1,week,тиждень,Vienā ___ ir septiņas dienas.,nedēļā,В одному тижні сім днів.,approved
+mēnesis,noun,A1,month,місяць,Gadā ir divpadsmit ___.,mēneši,У році дванадцять місяців.,approved
+gads,noun,A1,year,рік,Šis ___ bija ļoti interesants.,gads,Цей рік був дуже цікавим.,approved
+minūte,noun,A1,minute,хвилина,"Pagaidiet vienu ___, lūdzu.",minūti,"Зачекайте одну хвилину, будь ласка.",approved
+pusdiena,noun,A1,"midday, noon",полудень,Ap ___ ir ļoti karsts.,pusdienu,Близько полудня дуже жарко.,approved
+datums,noun,A1,date,дата; число,Kāds šodien ir ___?,datums,Яке сьогодні число?,approved
+laiks,noun,A1,"time, era",час,Man nav ___.,laika,У мене немає часу.,approved
+šodien,adv,A1,today,сьогодні,___ ir ļoti silts.,Šodien,Сьогодні дуже тепло.,approved
+rīt,adv,A1,tomorrow,завтра,___ mēs tiekamies.,Rīt,Завтра ми зустрічаємося.,approved
+vakar,adv,A1,yesterday,вчора,___ es biju teātrī.,Vakar,Вчора я був у театрі.,approved
+tagad,adv,A1,now,зараз,Es ___ esmu darbā.,tagad,Я зараз на роботі.,approved
+vēlāk,adv,A1,later; adverbial form of vēlāks,пізніше,Es piezvanīšu ___.,vēlāk,Я зателефоную пізніше.,approved
+tūlīt,adv,A1,at once,зараз; негайно,Es nākšu ___.,tūlīt,Я зараз прийду.,approved
+cik pulkstenis,phrase,A1,,котра година,"Atvainojiet, ___?",cik pulkstenis,"Вибачте, котра година?",approved
+pusseptiņi,phrase,A1,,пів на сьому,Tagad ir ___.,pusseptiņi,Зараз пів на сьому.,approved

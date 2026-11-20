@@ -1,0 +1,60 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+sveiki,interj,A1,hello!,привіт,___! Es esmu Anna.,Sveiki,Привіт! Я Анна.,approved
+sveiks,interj,A1,safe; unharmed despite adverse circumstances,привіт (до чоловіка),"___, Jāni! Kā tev klājas?",Sveiks,"Привіт, Янісе! Як у тебе справи?",approved
+labdien,interj,A1,good day,добрий день,___! Mani sauc Anna.,Labdien,Добрий день! Мене звати Анна.,approved
+labrīt,interj,A1,"polite greeting, used in the morning; good morning!",доброго ранку,___! Vai tu labi gulēji?,Labrīt,Доброго ранку! Ти добре спав?,approved
+labvakar,interj,A1,"polite greeting, used in the evening; good evening!",добрий вечір,___! Priecājos jūs redzēt.,Labvakar,Добрий вечір! Радий вас бачити.,approved
+ardievas,interj,A1,,прощавайте,"___, draugi!",Ardievas,"Прощавайте, друзі!",approved
+atā,interj,A1,"goodbye, bye-bye",бувай,"___, rīt tiksimies!",Atā,"Бувай, завтра побачимось!",approved
+paldies,interj,A1,thank you,дякую,___ par palīdzību!,Paldies,Дякую за допомогу!,approved
+lūdzu,interj,A1,first-person singular present/past indicative of lūgt,будь ласка,"Kafiju, ___!",lūdzu,"Каву, будь ласка!",approved
+atvainojiet,interj,A1,sorry,вибачте,"___, kur ir stacija?",Atvainojiet,"Вибачте, де станція?",approved
+piedodiet,interj,A1,I'm sorry,пробачте,"___, es nokavēju.",Piedodiet,"Пробачте, я запізнився.",approved
+jā,interj,A1,"used to express, reinforce agreement or confirmation, especially in response to a question; yes",так,"___, es runāju latviski.",Jā,"Так, я розмовляю латиською.",approved
+nē,interj,A1,used to deny or disagree with what was said in the preceding affirmative statement; no,ні,"___, es nezinu.",Nē,"Ні, я не знаю.",approved
+uz redzēšanos,phrase,A1,goodbye,до побачення,"___, līdz rītdienai!",Uz redzēšanos,"До побачення, до завтра!",approved
+prieks iepazīties,phrase,A1,,приємно познайомитися,"Mani sauc Pēteris, ___.",prieks iepazīties,"Мене звати Петеріс, приємно познайомитися.",approved
+labu nakti,phrase,A1,,на добраніч,"___, mīļie bērni!",Labu nakti,"На добраніч, любі діти!",approved
+uz drīzu redzēšanos,phrase,A1,,до швидкої зустрічі,Mēs sazināsimies. ___!,Uz drīzu redzēšanos,Ми зв'яжемося. До швидкої зустрічі!,approved
+es,pron,A1,"I; first person pronoun, referring to the speaker",я,___ esmu students.,Es,Я студент.,approved
+tu,pron,A1,you,ти,Vai ___ runā latviski?,tu,Ти розмовляєш латиською?,approved
+viņš,pron,A1,"he; third person pronoun, referring to someone other than the speaker or addressee",він,___ dzīvo Rīgā.,Viņš,Він живе в Ризі.,approved
+viņa,pron,A1,his; genitive singular masculine of viņš,вона,___ strādā skolā.,Viņa,Вона працює в школі.,approved
+mēs,pron,A1,"we; first person pronoun, referring to the speaker and other people",ми,___ esam draugi.,Mēs,Ми друзі.,approved
+jūs,pron,A1,you; accusative plural of jūs,ви,Vai ___ esat no Ukrainas?,jūs,Ви з України?,approved
+viņi,pron,A1,"they; third person pronoun, referring to people other than the speaker or addresee",вони (чоловіки),___ dzīvo Latvijā.,Viņi,Вони живуть у Латвії.,approved
+viņas,pron,A1,"her, of her; genitive singular of viņa",вони (жінки),___ ir draudzenes.,Viņas,Вони подруги.,approved
+vārds,noun,A1,name,ім'я; слово,Mans ___ ir Anna.,vārds,Моє ім'я Анна.,approved
+uzvārds,noun,A1,"surname, family name, last name",прізвище,Kāds ir jūsu ___?,uzvārds,Яке ваше прізвище?,approved
+vecums,noun,A1,old age,вік,Kāds ir jūsu ___?,vecums,Який ваш вік?,approved
+adrese,noun,A1,address,адреса,"Uzrakstiet savu ___, lūdzu.",adresi,"Напишіть свою адресу, будь ласка.",approved
+tālrunis,noun,A1,"telephone set, phone",телефон,Es runāju pa ___.,tālruni,Я розмовляю по телефону.,approved
+pase,noun,A1,passport,паспорт,"Lūdzu, parādiet savu ___.",pasi,"Будь ласка, покажіть свій паспорт.",approved
+kungs,noun,A1,gentleman,пан,"Labdien, Ozola ___!",kungs,"Добрий день, пане Озоле!",approved
+kundze,noun,A1,female equivalent of kungs,пані,"Labdien, Bērziņas ___!",kundze,"Добрий день, пані Берзіню!",approved
+jaunkundze,noun,A1,,панна,"Šī ir ___ Liepa, mūsu skolotāja.",jaunkundze,"Це панна Ліпа, наша вчителька.",approved
+meitene,noun,A1,girl,дівчина; дівчинка,Šī ___ ir mana māsa.,meitene,Ця дівчина — моя сестра.,approved
+puisis,noun,A1,"young man, youth, boy",хлопець,Tas ___ ir mans brālis.,puisis,Той хлопець — мій брат.,approved
+cilvēks,noun,A1,"person, human being",людина,Viņš ir labs ___.,cilvēks,Він добра людина.,approved
+sveiciens,noun,A1,"greeting, salutation",привітання,Sirsnīgs ___ no Rīgas!,sveiciens,Сердечне привітання з Риги!,approved
+students,noun,A1,student,студент,Mans brālis ir ___.,students,Мій брат — студент.,approved
+studente,noun,A1,student,студентка,Anna ir ___.,studente,Анна — студентка.,approved
+skolēns,noun,A1,"schoolchild, pupil, student",школяр; учень,Mans dēls ir ___.,skolēns,Мій син — школяр.,approved
+dzimtene,noun,A1,"homeland, native country",батьківщина,Ukraina ir mana ___.,dzimtene,Україна — моя батьківщина.,approved
+saukties,verb,A1,,називатися,Kā jūs ___?,saucaties,Як вас звати?,approved
+iepazīties,verb,A1,"to get to know, to acquaint oneself with",знайомитися,Es gribu ar jums ___.,iepazīties,Я хочу з вами познайомитися.,approved
+dzīvot,verb,A1,"to live, to be alive",жити,Es ___ Rīgā.,dzīvoju,Я живу в Ризі.,approved
+runāt,verb,A1,"to speak, to talk",говорити; розмовляти,Es ___ latviski.,runāju,Я розмовляю латиською.,approved
+strādāt,verb,A1,to work,працювати,Viņa ___ bankā.,strādā,Вона працює в банку.,approved
+mācīties,verb,A1,"to learn, to study",вчитися,Mēs ___ latviešu valodu.,mācāmies,Ми вчимо латиську мову.,approved
+būt,verb,A1,"to be, to exist",бути,Es gribu ___ ārsts.,būt,Я хочу бути лікарем.,approved
+nākt,verb,A1,to come,приходити; походити,Es ___ no Ukrainas.,nāku,Я родом з України.,approved
+sveicināt,verb,A1,"to greet, to welcome",вітати,Viņš ___ visus ar smaidu.,sveicina,Він вітає всіх з усмішкою.,approved
+pateikties,verb,A1,,дякувати,Es gribu jums ___.,pateikties,Я хочу вам подякувати.,approved
+atvainoties,verb,A1,to excuse oneself,вибачатися,Es gribu ___ par kavēšanos.,atvainoties,Я хочу вибачитися за запізнення.,approved
+lūgt,verb,A1,to ask,просити,Es jūs ___ palīdzēt.,lūdzu,Я прошу вас допомогти.,approved
+saprast,verb,A1,to understand,розуміти,Es labi ___ latviski.,saprotu,Я добре розумію латиську.,approved
+atkārtot,verb,A1,,повторювати,"Lūdzu, ___ vēlreiz.",atkārtojiet,"Будь ласка, повторіть ще раз.",approved
+pierakstīt,verb,A1,,записувати,"Lūdzu, ___ savu vārdu.",pierakstiet,"Будь ласка, запишіть своє ім'я.",approved
+laipns,adj,A1,"nice, polite, kind, friendly, warm, welcoming",ввічливий; люб'язний,Viņš ir ļoti ___ cilvēks.,laipns,Він дуже люб'язна людина.,approved
+jauks,adj,A1,"nice, cute",милий; приємний,Tas ir ļoti ___ vārds.,jauks,Це дуже гарне ім'я.,approved

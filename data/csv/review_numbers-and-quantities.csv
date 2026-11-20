@@ -1,0 +1,52 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+nulle,num,A1,zero,нуль,Ūdens sasalst pie ___ grādiem.,nulles,Вода замерзає при нулі градусів.,approved
+viens,num,A1,one,один,Man ir ___ brālis.,viens,У мене один брат.,approved
+divi,num,A1,two,два,Man ir ___ bērni.,divi,У мене двоє дітей.,approved
+trīs,num,A1,three,три,Mums ir ___ istabas.,trīs,У нас три кімнати.,approved
+četri,num,A1,four,чотири,Gadā ir ___ gadalaiki.,četri,В році чотири пори року.,approved
+pieci,num,A1,five,п'ять,Uz rokas ir ___ pirksti.,pieci,На руці п'ять пальців.,approved
+seši,num,A1,six,шість,Divreiz trīs ir ___.,seši,Двічі по три — шість.,approved
+septiņi,num,A1,seven,сім,Nedēļā ir ___ dienas.,septiņas,У тижні сім днів.,approved
+astoņi,num,A1,eight,вісім,Divreiz četri ir ___.,astoņi,Двічі по чотири — вісім.,approved
+deviņi,num,A1,nine,дев'ять,Trīsreiz trīs ir ___.,deviņi,Тричі по три — дев'ять.,approved
+desmit,num,A1,ten,десять,Divreiz pieci ir ___.,desmit,Двічі по п'ять — десять.,approved
+vienpadsmit,num,A1,eleven,одинадцять,Futbola komandā ir ___ spēlētāji.,vienpadsmit,У футбольній команді одинадцять гравців.,approved
+divpadsmit,num,A1,twelve,дванадцять,Vienpadsmit un viens ir ___.,divpadsmit,Одинадцять і один — дванадцять.,approved
+trīspadsmit,num,A1,thirteen,тринадцять,Divpadsmit un viens ir ___.,trīspadsmit,Дванадцять і один — тринадцять.,approved
+četrpadsmit,num,A1,fourteen,чотирнадцять,Trīspadsmit un viens ir ___.,četrpadsmit,Тринадцять і один — чотирнадцять.,approved
+piecpadsmit,num,A1,fifteen,п'ятнадцять,Četrpadsmit un viens ir ___.,piecpadsmit,Чотирнадцять і один — п'ятнадцять.,approved
+sešpadsmit,num,A1,sixteen,шістнадцять,Piecpadsmit un viens ir ___.,sešpadsmit,П'ятнадцять і один — шістнадцять.,approved
+septiņpadsmit,num,A1,seventeen,сімнадцять,Sešpadsmit un viens ir ___.,septiņpadsmit,Шістнадцять і один — сімнадцять.,approved
+astoņpadsmit,num,A1,eighteen,вісімнадцять,Septiņpadsmit un viens ir ___.,astoņpadsmit,Сімнадцять і один — вісімнадцять.,approved
+deviņpadsmit,num,A1,nineteen,дев'ятнадцять,Astoņpadsmit un viens ir ___.,deviņpadsmit,Вісімнадцять і один — дев'ятнадцять.,approved
+divdesmit,num,A1,twenty,двадцять,Deviņpadsmit un viens ir ___.,divdesmit,Дев'ятнадцять і один — двадцять.,approved
+trīsdesmit,num,A1,thirty,тридцять,Divdesmit un desmit ir ___.,trīsdesmit,Двадцять і десять — тридцять.,approved
+četrdesmit,num,A1,forty,сорок,Trīsdesmit un desmit ir ___.,četrdesmit,Тридцять і десять — сорок.,approved
+piecdesmit,num,A1,fifty,п'ятдесят,Četrdesmit un desmit ir ___.,piecdesmit,Сорок і десять — п'ятдесят.,approved
+sešdesmit,num,A1,sixty,шістдесят,Piecdesmit un desmit ir ___.,sešdesmit,П'ятдесят і десять — шістдесят.,approved
+septiņdesmit,num,A1,seventy,сімдесят,Sešdesmit un desmit ir ___.,septiņdesmit,Шістдесят і десять — сімдесят.,approved
+astoņdesmit,num,A1,eighty,вісімдесят,Septiņdesmit un desmit ir ___.,astoņdesmit,Сімдесят і десять — вісімдесят.,approved
+deviņdesmit,num,A1,ninety,дев'яносто,Astoņdesmit un desmit ir ___.,deviņdesmit,Вісімдесят і десять — дев'яносто.,approved
+simts,num,A1,hundred,сто,Deviņdesmit un desmit ir ___.,simts,Дев'яносто і десять — сто.,approved
+tūkstotis,num,A1,thousand,тисяча,Kilometrā ir viens ___ metru.,tūkstotis,У кілометрі тисяча метрів.,approved
+miljons,num,A1,million,мільйон,Tūkstotis tūkstošu ir viens ___.,miljons,Тисяча тисяч — це один мільйон.,approved
+pirmais,num,A1,first,перший,Janvāris ir gada ___ mēnesis.,pirmais,Січень — перший місяць року.,approved
+otrais,num,A1,,другий,Februāris ir gada ___ mēnesis.,otrais,Лютий — другий місяць року.,approved
+trešais,num,A1,third,третій,Marts ir gada ___ mēnesis.,trešais,Березень — третій місяць року.,approved
+ceturtais,num,A1,fourth,четвертий,Aprīlis ir gada ___ mēnesis.,ceturtais,Квітень — четвертий місяць року.,approved
+piektais,num,A1,fifth,п'ятий,Maijs ir gada ___ mēnesis.,piektais,Травень — п'ятий місяць року.,approved
+skaitlis,noun,A1,"number, quantity, figure",число; цифра,Septiņi ir mans laimīgais ___.,skaitlis,Сім — моє щасливе число.,approved
+puse,noun,A1,half,половина,Es apēdu ___ kūkas.,pusi,Я з'їв половину торта.,approved
+ceturtdaļa,noun,A1,"one fourth, one quarter, 1/4",чверть,Es paņēmu vienu ___ no kūkas.,ceturtdaļu,Я взяв чверть торта.,approved
+pāris,noun,A1,pair,пара,Es nopirku ___ zeķu.,pāri,Я купив пару шкарпеток.,approved
+daudzums,noun,A1,"amount, quantity, number",кількість,Šim ēdienam vajag lielu ___ cukura.,daudzumu,Для цієї страви потрібна велика кількість цукру.,approved
+procents,noun,A1,,відсоток,Atlaide ir desmit ___.,procenti,Знижка — десять відсотків.,approved
+summa,noun,A1,,сума,Kāda ir kopējā ___?,summa,Яка загальна сума?,approved
+daudz,adv,A1,"much, a lot; adverbial form of daudzi",багато,Veikalā ir ___ cilvēku.,daudz,У магазині багато людей.,approved
+maz,adv,A1,little; adverbial form of mazs,мало,Man ir ___ laika.,maz,У мене мало часу.,approved
+mazliet,adv,A1,a bit of,трохи,Es runāju latviski tikai ___.,mazliet,Я розмовляю латиською лише трохи.,approved
+vairāk,adv,A1,more,більше,Es gribu ___ ūdens.,vairāk,Я хочу більше води.,approved
+mazāk,adv,A1,"smaller, less; adverbial form of mazāks",менше,Man vajag ___ cukura.,mazāk,Мені потрібно менше цукру.,approved
+pietiekami,adv,A1,,достатньо,Man ir ___ naudas.,pietiekami,У мене достатньо грошей.,approved
+vienreiz,adv,A1,,один раз,Es to redzēju tikai ___.,vienreiz,Я бачив це лише один раз.,approved
+divreiz,adv,A1,,двічі,Es braucu uz Rīgu ___ gadā.,divreiz,Я їжджу до Риги двічі на рік.,approved

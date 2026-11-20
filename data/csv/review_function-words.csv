@@ -62,3 +62,74 @@ pat,part,A2,even,навіть,___ bērns to var.,Pat,Навіть дитина �
 taču,part,A2,"particle used to reinforce or emphasize a certain word or idea, usually by reducing doubts about it; but...",адже,Tu ___ zini!,taču,Ти ж знаєш!,approved
 tomēr,part,A2,"used to strengthen meaning of word or expression, assigned contrast or concession",все ж,Es ___ gribu iet.,tomēr,Я все ж хочу піти.,approved
 patiešām,part,A2,"truly, really, indeed; adverbial form of patiess",справді,Tā ___ ir laba ideja.,patiešām,Це справді гарна ідея.,approved
+tas,pron,A1,that,те; це; воно,___ ir mans suns.,Tas,Це мій пес.,approved
+kas,pron,A1,"who, what",хто; що,___ tas ir?,Kas,Хто це?,approved
+kurš,pron,A1,"which, who",який; котрий,___ autobuss iet uz centru?,Kurš,Який автобус їде до центру?,approved
+kāds,pron,A1,"what, what kind",який; якийсь,___ ir tavs mīļākais ēdiens?,Kāds,Яка твоя улюблена страва?,approved
+mans,pron,A1,"my, mine",мій,Tas ir ___ brālis.,mans,Це мій брат.,approved
+tavs,pron,A1,"your, yours",твій,Vai tas ir ___ telefons?,tavs,Це твій телефон?,approved
+mūsu,pron,A1,"our, ours, of us; genitive plural of mēs",наш,Tā ir ___ māja.,mūsu,Це наш будинок.,approved
+jūsu,pron,A1,"your, yours, of you; genitive plural of jūs",ваш,Kur ir ___ pase?,jūsu,Де ваш паспорт?,approved
+savs,pron,A1,own; used with all persons,свій,Katrs cilvēks mīl ___ valsti.,savu,Кожна людина любить свою країну.,approved
+šis,pron,A1,this,цей,___ galds ir liels.,Šis,Цей стіл великий.,approved
+tāds,pron,A1,such,такий,Es gribu ___ pašu kleitu.,tādu,Я хочу таку саму сукню.,approved
+viss,pron,A1,"all, everything, anything",все,Es zinu ___.,visu,Я знаю все.,approved
+katrs,pron,A1,every,кожний,___ cilvēks ir svarīgs.,Katrs,Кожна людина важлива.,approved
+nekas,pron,A1,nothing,ніщо; нічого,___ nav noticis.,Nekas,Нічого не сталося.,approved
+neviens,pron,A1,nobody,ніхто,___ nezina.,Neviens,Ніхто не знає.,approved
+cits,pron,A1,another,інший,Man vajag ___ krāsu.,citu,Мені потрібен інший колір.,approved
+pats,pron,A1,self,сам,Viņš visu dara ___.,pats,Він усе робить сам.,approved
+kaut kas,pron,A1,something,щось,Man ir ___ jums.,kaut kas,У мене є щось для вас.,approved
+kaut kur,pron,A1,,десь,Es esmu viņu ___ redzējis.,kaut kur,Я десь його бачив.,approved
+ar,prep,A1,with,з; за допомогою,Es dzeru tēju ___ citronu.,ar,Я п'ю чай з лимоном.,approved
+par,prep,A1,"about, on",про; за,Mēs runājam ___ laiku.,par,Ми говоримо про погоду.,approved
+uz,prep,A1,"on, onto",на; до,Es eju ___ veikalu.,uz,Я йду до магазину.,approved
+no,prep,A1,from,з; від,Es esmu ___ Latvijas.,no,Я з Латвії.,approved
+pie,prep,A1,at,біля; у (когось),Es esmu ___ draugiem.,pie,Я в друзів.,approved
+pēc,prep,A1,"used to refer to a time posterior to a certain action or event; after, in",після,___ darba es eju mājās.,Pēc,Після роботи я йду додому.,approved
+līdz,prep,A1,till,до,Es strādāju ___ pieciem.,līdz,Я працюю до п'ятої.,approved
+bez,prep,A1,without,без,Es dzeru kafiju ___ cukura.,bez,Я п'ю каву без цукру.,approved
+pret,prep,A1,against,проти,Viņš ir ___ šo ideju.,pret,Він проти цієї ідеї.,approved
+starp,prep,A1,used to locate an object in the space defined by two others; between,між,Veikals ir ___ bankas un aptiekas.,starp,Магазин між банком і аптекою.,approved
+zem,prep,A1,under,під,Kaķis ir ___ galda.,zem,Кіт під столом.,approved
+virs,prep,A1,"on, over, above",над,___ galda karājas lampa.,Virs,Над столом висить лампа.,approved
+aiz,prep,A1,behind,за (позаду),Skola ir ___ stacijas.,aiz,Школа за станцією.,approved
+pirms,prep,A1,before,перед; до,___ ēšanas mazgājiet rokas.,Pirms,Перед їжею мийте руки.,approved
+kopš,prep,A1,since,з (певного часу),Es dzīvoju Rīgā ___ 2020. gada.,kopš,Я живу в Ризі з 2020 року.,approved
+blakus,prep,A1,,поруч,Mans draugs dzīvo ___.,blakus,Мій друг живе поруч.,approved
+pa,prep,A1,on,по,Mēs ejam ___ ielu.,pa,Ми йдемо по вулиці.,approved
+un,conj,A1,additive conjunction used to link similar terms in a clause; and,і; та,Es ēdu maizi ___ sieru.,un,Я їм хліб і сир.,approved
+bet,conj,A1,"adversative conjunction, used to express contrast or opposition; but",але,"Es gribu, ___ man nav laika.",bet,"Я хочу, але в мене немає часу.",approved
+vai,conj,A1,used to indicate a disjunction between two elements; or,чи; або,Tēja ___ kafija?,vai,Чай чи кава?,approved
+ka,conj,A1,"that; used to link a subordinate clause to the main clause, sometimes with a pronominal antecedent",що (сполучник),"Es zinu, ___ tu esi šeit.",ka,"Я знаю, що ти тут.",approved
+ja,conj,A1,if,якщо,"___ līs lietus, mēs paliksim mājās.",Ja,"Якщо піде дощ, ми залишимося вдома.",approved
+lai,conj,A1,"with the conditional, indicating purpose, sometimes cause; sometimes correlating with tāpēc, tādēļ in the main clause; so that, in order to, in order that",щоб,"Es mācos, ___ nokārtotu eksāmenu.",lai,"Я вчуся, щоб скласти іспит.",approved
+jo,conj,A1,because,тому що,"Es palieku mājās, ___ man ir slikti.",jo,"Я залишаюся вдома, бо мені погано.",approved
+kad,conj,A1,when,коли,___ tu atnāksi?,Kad,Коли ти прийдеш?,approved
+kā,conj,A1,as,як,___ jums klājas?,Kā,Як у вас справи?,approved
+tā,adv,A1,"thus, so, like that",так,Dariet ___.,tā,Робіть так.,approved
+tad,adv,A1,then,тоді; потім,"Vispirms mēs ēdam, ___ ejam pastaigāties.",tad,"Спочатку ми їмо, потім ідемо гуляти.",approved
+vēl,adv,A1,"used to indicate that a given action, expected to happen, has not started up to the moment of speaking; yet, so far",ще,Vai jums ir ___ jautājumi?,vēl,Чи є у вас ще питання?,approved
+jau,adv,A1,"used to indicate that an action or event has started, happened before the time of speaking; already",вже,Es ___ esmu paēdis.,jau,Я вже поїв.,approved
+tik,adv,A1,so,так; такий,Tas nav ___ grūti.,tik,Це не так складно.,approved
+tur,adv,A1,"used to indicate an unnamed location relatively far from the speaker; there, in that place",там,Mans draugs ir ___.,tur,Мій друг там.,approved
+te,adv,A1,here,тут,Es esmu ___.,te,Я тут.,approved
+šeit,adv,A1,here,тут,Stacija ir ___.,šeit,Станція тут.,approved
+ļoti,adv,A1,used to intensify the meaning of the word it accompanies; very,дуже,Es esmu ___ priecīgs.,ļoti,Я дуже радий.,approved
+tikai,adv,A1,"used to limit the meaning of a word or expression; only, just",тільки,Man ir ___ viens brālis.,tikai,У мене лише один брат.,approved
+atkal,adv,A1,again,знову,Viņš ___ kavē.,atkal,Він знову запізнюється.,approved
+iekšā,adv,A1,"in, inside",всередині,Mēs ejam ___.,iekšā,Ми заходимо всередину.,approved
+ārā,adv,A1,"out, outside",надворі,Bērni spēlējas ___.,ārā,Діти граються надворі.,approved
+augšā,adv,A1,"up, upward",нагорі,Mans dzīvoklis ir ___.,augšā,Моя квартира нагорі.,approved
+lejā,adv,A1,"down, downward; at, to(ward) the bottom, or a lower area; to(ward) the ground",внизу,Kafejnīca ir ___.,lejā,Кафе внизу.,approved
+kur,adv,A1,where? in what place?,де,___ jūs dzīvojat?,Kur,Де ви живете?,approved
+kāpēc,adv,A1,why? for what reason? for what purpose?,чому,___ tu nenāc?,Kāpēc,Чому ти не приходиш?,approved
+cik,adv,A1,how,скільки,___ jums gadu?,Cik,Скільки вам років?,approved
+labi,adv,A1,well; adverbial form of labs,добре,Es jūtos ___.,labi,Я почуваюся добре.,approved
+slikti,adv,A1,"bad, badly; adverbial form of slikts",погано,Man ir ___.,slikti,Мені погано.,approved
+ātri,adv,A1,"fast, quick, quickly; adverbial form of ātrs",швидко,Viņš skrien ļoti ___.,ātri,Він бігає дуже швидко.,approved
+lēni,adv,A1,"slow, calm, slowly, calmly; adverbial form of lēns",повільно,"Lūdzu, runājiet ___.",lēni,"Будь ласка, говоріть повільно.",approved
+ne,part,A1,not,не; ні,"Tā ir ___ kafija, bet tēja.",ne,"Це не кава, а чай.",approved
+nu,part,A1,well,ну,"___, tad iesim!",Nu,"Ну, тоді ходімо!",approved
+arī,part,A1,"used to indicate connection, addition; too, also",також,Es ___ gribu kafiju.,arī,Я теж хочу каву.,approved
+vai,part,A1,"interrogative particle, used in either-or questions",чи (питальна частка),___ jūs runājat latviski?,Vai,Чи розмовляєте ви латиською?,approved

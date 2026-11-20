@@ -12,3 +12,69 @@ alerģisks,adj,B1,,алергічний,Mana māsa ir ___ pret putekļiem.,aler�
 hronisks,adj,B1,,хронічний,Viņam ir ___ slimība.,hroniska,У нього хронічна хвороба.,approved
 izmocīts,adj,B1,,виснажений,Pēc garas nakts viņš izskatījās ___.,izmocīts,Після довгої ночі він виглядав виснаженим.,approved
 pilnvērtīgs,adj,B1,,повноцінний,Bērnam ir vajadzīgs ___ uzturs.,pilnvērtīgs,Дитині потрібне повноцінне харчування.,approved
+ķermenis,noun,A1,body,тіло,Mans ___ ir noguris.,ķermenis,Моє тіло втомлене.,approved
+galva,noun,A1,head,голова,"Man sāp ___, es gribu gulēt.",galva,"У мене болить голова, я хочу спати.",approved
+mati,noun,A1,(head) hair,волосся,Viņai ir gari ___.,mati,У неї довге волосся.,approved
+seja,noun,A1,face,обличчя,Es mazgāju ___.,seju,Я вмиваю обличчя.,approved
+acs,noun,A1,eye,око,Man kaut kas iekrita ___.,acī,Мені щось потрапило в око.,approved
+deguns,noun,A1,nose,ніс,Man ir aizlikts ___.,deguns,У мене закладений ніс.,approved
+mute,noun,A1,mouth,рот,"Atveriet ___, lūdzu.",muti,"Відкрийте рот, будь ласка.",approved
+zobs,noun,A1,tooth,зуб,"Man jāiet pie zobārsta, jo man sāp ___.",zobs,"Мені треба до стоматолога, бо болить зуб.",approved
+auss,noun,A1,ear,вухо,"Es nedzirdu, man sāp ___.",auss,"Я не чую, у мене болить вухо.",approved
+kakls,noun,A1,neck,шия; горло,Man sāp ___.,kakls,У мене болить горло.,approved
+plecs,noun,A1,shoulder,плече,Viņam sāp labais ___.,plecs,У нього болить праве плече.,approved
+roka,noun,A1,"hand, arm",рука,Es salauzu ___.,roku,Я зламав руку.,approved
+pirksts,noun,A1,"finger, toe",палець,Es sagriezu ___.,pirkstu,Я порізав палець.,approved
+mugura,noun,A1,back,спина,Pēc smaga darba man sāp ___.,mugura,Після важкої роботи в мене болить спина.,approved
+krūtis,noun,A1,breast,груди,Man sāp ___.,krūtis,У мене болять груди.,approved
+vēders,noun,A1,belly,живіт,"Es ēdu par daudz, man sāp ___.",vēders,"Я з'їв забагато, у мене болить живіт.",approved
+kāja,noun,A1,"leg, foot",нога,Man sāp ___ no skriešanas.,kāja,У мене болить нога від бігу.,approved
+ceļgals,noun,A1,,коліно,Man sāp labais ___.,ceļgals,У мене болить праве коліно.,approved
+pēda,noun,A1,foot,ступня,Man sāp kreisā ___.,pēda,У мене болить ліва ступня.,approved
+sirds,noun,A1,heart,серце,Viņam ir vāja ___.,sirds,У нього слабке серце.,approved
+ārsts,noun,A1,"doctor, physician",лікар,Man jāiet pie ___.,ārsta,Мені треба до лікаря.,approved
+poliklīnika,noun,A1,,поліклініка,Es eju uz ___.,poliklīniku,Я йду до поліклініки.,approved
+zāles,noun,A1,grass,ліки,Es dzeru ___ pret galvassāpēm.,zāles,Я п'ю ліки від головного болю.,approved
+tablete,noun,A1,"tablet, pill",таблетка,Es iedzēru ___.,tableti,Я випив таблетку.,approved
+temperatūra,noun,A1,temperature,температура,Man ir augsta ___.,temperatūra,У мене висока температура.,approved
+sāpes,noun,A1,,біль,Man ir stipras ___.,sāpes,У мене сильний біль.,approved
+saaukstēšanās,noun,A1,cold,застуда,Man ir ___.,saaukstēšanās,У мене застуда.,approved
+klepus,noun,A1,"cough, coughing",кашель,Man ir stiprs ___.,klepus,У мене сильний кашель.,approved
+iesnas,noun,A1,"cold, common cold, head cold",нежить,Man ir ___.,iesnas,У мене нежить.,approved
+gripa,noun,A1,"influenza, flu",грип,Viņš slimo ar ___.,gripu,Він хворіє на грип.,approved
+drudzis,noun,A1,fever,гарячка,Bērnam ir ___.,drudzis,У дитини гарячка.,approved
+recepte,noun,A1,medical prescription,рецепт,Ārsts uzrakstīja ___.,recepti,Лікар виписав рецепт.,approved
+vizīte,noun,A1,,візит,Rīt man ir ___ pie ārsta.,vizīte,Завтра в мене візит до лікаря.,approved
+veselība,noun,A1,health,здоров'я,___ ir svarīgāka par naudu.,Veselība,Здоров'я важливіше за гроші.,approved
+slimība,noun,A1,"disease, illness",хвороба,Šī ___ ir bīstama.,slimība,Ця хвороба небезпечна.,approved
+slimnieks,noun,A1,"sick person, patient",хворий; пацієнт,___ guļ slimnīcā.,Slimnieks,Хворий лежить у лікарні.,approved
+medmāsa,noun,A1,,медсестра,___ palīdz slimniekiem.,Medmāsa,Медсестра допомагає хворим.,approved
+zobārsts,noun,A1,dentist,стоматолог,Man jāiet pie ___.,zobārsta,Мені треба до стоматолога.,approved
+vitamīni,noun,A1,,вітаміни,Augļos ir daudz ___.,vitamīnu,У фруктах багато вітамінів.,approved
+vingrinājums,noun,A1,exercise,вправа,Šis ___ ir ļoti viegls.,vingrinājums,Ця вправа дуже легка.,approved
+miegs,noun,A1,sleep,сон,Man vajag ___.,miegu,Мені потрібен сон.,approved
+trauma,noun,A1,,травма,Viņš dabūja ___.,traumu,Він отримав травму.,approved
+brūce,noun,A1,"wound, gash",рана,Uz rokas ir ___.,brūce,На руці рана.,approved
+esi vesels,phrase,A1,,будь здоровий,"Kad kāds šķauda, mēs sakām: ___!",Esi vesels,"Коли хтось чхає, ми кажемо: «Будь здоровий!»",approved
+sāpēt,verb,A1,to hurt,боліти,Kur jums ___?,sāp,Де у вас болить?,approved
+slimot,verb,A1,,хворіти,Es šonedēļ ___.,slimoju,Цього тижня я хворію.,approved
+ārstēt,verb,A1,,лікувати,Ārsts ___ slimniekus.,ārstē,Лікар лікує хворих.,approved
+izārstēt,verb,A1,,вилікувати,Šo slimību var ___.,izārstēt,Цю хворобу можна вилікувати.,approved
+justies,verb,A1,,почуватися,Kā jūs ___?,jūtaties,Як ви почуваєтеся?,approved
+saaukstēties,verb,A1,,застудитися,Es nevēlos ___.,saaukstēties,Я не хочу застудитися.,approved
+klepot,verb,A1,to cough,кашляти,Viņš visu nakti ___.,klepoja,Він кашляв цілу ніч.,approved
+šķaudīt,verb,A1,to sneeze,чхати,Viņa ___ un klepo.,šķauda,Вона чхає і кашляє.,approved
+vingrot,verb,A1,"to exercise, to do",робити вправи,Es katru rītu ___.,vingroju,Я щоранку роблю вправи.,approved
+atveseļoties,verb,A1,,одужати,Es ceru ātri ___.,atveseļoties,Я сподіваюся швидко одужати.,approved
+pieteikties,verb,A1,,записатися,Es gribu ___ pie ārsta.,pieteikties,Я хочу записатися до лікаря.,approved
+uzmanīties,verb,A1,,берегтися; бути обережним,"Lūdzu, ___ uz ielas!",uzmanieties,"Будь ласка, будьте обережні на вулиці!",approved
+mērīt,verb,A1,to measure,вимірювати,Medmāsa ___ temperatūru.,mēra,Медсестра вимірює температуру.,approved
+izrakstīt,verb,A1,,виписати,Ārsts var ___ zāles.,izrakstīt,Лікар може виписати ліки.,approved
+vesels,adj,A1,healthy,здоровий,Es esmu pilnīgi ___.,vesels,Я цілком здоровий.,approved
+slims,adj,A1,"sick, ill, diseased",хворий,Mans dēls ir ___.,slims,Мій син хворий.,approved
+vājš,adj,A1,weak,слабкий,Pēc slimības viņš ir ļoti ___.,vājš,Після хвороби він дуже слабкий.,approved
+stiprs,adj,A1,strong,сильний,Viņš ir ļoti ___.,stiprs,Він дуже сильний.,approved
+noguris,adj,A1,tired; indefinite past active participle of nogurt,втомлений,Pēc darba es esmu ļoti ___.,noguris,Після роботи я дуже втомлений.,approved
+sāpīgs,adj,A1,,болісний,Šī injekcija ir ļoti ___.,sāpīga,Ця ін'єкція дуже болісна.,approved
+veselīgs,adj,A1,"healthy, robust",корисний для здоров'я,Dārzeņi ir ___.,veselīgi,Овочі корисні для здоров'я.,approved
+nevesels,adj,A1,,нездоровий,Es šodien jūtos ___.,nevesels,Я сьогодні почуваюся нездоровим.,approved

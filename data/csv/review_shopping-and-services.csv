@@ -38,3 +38,48 @@ bojāts,adj,A2,,пошкоджений; зламаний,Šis telefons ir ___.,b
 piemērots,adj,A2,,відповідний,Šī jaka ir ___ ziemai.,piemērota,Ця куртка підходить для зими.,approved
 nepiemērots,adj,A2,,невідповідний,Šie apavi ir ___ lietum.,nepiemēroti,Це взуття не підходить для дощу.,approved
 nepieciešams,adj,A2,necessary,необхідний,Pase ir ___.,nepieciešama,Паспорт необхідний.,approved
+lielveikals,noun,A1,supermarket,супермаркет,Es pērku pārtiku ___.,lielveikalā,Я купую продукти в супермаркеті.,approved
+cena,noun,A1,price,ціна,Kāda ir šīs jakas ___?,cena,Яка ціна цієї куртки?,approved
+nauda,noun,A1,money,гроші,Man nav ___.,naudas,У мене немає грошей.,approved
+maks,noun,A1,"little purse, wallet, pouch",гаманець,Mans ___ ir tukšs.,maks,Мій гаманець порожній.,approved
+eiro,noun,A1,euro,євро,Šī grāmata maksā desmit ___.,eiro,Ця книжка коштує десять євро.,approved
+cents,noun,A1,cent,цент,Kafija maksā vienu eiro un piecdesmit ___.,centus,Кава коштує один євро п'ятдесят центів.,approved
+čeks,noun,A1,,чек,"Lūdzu, ___.",čeku,"Будь ласка, чек.",approved
+pārdevējs,noun,A1,shop assistant,продавець,___ palīdz klientam.,Pārdevējs,Продавець допомагає клієнту.,approved
+pircējs,noun,A1,"buyer, customer",покупець,Veikalā ir daudz ___.,pircēju,У магазині багато покупців.,approved
+kase,noun,A1,"cash register, cash box",каса,Samaksājiet ___.,kasē,Заплатіть у касі.,approved
+grozs,noun,A1,basket,кошик,Es ieliku pienu ___.,grozā,Я поклав молоко в кошик.,approved
+maisiņš,noun,A1,"little sack, bag; diminutive of maiss",пакет; торбинка,Vai jums vajag ___?,maisiņu,Вам потрібен пакет?,approved
+atlaide,noun,A1,discount,знижка,Šodien ir liela ___.,atlaide,Сьогодні велика знижка.,approved
+grāmatnīca,noun,A1,"bookstore, bookshop",книгарня,Es nopirku grāmatu ___.,grāmatnīcā,Я купив книжку в книгарні.,approved
+karte,noun,A1,"map, chart",картка; мапа,Vai varu maksāt ar ___?,karti,Чи можу я заплатити карткою?,approved
+izmērs,noun,A1,,розмір,Kāds ir jūsu ___?,izmērs,Який у вас розмір?,approved
+krāsa,noun,A1,color,колір,Kāda ___ jums patīk?,krāsa,Який колір вам подобається?,approved
+sīknauda,noun,A1,small change,дрібні гроші; решта,Man nav ___.,sīknaudas,У мене немає дрібних грошей.,approved
+saraksts,noun,A1,"a written list, record, register, schedule",список,Es sastādīju pirkumu ___.,sarakstu,Я склав список покупок.,approved
+svars,noun,A1,weight,вага,Kāds ir šīs somas ___?,svars,Яка вага цієї сумки?,approved
+kilograms,noun,A1,kilogram,кілограм,Es gribu vienu ___ ābolu.,kilogramu,Я хочу один кілограм яблук.,approved
+grams,noun,A1,gram,грам,Dodiet man divsimt ___ siera.,gramu,Дайте мені двісті грамів сиру.,approved
+litrs,noun,A1,,літр,Es nopirku divus ___ piena.,litrus,Я купив два літри молока.,approved
+pudele,noun,A1,bottle,пляшка,"Lūdzu, ūdens ___.",pudeli,"Будь ласка, пляшку води.",approved
+kārba,noun,A1,,коробка,Šajā ___ ir cepumi.,kārbā,У цій коробці печиво.,approved
+paciņa,noun,A1,packet,пачка,Es nopirku ___ tējas.,paciņu,Я купив пачку чаю.,approved
+skaidra nauda,phrase,A1,,готівка,Es maksāju ar ___.,skaidru naudu,Я плачу готівкою.,approved
+pirkt,verb,A1,"to buy, to purchase",купувати,Es gribu ___ jaunu telefonu.,pirkt,Я хочу купити новий телефон.,approved
+pārdot,verb,A1,to sell,продавати,Šajā veikalā ___ svaigu maizi.,pārdod,У цьому магазині продають свіжий хліб.,approved
+maksāt,verb,A1,to pay,платити; коштувати,Cik tas ___?,maksā,Скільки це коштує?,approved
+izmaksāt,verb,A1,,коштувати,Remonts ___ ļoti dārgi.,izmaksās,Ремонт коштуватиме дуже дорого.,approved
+izvēlēties,verb,A1,to choose,вибирати,Es nevaru ___ krāsu.,izvēlēties,Я не можу вибрати колір.,approved
+pielaikot,verb,A1,,приміряти,Vai varu ___ šo kreklu?,pielaikot,Чи можу я приміряти цю сорочку?,approved
+vajadzēt,verb,A1,"to be necessary, to be needed, to be desired",бути потрібним,Man ___ jauns maks.,vajag,Мені потрібен новий гаманець.,approved
+patikt,verb,A1,to like,подобатися,Man ___ šī jaka.,patīk,Мені подобається ця куртка.,approved
+gribēt,verb,A1,to want,хотіти,Es ___ nopirkt maizi.,gribu,Я хочу купити хліб.,approved
+ņemt,verb,A1,to take; to seize with one's hands for some purpose,брати,Es ___ šo kreklu.,ņemu,Я беру цю сорочку.,approved
+dot,verb,A1,to give,давати,"Lūdzu, ___ man maisiņu.",dodiet,"Будь ласка, дайте мені пакет.",approved
+meklēt,verb,A1,"to search for, to look for",шукати,Es ___ dāvanu mammai.,meklēju,Я шукаю подарунок для мами.,approved
+dārgs,adj,A1,"expensive, costly",дорогий,Šī jaka ir ļoti ___.,dārga,Ця куртка дуже дорога.,approved
+lēts,adj,A1,cheap,дешевий,Šis veikals ir ļoti ___.,lēts,Цей магазин дуже дешевий.,approved
+svaigs,adj,A1,fresh,свіжий,Maize ir ___.,svaiga,Хліб свіжий.,approved
+atvērts,adj,A1,opened; indefinite past passive participle of atvērt,відкритий,Veikals ir ___ līdz astoņiem.,atvērts,Магазин відкритий до восьмої.,approved
+slēgts,adj,A1,,зачинений,Svētdien veikals ir ___.,slēgts,У неділю магазин зачинений.,approved
+brīvs,adj,A1,free,вільний; безкоштовний,Vai šis galds ir ___?,brīvs,Чи вільний цей стіл?,approved

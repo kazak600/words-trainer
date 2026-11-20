@@ -26,3 +26,40 @@ moderns,adj,A2,modern,модний; сучасний,Šī jaka ir ļoti ___.,mod
 elegants,adj,A2,,елегантний,Viņš ir ļoti ___ vīrietis.,elegants,Він дуже елегантний чоловік.,approved
 raibs,adj,A2,,строкатий,Viņai ir ___ šalle.,raiba,У неї строкатий шарф.,approved
 vienkrāsains,adj,A2,,однотонний,Man patīk ___ krekli.,vienkrāsaini,Мені подобаються однотонні сорочки.,approved
+apģērbs,noun,A1,clothing,одяг,Ziemā vajag siltu ___.,apģērbu,Взимку потрібен теплий одяг.,approved
+krekls,noun,A1,shirt,сорочка,Viņš valkā baltu ___.,kreklu,Він носить білу сорочку.,approved
+bikses,noun,A1,"pants, trousers; shorts",штани,Man vajag jaunas ___.,bikses,Мені потрібні нові штани.,approved
+svārki,noun,A1,"coat, jacket",спідниця,Viņa valkā īsus ___.,svārkus,Вона носить коротку спідницю.,approved
+kleita,noun,A1,dress,сукня,Šī ___ ir ļoti skaista.,kleita,Ця сукня дуже гарна.,approved
+jaka,noun,A1,cardigan,куртка,"Ārā ir auksts, uzvelc ___.",jaku,"Надворі холодно, одягни куртку.",approved
+cepure,noun,A1,hat,шапка; капелюх,Ziemā es valkāju siltu ___.,cepuri,Взимку я ношу теплу шапку.,approved
+kurpes,noun,A1,shoes,туфлі; взуття,Man vajag jaunas ___.,kurpes,Мені потрібні нові туфлі.,approved
+zeķes,noun,A1,sock,шкарпетки,Vecmāmiņa adī siltas ___.,zeķes,Бабуся в'яже теплі шкарпетки.,approved
+mētelis,noun,A1,overcoat,пальто,Ziemā es valkāju garu ___.,mēteli,Взимку я ношу довге пальто.,approved
+džemperis,noun,A1,sweater,светр,Šis ___ ir ļoti silts.,džemperis,Цей светр дуже теплий.,approved
+cimdi,noun,A1,glove,рукавиці; рукавички,Aukstumā vajag ___.,cimdus,У холод потрібні рукавиці.,approved
+šalle,noun,A1,scarf,шарф,Es ap kaklu aptinu ___.,šalli,Я обмотую навколо шиї шарф.,approved
+brilles,noun,A1,"glasses, eyeglasses, spectacles",окуляри,Viņš valkā ___.,brilles,Він носить окуляри.,approved
+apavi,noun,A1,footwear,взуття,Šie ___ ir ļoti ērti.,apavi,Це взуття дуже зручне.,approved
+zābaki,noun,A1,boot,чоботи,Ziemā es valkāju siltus ___.,zābakus,Взимку я ношу теплі чоботи.,approved
+balts,adj,A1,white,білий,Sniegs ir ___.,balts,Сніг білий.,approved
+melns,adj,A1,black,чорний,Kaķis ir ___.,melns,Кіт чорний.,approved
+sarkans,adj,A1,red,червоний,Ābols ir ___.,sarkans,Яблуко червоне.,approved
+zils,adj,A1,blue,синій; блакитний,Jūra ir ___.,zila,Море синє.,approved
+zaļš,adj,A1,green,зелений,Zāle ir ___.,zaļa,Трава зелена.,approved
+dzeltens,adj,A1,yellow,жовтий,Banāns ir ___.,dzeltens,Банан жовтий.,approved
+brūns,adj,A1,brown,коричневий,Šokolāde ir ___.,brūna,Шоколад коричневий.,approved
+pelēks,adj,A1,gray,сірий,Pele ir ___.,pelēka,Миша сіра.,approved
+oranžs,adj,A1,orange,помаранчевий,Apelsīns ir ___.,oranžs,Апельсин помаранчевий.,approved
+rozā,adj,A1,pink,рожевий,Viņai ir ___ kleita.,rozā,У неї рожева сукня.,approved
+violets,adj,A1,purple,фіолетовий,Viņam ir ___ krekls.,violets,У нього фіолетова сорочка.,approved
+gaišs,adj,A1,bright,світлий,Man patīk ___ istaba.,gaiša,Мені подобається світла кімната.,approved
+tumšs,adj,A1,dark,темний,Ārā jau ir ___.,tumšs,Надворі вже темно.,approved
+garš,adj,A1,long,довгий,Šie svārki ir pārāk ___.,gari,Ця спідниця занадто довга.,approved
+īss,adj,A1,short,короткий,Šī kleita ir pārāk ___.,īsa,Ця сукня занадто коротка.,approved
+plats,adj,A1,"wide, broad",широкий,Šīs bikses ir pārāk ___.,platas,Ці штани надто широкі.,approved
+šaurs,adj,A1,narrow,вузький,Šie zābaki ir pārāk ___.,šauri,Ці чоботи надто вузькі.,approved
+valkāt,verb,A1,,носити (одяг),Viņš mīl ___ melnu.,valkāt,Він любить носити чорне.,approved
+uzvilkt,verb,A1,,одягнути,Es gribu ___ jaunu kleitu.,uzvilkt,Я хочу одягнути нову сукню.,approved
+novilkt,verb,A1,,зняти (одяг),"Lūdzu, ___ apavus.",novelciet,"Будь ласка, зніміть взуття.",approved
+derēt,verb,A1,,пасувати; бути впору,Šī kleita tev ļoti ___.,der,Ця сукня тобі дуже пасує.,approved

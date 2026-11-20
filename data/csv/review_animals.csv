@@ -48,3 +48,29 @@ kost,verb,A2,"to bite, to take a bite",кусати,Suns var ___.,kost,Пес м
 mežonīgs,adj,A2,,дикий,Vilks ir ___ dzīvnieks.,mežonīgs,Вовк — дикий звір.,approved
 savvaļas,adj,A2,,дикий (вільний),Šeit dzīvo ___ dzīvnieki.,savvaļas,Тут живуть дикі тварини.,approved
 bīstams,adj,A2,"dangerous, perilous, scary",небезпечний,Šis suns ir ___.,bīstams,Цей пес небезпечний.,approved
+dzīvnieks,noun,A1,animal,тварина,Lauva ir bīstams ___.,dzīvnieks,Лев — небезпечна тварина.,approved
+suns,noun,A1,domestic dog,пес; собака,Mans ___ ir ļoti draudzīgs.,suns,Мій пес дуже дружній.,approved
+kaķis,noun,A1,domestic cat,кіт,Mans ___ guļ uz dīvāna.,kaķis,Мій кіт спить на дивані.,approved
+aita,noun,A1,sheep,вівця,___ dod vilnu.,Aita,Вівця дає вовну.,approved
+kaza,noun,A1,goat,коза,___ dod pienu.,Kaza,Коза дає молоко.,approved
+pīle,noun,A1,duck,качка,___ peld dīķī.,Pīle,Качка плаває в ставку.,approved
+zoss,noun,A1,goose,гуска,___ ir liels putns.,Zoss,Гуска — великий птах.,approved
+trusis,noun,A1,rabbit,кролик,___ dzīvo būrī.,Trusis,Кролик живе в клітці.,approved
+pele,noun,A1,mouse,миша,___ ir ļoti maza.,Pele,Миша дуже маленька.,approved
+kucēns,noun,A1,"baby dog, puppy",цуценя,___ spēlējas pagalmā.,Kucēns,Цуценя грається у дворі.,approved
+kaķēns,noun,A1,"kitten, baby cat",кошеня,Mazais ___ dzer pienu.,kaķēns,Маленьке кошеня п'є молоко.,approved
+teļš,noun,A1,calf,теля,Govij ir mazs ___.,teļš,У корови є маленьке теля.,approved
+mājdzīvnieks,noun,A1,domestic animal,домашня тварина,Kaķis ir mans mīļākais ___.,mājdzīvnieks,Кіт — моя улюблена домашня тварина.,approved
+aste,noun,A1,(long) tail,хвіст,Sunim ir gara ___.,aste,У пса довгий хвіст.,approved
+spalva,noun,A1,feather,перо,Putnam ir skaistas ___.,spalvas,У птаха гарне пір'я.,approved
+kažoks,noun,A1,"fur coat, fur, pelt",шуба; хутро,Lapsai ir silts ___.,kažoks,У лисиці тепле хутро.,approved
+ķepa,noun,A1,,лапа,Kaķim ir mīkstas ___.,ķepas,У кота м'які лапи.,approved
+būris,noun,A1,cage,клітка,Putns sēž ___.,būrī,Птах сидить у клітці.,approved
+barot,verb,A1,to feed,годувати,Es ___ suni divreiz dienā.,barāju,Я годую пса двічі на день.,approved
+lēkt,verb,A1,to jump,стрибати,Zaķis māk ātri ___.,lēkt,Заєць уміє швидко стрибати.,approved
+riet,verb,A1,to bark,гавкати,Suns skaļi ___.,rej,Пес голосно гавкає.,approved
+ņaudēt,verb,A1,to meow,нявкати,Kaķis ___.,ņaud,Кіт нявкає.,approved
+glāstīt,verb,A1,,гладити,Bērns ___ kaķi.,glāsta,Дитина гладить кота.,approved
+kopt,verb,A1,to nurse,доглядати,Zemnieks ___ dzīvniekus.,kopj,Фермер доглядає тварин.,approved
+ganīt,verb,A1,,пасти,Zēns ___ govis.,gana,Хлопчик пасе корів.,approved
+slaukt,verb,A1,to milk,доїти,Zemniece ___ govi.,slauc,Фермерка доїть корову.,approved

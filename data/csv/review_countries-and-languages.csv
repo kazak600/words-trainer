@@ -53,3 +53,45 @@ vietējais,adj,A2,,місцевий,Viņš ir ___ iedzīvotājs.,vietējais,Ві
 starptautisks,adj,A2,international,міжнародний,Tas ir ___ konkurss.,starptautisks,Це міжнародний конкурс.,approved
 daudzvalodu,adj,A2,,багатомовний,Rīga ir ___ pilsēta.,daudzvalodu,Рига — багатомовне місто.,approved
 dzimtais,adj,A2,,рідний,Rīga ir mana ___ pilsēta.,dzimtā,Рига — моє рідне місто.,approved
+Latvija,propn,A1,Latvia,Латвія,Rīga ir ___ galvaspilsēta.,Latvijas,Рига — столиця Латвії.,approved
+Igaunija,propn,A1,Estonia,Естонія,Tallina ir ___ galvaspilsēta.,Igaunijas,Таллінн — столиця Естонії.,approved
+Lietuva,propn,A1,Lithuania,Литва,Viļņa ir ___ galvaspilsēta.,Lietuvas,Вільнюс — столиця Литви.,approved
+Krievija,propn,A1,Russia,Росія,___ ir liela valsts.,Krievija,Росія — велика країна.,approved
+Ukraina,propn,A1,Ukraine,Україна,Es esmu no ___.,Ukrainas,Я з України.,approved
+Vācija,propn,A1,Germany,Німеччина,Berlīne atrodas ___.,Vācijā,Берлін розташований у Німеччині.,approved
+Anglija,propn,A1,England,Англія,Londona ir ___ galvaspilsēta.,Anglijas,Лондон — столиця Англії.,approved
+Amerika,propn,A1,"America, the Americas",Америка,Viņš dzīvo ___.,Amerikā,Він живе в Америці.,approved
+Eiropa,propn,A1,Europe,Європа,Latvija atrodas ___.,Eiropā,Латвія розташована в Європі.,approved
+valsts,noun,A1,"state, country",країна; держава,Latvija ir maza ___.,valsts,Латвія — мала країна.,approved
+pilsēta,noun,A1,"city, town",місто,Rīga ir liela ___.,pilsēta,Рига — велике місто.,approved
+valoda,noun,A1,language,мова,Kāda ___ jums patīk?,valoda,Яка мова вам подобається?,approved
+pasaule,noun,A1,world,світ,Es gribu redzēt visu ___.,pasauli,Я хочу побачити весь світ.,approved
+tautība,noun,A1,"ethnicity, nation",національність,Kāda ir jūsu ___?,tautība,Яка ваша національність?,approved
+latvietis,noun,A1,a,латиш,"Viņš ir no Latvijas, viņš ir ___.",latvietis,"Він з Латвії, він латиш.",approved
+latviete,noun,A1,a,латвійка,"Viņa ir no Latvijas, viņa ir ___.",latviete,"Вона з Латвії, вона латвійка.",approved
+ukrainis,noun,A1,"a Ukrainian man, a man born in Ukraine",українець,"Viņš ir no Ukrainas, viņš ir ___.",ukrainis,"Він з України, він українець.",approved
+ukrainiete,noun,A1,a,українка,"Viņa ir no Ukrainas, viņa ir ___.",ukrainiete,"Вона з України, вона українка.",approved
+krievs,noun,A1,"a Russian, a Russian man, a man from Russia or of Russian descent",росіянин,"Viņš ir no Krievijas, viņš ir ___.",krievs,"Він з Росії, він росіянин.",approved
+krieviete,noun,A1,a,росіянка,"Viņa ir no Krievijas, viņa ir ___.",krieviete,"Вона з Росії, вона росіянка.",approved
+vācietis,noun,A1,a,німець,"Viņš ir no Vācijas, viņš ir ___.",vācietis,"Він з Німеччини, він німець.",approved
+vāciete,noun,A1,"a German woman, a woman from Germany",німкеня,"Viņa ir no Vācijas, viņa ir ___.",vāciete,"Вона з Німеччини, вона німкеня.",approved
+anglis,noun,A1,"an Englishman, a man born in England",англієць,"Viņš ir no Anglijas, viņš ir ___.",anglis,"Він з Англії, він англієць.",approved
+angliete,noun,A1,"an Englishwoman, a woman born in England",англійка,"Viņa ir no Anglijas, viņa ir ___.",angliete,"Вона з Англії, вона англійка.",approved
+amerikānis,noun,A1,"an American man, a man born in the United States of America",американець,"Viņš ir no Amerikas, viņš ir ___.",amerikānis,"Він з Америки, він американець.",approved
+amerikāniete,noun,A1,"an American woman, a woman from the United States of America",американка,"Viņa ir no Amerikas, viņa ir ___.",amerikāniete,"Вона з Америки, вона американка.",approved
+ārzemnieks,noun,A1,a,іноземець,"Viņš nav no Latvijas, viņš ir ___.",ārzemnieks,"Він не з Латвії, він іноземець.",approved
+ārzemniece,noun,A1,a,іноземка,"Viņa nav no Latvijas, viņa ir ___.",ārzemniece,"Вона не з Латвії, вона іноземка.",approved
+karogs,noun,A1,"banner, flag",прапор,Latvijas ___ ir sarkanbaltsarkans.,karogs,Прапор Латвії червоно-біло-червоний.,approved
+galvaspilsēta,noun,A1,capital city,столиця,Madride ir Spānijas ___.,galvaspilsēta,Мадрид — столиця Іспанії.,approved
+iedzīvotājs,noun,A1,"inhabitant, resident",мешканець,Rīgā dzīvo daudz ___.,iedzīvotāju,У Ризі живе багато мешканців.,approved
+latviešu valoda,phrase,A1,Latvian language,латиська мова,Es mācos ___.,latviešu valodu,Я вчу латиську мову.,approved
+angļu valoda,phrase,A1,English language,англійська мова,Viņa runā ___.,angļu valodā,Вона розмовляє англійською мовою.,approved
+krievu valoda,phrase,A1,Russian language,російська мова,Viņš mācās ___ skolā.,krievu valodu,Він вивчає російську мову в школі.,approved
+ukraiņu valoda,phrase,A1,Ukrainian language,українська мова,Mana dzimtā valoda ir ___.,ukraiņu valoda,Моя рідна мова — українська.,approved
+vācu valoda,phrase,A1,German language,німецька мова,Es zinu arī ___.,vācu valodu,Я знаю також німецьку мову.,approved
+zināt,verb,A1,second-person plural present indicative of zināt,знати,Es labi ___ šo pilsētu.,zinu,Я добре знаю це місто.,approved
+latviski,adv,A1,in Latvian; adverbial form of latvisks,латиською,Latvijā runā ___.,latviski,У Латвії розмовляють латиською.,approved
+angliski,adv,A1,"English, in English; adverbial form of anglisks",англійською,Londonā runā ___.,angliski,У Лондоні розмовляють англійською.,approved
+krieviski,adv,A1,"Russian, in Russian; adverbial form of krievisks",російською,Maskavā runā ___.,krieviski,У Москві розмовляють російською.,approved
+ukrainiski,adv,A1,"Ukrainian, in Ukrainian; adverbial form of ukrainisks",українською,Kijivā runā ___.,ukrainiski,У Києві розмовляють українською.,approved
+vāciski,adv,A1,"German, in German; adverbial form of vācisks",німецькою,Berlīnē runā ___.,vāciski,У Берліні розмовляють німецькою.,approved

@@ -1,0 +1,83 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+ēdiens,noun,A1,food prepared for consumption; meal; dish,їжа; страва,Šis ___ ir ļoti garšīgs.,ēdiens,Ця страва дуже смачна.,approved
+dzēriens,noun,A1,"drink, beverage",напій,Kādu ___ jūs vēlaties?,dzērienu,Який напій ви бажаєте?,approved
+maize,noun,A1,bread,хліб,Es nopirku svaigu ___.,maizi,Я купив свіжий хліб.,approved
+sviests,noun,A1,butter,масло,Es ieziežu maizi ar ___.,sviestu,Я намазую хліб маслом.,approved
+siers,noun,A1,cheese,сир,Man garšo ___.,siers,Мені смакує сир.,approved
+desa,noun,A1,sausage,ковбаса,Es pērku ___ un maizi.,desu,Я купую ковбасу і хліб.,approved
+gaļa,noun,A1,meat,м'ясо,Es neēdu ___.,gaļu,Я не їм м'яса.,approved
+zivs,noun,A1,fish,риба,Šodien mēs ēdam ___.,zivi,Сьогодні ми їмо рибу.,approved
+ola,noun,A1,egg,яйце,Brokastīs es ēdu vārītu ___.,olu,На сніданок я їм варене яйце.,approved
+piens,noun,A1,milk,молоко,Bērni dzer ___.,pienu,Діти п'ють молоко.,approved
+jogurts,noun,A1,,йогурт,Es ēdu ___ ar ogām.,jogurtu,Я їм йогурт з ягодами.,approved
+biezpiens,noun,A1,,сир (кисломолочний),Es ēdu ___ ar skābo krējumu.,biezpienu,Я їм сир зі сметаною.,approved
+putra,noun,A1,porridge,каша,Brokastīs es ēdu ___.,putru,На сніданок я їм кашу.,approved
+zupa,noun,A1,soup,суп,Mamma vāra ___.,zupu,Мама варить суп.,approved
+salāti,noun,A1,lettuce,салат,Es gatavoju ___.,salātus,Я готую салат.,approved
+kartupelis,noun,A1,potato,картопля,Mēs vārām ___.,kartupeļus,Ми варимо картоплю.,approved
+burkāns,noun,A1,carrot,морква,Zaķis ēd ___.,burkānu,Заєць їсть моркву.,approved
+tomāts,noun,A1,tomato,помідор,Salātos ir svaigs ___.,tomāts,У салаті свіжий помідор.,approved
+gurķis,noun,A1,cucumber,огірок,Es pievienoju salātiem ___.,gurķi,Я додаю до салату огірок.,approved
+sīpols,noun,A1,onion,цибуля,Es sagriezu ___.,sīpolu,Я нарізав цибулю.,approved
+ķiploks,noun,A1,garlic,часник,Zupai pievieno ___.,ķiploku,До супу додають часник.,approved
+kāposti,noun,A1,cabbage,капуста,Mēs gatavojam zupu ar ___.,kāpostiem,Ми готуємо суп з капустою.,approved
+ābols,noun,A1,apple fruit,яблуко,Es ēdu sulīgu ___.,ābolu,Я їм соковите яблуко.,approved
+banāns,noun,A1,banana tree,банан,Bērns ēd ___.,banānu,Дитина їсть банан.,approved
+apelsīns,noun,A1,orange,апельсин,Es dzeru ___ sulu.,apelsīnu,Я п'ю апельсиновий сік.,approved
+citrons,noun,A1,lemon tree,лимон,Tējā es pievienoju ___.,citronu,У чай я додаю лимон.,approved
+bumbieris,noun,A1,pear fruit,груша,Šis ___ ir ļoti salds.,bumbieris,Ця груша дуже солодка.,approved
+zemene,noun,A1,strawberry,полуниця,Vasarā mēs ēdam ___.,zemenes,Влітку ми їмо полуницю.,approved
+ķirsis,noun,A1,cherry tree,вишня; черешня,Dārzā aug ___.,ķirši,У саду ростуть вишні.,approved
+sula,noun,A1,juice,сік,Bērni dzer ābolu ___.,sulu,Діти п'ють яблучний сік.,approved
+ūdens,noun,A1,water,вода,"Lūdzu, glāzi ___.",ūdens,"Будь ласка, склянку води.",approved
+tēja,noun,A1,tea plant,чай,Es dzeru zaļo ___.,tēju,Я п'ю зелений чай.,approved
+kafija,noun,A1,coffee,кава,No rīta es dzeru ___.,kafiju,Зранку я п'ю каву.,approved
+limonāde,noun,A1,,лимонад,Bērni grib ___.,limonādi,Діти хочуть лимонаду.,approved
+alus,noun,A1,beer,пиво,Viņš dzer ___.,alu,Він п'є пиво.,approved
+vīns,noun,A1,wine,вино,Es gribu glāzi ___.,vīna,Я хочу склянку вина.,approved
+cukurs,noun,A1,sugar,цукор,Kafijā es nelieku ___.,cukuru,У каву я не кладу цукор.,approved
+sāls,noun,A1,salt,сіль,Zupai trūkst ___.,sāls,У супі бракує солі.,approved
+pipari,noun,A1,pepper,перець,Pievienojiet nedaudz ___.,piparu,Додайте трохи перцю.,approved
+eļļa,noun,A1,oil,олія,Es cepu ar ___.,eļļu,Я смажу на олії.,approved
+medus,noun,A1,honey,мед,Tēja ar ___ ir garšīga.,medu,Чай з медом смачний.,approved
+kūka,noun,A1,cake,торт; пиріг,Mamma cepa garšīgu ___.,kūku,Мама спекла смачний торт.,approved
+cepums,noun,A1,"something roasted, fried, baked",печиво,Es ēdu ___ ar tēju.,cepumu,Я їм печиво з чаєм.,approved
+saldējums,noun,A1,ice,морозиво,Vasarā mēs ēdam ___.,saldējumu,Влітку ми їмо морозиво.,approved
+šokolāde,noun,A1,chocolate,шоколад,Bērniem patīk ___.,šokolāde,Дітям подобається шоколад.,approved
+rīsi,noun,A1,rice,рис,Pie gaļas mēs ēdam ___.,rīsus,До м'яса ми їмо рис.,approved
+makaroni,noun,A1,macaroni,макарони,Šodien mēs ēdam ___.,makaronus,Сьогодні ми їмо макарони.,approved
+pica,noun,A1,pizza,піца,Mēs pasūtījām ___.,picu,Ми замовили піцу.,approved
+sviestmaize,noun,A1,open sandwich,бутерброд,Es ēdu ___ ar sieru.,sviestmaizi,Я їм бутерброд з сиром.,approved
+šķīvis,noun,A1,"dish, plate",тарілка,Uz ___ ir zupa.,šķīvja,На тарілці суп.,approved
+glāze,noun,A1,glass,склянка,Es gribu ___ ūdens.,glāzi,Я хочу склянку води.,approved
+krūze,noun,A1,mug,кухоль,Man patīk liela ___ tējas.,krūze,Мені подобається великий кухоль чаю.,approved
+karote,noun,A1,spoon,ложка,Zupu ēd ar ___.,karoti,Суп їдять ложкою.,approved
+dakšiņa,noun,A1,diminutive of dakša,виделка,Gaļu ēd ar ___.,dakšiņu,М'ясо їдять виделкою.,approved
+nazis,noun,A1,knife,ніж,Sagrieziet maizi ar ___.,nazi,Наріжте хліб ножем.,approved
+ēdienkarte,noun,A1,menu,меню,"Lūdzu, ___.",ēdienkarti,"Будь ласка, меню.",approved
+rēķins,noun,A1,account,рахунок,"Lūdzu, ___.",rēķinu,"Будь ласка, рахунок.",approved
+ēdnīca,noun,A1,,їдальня,Pusdienās mēs ejam uz ___.,ēdnīcu,На обід ми йдемо до їдальні.,approved
+oficiants,noun,A1,waiter,офіціант,___ atnes ēdienkarti.,Oficiants,Офіціант приносить меню.,approved
+dzeramnauda,noun,A1,,чайові,Mēs atstājām ___.,dzeramnaudu,Ми залишили чайові.,approved
+vegetārietis,noun,A1,,вегетаріанець,"Viņš neēd gaļu, viņš ir ___.",vegetārietis,"Він не їсть м'яса, він вегетаріанець.",approved
+labu apetīti,phrase,A1,"enjoy your meal, bon appétit",смачного,Visiem ___!,labu apetīti,Усім смачного!,approved
+cept,verb,A1,to fry,пекти; смажити,Mamma ___ pīrāgus.,cep,Мама пече пиріжки.,approved
+vārīt,verb,A1,to boil,варити,Es ___ kartupeļus.,vāru,Я варю картоплю.,approved
+griezt,verb,A1,"to turn, to spin",різати,Es ___ maizi ar nazi.,griežu,Я ріжу хліб ножем.,approved
+ieliet,verb,A1,to pour in,налити,"Lūdzu, ___ man tēju.",ielejiet,"Будь ласка, налийте мені чаю.",approved
+nogaršot,verb,A1,,скуштувати,Es gribu ___ šo zupu.,nogaršot,Я хочу скуштувати цей суп.,approved
+garšot,verb,A1,"to taste good, to please",смакувати,Šī zupa ļoti ___.,garšo,Цей суп дуже смачний.,approved
+pasūtīt,verb,A1,,замовити,Es gribu ___ kafiju.,pasūtīt,Я хочу замовити каву.,approved
+ieteikt,verb,A1,"to recommend, to advise",порадити,Ko jūs mums ___?,iesakāt,Що ви нам порадите?,approved
+vēlēties,verb,A1,to wish,бажати,Ko jūs ___ dzert?,vēlaties,Що ви бажаєте пити?,approved
+pietikt,verb,A1,"to suffice, to be enough",вистачати,Man ___ ar vienu gabalu.,pietiek,Мені вистачає одного шматка.,approved
+garšīgs,adj,A1,tasty,смачний,Šī zupa ir ļoti ___.,garšīga,Цей суп дуже смачний.,approved
+salds,adj,A1,sweet,солодкий,Cukurs ir ___.,salds,Цукор солодкий.,approved
+sāļš,adj,A1,salty,солоний,Jūras ūdens ir ___.,sāļš,Морська вода солона.,approved
+skābs,adj,A1,sour,кислий,Citrons ir ļoti ___.,skābs,Лимон дуже кислий.,approved
+rūgts,adj,A1,bittered; indefinite past passive participle of rūgt,гіркий,Šī kafija ir ļoti ___.,rūgta,Ця кава дуже гірка.,approved
+ass,adj,A1,sharp,гострий,Šis ēdiens ir pārāk ___.,ass,Ця страва занадто гостра.,approved
+vārīts,adj,A1,"boiled, cooked; indefinite past passive participle of vārīt",варений,Es ēdu ___ kartupeļus.,vārītus,Я їм варену картоплю.,approved
+cepts,adj,A1,"roasted, fried, baked; indefinite past passive participle of cept",смажений; запечений,Man garšo ___ zivs.,cepta,Мені смакує смажена риба.,approved
+izsalcis,adj,A1,"hungry, famished, starving, starved; indefinite past active participle of izsalkt",голодний,"Es neesmu ēdis visu dienu, es esmu ļoti ___.",izsalcis,"Я не їв цілий день, я дуже голодний.",approved
+izslāpis,adj,A1,,спраглий,"Ir karsts, es esmu ļoti ___.",izslāpis,"Спекотно, я дуже хочу пити.",approved

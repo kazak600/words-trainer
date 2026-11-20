@@ -1,0 +1,55 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+diena,noun,A1,day,день,Šī ir jauka ___.,diena,Це чудовий день.,approved
+rīts,noun,A1,morning,ранок,Es celos katru ___.,rītu,Я прокидаюся щоранку.,approved
+vakars,noun,A1,evening,вечір,Es mīlu mierīgu ___.,vakaru,Я люблю спокійний вечір.,approved
+nakts,noun,A1,night,ніч,Šī ___ bija ļoti auksta.,nakts,Ця ніч була дуже холодною.,approved
+brokastis,noun,A1,breakfast,сніданок,Man garšo ___.,brokastis,Мені смакує сніданок.,approved
+pusdienas,noun,A1,lunch,обід,Mēs ēdam ___ pulksten vienpadsmitos.,pusdienas,Ми обідаємо об одинадцятій.,approved
+vakariņas,noun,A1,dinner,вечеря,Mēs ēdam ___ kopā.,vakariņas,Ми вечеряємо разом.,approved
+darbs,noun,A1,work,робота,Mans ___ sākas astoņos.,darbs,Моя робота починається о восьмій.,approved
+duša,noun,A1,shower,душ,Es eju ___.,dušā,Я йду в душ.,approved
+zobu birste,noun,A1,,зубна щітка,Man vajag jaunu ___.,zobu birsti,Мені потрібна нова зубна щітка.,approved
+ziepes,noun,A1,soap,мило,Rokas jāmazgā ar ___.,ziepēm,Руки треба мити милом.,approved
+dvielis,noun,A1,towel,рушник,"Dod man ___, lūdzu.",dvieli,"Дай мені рушник, будь ласка.",approved
+pulkstenis,noun,A1,"clock, watch",годинник,Man ir jauns ___.,pulkstenis,У мене новий годинник.,approved
+modinātājs,noun,A1,waker,будильник,___ zvana septiņos.,Modinātājs,Будильник дзвонить о сьомій.,approved
+veļa,noun,A1,"linens, cloth, towel",білизна; прання,Es mazgāju ___.,veļu,Я перу білизну.,approved
+veļasmašīna,noun,A1,,пральна машина,___ ir vannasistabā.,Veļasmašīna,Пральна машина у ванній кімнаті.,approved
+atpūta,noun,A1,"rest, break",відпочинок,Pēc darba man vajag ___.,atpūtu,Після роботи мені потрібен відпочинок.,approved
+rutīna,noun,A1,,рутина,Katru dienu ir viena un tā pati ___.,rutīna,Щодня одна й та сама рутина.,approved
+brīvdiena,noun,A1,Holiday,вихідний,Svētdiena ir ___.,brīvdiena,Неділя — вихідний.,approved
+mājas darbi,phrase,A1,,домашнє завдання,Bērni dara ___.,mājas darbus,Діти роблять домашнє завдання.,approved
+iet gulēt,phrase,A1,,лягати спати,Es parasti ___ vienpadsmitos.,eju gulēt,Я зазвичай лягаю спати об одинадцятій.,approved
+katru dienu,phrase,A1,,щодня,Es mācos latviešu valodu ___.,katru dienu,Я вчу латиську мову щодня.,approved
+pēc tam,phrase,A1,,потім,"Vispirms brokastis, ___ darbs.",pēc tam,"Спочатку сніданок, потім робота.",approved
+celties,verb,A1,,вставати,Es ___ septiņos.,ceļos,Я встаю о сьомій.,approved
+mosties,verb,A1,,прокидатися,Es ___ ļoti agri.,mostos,Я прокидаюся дуже рано.,approved
+mazgāties,verb,A1,,митися; вмиватися,Es ___ katru rītu.,mazgājos,Я вмиваюся щоранку.,approved
+ģērbties,verb,A1,,одягатися,Bērns jau māk pats ___.,ģērbties,Дитина вже вміє сама одягатися.,approved
+brokastot,verb,A1,to breakfast,снідати,Mēs ___ virtuvē.,brokastojam,Ми снідаємо на кухні.,approved
+pusdienot,verb,A1,,обідати,Es ___ darbā.,pusdienoju,Я обідаю на роботі.,approved
+vakariņot,verb,A1,,вечеряти,Mēs ___ septiņos.,vakariņojam,Ми вечеряємо о сьомій.,approved
+ēst,verb,A1,to eat,їсти,Es gribu ___.,ēst,Я хочу їсти.,approved
+dzert,verb,A1,to drink,пити,Es ___ tēju.,dzeru,Я п'ю чай.,approved
+skatīties,verb,A1,to look at,дивитися,Es gribu ___ filmu.,skatīties,Я хочу подивитися фільм.,approved
+klausīties,verb,A1,to listen in,слухати,Es mīlu ___ mūziku.,klausīties,Я люблю слухати музику.,approved
+lasīt,verb,A1,to read,читати,Vakarā es ___ grāmatu.,lasu,Увечері я читаю книжку.,approved
+rakstīt,verb,A1,to write,писати,Es ___ vēstuli draugam.,rakstu,Я пишу листа другові.,approved
+iepirkties,verb,A1,"to shop, to go shopping",робити покупки,Sestdien mēs ___.,iepērkamies,У суботу ми ходимо за покупками.,approved
+aizmigt,verb,A1,"to fall asleep, to drop off",заснути,Bērns ātri ___.,aizmiga,Дитина швидко заснула.,approved
+pamosties,verb,A1,to wake up,прокинутися,Šorīt es ___ vēlu.,pamodos,Сьогодні вранці я прокинувся пізно.,approved
+zvanīt,verb,A1,,телефонувати,Es ___ mammai katru dienu.,zvanu,Я телефоную мамі щодня.,approved
+piezvanīt,verb,A1,,зателефонувати,Es tev rīt ___.,piezvanīšu,Я тобі завтра зателефоную.,approved
+satikt,verb,A1,,зустріти,Es gribu ___ draugu.,satikt,Я хочу зустріти друга.,approved
+sākt,verb,A1,"to begin, to start",починати,Es gribu ___ jaunu darbu.,sākt,Я хочу почати нову роботу.,approved
+beigt,verb,A1,to finish,закінчувати,Es ___ darbu piecos.,beidzu,Я закінчую роботу о п'ятій.,approved
+gludināt,verb,A1,,прасувати,Mamma ___ kreklus.,gludina,Мама прасує сорочки.,approved
+agri,adv,A1,early; adverbial form of agrs,рано,Es celos ļoti ___.,agri,Я встаю дуже рано.,approved
+vēlu,adv,A1,late; adverbial form of vēls,пізно,Vakar es gāju gulēt ļoti ___.,vēlu,Вчора я ліг спати дуже пізно.,approved
+parasti,adv,A1,"usual, normal, ordinary, usually, normally, ordinarily; adverbial form of parasts",зазвичай,___ es dzeru kafiju no rīta.,Parasti,Зазвичай я п'ю каву зранку.,approved
+bieži,adv,A1,"frequent, frequently, often; adverbial form of biežs",часто,Mēs ___ ejam uz parku.,bieži,Ми часто ходимо до парку.,approved
+reti,adv,A1,"thin, sparse, rare, thinly, sparsely, rarely; adverbial form of rets",рідко,Es ___ skatos televizoru.,reti,Я рідко дивлюся телевізор.,approved
+vienmēr,adv,A1,always; permanently; constantly; at any time,завжди,Viņš ___ ceļas agri.,vienmēr,Він завжди рано встає.,approved
+nekad,adv,A1,never,ніколи,Es ___ nekavēju.,nekad,Я ніколи не запізнююся.,approved
+dažreiz,adv,A1,sometimes,іноді,___ es ēdu pusdienas kafejnīcā.,Dažreiz,Іноді я обідаю в кафе.,approved
+vispirms,adv,A1,,спочатку,___ es tīru zobus.,Vispirms,Спочатку я чищу зуби.,approved

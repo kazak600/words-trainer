@@ -1,0 +1,56 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+ciems,noun,A1,"village, settlement",село,Mana vecmāmiņa dzīvo ___.,ciemā,Моя бабуся живе в селі.,approved
+lauki,noun,A1,field,сільська місцевість; поля,Vasarā mēs braucam uz ___.,laukiem,Влітку ми їдемо на село.,approved
+laukums,noun,A1,area,площа,Pilsētas centrā ir liels ___.,laukums,У центрі міста є велика площа.,approved
+iela,noun,A1,"street, road",вулиця,Es dzīvoju Brīvības ___.,ielā,Я живу на вулиці Брівібас.,approved
+ceļš,noun,A1,"road, way",дорога; шлях,Šis ___ ved uz pilsētu.,ceļš,Ця дорога веде до міста.,approved
+tilts,noun,A1,bridge,міст,Pār upi ir vecs ___.,tilts,Через річку є старий міст.,approved
+parks,noun,A1,park,парк,Mēs pastaigājamies ___.,parkā,Ми гуляємо в парку.,approved
+centrs,noun,A1,center,центр,Mēs dzīvojam pilsētas ___.,centrā,Ми живемо в центрі міста.,approved
+rajons,noun,A1,,район,Šis ___ ir ļoti kluss.,rajons,Цей район дуже тихий.,approved
+apkaime,noun,A1,"neighbourhood, vicinity, environs, surrounding area",околиця; квартал,Mūsu ___ ir ļoti draudzīga.,apkaime,Наш квартал дуже дружній.,approved
+veikals,noun,A1,"shop, store",магазин,Netālu ir liels ___.,veikals,Неподалік є великий магазин.,approved
+kafejnīca,noun,A1,coffeehouse,кафе,Mēs tiekamies ___.,kafejnīcā,Ми зустрічаємося в кафе.,approved
+restorāns,noun,A1,restaurant,ресторан,Šodien mēs ēdam ___.,restorānā,Сьогодні ми їмо в ресторані.,approved
+bibliotēka,noun,A1,library,бібліотека,Es lasu grāmatas ___.,bibliotēkā,Я читаю книжки в бібліотеці.,approved
+skola,noun,A1,school,школа,Mans dēls iet uz ___.,skolu,Мій син ходить до школи.,approved
+slimnīca,noun,A1,hospital,лікарня,Ārsts strādā ___.,slimnīcā,Лікар працює в лікарні.,approved
+aptieka,noun,A1,pharmacy,аптека,Zāles var nopirkt ___.,aptiekā,Ліки можна купити в аптеці.,approved
+pasts,noun,A1,"mail, post",пошта,Vēstuli var nosūtīt ___.,pastā,Листа можна відправити на пошті.,approved
+banka,noun,A1,bank,банк,Es eju uz ___.,banku,Я йду до банку.,approved
+policija,noun,A1,police,поліція,Zvaniet ___!,policijai,Телефонуйте в поліцію!,approved
+baznīca,noun,A1,church,церква,Svētdien mēs ejam uz ___.,baznīcu,У неділю ми йдемо до церкви.,approved
+muzejs,noun,A1,museum,музей,Mēs apskatām izstādi ___.,muzejā,Ми оглядаємо виставку в музеї.,approved
+kino,noun,A1,,кінотеатр; кіно,Šovakar mēs ejam uz ___.,kino,Сьогодні ввечері ми йдемо в кіно.,approved
+teātris,noun,A1,theater,театр,Viņa strādā ___.,teātrī,Вона працює в театрі.,approved
+stadions,noun,A1,stadium,стадіон,Futbola spēle notiek ___.,stadionā,Футбольний матч відбувається на стадіоні.,approved
+dārzs,noun,A1,garden,сад; город,Mums ir liels ___.,dārzs,У нас великий сад.,approved
+mežs,noun,A1,forest,ліс,Rudenī mēs ejam uz ___.,mežu,Восени ми ходимо до лісу.,approved
+lauks,noun,A1,field,поле,Uz ___ aug kvieši.,lauka,На полі росте пшениця.,approved
+upe,noun,A1,river,річка,Daugava ir liela ___.,upe,Даугава — велика річка.,approved
+ezers,noun,A1,lake,озеро,Vasarā mēs peldam ___.,ezerā,Влітку ми плаваємо в озері.,approved
+pagalms,noun,A1,"courtyard, court, yard",двір,Bērni spēlējas ___.,pagalmā,Діти граються у дворі.,approved
+zemnieks,noun,A1,peasant,фермер; селянин,___ strādā laukā.,Zemnieks,Фермер працює в полі.,approved
+saimniecība,noun,A1,economy,господарство,Viņiem ir liela ___.,saimniecība,У них велике господарство.,approved
+govs,noun,A1,cattle,корова,___ dod pienu.,Govs,Корова дає молоко.,approved
+zirgs,noun,A1,horse,кінь,Šis ___ ir ļoti ātrs.,zirgs,Цей кінь дуже швидкий.,approved
+cūka,noun,A1,pig,свиня,Saimniecībā ir viena ___.,cūka,У господарстві є одна свиня.,approved
+vista,noun,A1,hen,курка,___ dēj olas.,Vista,Курка несе яйця.,approved
+traktors,noun,A1,,трактор,Zemnieks brauc ar ___.,traktoru,Фермер їде на тракторі.,approved
+tirgus,noun,A1,"market, marketplace",ринок,Dārzeņus es pērku ___.,tirgū,Овочі я купую на ринку.,approved
+stūris,noun,A1,,ріг; куток,Veikals ir uz ielas ___.,stūra,Магазин на розі вулиці.,approved
+krustojums,noun,A1,,перехрестя,Pagriezieties pa labi pie ___.,krustojuma,Поверніть праворуч на перехресті.,approved
+luksofors,noun,A1,traffic light,світлофор,Pie ___ jāapstājas.,luksofora,Біля світлофора треба зупинитися.,approved
+atrasties,verb,A1,to locate,знаходитися,Muzejs ___ pilsētas centrā.,atrodas,Музей знаходиться в центрі міста.,approved
+atpūsties,verb,A1,"to rest, to relax",відпочивати,Vasarā mēs gribam ___ laukos.,atpūsties,Влітку ми хочемо відпочивати на селі.,approved
+pastaigāties,verb,A1,,гуляти,Vakaros mēs mīlam ___ parkā.,pastaigāties,Увечері ми любимо гуляти в парку.,approved
+liels,adj,A1,"big, large",великий,Mūsu pilsēta nav ļoti ___.,liela,Наше місто не дуже велике.,approved
+mazs,adj,A1,"small, little",маленький,Mēs dzīvojam ___ ciemā.,mazā,Ми живемо в маленькому селі.,approved
+vecs,adj,A1,old,старий,Šī baznīca ir ļoti ___.,veca,Ця церква дуже стара.,approved
+jauns,adj,A1,"having relatively low age, young, new",новий; молодий,Netālu ir ___ stadions.,jauns,Неподалік новий стадіон.,approved
+kluss,adj,A1,"soft, quiet, silent",тихий,Laukos ir ļoti ___.,kluss,У селі дуже тихо.,approved
+skaļš,adj,A1,loud,гучний,Šī iela ir ļoti ___.,skaļa,Ця вулиця дуже гучна.,approved
+tīrs,adj,A1,clean,чистий,Šis parks ir ļoti ___.,tīrs,Цей парк дуже чистий.,approved
+skaists,adj,A1,beautiful,гарний,Mūsu pilsēta ir ļoti ___.,skaista,Наше місто дуже гарне.,approved
+tuvs,adj,A1,"close, near, nearby",близький,Mana skola ir ļoti ___.,tuva,Моя школа дуже близько.,approved
+tāls,adj,A1,"far, far away, distant",далекий,Viņš dzīvo ___ ciemā.,tālā,Він живе в далекому селі.,approved

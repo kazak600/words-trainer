@@ -1,0 +1,63 @@
+lemma,pos,level,english,ukrainian,sentence,answer,sentence_uk,status
+transports,noun,A1,,транспорт,Sabiedriskais ___ ir lēts.,transports,Громадський транспорт дешевий.,approved
+autobuss,noun,A1,bus,автобус,Es braucu uz darbu ar ___.,autobusu,Я їжджу на роботу автобусом.,approved
+trolejbuss,noun,A1,,тролейбус,Šis ___ iet uz centru.,trolejbuss,Цей тролейбус їде до центру.,approved
+tramvajs,noun,A1,tram,трамвай,Mēs gaidām ___.,tramvaju,Ми чекаємо трамвай.,approved
+vilciens,noun,A1,"one-off event of dragging, pulling, drawing, or its result",поїзд,___ atiet pulksten desmitos.,Vilciens,Поїзд відправляється о десятій.,approved
+lidmašīna,noun,A1,airplane,літак,___ nolaižas lidostā.,Lidmašīna,Літак приземляється в аеропорту.,approved
+taksometrs,noun,A1,,таксі,Es izsaucu ___.,taksometru,Я викликав таксі.,approved
+taksis,noun,A1,,таксі,Mēs braucam ar ___.,taksi,Ми їдемо на таксі.,approved
+automašīna,noun,A1,car,автомобіль,Mums ir jauna ___.,automašīna,У нас новий автомобіль.,approved
+auto,noun,A1,car,авто; машина,Mans ___ ir sarkans.,auto,Моя машина червона.,approved
+velosipēds,noun,A1,"bicycle, bike",велосипед,Es braucu ar ___.,velosipēdu,Я їжджу на велосипеді.,approved
+motocikls,noun,A1,motorcycle,мотоцикл,Viņam ir liels ___.,motocikls,У нього великий мотоцикл.,approved
+kuģis,noun,A1,ship,корабель,___ iebrauc ostā.,Kuģis,Корабель заходить до порту.,approved
+laiva,noun,A1,boat,човен,Mēs peldam ar ___.,laivu,Ми пливемо на човні.,approved
+metro,noun,A1,,метро,Rīgā nav ___.,metro,У Ризі немає метро.,approved
+pietura,noun,A1,stop,зупинка,Nākamā ___ ir centrs.,pietura,Наступна зупинка — центр.,approved
+stacija,noun,A1,station,станція; вокзал,Kur ir dzelzceļa ___?,stacija,Де залізнична станція?,approved
+lidosta,noun,A1,"airport, airfield",аеропорт,Mēs braucam uz ___.,lidostu,Ми їдемо до аеропорту.,approved
+osta,noun,A1,"port, harbor",порт,Kuģi stāv ___.,ostā,Кораблі стоять у порту.,approved
+biļete,noun,A1,ticket,квиток,Es gribu nopirkt ___.,biļeti,Я хочу купити квиток.,approved
+maršruts,noun,A1,route,маршрут,Kāds ir jūsu ___?,maršruts,Який ваш маршрут?,approved
+stāvvieta,noun,A1,,стоянка; парковка,Auto stāv ___.,stāvvietā,Автомобіль стоїть на стоянці.,approved
+degviela,noun,A1,,паливо,___ kļūst dārgāka.,Degviela,Паливо дорожчає.,approved
+šoferis,noun,A1,chauffeur,водій,___ brauc ļoti uzmanīgi.,Šoferis,Водій їде дуже обережно.,approved
+pasažieris,noun,A1,passenger,пасажир,Autobusā ir daudz ___.,pasažieru,В автобусі багато пасажирів.,approved
+vadītājs,noun,A1,"leader, head, chief",водій; керівник,Autobusa ___ ir laipns.,vadītājs,Водій автобуса привітний.,approved
+kontrolieris,noun,A1,,контролер,___ pārbauda biļetes.,Kontrolieris,Контролер перевіряє квитки.,approved
+grafiks,noun,A1,,розклад; графік,Autobusu ___ ir pieturā.,grafiks,Розклад автобусів на зупинці.,approved
+reiss,noun,A1,,рейс,Šis ___ iet katru dienu.,reiss,Цей рейс курсує щодня.,approved
+perons,noun,A1,,перон,Vilciens stāv pie otrā ___.,perona,Поїзд стоїть біля другого перону.,approved
+vagons,noun,A1,,вагон,Mans ___ ir trešais.,vagons,Мій вагон третій.,approved
+virziens,noun,A1,direction,напрямок,Kurā ___ jāiet?,virzienā,У якому напрямку треба йти?,approved
+pa kreisi,phrase,A1,,ліворуч,Pie luksofora pagriezieties ___.,pa kreisi,На світлофорі поверніть ліворуч.,approved
+pa labi,phrase,A1,,праворуч,Aptieka ir ___.,pa labi,Аптека праворуч.,approved
+braukt,verb,A1,"to go, to ride",їхати,Mēs ___ uz Rīgu.,braucam,Ми їдемо до Риги.,approved
+staigāt,verb,A1,to walk,ходити,Bērns jau māk ___.,staigāt,Дитина вже вміє ходити.,approved
+skriet,verb,A1,to run,бігти,Es katru rītu ___ parkā.,skrienu,Я щоранку бігаю в парку.,approved
+lidot,verb,A1,to fly,літати,Putni ___ augstu.,lido,Птахи літають високо.,approved
+pārsēsties,verb,A1,,пересісти,Es gribu ___ uz citu autobusu.,pārsēsties,Я хочу пересісти на інший автобус.,approved
+nokļūt,verb,A1,,дістатися,Kā ___ līdz stacijai?,nokļūt,Як дістатися до станції?,approved
+aizbraukt,verb,A1,,поїхати,Es gribu ___ uz Liepāju.,aizbraukt,Я хочу поїхати до Лієпаї.,approved
+atbraukt,verb,A1,,приїхати,Vilciens ___ pulksten septiņos.,atbrauc,Поїзд приїжджає о сьомій.,approved
+iekāpt,verb,A1,,сісти (у транспорт),"Lūdzu, ___ autobusā.",iekāpiet,"Будь ласка, сідайте в автобус.",approved
+izkāpt,verb,A1,,вийти (з транспорту),Es ___ nākamajā pieturā.,izkāpju,Я виходжу на наступній зупинці.,approved
+nokavēt,verb,A1,,запізнитися,Es negribu ___ vilcienu.,nokavēt,Я не хочу запізнитися на поїзд.,approved
+gaidīt,verb,A1,to wait,чекати,Mēs ___ autobusu.,gaidām,Ми чекаємо автобус.,approved
+pagriezties,verb,A1,,повернути,Pie krustojuma ___ pa labi.,pagriezieties,На перехресті поверніть праворуч.,approved
+apstāties,verb,A1,to stop,зупинитися,Autobuss ___ pieturā.,apstājas,Автобус зупиняється на зупинці.,approved
+stāvēt,verb,A1,to stand,стояти,Mašīna ___ pie mājas.,stāv,Машина стоїть біля будинку.,approved
+jautāt,verb,A1,"to ask question(s), to inquire, to question",питати,"Es gribu ___, kur ir stacija.",jautāt,"Я хочу запитати, де станція.",approved
+parādīt,verb,A1,,показати,"Lūdzu, ___ man ceļu.",parādiet,"Будь ласка, покажіть мені дорогу.",approved
+atrast,verb,A1,to find,знайти,Es nevaru ___ pieturu.,atrast,Я не можу знайти зупинку.,approved
+tālu,adv,A1,"far, far away",далеко,Skola nav ___.,tālu,Школа недалеко.,approved
+tuvu,adv,A1,"near, close; adverbial form of tuvs",близько,Pietura ir ļoti ___.,tuvu,Зупинка дуже близько.,approved
+taisni,adv,A1,,прямо,Ejiet ___.,taisni,Ідіть прямо.,approved
+tālāk,adv,A1,"farther, further, more distant, more distantly; adverbial form of tālāks",далі,Ejiet ___ pa ielu.,tālāk,Ідіть далі вулицею.,approved
+atpakaļ,adv,A1,back,назад,Es gribu braukt ___.,atpakaļ,Я хочу їхати назад.,approved
+nākamais,adj,A1,,наступний,___ autobuss iet pēc desmit minūtēm.,Nākamais,Наступний автобус їде за десять хвилин.,approved
+pēdējais,adj,A1,,останній,Tas bija ___ vilciens.,pēdējais,Це був останній поїзд.,approved
+pirmais,adj,A1,first,перший,Tas ir mans ___ brauciens.,pirmais,Це моя перша поїздка.,approved
+kreisais,adj,A1,"left, left-side",лівий,Tā ir ___ puse.,kreisā,Це ліва сторона.,approved
+labais,adj,A1,good,правий,Mana ___ roka ir slima.,labā,Моя права рука хвора.,approved

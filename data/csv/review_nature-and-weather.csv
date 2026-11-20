@@ -40,3 +40,39 @@ ilgtspējīgs,adj,B1,,сталий,Viņi izmanto ___ enerģiju.,ilgtspējīgu,В
 ekoloģisks,adj,B1,ecological,екологічний,Viņa pērk ___ produktus.,ekoloģiskus,Вона купує екологічні продукти.,approved
 piesārņots,adj,B1,,забруднений,Upe ir ļoti ___.,piesārņota,Річка дуже забруднена.,approved
 vētrains,adj,B1,,бурхливий,Šodien ir ___ laiks ar lietu.,vētrains,Сьогодні бурхлива погода з дощем.,approved
+laikapstākļi,noun,A1,,погода,Kādi šodien ir ___?,laikapstākļi,Яка сьогодні погода?,approved
+saule,noun,A1,sun,сонце,___ spīd spoži.,Saule,Сонце світить яскраво.,approved
+lietus,noun,A1,"rain, shower; rainwater",дощ,Ārā līst ___.,lietus,Надворі йде дощ.,approved
+sniegs,noun,A1,snow,сніг,Ziemā ir daudz ___.,sniega,Взимку багато снігу.,approved
+vējš,noun,A1,wind,вітер,Šodien ir stiprs ___.,vējš,Сьогодні сильний вітер.,approved
+mākonis,noun,A1,cloud,хмара,Debesīs ir viens ___.,mākonis,На небі одна хмара.,approved
+debesis,noun,A1,sky,небо,___ ir zilas.,Debesis,Небо блакитне.,approved
+grāds,noun,A1,,градус,Ārā ir divdesmit ___.,grādi,Надворі двадцять градусів.,approved
+rudens,noun,A1,autumn,осінь,___ lapas kļūst dzeltenas.,Rudenī,Восени листя стає жовтим.,approved
+ziema,noun,A1,winter,зима,___ ir auksts.,Ziemā,Взимку холодно.,approved
+pavasaris,noun,A1,spring,весна,___ kokiem plaukst lapas.,Pavasarī,Навесні на деревах з'являється листя.,approved
+vasara,noun,A1,summer,літо,___ ir silts.,Vasarā,Влітку тепло.,approved
+gadalaiks,noun,A1,season of the year,пора року,Rudens ir mans mīļākais ___.,gadalaiks,Осінь — моя улюблена пора року.,approved
+migla,noun,A1,"fog, mist, haze",туман,Rītā ir bieza ___.,migla,Вранці густий туман.,approved
+pērkons,noun,A1,thunder,грім,Es dzirdu ___.,pērkonu,Я чую грім.,approved
+ledus,noun,A1,ice,лід,Ezerā ir ___.,ledus,На озері лід.,approved
+daba,noun,A1,nature,природа,Es mīlu ___.,dabu,Я люблю природу.,approved
+koks,noun,A1,tree,дерево,Pagalmā aug liels ___.,koks,У дворі росте велике дерево.,approved
+zieds,noun,A1,blossom; flower,квітка,Šis ___ ir ļoti skaists.,zieds,Ця квітка дуже гарна.,approved
+kalns,noun,A1,"mountain, hill",гора,Mēs uzkāpām augstā ___.,kalnā,Ми піднялися на високу гору.,approved
+zāle,noun,A1,grass,трава,Bērni sēž ___.,zālē,Діти сидять на траві.,approved
+putns,noun,A1,bird,птах,___ dzied kokā.,Putns,Птах співає на дереві.,approved
+karsts,adj,A1,hot,гарячий; спекотний,Vasarā ir ļoti ___.,karsts,Влітку дуже спекотно.,approved
+vēss,adj,A1,"cool, cold",прохолодний,Rudenī ir ___.,vēss,Восени прохолодно.,approved
+saulains,adj,A1,sunny,сонячний,Šodien ir ___ diena.,saulaina,Сьогодні сонячний день.,approved
+mākoņains,adj,A1,cloudy,хмарний,Šodien ir ___ laiks.,mākoņains,Сьогодні хмарна погода.,approved
+lietains,adj,A1,rainy,дощовий,Rudens ir ___.,lietains,Осінь дощова.,approved
+vējains,adj,A1,windy,вітряний,Šodien ir ļoti ___.,vējains,Сьогодні дуже вітряно.,approved
+slapjš,adj,A1,wet,мокрий,Mana jaka ir ___.,slapja,Моя куртка мокра.,approved
+sauss,adj,A1,dry,сухий,Šodien gaiss ir ļoti ___.,sauss,Сьогодні повітря дуже сухе.,approved
+slikts,adj,A1,bad,поганий,Šodien ir ___ laiks.,slikts,Сьогодні погана погода.,approved
+līt,verb,A1,to flow,іти (про дощ),Ārā sāka ___.,līt,Надворі почався дощ.,approved
+snigt,verb,A1,to snow,іти (про сніг),Ziemā bieži ___.,snieg,Взимку часто йде сніг.,approved
+pūst,verb,A1,to blow,дути,Šodien stipri ___ vējš.,pūš,Сьогодні сильно дує вітер.,approved
+spīdēt,verb,A1,to shine,світити,Mēness ___ naktī.,spīd,Місяць світить уночі.,approved
+sasalt,verb,A1,,замерзнути,Ezers ___ decembrī.,sasalst,Озеро замерзає в грудні.,approved
